@@ -2724,7 +2724,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.0.0';
+        const APP_VERSION = '4.0.1';
         
         // 強制清除舊快取
         async function clearOldCaches() {
@@ -3919,7 +3919,7 @@
                 ];
 
                 // Display result with sources
-                displayResult(gameName, platformDisplayName, content, groundingChunks);
+                displayResult(gameName, platformDisplayName, content, groundingChunks, question);
                 showToast('✅ 攻略生成完成！（已參考網路資料）');
 
             } catch (error) {
@@ -4208,7 +4208,7 @@ ${followupQuestion}
         }
 
         // Display Result with sources
-        function displayResult(gameName, platform, content, groundingChunks = []) {
+        function displayResult(gameName, platform, content, groundingChunks = [], questionText = '') {
             const resultSection = document.getElementById('resultSection');
             const resultTitle = document.getElementById('resultTitle');
             const resultPlatform = document.getElementById('resultPlatform');
@@ -4253,14 +4253,14 @@ ${followupQuestion}
             
             // 儲存當前攻略資料供收藏使用
             currentGuideData = {
-                question: question,
+                question: questionText,
                 content: html
             };
             
             // 重置收藏按鈕狀態
             const bookmarkBtn = document.getElementById('bookmarkBtn');
             const isBookmarked = bookmarks.some(b => 
-                b.gameName === currentGameName && b.question === question
+                b.gameName === currentGameName && b.question === questionText
             );
             if (isBookmarked) {
                 bookmarkBtn.classList.add('bookmarked');
