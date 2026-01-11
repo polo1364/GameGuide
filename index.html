@@ -2979,10 +2979,19 @@
             }
             
             list.innerHTML = bookmarks.map((bookmark, index) => {
-                const question = bookmark.question || '';
-                const questionStr = typeof question === 'string' ? question : String(question);
-                const gameName = bookmark.gameName || '未知遊戲';
-                const timestamp = bookmark.timestamp || new Date().toISOString();
+                // 防護性檢查 - 確保所有欄位都是正確的類型
+                let questionText = '';
+                try {
+                    if (bookmark && bookmark.question) {
+                        questionText = String(bookmark.question);
+                    }
+                } catch (e) {
+                    questionText = '';
+                }
+                
+                const gameName = (bookmark && bookmark.gameName) ? String(bookmark.gameName) : '未知遊戲';
+                const timestamp = (bookmark && bookmark.timestamp) ? bookmark.timestamp : new Date().toISOString();
+                const questionPreview = questionText.length > 30 ? questionText.slice(0, 30) + '...' : questionText;
                 
                 return `
                     <li class="bookmark-item" onclick="loadBookmark(${index})">
@@ -2991,7 +3000,7 @@
                             <button class="bookmark-delete" onclick="event.stopPropagation(); deleteBookmark(${index})">✕</button>
                         </div>
                         <div class="bookmark-meta">
-                            📝 ${questionStr.substring(0, 30)}${questionStr.length > 30 ? '...' : ''}
+                            📝 ${questionPreview || '無問題描述'}
                         </div>
                         <div class="bookmark-meta">
                             📅 ${new Date(timestamp).toLocaleDateString('zh-TW')}
