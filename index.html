@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="version" content="4.0.0">
     <title>GameMaster 攻略大師 | 遊戲攻略生成器</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4a7c59">
@@ -2722,8 +2723,41 @@
             'ending': '請提供全結局攻略，包括：\n1. 所有結局的達成條件\n2. 影響結局的關鍵選擇\n3. 推薦的遊玩順序\n4. 真結局/隱藏結局的解鎖方法'
         };
 
+        // App Version
+        const APP_VERSION = '4.0.0';
+        
+        // 強制清除舊快取
+        async function clearOldCaches() {
+            if ('caches' in window) {
+                const cacheNames = await caches.keys();
+                for (const name of cacheNames) {
+                    if (!name.includes('v4')) {
+                        await caches.delete(name);
+                        console.log('已刪除舊快取:', name);
+                    }
+                }
+            }
+            // 強制更新 Service Worker
+            if ('serviceWorker' in navigator) {
+                const registrations = await navigator.serviceWorker.getRegistrations();
+                for (const reg of registrations) {
+                    await reg.update();
+                }
+            }
+        }
+        
         // Initialize
         document.addEventListener('DOMContentLoaded', async () => {
+            console.log('GameMaster 版本:', APP_VERSION);
+            
+            // 檢查並清除舊快取
+            const lastVersion = localStorage.getItem('app_version');
+            if (lastVersion !== APP_VERSION) {
+                console.log('版本更新，清除舊快取...');
+                await clearOldCaches();
+                localStorage.setItem('app_version', APP_VERSION);
+            }
+            
             // 初始化 IndexedDB
             try {
                 await initDB();
