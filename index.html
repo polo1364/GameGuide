@@ -2362,9 +2362,11 @@
                 try {
                     const tx = db.transaction('bookmarks', 'readwrite');
                     const store = tx.objectStore('bookmarks');
-                    const request = store.add(bookmark);
+                    // 使用 put 可以新增或更新
+                    const request = store.put(bookmark);
                     request.onsuccess = () => resolve(request.result);
                     tx.onerror = () => reject(tx.error);
+                    tx.oncomplete = () => resolve(bookmark.id);
                 } catch (e) {
                     reject(e);
                 }
@@ -2389,44 +2391,45 @@
 
         // 獲取所有書籤
         async function getAllBookmarks() {
-            if (!db) {
+            let results = [];
+            
+            // 先嘗試從 IndexedDB 讀取
+            if (db) {
                 try {
-                    await initDB();
+                    results = await new Promise((resolve) => {
+                        const tx = db.transaction('bookmarks', 'readonly');
+                        const store = tx.objectStore('bookmarks');
+                        const request = store.getAll();
+                        request.onsuccess = () => resolve(request.result || []);
+                        request.onerror = () => resolve([]);
+                    });
                 } catch (e) {
-                    // 回退到 localStorage
-                    return JSON.parse(localStorage.getItem('game_bookmarks') || '[]');
+                    console.warn('從 IndexedDB 讀取書籤失敗:', e);
                 }
             }
-            return new Promise((resolve) => {
+            
+            // 如果 IndexedDB 沒有資料，從 localStorage 讀取
+            if (results.length === 0) {
                 try {
-                    const tx = db.transaction('bookmarks', 'readonly');
-                    const store = tx.objectStore('bookmarks');
-                    const request = store.getAll();
-                    request.onsuccess = () => {
-                        let results = request.result || [];
-                        // 如果 IndexedDB 是空的，嘗試從 localStorage 遷移
-                        if (results.length === 0) {
-                            const oldBookmarks = localStorage.getItem('game_bookmarks');
-                            if (oldBookmarks) {
-                                try {
-                                    const parsed = JSON.parse(oldBookmarks);
-                                    if (parsed.length > 0) {
-                                        // 遷移到 IndexedDB
-                                        migrateBookmarksToIndexedDB(parsed);
-                                        results = parsed;
-                                    }
-                                } catch (e) {}
+                    const oldBookmarks = localStorage.getItem('game_bookmarks');
+                    if (oldBookmarks) {
+                        const parsed = JSON.parse(oldBookmarks);
+                        if (Array.isArray(parsed) && parsed.length > 0) {
+                            results = parsed;
+                            // 遷移到 IndexedDB
+                            if (db) {
+                                migrateBookmarksToIndexedDB(parsed);
                             }
                         }
-                        // 按時間戳排序（最新的在前）
-                        results.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
-                        resolve(results);
-                    };
-                    request.onerror = () => resolve([]);
+                    }
                 } catch (e) {
-                    resolve([]);
+                    console.warn('從 localStorage 讀取書籤失敗:', e);
                 }
-            });
+            }
+            
+            // 按時間戳排序（最新的在前）
+            results.sort((a, b) => new Date(b.timestamp || 0) - new Date(a.timestamp || 0));
+            return results;
         }
 
         // 遷移書籤到 IndexedDB
@@ -2930,7 +2933,11 @@
                 // 刪除書籤
                 const bookmarkToDelete = bookmarks[existingIndex];
                 if (bookmarkToDelete.id) {
-                    await deleteBookmarkDB(bookmarkToDelete.id);
+                    try {
+                        await deleteBookmarkDB(bookmarkToDelete.id);
+                    } catch (e) {
+                        console.warn('IndexedDB 刪除失敗:', e);
+                    }
                 }
                 bookmarks.splice(existingIndex, 1);
                 document.getElementById('bookmarkBtn').classList.remove('bookmarked');
@@ -2939,29 +2946,39 @@
             } else {
                 // 新增書籤
                 const newBookmark = {
+                    id: 'bm_' + Date.now(),
                     gameName: currentGameName,
                     platform: currentPlatform,
-                    question: currentGuideData.question,
-                    content: currentGuideData.content,
+                    question: String(currentGuideData.question || ''),
+                    content: String(currentGuideData.content || ''),
                     timestamp: new Date().toISOString()
                 };
                 
                 try {
-                    const newId = await saveBookmark(newBookmark);
-                    newBookmark.id = newId;
-                    bookmarks.unshift(newBookmark);
+                    await saveBookmark(newBookmark);
+                    console.log('書籤已儲存到 IndexedDB');
                 } catch (e) {
-                    // 回退到記憶體
-                    newBookmark.id = Date.now();
-                    bookmarks.unshift(newBookmark);
+                    console.warn('IndexedDB 儲存失敗，使用 localStorage:', e);
                 }
                 
+                bookmarks.unshift(newBookmark);
                 document.getElementById('bookmarkBtn').classList.add('bookmarked');
                 document.getElementById('bookmarkBtn').innerHTML = '⭐ 已收藏';
                 showToast('已加入收藏');
             }
             
+            // 同時備份到 localStorage
+            syncBookmarksToLocalStorage();
             renderBookmarks();
+        }
+        
+        // 同步書籤到 localStorage（備援機制）
+        function syncBookmarksToLocalStorage() {
+            try {
+                localStorage.setItem('game_bookmarks', JSON.stringify(bookmarks));
+            } catch (e) {
+                console.warn('localStorage 儲存失敗:', e);
+            }
         }
         
         function renderBookmarks() {
@@ -3060,6 +3077,7 @@
                 }
             }
             bookmarks.splice(index, 1);
+            syncBookmarksToLocalStorage();
             renderBookmarks();
             showToast('已刪除收藏');
         }
