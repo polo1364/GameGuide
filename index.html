@@ -1883,6 +1883,88 @@
             background: linear-gradient(135deg, rgba(26, 26, 46, 0.9), rgba(15, 15, 26, 0.9));
         }
 
+        /* Update Banner */
+        .update-banner {
+            position: fixed;
+            top: 1rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(135deg, #4a7c59, #3a6349);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.3), 0 0 15px rgba(74, 124, 89, 0.4);
+            z-index: 10000;
+            animation: slideDown 0.5s ease-out;
+            border: 2px solid var(--triforce-gold);
+        }
+
+        @keyframes slideDown {
+            from {
+                transform: translateX(-50%) translateY(-100px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(-50%) translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .update-btn {
+            background: var(--triforce-gold);
+            color: #2d2416;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 700;
+            transition: all 0.2s;
+        }
+
+        .update-btn:hover {
+            background: #ffd700;
+            transform: scale(1.05);
+        }
+
+        .update-close {
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            opacity: 0.7;
+            font-size: 1.2rem;
+            padding: 0.2rem;
+            margin-left: 0.5rem;
+        }
+
+        .update-close:hover {
+            opacity: 1;
+        }
+
+        @media (max-width: 768px) {
+            .update-banner {
+                left: 1rem;
+                right: 1rem;
+                transform: none;
+                flex-wrap: wrap;
+                justify-content: center;
+            }
+
+            @keyframes slideDown {
+                from {
+                    transform: translateY(-100px);
+                    opacity: 0;
+                }
+                to {
+                    transform: translateY(0);
+                    opacity: 1;
+                }
+            }
+        }
+
         /* PWA Install Banner */
         .pwa-install-banner {
             position: fixed;
@@ -2435,27 +2517,83 @@
         
         // PWA Service Worker Registration
         let deferredPrompt = null;
+        let swRegistration = null;
         
         async function registerServiceWorker() {
             if ('serviceWorker' in navigator) {
                 try {
-                    const registration = await navigator.serviceWorker.register('./sw.js');
-                    console.log('ServiceWorker registered:', registration.scope);
+                    swRegistration = await navigator.serviceWorker.register('./sw.js');
+                    console.log('ServiceWorker registered:', swRegistration.scope);
+                    
+                    // 定期檢查更新（每 30 秒）
+                    setInterval(() => {
+                        swRegistration.update();
+                    }, 30000);
                     
                     // Check for updates
-                    registration.addEventListener('updatefound', () => {
-                        const newWorker = registration.installing;
+                    swRegistration.addEventListener('updatefound', () => {
+                        const newWorker = swRegistration.installing;
+                        console.log('New ServiceWorker found, installing...');
+                        
                         newWorker.addEventListener('statechange', () => {
-                            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                                // New content available, notify user
-                                showToast('🔄 有新版本可用，重新整理頁面即可更新');
+                            if (newWorker.state === 'installed') {
+                                if (navigator.serviceWorker.controller) {
+                                    // New content available
+                                    showUpdateBanner();
+                                } else {
+                                    // First install
+                                    console.log('Content cached for offline use');
+                                }
                             }
                         });
                     });
+                    
+                    // Listen for messages from SW
+                    navigator.serviceWorker.addEventListener('message', (event) => {
+                        if (event.data && event.data.type === 'SW_UPDATED') {
+                            console.log('SW updated to version:', event.data.version);
+                            showUpdateBanner();
+                        }
+                    });
+                    
+                    // 頁面可見時檢查更新
+                    document.addEventListener('visibilitychange', () => {
+                        if (document.visibilityState === 'visible' && swRegistration) {
+                            swRegistration.update();
+                        }
+                    });
+                    
                 } catch (error) {
                     console.log('ServiceWorker registration failed:', error);
                 }
             }
+        }
+        
+        // 更新提示橫幅
+        function showUpdateBanner() {
+            // 移除舊的橫幅（如果存在）
+            const existingBanner = document.getElementById('updateBanner');
+            if (existingBanner) existingBanner.remove();
+            
+            const banner = document.createElement('div');
+            banner.id = 'updateBanner';
+            banner.className = 'update-banner';
+            banner.innerHTML = `
+                <span>🆕</span>
+                <span>發現新版本！</span>
+                <button onclick="applyUpdate()" class="update-btn">立即更新</button>
+                <button onclick="this.parentElement.remove()" class="update-close">✕</button>
+            `;
+            document.body.appendChild(banner);
+        }
+        
+        // 應用更新
+        function applyUpdate() {
+            if (swRegistration && swRegistration.waiting) {
+                swRegistration.waiting.postMessage({ type: 'SKIP_WAITING' });
+            }
+            // 刷新頁面
+            window.location.reload(true);
         }
         
         // PWA Install prompt

@@ -1,5 +1,6 @@
 // GameMaster Service Worker
-const CACHE_NAME = 'gamemaster-v1';
+const CACHE_VERSION = '2';
+const CACHE_NAME = `gamemaster-v${CACHE_VERSION}`;
 const STATIC_ASSETS = [
   './',
   './index.html',
@@ -7,35 +8,58 @@ const STATIC_ASSETS = [
   './manifest.json'
 ];
 
+// 立即激活新版本
+const SKIP_WAITING = true;
+
 // Install event - cache static assets
 self.addEventListener('install', (event) => {
+  console.log(`[SW] Installing version ${CACHE_VERSION}`);
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then((cache) => {
-        console.log('Caching static assets');
+        console.log('[SW] Caching static assets');
         return cache.addAll(STATIC_ASSETS);
       })
-      .then(() => self.skipWaiting())
+      .then(() => {
+        if (SKIP_WAITING) {
+          console.log('[SW] Skip waiting, activating immediately');
+          return self.skipWaiting();
+        }
+      })
   );
 });
 
-// Activate event - clean up old caches
+// Activate event - clean up old caches and take control
 self.addEventListener('activate', (event) => {
+  console.log(`[SW] Activating version ${CACHE_VERSION}`);
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(
         cacheNames.map((cacheName) => {
           if (cacheName !== CACHE_NAME) {
-            console.log('Deleting old cache:', cacheName);
+            console.log('[SW] Deleting old cache:', cacheName);
             return caches.delete(cacheName);
           }
         })
       );
-    }).then(() => self.clients.claim())
+    }).then(() => {
+      console.log('[SW] Claiming all clients');
+      return self.clients.claim();
+    }).then(() => {
+      // 通知所有客戶端有更新
+      return self.clients.matchAll().then(clients => {
+        clients.forEach(client => {
+          client.postMessage({
+            type: 'SW_UPDATED',
+            version: CACHE_VERSION
+          });
+        });
+      });
+    })
   );
 });
 
-// Fetch event - serve from cache, fallback to network
+// Fetch event - Network First strategy for HTML/JSON, Cache First for static assets
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   
@@ -48,44 +72,54 @@ self.addEventListener('fetch', (event) => {
     return;
   }
   
-  event.respondWith(
-    caches.match(event.request)
-      .then((cachedResponse) => {
-        // Return cached response if found
-        if (cachedResponse) {
-          // Fetch fresh version in background (stale-while-revalidate)
-          fetch(event.request)
+  // Use Network First for HTML and JSON files to ensure fresh content
+  const isHtmlOrJson = url.pathname.endsWith('.html') || 
+                       url.pathname.endsWith('.json') || 
+                       url.pathname === '/' ||
+                       url.pathname === '';
+  
+  if (isHtmlOrJson) {
+    // Network First strategy
+    event.respondWith(
+      fetch(event.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const responseClone = networkResponse.clone();
+            caches.open(CACHE_NAME)
+              .then((cache) => cache.put(event.request, responseClone));
+          }
+          return networkResponse;
+        })
+        .catch(() => {
+          // Fallback to cache when offline
+          return caches.match(event.request).then((cachedResponse) => {
+            return cachedResponse || caches.match('./index.html');
+          });
+        })
+    );
+  } else {
+    // Cache First for other static assets
+    event.respondWith(
+      caches.match(event.request)
+        .then((cachedResponse) => {
+          if (cachedResponse) {
+            return cachedResponse;
+          }
+          return fetch(event.request)
             .then((networkResponse) => {
               if (networkResponse && networkResponse.status === 200) {
+                const responseClone = networkResponse.clone();
                 caches.open(CACHE_NAME)
-                  .then((cache) => cache.put(event.request, networkResponse.clone()));
+                  .then((cache) => cache.put(event.request, responseClone));
               }
-            })
-            .catch(() => {}); // Ignore network errors
-          
-          return cachedResponse;
-        }
-        
-        // Fetch from network
-        return fetch(event.request)
-          .then((networkResponse) => {
-            // Cache successful responses
-            if (networkResponse && networkResponse.status === 200) {
-              const responseClone = networkResponse.clone();
-              caches.open(CACHE_NAME)
-                .then((cache) => cache.put(event.request, responseClone));
-            }
-            return networkResponse;
-          })
-          .catch(() => {
-            // Return offline fallback for navigation requests
-            if (event.request.mode === 'navigate') {
-              return caches.match('./index.html');
-            }
-            return new Response('Offline', { status: 503, statusText: 'Service Unavailable' });
-          });
-      })
-  );
+              return networkResponse;
+            });
+        })
+        .catch(() => {
+          return new Response('Offline', { status: 503, statusText: 'Service Unavailable' });
+        })
+    );
+  }
 });
 
 // Handle messages from main thread
