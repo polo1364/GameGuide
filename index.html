@@ -2978,45 +2978,57 @@
                 return;
             }
             
-            list.innerHTML = bookmarks.map((bookmark, index) => `
-                <li class="bookmark-item" onclick="loadBookmark(${index})">
-                    <div class="bookmark-title">
-                        <span>🎮 ${bookmark.gameName}</span>
-                        <button class="bookmark-delete" onclick="event.stopPropagation(); deleteBookmark(${index})">✕</button>
-                    </div>
-                    <div class="bookmark-meta">
-                        📝 ${bookmark.question.substring(0, 30)}${bookmark.question.length > 30 ? '...' : ''}
-                    </div>
-                    <div class="bookmark-meta">
-                        📅 ${new Date(bookmark.timestamp).toLocaleDateString('zh-TW')}
-                    </div>
-                </li>
-            `).join('');
+            list.innerHTML = bookmarks.map((bookmark, index) => {
+                const question = bookmark.question || '';
+                const questionStr = typeof question === 'string' ? question : String(question);
+                const gameName = bookmark.gameName || '未知遊戲';
+                const timestamp = bookmark.timestamp || new Date().toISOString();
+                
+                return `
+                    <li class="bookmark-item" onclick="loadBookmark(${index})">
+                        <div class="bookmark-title">
+                            <span>🎮 ${gameName}</span>
+                            <button class="bookmark-delete" onclick="event.stopPropagation(); deleteBookmark(${index})">✕</button>
+                        </div>
+                        <div class="bookmark-meta">
+                            📝 ${questionStr.substring(0, 30)}${questionStr.length > 30 ? '...' : ''}
+                        </div>
+                        <div class="bookmark-meta">
+                            📅 ${new Date(timestamp).toLocaleDateString('zh-TW')}
+                        </div>
+                    </li>
+                `;
+            }).join('');
         }
         
         function loadBookmark(index) {
             const bookmark = bookmarks[index];
             if (!bookmark) return;
             
-            currentGameName = bookmark.gameName;
-            currentPlatform = bookmark.platform;
+            const gameName = bookmark.gameName || '未知遊戲';
+            const platform = bookmark.platform || '未知平台';
+            const question = bookmark.question || '';
+            const content = bookmark.content || '';
             
-            document.getElementById('gameName').value = bookmark.gameName;
-            document.getElementById('gameQuestion').value = bookmark.question;
+            currentGameName = gameName;
+            currentPlatform = platform;
+            
+            document.getElementById('gameName').value = gameName;
+            document.getElementById('gameQuestion').value = typeof question === 'string' ? question : '';
             
             // 顯示結果
             document.getElementById('resultSection').style.display = 'block';
-            document.getElementById('resultTitle').textContent = `${bookmark.gameName} 攻略`;
-            document.getElementById('resultPlatform').textContent = bookmark.platform;
-            document.getElementById('resultContent').innerHTML = bookmark.content;
+            document.getElementById('resultTitle').textContent = `${gameName} 攻略`;
+            document.getElementById('resultPlatform').textContent = platform;
+            document.getElementById('resultContent').innerHTML = content;
             
             // 更新收藏按鈕狀態
             document.getElementById('bookmarkBtn').classList.add('bookmarked');
             document.getElementById('bookmarkBtn').innerHTML = '⭐ 已收藏';
             
             currentGuideData = {
-                question: bookmark.question,
-                content: bookmark.content
+                question: question,
+                content: content
             };
             
             // 生成目錄
