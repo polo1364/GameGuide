@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GameMaster 攻略大師 | 遊戲攻略生成器</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#4a7c59">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="攻略大師">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%234a7c59' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>🎮</text></svg>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;600;700&family=MedievalSharp&display=swap" rel="stylesheet">
@@ -24,6 +30,70 @@
             --border-ancient: rgba(212, 164, 48, 0.5);
             --shadow-sheikah: 0 0 20px rgba(91, 206, 250, 0.3);
             --shadow-soft: 0 4px 20px rgba(0, 0, 0, 0.15);
+            
+            /* 深色模式變數 */
+            --bg-body: linear-gradient(180deg, #87ceeb 0%, #98d4e8 30%, #c5e8d5 60%, #e8f0e0 100%);
+            --bg-main: var(--bg-parchment);
+            --text-main: var(--text-dark);
+        }
+
+        /* 深色模式 */
+        [data-theme="dark"] {
+            --bg-parchment: #1a1a2e;
+            --bg-dark: #0f0f1a;
+            --bg-card: rgba(26, 26, 46, 0.95);
+            --bg-card-dark: rgba(15, 15, 26, 0.95);
+            --text-dark: #e8e8f0;
+            --text-light: #1a1a2e;
+            --border-ancient: rgba(212, 164, 48, 0.4);
+            --hyrule-green: #6ba37a;
+            --shadow-soft: 0 4px 20px rgba(0, 0, 0, 0.4);
+        }
+
+        [data-theme="dark"] body {
+            background: linear-gradient(180deg, #0f0f1a 0%, #1a1a2e 50%, #16213e 100%);
+        }
+
+        [data-theme="dark"] body::before {
+            opacity: 0.2;
+        }
+
+        [data-theme="dark"] .bg-animation::before {
+            background: linear-gradient(180deg, transparent 0%, rgba(91, 206, 250, 0.1) 50%, rgba(91, 206, 250, 0.2) 100%);
+        }
+
+        [data-theme="dark"] .bg-animation::after {
+            color: var(--sheikah-blue);
+            text-shadow: 0 0 20px var(--sheikah-blue);
+        }
+
+        [data-theme="dark"] .input-field {
+            background: rgba(15, 15, 26, 0.8);
+            color: var(--text-dark);
+        }
+
+        [data-theme="dark"] .input-field::placeholder {
+            color: rgba(232, 232, 240, 0.5);
+        }
+
+        [data-theme="dark"] .result-content table {
+            background: linear-gradient(145deg, rgba(26, 26, 46, 0.9), rgba(15, 15, 26, 0.9));
+        }
+
+        [data-theme="dark"] .result-content thead {
+            background: linear-gradient(135deg, var(--sheikah-blue) 0%, #4aa8d8 100%);
+        }
+
+        [data-theme="dark"] .result-content tbody tr {
+            background: rgba(26, 26, 46, 0.6);
+        }
+
+        [data-theme="dark"] .result-content tbody tr:nth-child(even) {
+            background: rgba(15, 15, 26, 0.6);
+        }
+
+        [data-theme="dark"] .result-content tbody tr:hover {
+            background: rgba(91, 206, 250, 0.15);
         }
 
         * {
@@ -1253,7 +1323,7 @@
             z-index: 100;
         }
 
-        .font-btn {
+        .font-btn, .theme-btn {
             width: 40px;
             height: 40px;
             border-radius: 50%;
@@ -1265,12 +1335,348 @@
             align-items: center;
             justify-content: center;
             transition: all 0.3s ease;
-            font-weight: bold;
-            font-size: 1rem;
-            box-shadow: var(--shadow-soft);
+            font-size: 1.1rem;
         }
 
-        .font-btn:hover {
+        .theme-toggle {
+            position: fixed;
+            top: 1.5rem;
+            right: 1rem;
+            z-index: 100;
+        }
+
+        /* 浮動書籤面板 */
+        .floating-panel {
+            position: fixed;
+            right: -320px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 320px;
+            max-height: 80vh;
+            background: var(--bg-card);
+            border: 3px solid var(--border-ancient);
+            border-right: none;
+            border-radius: 16px 0 0 16px;
+            box-shadow: -5px 0 30px rgba(0, 0, 0, 0.2);
+            z-index: 200;
+            transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+
+        .floating-panel.open {
+            right: 0;
+        }
+
+        .floating-panel-toggle {
+            position: fixed;
+            right: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 60px;
+            height: 140px;
+            background: linear-gradient(135deg, #e85454, #c74444);
+            border: 4px solid #ffd700;
+            border-right: none;
+            border-radius: 20px 0 0 20px;
+            box-shadow: -5px 0 25px rgba(0, 0, 0, 0.5), 0 0 20px rgba(255, 215, 0, 0.5), inset 0 0 20px rgba(255, 255, 255, 0.1);
+            cursor: pointer;
+            z-index: 9999;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 0.5rem;
+            color: white;
+            font-size: 1.2rem;
+            transition: all 0.3s ease;
+            animation: float-hint 3s ease-in-out infinite;
+        }
+
+        @keyframes float-hint {
+            0%, 100% { transform: translateY(-50%) translateX(0); }
+            50% { transform: translateY(-50%) translateX(-8px); }
+        }
+
+        .floating-panel-toggle:hover {
+            width: 70px;
+            background: linear-gradient(135deg, #ff6b6b, #e85454);
+            box-shadow: -8px 0 30px rgba(0, 0, 0, 0.6), 0 0 30px rgba(255, 215, 0, 0.7);
+            animation: none;
+        }
+
+        .floating-panel-toggle span {
+            writing-mode: vertical-rl;
+            text-orientation: mixed;
+            font-size: 0.9rem;
+            font-weight: 700;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3);
+        }
+
+        .floating-panel-toggle span:first-child {
+            font-size: 1.5rem;
+            animation: pulse-icon 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse-icon {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.15); }
+        }
+
+        .floating-panel.open + .floating-panel-toggle {
+            right: 320px;
+        }
+
+        .panel-header {
+            padding: 1rem 1.2rem;
+            background: linear-gradient(135deg, var(--hyrule-green), #3a6349);
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .panel-title {
+            font-family: 'Cinzel', serif;
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .panel-close {
+            background: none;
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            cursor: pointer;
+            padding: 0;
+            line-height: 1;
+            opacity: 0.8;
+            transition: opacity 0.2s;
+        }
+
+        .panel-close:hover {
+            opacity: 1;
+        }
+
+        .panel-tabs {
+            display: flex;
+            border-bottom: 2px solid var(--border-ancient);
+        }
+
+        .panel-tab {
+            flex: 1;
+            padding: 0.8rem;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            font-size: 0.9rem;
+            color: var(--text-dark);
+            transition: all 0.2s;
+            border-bottom: 3px solid transparent;
+        }
+
+        .panel-tab:hover {
+            background: rgba(212, 164, 48, 0.1);
+        }
+
+        .panel-tab.active {
+            border-bottom-color: var(--triforce-gold);
+            background: rgba(212, 164, 48, 0.15);
+            font-weight: 600;
+        }
+
+        .panel-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1rem;
+        }
+
+        /* 收藏列表 */
+        .bookmark-list {
+            list-style: none;
+        }
+
+        .bookmark-item {
+            padding: 0.8rem;
+            margin-bottom: 0.5rem;
+            background: rgba(255, 255, 255, 0.5);
+            border: 1px solid var(--border-ancient);
+            border-radius: 8px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .bookmark-item:hover {
+            background: rgba(212, 164, 48, 0.15);
+            transform: translateX(-3px);
+        }
+
+        .bookmark-title {
+            font-weight: 600;
+            color: var(--hyrule-green);
+            margin-bottom: 0.3rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .bookmark-meta {
+            font-size: 0.8rem;
+            color: #8b7355;
+        }
+
+        .bookmark-delete {
+            background: none;
+            border: none;
+            color: var(--heart-red);
+            cursor: pointer;
+            padding: 0.2rem;
+            opacity: 0.6;
+            transition: opacity 0.2s;
+        }
+
+        .bookmark-delete:hover {
+            opacity: 1;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 2rem;
+            color: #8b7355;
+        }
+
+        .empty-state-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+            opacity: 0.5;
+        }
+
+        /* 目錄導航 */
+        .toc-list {
+            list-style: none;
+        }
+
+        .toc-item {
+            padding: 0.6rem 0.8rem;
+            margin-bottom: 0.3rem;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .toc-item:hover {
+            background: rgba(212, 164, 48, 0.15);
+        }
+
+        .toc-item.active {
+            background: rgba(74, 124, 89, 0.2);
+            border-left: 3px solid var(--hyrule-green);
+        }
+
+        .toc-item[data-level="2"] {
+            padding-left: 1.5rem;
+            font-size: 0.9rem;
+        }
+
+        .toc-item[data-level="3"] {
+            padding-left: 2.5rem;
+            font-size: 0.85rem;
+            color: #6a5a4a;
+        }
+
+        .toc-icon {
+            opacity: 0.6;
+        }
+
+        /* 收藏按鈕 */
+        .bookmark-btn {
+            background: none;
+            border: 2px solid var(--triforce-gold);
+            color: var(--triforce-gold);
+            padding: 0.4rem 0.8rem;
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+
+        .bookmark-btn:hover {
+            background: var(--triforce-gold);
+            color: white;
+        }
+
+        .bookmark-btn.bookmarked {
+            background: var(--triforce-gold);
+            color: white;
+        }
+
+        /* 遊戲資訊卡 */
+        .game-info-card {
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(244, 232, 211, 0.9));
+            border: 2px solid var(--border-ancient);
+            border-radius: 12px;
+            padding: 1.2rem;
+            margin-bottom: 1.5rem;
+            display: flex;
+            gap: 1rem;
+            align-items: flex-start;
+        }
+
+        .game-info-icon {
+            font-size: 3rem;
+            width: 70px;
+            height: 70px;
+            background: linear-gradient(135deg, var(--hyrule-green), #3a6349);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .game-info-details {
+            flex: 1;
+        }
+
+        .game-info-name {
+            font-family: 'Cinzel', serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--hyrule-green);
+            margin-bottom: 0.5rem;
+        }
+
+        .game-info-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .game-info-tag {
+            padding: 0.2rem 0.6rem;
+            background: rgba(212, 164, 48, 0.15);
+            border-radius: 12px;
+            font-size: 0.8rem;
+            color: var(--text-dark);
+        }
+
+        .game-info-tag.platform {
+            background: rgba(91, 206, 250, 0.2);
+            color: #0070cc;
+        }
+
+        .game-info-tag.category {
+            background: rgba(74, 124, 89, 0.2);
+            color: var(--hyrule-green);
+        }
+
+        .font-btn:hover, .theme-btn:hover {
             background: var(--triforce-gold);
             color: #fff;
             border-color: var(--triforce-gold);
@@ -1391,6 +1797,12 @@
                 right: 1rem;
             }
 
+            .theme-toggle {
+                top: auto;
+                bottom: 1.5rem;
+                right: 4rem;
+            }
+
             .followup-container {
                 flex-direction: column;
             }
@@ -1401,6 +1813,144 @@
 
             .quick-templates,
             .popular-games {
+                justify-content: center;
+            }
+
+            .floating-panel {
+                width: 100%;
+                right: -100%;
+                border-radius: 0;
+                max-height: 70vh;
+                top: auto;
+                bottom: 0;
+                transform: none;
+            }
+
+            .floating-panel.open {
+                right: 0;
+            }
+
+            .floating-panel-toggle {
+                width: 60px;
+                height: 60px;
+                top: auto;
+                bottom: 6rem;
+                right: 1rem;
+                transform: none;
+                border-radius: 50%;
+                flex-direction: column;
+                border: 4px solid #ffd700;
+                padding: 0;
+                animation: float-hint-mobile 3s ease-in-out infinite;
+            }
+
+            @keyframes float-hint-mobile {
+                0%, 100% { transform: translateY(0); }
+                50% { transform: translateY(-8px); }
+            }
+
+            .floating-panel-toggle span:last-child {
+                display: none;
+            }
+
+            .floating-panel-toggle span:first-child {
+                writing-mode: horizontal-tb;
+                font-size: 1.8rem;
+            }
+
+            .floating-panel.open + .floating-panel-toggle {
+                right: 1rem;
+                bottom: calc(70vh + 1rem);
+            }
+
+            .game-info-card {
+                flex-direction: column;
+                align-items: center;
+                text-align: center;
+            }
+        }
+
+        /* 深色模式下的浮動面板 */
+        [data-theme="dark"] .floating-panel {
+            background: var(--bg-card);
+        }
+
+        [data-theme="dark"] .bookmark-item {
+            background: rgba(15, 15, 26, 0.6);
+        }
+
+        [data-theme="dark"] .game-info-card {
+            background: linear-gradient(135deg, rgba(26, 26, 46, 0.9), rgba(15, 15, 26, 0.9));
+        }
+
+        /* PWA Install Banner */
+        .pwa-install-banner {
+            position: fixed;
+            bottom: 1rem;
+            left: 50%;
+            transform: translateX(-50%);
+            background: linear-gradient(135deg, var(--hyrule-green), #3a6349);
+            color: white;
+            padding: 0.8rem 1.5rem;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            box-shadow: 0 5px 25px rgba(0, 0, 0, 0.3);
+            z-index: 300;
+            animation: slideUp 0.5s ease-out;
+        }
+
+        @keyframes slideUp {
+            from {
+                transform: translateX(-50%) translateY(100px);
+                opacity: 0;
+            }
+            to {
+                transform: translateX(-50%) translateY(0);
+                opacity: 1;
+            }
+        }
+
+        .pwa-install-text {
+            font-size: 0.9rem;
+        }
+
+        .pwa-install-btn {
+            background: white;
+            color: var(--hyrule-green);
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: transform 0.2s;
+        }
+
+        .pwa-install-btn:hover {
+            transform: scale(1.05);
+        }
+
+        .pwa-close-btn {
+            background: none;
+            border: none;
+            color: white;
+            cursor: pointer;
+            opacity: 0.7;
+            font-size: 1.2rem;
+            padding: 0.2rem;
+        }
+
+        .pwa-close-btn:hover {
+            opacity: 1;
+        }
+
+        @media (max-width: 768px) {
+            .pwa-install-banner {
+                left: 1rem;
+                right: 1rem;
+                transform: none;
+                flex-wrap: wrap;
                 justify-content: center;
             }
         }
@@ -1417,6 +1967,53 @@
         <button class="font-btn" onclick="changeFontSize(-1)" title="縮小字體">A-</button>
         <button class="font-btn" onclick="changeFontSize(1)" title="放大字體">A+</button>
     </div>
+
+    <!-- Theme Toggle -->
+    <div class="theme-toggle">
+        <button class="theme-btn" onclick="toggleTheme()" title="切換深色模式" id="themeBtn">🌙</button>
+    </div>
+
+    <!-- Floating Bookmark Panel -->
+    <div class="floating-panel" id="floatingPanel">
+        <div class="panel-header">
+            <span class="panel-title">📚 攻略工具箱</span>
+            <button class="panel-close" onclick="togglePanel()">&times;</button>
+        </div>
+        <div class="panel-tabs">
+            <button class="panel-tab active" onclick="switchTab('bookmarks')" data-tab="bookmarks">
+                ⭐ 收藏
+            </button>
+            <button class="panel-tab" onclick="switchTab('toc')" data-tab="toc">
+                📑 目錄
+            </button>
+        </div>
+        <div class="panel-content" id="panelContent">
+            <!-- Bookmarks Tab -->
+            <div class="tab-pane active" id="bookmarksPane">
+                <ul class="bookmark-list" id="bookmarkList">
+                    <li class="empty-state">
+                        <div class="empty-state-icon">📚</div>
+                        <p>還沒有收藏任何攻略</p>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">點擊攻略標題旁的 ⭐ 收藏</p>
+                    </li>
+                </ul>
+            </div>
+            <!-- TOC Tab -->
+            <div class="tab-pane" id="tocPane" style="display: none;">
+                <ul class="toc-list" id="tocList">
+                    <li class="empty-state">
+                        <div class="empty-state-icon">📑</div>
+                        <p>尚未生成攻略</p>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">生成攻略後會自動產生目錄</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <button class="floating-panel-toggle" onclick="togglePanel()" id="panelToggle">
+        <span>📚</span>
+        <span>工具箱</span>
+    </button>
 
     <!-- Settings Button -->
     <button class="settings-btn" onclick="openModal()" title="API 設定">
@@ -1482,10 +2079,25 @@
 
         <!-- Result Section -->
         <section class="result-section" id="resultSection" style="display: none;">
+            <!-- Game Info Card -->
+            <div class="game-info-card" id="gameInfoCard" style="display: none;">
+                <div class="game-info-icon" id="gameInfoIcon">🎮</div>
+                <div class="game-info-details">
+                    <h4 class="game-info-name" id="gameInfoName">遊戲名稱</h4>
+                    <div class="game-info-meta">
+                        <span class="game-info-tag platform" id="gameInfoPlatform">PC</span>
+                        <span class="game-info-tag category" id="gameInfoCategory">動作冒險</span>
+                    </div>
+                </div>
+            </div>
+
             <div class="result-card font-medium" id="resultCard">
                 <div class="result-header">
                     <h3 class="result-title" id="resultTitle">攻略內容</h3>
                     <div class="result-meta">
+                        <button class="bookmark-btn" id="bookmarkBtn" onclick="toggleBookmark()">
+                            ⭐ 收藏
+                        </button>
                         <span class="result-badge" id="resultPlatform"></span>
                         <span class="verified-badge" id="verifiedBadge" style="display: none;">
                             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor">
@@ -1546,6 +2158,14 @@
     <!-- Toast -->
     <div class="toast" id="toast"></div>
 
+    <!-- PWA Install Banner -->
+    <div class="pwa-install-banner" id="pwaInstallBanner" style="display: none;">
+        <span>📱</span>
+        <span class="pwa-install-text">安裝攻略大師 App，離線也能查看收藏！</span>
+        <button class="pwa-install-btn" onclick="installPWA()">安裝</button>
+        <button class="pwa-close-btn" onclick="dismissPWABanner()">✕</button>
+    </div>
+
     <script>
         // State
         let detectedPlatform = null;
@@ -1556,6 +2176,12 @@
         let currentPlatform = '';
         let fontSizeLevel = 1; // 0=small, 1=medium, 2=large, 3=xlarge
         const fontSizeClasses = ['font-small', 'font-medium', 'font-large', 'font-xlarge'];
+        
+        // Bookmark and theme state
+        let bookmarks = JSON.parse(localStorage.getItem('game_bookmarks') || '[]');
+        let currentTheme = localStorage.getItem('theme') || 'light';
+        let currentGuideData = null; // 儲存當前攻略資料
+        let currentGameInfo = null; // 儲存當前遊戲資訊
 
         // Platform names mapping
         const platformNames = {
@@ -1791,12 +2417,289 @@
                 updateFontSize();
             }
             
+            // Initialize theme
+            initTheme();
+            
+            // Initialize bookmarks
+            renderBookmarks();
+            
             // Load game database from JSON
             await loadGameDatabase();
             
             // Initialize autocomplete
             initAutocomplete();
+            
+            // Register Service Worker for PWA
+            registerServiceWorker();
         });
+        
+        // PWA Service Worker Registration
+        let deferredPrompt = null;
+        
+        async function registerServiceWorker() {
+            if ('serviceWorker' in navigator) {
+                try {
+                    const registration = await navigator.serviceWorker.register('./sw.js');
+                    console.log('ServiceWorker registered:', registration.scope);
+                    
+                    // Check for updates
+                    registration.addEventListener('updatefound', () => {
+                        const newWorker = registration.installing;
+                        newWorker.addEventListener('statechange', () => {
+                            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                                // New content available, notify user
+                                showToast('🔄 有新版本可用，重新整理頁面即可更新');
+                            }
+                        });
+                    });
+                } catch (error) {
+                    console.log('ServiceWorker registration failed:', error);
+                }
+            }
+        }
+        
+        // PWA Install prompt
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            
+            // Check if user previously dismissed
+            if (!localStorage.getItem('pwa_dismissed')) {
+                setTimeout(() => {
+                    document.getElementById('pwaInstallBanner').style.display = 'flex';
+                }, 3000);
+            }
+        });
+        
+        function installPWA() {
+            if (!deferredPrompt) return;
+            
+            deferredPrompt.prompt();
+            deferredPrompt.userChoice.then((choiceResult) => {
+                if (choiceResult.outcome === 'accepted') {
+                    showToast('✅ 感謝安裝攻略大師！');
+                }
+                deferredPrompt = null;
+                document.getElementById('pwaInstallBanner').style.display = 'none';
+            });
+        }
+        
+        function dismissPWABanner() {
+            document.getElementById('pwaInstallBanner').style.display = 'none';
+            localStorage.setItem('pwa_dismissed', 'true');
+        }
+        
+        // Detect if app is installed
+        window.addEventListener('appinstalled', () => {
+            deferredPrompt = null;
+            document.getElementById('pwaInstallBanner').style.display = 'none';
+            showToast('✅ App 安裝成功！');
+        });
+        
+        // Theme functions
+        function initTheme() {
+            if (currentTheme === 'dark') {
+                document.documentElement.setAttribute('data-theme', 'dark');
+                document.getElementById('themeBtn').textContent = '☀️';
+            }
+        }
+        
+        function toggleTheme() {
+            const btn = document.getElementById('themeBtn');
+            if (currentTheme === 'light') {
+                currentTheme = 'dark';
+                document.documentElement.setAttribute('data-theme', 'dark');
+                btn.textContent = '☀️';
+            } else {
+                currentTheme = 'light';
+                document.documentElement.removeAttribute('data-theme');
+                btn.textContent = '🌙';
+            }
+            localStorage.setItem('theme', currentTheme);
+        }
+        
+        // Floating Panel functions
+        function togglePanel() {
+            const panel = document.getElementById('floatingPanel');
+            panel.classList.toggle('open');
+        }
+        
+        function switchTab(tabName) {
+            document.querySelectorAll('.panel-tab').forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.tab === tabName);
+            });
+            document.getElementById('bookmarksPane').style.display = tabName === 'bookmarks' ? 'block' : 'none';
+            document.getElementById('tocPane').style.display = tabName === 'toc' ? 'block' : 'none';
+        }
+        
+        // Bookmark functions
+        function toggleBookmark() {
+            if (!currentGuideData) return;
+            
+            const id = `${currentGameName}_${currentPlatform}_${Date.now()}`;
+            const existingIndex = bookmarks.findIndex(b => 
+                b.gameName === currentGameName && b.question === currentGuideData.question
+            );
+            
+            if (existingIndex >= 0) {
+                bookmarks.splice(existingIndex, 1);
+                document.getElementById('bookmarkBtn').classList.remove('bookmarked');
+                document.getElementById('bookmarkBtn').innerHTML = '⭐ 收藏';
+                showToast('已取消收藏');
+            } else {
+                bookmarks.push({
+                    id: id,
+                    gameName: currentGameName,
+                    platform: currentPlatform,
+                    question: currentGuideData.question,
+                    content: currentGuideData.content,
+                    timestamp: new Date().toISOString()
+                });
+                document.getElementById('bookmarkBtn').classList.add('bookmarked');
+                document.getElementById('bookmarkBtn').innerHTML = '⭐ 已收藏';
+                showToast('已加入收藏');
+            }
+            
+            localStorage.setItem('game_bookmarks', JSON.stringify(bookmarks));
+            renderBookmarks();
+        }
+        
+        function renderBookmarks() {
+            const list = document.getElementById('bookmarkList');
+            
+            if (bookmarks.length === 0) {
+                list.innerHTML = `
+                    <li class="empty-state">
+                        <div class="empty-state-icon">📚</div>
+                        <p>還沒有收藏任何攻略</p>
+                        <p style="font-size: 0.8rem; margin-top: 0.5rem;">點擊攻略標題旁的 ⭐ 收藏</p>
+                    </li>
+                `;
+                return;
+            }
+            
+            list.innerHTML = bookmarks.map((bookmark, index) => `
+                <li class="bookmark-item" onclick="loadBookmark(${index})">
+                    <div class="bookmark-title">
+                        <span>🎮 ${bookmark.gameName}</span>
+                        <button class="bookmark-delete" onclick="event.stopPropagation(); deleteBookmark(${index})">✕</button>
+                    </div>
+                    <div class="bookmark-meta">
+                        📝 ${bookmark.question.substring(0, 30)}${bookmark.question.length > 30 ? '...' : ''}
+                    </div>
+                    <div class="bookmark-meta">
+                        📅 ${new Date(bookmark.timestamp).toLocaleDateString('zh-TW')}
+                    </div>
+                </li>
+            `).join('');
+        }
+        
+        function loadBookmark(index) {
+            const bookmark = bookmarks[index];
+            if (!bookmark) return;
+            
+            currentGameName = bookmark.gameName;
+            currentPlatform = bookmark.platform;
+            
+            document.getElementById('gameName').value = bookmark.gameName;
+            document.getElementById('gameQuestion').value = bookmark.question;
+            
+            // 顯示結果
+            document.getElementById('resultSection').style.display = 'block';
+            document.getElementById('resultTitle').textContent = `${bookmark.gameName} 攻略`;
+            document.getElementById('resultPlatform').textContent = bookmark.platform;
+            document.getElementById('resultContent').innerHTML = bookmark.content;
+            
+            // 更新收藏按鈕狀態
+            document.getElementById('bookmarkBtn').classList.add('bookmarked');
+            document.getElementById('bookmarkBtn').innerHTML = '⭐ 已收藏';
+            
+            currentGuideData = {
+                question: bookmark.question,
+                content: bookmark.content
+            };
+            
+            // 生成目錄
+            generateTOC();
+            
+            // 關閉面板
+            togglePanel();
+            
+            // 滾動到結果
+            document.getElementById('resultSection').scrollIntoView({ behavior: 'smooth' });
+        }
+        
+        function deleteBookmark(index) {
+            bookmarks.splice(index, 1);
+            localStorage.setItem('game_bookmarks', JSON.stringify(bookmarks));
+            renderBookmarks();
+            showToast('已刪除收藏');
+        }
+        
+        // TOC (Table of Contents) functions
+        function generateTOC() {
+            const content = document.getElementById('resultContent');
+            const headings = content.querySelectorAll('h1, h2, h3');
+            const list = document.getElementById('tocList');
+            
+            if (headings.length === 0) {
+                list.innerHTML = `
+                    <li class="empty-state">
+                        <div class="empty-state-icon">📑</div>
+                        <p>此攻略沒有章節標題</p>
+                    </li>
+                `;
+                return;
+            }
+            
+            const icons = {
+                'H1': '📖',
+                'H2': '📄',
+                'H3': '📝'
+            };
+            
+            list.innerHTML = headings.length > 0 
+                ? Array.from(headings).map((heading, index) => {
+                    const level = parseInt(heading.tagName.charAt(1));
+                    heading.id = `toc-heading-${index}`;
+                    return `
+                        <li class="toc-item" data-level="${level}" onclick="scrollToHeading('${heading.id}')">
+                            <span class="toc-icon">${icons[heading.tagName] || '📝'}</span>
+                            <span>${heading.textContent}</span>
+                        </li>
+                    `;
+                }).join('')
+                : `
+                    <li class="empty-state">
+                        <div class="empty-state-icon">📑</div>
+                        <p>此攻略沒有章節標題</p>
+                    </li>
+                `;
+        }
+        
+        function scrollToHeading(id) {
+            const heading = document.getElementById(id);
+            if (heading) {
+                heading.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                
+                // 高亮效果
+                heading.style.background = 'rgba(212, 164, 48, 0.3)';
+                setTimeout(() => {
+                    heading.style.background = '';
+                }, 2000);
+            }
+        }
+        
+        // Update game info card
+        function updateGameInfoCard(gameName, platform, category, icon) {
+            const card = document.getElementById('gameInfoCard');
+            document.getElementById('gameInfoName').textContent = gameName;
+            document.getElementById('gameInfoPlatform').textContent = platform;
+            document.getElementById('gameInfoCategory').textContent = category || '遊戲';
+            document.getElementById('gameInfoIcon').textContent = icon || '🎮';
+            card.style.display = 'flex';
+            currentGameInfo = { gameName, platform, category, icon };
+        }
 
         // Autocomplete state
         let autocompleteSelectedIndex = -1;
@@ -2867,7 +3770,58 @@ ${followupQuestion}
             
             resultSection.style.display = 'block';
             updateFontSize();
+            
+            // 儲存當前攻略資料供收藏使用
+            currentGuideData = {
+                question: question,
+                content: html
+            };
+            
+            // 重置收藏按鈕狀態
+            const bookmarkBtn = document.getElementById('bookmarkBtn');
+            const isBookmarked = bookmarks.some(b => 
+                b.gameName === currentGameName && b.question === question
+            );
+            if (isBookmarked) {
+                bookmarkBtn.classList.add('bookmarked');
+                bookmarkBtn.innerHTML = '⭐ 已收藏';
+            } else {
+                bookmarkBtn.classList.remove('bookmarked');
+                bookmarkBtn.innerHTML = '⭐ 收藏';
+            }
+            
+            // 更新遊戲資訊卡
+            const gameInfo = findGameInDatabase(gameName);
+            if (gameInfo) {
+                updateGameInfoCard(
+                    gameInfo.name,
+                    gameInfo.platform,
+                    gameInfo.category,
+                    gameInfo.icon
+                );
+            } else {
+                updateGameInfoCard(
+                    gameName,
+                    platformDisplayName,
+                    '遊戲',
+                    '🎮'
+                );
+            }
+            
+            // 生成目錄
+            generateTOC();
+            
             resultSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }
+        
+        // Find game in database
+        function findGameInDatabase(gameName) {
+            const normalizedName = gameName.toLowerCase().trim();
+            return gameDatabase.find(game => {
+                if (game.name.toLowerCase() === normalizedName) return true;
+                if (game.alias && game.alias.some(a => a.toLowerCase() === normalizedName)) return true;
+                return false;
+            });
         }
 
         // Enhanced Markdown Parser with Table Support

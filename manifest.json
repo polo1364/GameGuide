@@ -1,0 +1,20 @@
+{
+  "name": "GameMaster 攻略大師",
+  "short_name": "攻略大師",
+  "description": "AI 驅動的遊戲攻略生成器",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#2d2416",
+  "theme_color": "#4a7c59",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%234a7c59' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>🎮</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["games", "utilities"],
+  "lang": "zh-TW"
+}
