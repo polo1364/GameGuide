@@ -1317,7 +1317,7 @@
         .font-controls {
             position: fixed;
             top: 1.5rem;
-            right: 5rem;
+            right: 9rem;
             display: flex;
             gap: 0.5rem;
             z-index: 100;
@@ -1341,7 +1341,7 @@
         .theme-toggle {
             position: fixed;
             top: 1.5rem;
-            right: 1rem;
+            right: 5rem;
             z-index: 100;
         }
 
@@ -1798,9 +1798,9 @@
             }
 
             .theme-toggle {
-                top: auto;
-                bottom: 1.5rem;
-                right: 4rem;
+                top: 1.5rem;
+                bottom: auto;
+                right: 5rem;
             }
 
             .followup-container {
@@ -2249,10 +2249,244 @@
     </div>
 
     <script>
+        // ==================== IndexedDB 封裝 ====================
+        const DB_NAME = 'GameMasterDB';
+        const DB_VERSION = 1;
+        let db = null;
+
+        // 初始化 IndexedDB
+        function initDB() {
+            return new Promise((resolve, reject) => {
+                const request = indexedDB.open(DB_NAME, DB_VERSION);
+                
+                request.onerror = () => {
+                    console.error('IndexedDB 開啟失敗:', request.error);
+                    reject(request.error);
+                };
+                
+                request.onsuccess = () => {
+                    db = request.result;
+                    console.log('IndexedDB 連接成功');
+                    resolve(db);
+                };
+                
+                request.onupgradeneeded = (event) => {
+                    const database = event.target.result;
+                    
+                    // 設定存儲（API Key、主題、字體大小等）
+                    if (!database.objectStoreNames.contains('settings')) {
+                        database.createObjectStore('settings', { keyPath: 'key' });
+                    }
+                    
+                    // 書籤存儲
+                    if (!database.objectStoreNames.contains('bookmarks')) {
+                        const bookmarkStore = database.createObjectStore('bookmarks', { keyPath: 'id', autoIncrement: true });
+                        bookmarkStore.createIndex('gameName', 'gameName', { unique: false });
+                        bookmarkStore.createIndex('timestamp', 'timestamp', { unique: false });
+                    }
+                    
+                    // 攻略歷史存儲
+                    if (!database.objectStoreNames.contains('history')) {
+                        const historyStore = database.createObjectStore('history', { keyPath: 'id', autoIncrement: true });
+                        historyStore.createIndex('gameName', 'gameName', { unique: false });
+                        historyStore.createIndex('timestamp', 'timestamp', { unique: false });
+                    }
+                    
+                    console.log('IndexedDB 結構升級完成');
+                };
+            });
+        }
+
+        // 儲存設定
+        async function saveSetting(key, value) {
+            if (!db) await initDB();
+            return new Promise((resolve, reject) => {
+                try {
+                    const tx = db.transaction('settings', 'readwrite');
+                    const store = tx.objectStore('settings');
+                    store.put({ key, value });
+                    tx.oncomplete = () => resolve();
+                    tx.onerror = () => reject(tx.error);
+                } catch (e) {
+                    // 回退到 localStorage
+                    localStorage.setItem(key, typeof value === 'object' ? JSON.stringify(value) : value);
+                    resolve();
+                }
+            });
+        }
+
+        // 讀取設定
+        async function getSetting(key, defaultValue = null) {
+            if (!db) {
+                try {
+                    await initDB();
+                } catch (e) {
+                    // 回退到 localStorage
+                    const val = localStorage.getItem(key);
+                    if (val === null) return defaultValue;
+                    try { return JSON.parse(val); } catch { return val; }
+                }
+            }
+            return new Promise((resolve) => {
+                try {
+                    const tx = db.transaction('settings', 'readonly');
+                    const store = tx.objectStore('settings');
+                    const request = store.get(key);
+                    request.onsuccess = () => {
+                        if (request.result) {
+                            resolve(request.result.value);
+                        } else {
+                            // 嘗試從 localStorage 遷移
+                            const oldVal = localStorage.getItem(key);
+                            if (oldVal !== null) {
+                                let val;
+                                try { val = JSON.parse(oldVal); } catch { val = oldVal; }
+                                saveSetting(key, val); // 遷移到 IndexedDB
+                                resolve(val);
+                            } else {
+                                resolve(defaultValue);
+                            }
+                        }
+                    };
+                    request.onerror = () => resolve(defaultValue);
+                } catch (e) {
+                    resolve(defaultValue);
+                }
+            });
+        }
+
+        // 儲存書籤
+        async function saveBookmark(bookmark) {
+            if (!db) await initDB();
+            return new Promise((resolve, reject) => {
+                try {
+                    const tx = db.transaction('bookmarks', 'readwrite');
+                    const store = tx.objectStore('bookmarks');
+                    const request = store.add(bookmark);
+                    request.onsuccess = () => resolve(request.result);
+                    tx.onerror = () => reject(tx.error);
+                } catch (e) {
+                    reject(e);
+                }
+            });
+        }
+
+        // 刪除書籤
+        async function deleteBookmarkDB(id) {
+            if (!db) await initDB();
+            return new Promise((resolve, reject) => {
+                try {
+                    const tx = db.transaction('bookmarks', 'readwrite');
+                    const store = tx.objectStore('bookmarks');
+                    store.delete(id);
+                    tx.oncomplete = () => resolve();
+                    tx.onerror = () => reject(tx.error);
+                } catch (e) {
+                    reject(e);
+                }
+            });
+        }
+
+        // 獲取所有書籤
+        async function getAllBookmarks() {
+            if (!db) {
+                try {
+                    await initDB();
+                } catch (e) {
+                    // 回退到 localStorage
+                    return JSON.parse(localStorage.getItem('game_bookmarks') || '[]');
+                }
+            }
+            return new Promise((resolve) => {
+                try {
+                    const tx = db.transaction('bookmarks', 'readonly');
+                    const store = tx.objectStore('bookmarks');
+                    const request = store.getAll();
+                    request.onsuccess = () => {
+                        let results = request.result || [];
+                        // 如果 IndexedDB 是空的，嘗試從 localStorage 遷移
+                        if (results.length === 0) {
+                            const oldBookmarks = localStorage.getItem('game_bookmarks');
+                            if (oldBookmarks) {
+                                try {
+                                    const parsed = JSON.parse(oldBookmarks);
+                                    if (parsed.length > 0) {
+                                        // 遷移到 IndexedDB
+                                        migrateBookmarksToIndexedDB(parsed);
+                                        results = parsed;
+                                    }
+                                } catch (e) {}
+                            }
+                        }
+                        // 按時間戳排序（最新的在前）
+                        results.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+                        resolve(results);
+                    };
+                    request.onerror = () => resolve([]);
+                } catch (e) {
+                    resolve([]);
+                }
+            });
+        }
+
+        // 遷移書籤到 IndexedDB
+        async function migrateBookmarksToIndexedDB(bookmarks) {
+            for (const bookmark of bookmarks) {
+                try {
+                    await saveBookmark(bookmark);
+                } catch (e) {}
+            }
+            console.log('書籤已遷移到 IndexedDB');
+        }
+
+        // 儲存歷史記錄
+        async function saveHistory(historyItem) {
+            if (!db) await initDB();
+            return new Promise((resolve, reject) => {
+                try {
+                    const tx = db.transaction('history', 'readwrite');
+                    const store = tx.objectStore('history');
+                    const request = store.add(historyItem);
+                    request.onsuccess = () => resolve(request.result);
+                    tx.onerror = () => reject(tx.error);
+                } catch (e) {
+                    reject(e);
+                }
+            });
+        }
+
+        // 獲取歷史記錄
+        async function getHistory(limit = 50) {
+            if (!db) await initDB();
+            return new Promise((resolve) => {
+                try {
+                    const tx = db.transaction('history', 'readonly');
+                    const store = tx.objectStore('history');
+                    const index = store.index('timestamp');
+                    const request = index.openCursor(null, 'prev');
+                    const results = [];
+                    
+                    request.onsuccess = (event) => {
+                        const cursor = event.target.result;
+                        if (cursor && results.length < limit) {
+                            results.push(cursor.value);
+                            cursor.continue();
+                        } else {
+                            resolve(results);
+                        }
+                    };
+                    request.onerror = () => resolve([]);
+                } catch (e) {
+                    resolve([]);
+                }
+            });
+        }
+
+        // ==================== 應用狀態 ====================
         // State
         let detectedPlatform = null;
         let detectedPlatformRaw = null;
-        let apiKey = localStorage.getItem('gemini_api_key') || '';
+        let apiKey = '';
         let conversationHistory = [];
         let currentGameName = '';
         let currentPlatform = '';
@@ -2260,8 +2494,8 @@
         const fontSizeClasses = ['font-small', 'font-medium', 'font-large', 'font-xlarge'];
         
         // Bookmark and theme state
-        let bookmarks = JSON.parse(localStorage.getItem('game_bookmarks') || '[]');
-        let currentTheme = localStorage.getItem('theme') || 'light';
+        let bookmarks = [];
+        let currentTheme = 'light';
         let currentGuideData = null; // 儲存當前攻略資料
         let currentGameInfo = null; // 儲存當前遊戲資訊
 
@@ -2487,22 +2721,34 @@
 
         // Initialize
         document.addEventListener('DOMContentLoaded', async () => {
+            // 初始化 IndexedDB
+            try {
+                await initDB();
+                console.log('IndexedDB 初始化成功');
+            } catch (e) {
+                console.warn('IndexedDB 初始化失敗，使用 localStorage 作為備援');
+            }
+            
+            // 載入 API Key
+            apiKey = await getSetting('gemini_api_key', '');
             if (!apiKey) {
                 setTimeout(() => openModal(), 500);
             }
             document.getElementById('apiKey').value = apiKey;
             
-            // Load font size preference
-            const savedFontSize = localStorage.getItem('guide_font_size');
+            // 載入字體大小偏好
+            const savedFontSize = await getSetting('guide_font_size', 1);
             if (savedFontSize !== null) {
                 fontSizeLevel = parseInt(savedFontSize);
                 updateFontSize();
             }
             
-            // Initialize theme
+            // 載入主題設定
+            currentTheme = await getSetting('theme', 'light');
             initTheme();
             
-            // Initialize bookmarks
+            // 載入書籤
+            bookmarks = await getAllBookmarks();
             renderBookmarks();
             
             // Load game database from JSON
@@ -2602,11 +2848,13 @@
             deferredPrompt = e;
             
             // Check if user previously dismissed
-            if (!localStorage.getItem('pwa_dismissed')) {
-                setTimeout(() => {
-                    document.getElementById('pwaInstallBanner').style.display = 'flex';
-                }, 3000);
-            }
+            getSetting('pwa_dismissed', false).then(dismissed => {
+                if (!dismissed) {
+                    setTimeout(() => {
+                        document.getElementById('pwaInstallBanner').style.display = 'flex';
+                    }, 3000);
+                }
+            });
         });
         
         function installPWA() {
@@ -2624,7 +2872,7 @@
         
         function dismissPWABanner() {
             document.getElementById('pwaInstallBanner').style.display = 'none';
-            localStorage.setItem('pwa_dismissed', 'true');
+            saveSetting('pwa_dismissed', true);
         }
         
         // Detect if app is installed
@@ -2653,7 +2901,7 @@
                 document.documentElement.removeAttribute('data-theme');
                 btn.textContent = '🌙';
             }
-            localStorage.setItem('theme', currentTheme);
+            saveSetting('theme', currentTheme);
         }
         
         // Floating Panel functions
@@ -2671,34 +2919,48 @@
         }
         
         // Bookmark functions
-        function toggleBookmark() {
+        async function toggleBookmark() {
             if (!currentGuideData) return;
             
-            const id = `${currentGameName}_${currentPlatform}_${Date.now()}`;
             const existingIndex = bookmarks.findIndex(b => 
                 b.gameName === currentGameName && b.question === currentGuideData.question
             );
             
             if (existingIndex >= 0) {
+                // 刪除書籤
+                const bookmarkToDelete = bookmarks[existingIndex];
+                if (bookmarkToDelete.id) {
+                    await deleteBookmarkDB(bookmarkToDelete.id);
+                }
                 bookmarks.splice(existingIndex, 1);
                 document.getElementById('bookmarkBtn').classList.remove('bookmarked');
                 document.getElementById('bookmarkBtn').innerHTML = '⭐ 收藏';
                 showToast('已取消收藏');
             } else {
-                bookmarks.push({
-                    id: id,
+                // 新增書籤
+                const newBookmark = {
                     gameName: currentGameName,
                     platform: currentPlatform,
                     question: currentGuideData.question,
                     content: currentGuideData.content,
                     timestamp: new Date().toISOString()
-                });
+                };
+                
+                try {
+                    const newId = await saveBookmark(newBookmark);
+                    newBookmark.id = newId;
+                    bookmarks.unshift(newBookmark);
+                } catch (e) {
+                    // 回退到記憶體
+                    newBookmark.id = Date.now();
+                    bookmarks.unshift(newBookmark);
+                }
+                
                 document.getElementById('bookmarkBtn').classList.add('bookmarked');
                 document.getElementById('bookmarkBtn').innerHTML = '⭐ 已收藏';
                 showToast('已加入收藏');
             }
             
-            localStorage.setItem('game_bookmarks', JSON.stringify(bookmarks));
             renderBookmarks();
         }
         
@@ -2767,9 +3029,16 @@
             document.getElementById('resultSection').scrollIntoView({ behavior: 'smooth' });
         }
         
-        function deleteBookmark(index) {
+        async function deleteBookmark(index) {
+            const bookmarkToDelete = bookmarks[index];
+            if (bookmarkToDelete && bookmarkToDelete.id) {
+                try {
+                    await deleteBookmarkDB(bookmarkToDelete.id);
+                } catch (e) {
+                    console.warn('從 IndexedDB 刪除書籤失敗:', e);
+                }
+            }
             bookmarks.splice(index, 1);
-            localStorage.setItem('game_bookmarks', JSON.stringify(bookmarks));
             renderBookmarks();
             showToast('已刪除收藏');
         }
@@ -3388,7 +3657,7 @@
         function changeFontSize(delta) {
             fontSizeLevel = Math.max(0, Math.min(3, fontSizeLevel + delta));
             updateFontSize();
-            localStorage.setItem('guide_font_size', fontSizeLevel);
+            saveSetting('guide_font_size', fontSizeLevel);
             showToast(`📏 字體大小：${['小', '中', '大', '特大'][fontSizeLevel]}`);
         }
 
@@ -3410,11 +3679,11 @@
             document.getElementById('apiModal').classList.remove('active');
         }
 
-        function saveApiKey() {
+        async function saveApiKey() {
             const key = document.getElementById('apiKey').value.trim();
             if (key) {
                 apiKey = key;
-                localStorage.setItem('gemini_api_key', key);
+                await saveSetting('gemini_api_key', key);
                 closeModal();
                 showToast('✅ API Key 已儲存');
             } else {
