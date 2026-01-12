@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="version" content="4.0.1">
+    <meta name="version" content="4.1.0">
     <title>GameMaster 攻略大師 | 遊戲攻略生成器</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4a7c59">
@@ -728,13 +728,566 @@
             padding: 0 0.5rem;
         }
 
-        /* 警告/提示區塊 */
-        .result-content .tip-block {
-            background: linear-gradient(135deg, rgba(91, 206, 250, 0.1), rgba(0, 212, 170, 0.1));
-            border-left: 4px solid var(--sheikah-blue);
-            padding: 1rem 1.5rem;
+        /* ========== 專業攻略本樣式 ========== */
+        
+        /* 提示框基礎樣式 */
+        .result-content .guide-box {
+            position: relative;
+            padding: 1.2rem 1.5rem 1.2rem 3.5rem;
             margin: 1.5rem 0;
-            border-radius: 0 8px 8px 0;
+            border-radius: 10px;
+            border-left: 4px solid;
+            box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+        }
+
+        .result-content .guide-box::before {
+            position: absolute;
+            left: 1rem;
+            top: 1.2rem;
+            font-size: 1.3rem;
+        }
+
+        .result-content .guide-box-title {
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: 0.95rem;
+            margin-bottom: 0.5rem;
+            letter-spacing: 0.5px;
+        }
+
+        /* 💡 小提示 (TIP) */
+        .result-content .guide-tip {
+            background: linear-gradient(135deg, #e3f2fd 0%, #f3e5f5 100%);
+            border-color: #2196f3;
+        }
+
+        .result-content .guide-tip::before {
+            content: '💡';
+        }
+
+        .result-content .guide-tip .guide-box-title {
+            color: #1565c0;
+        }
+
+        /* ⚠️ 注意事項 (WARNING) */
+        .result-content .guide-warning {
+            background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+            border-color: #ff9800;
+        }
+
+        .result-content .guide-warning::before {
+            content: '⚠️';
+        }
+
+        .result-content .guide-warning .guide-box-title {
+            color: #e65100;
+        }
+
+        /* ❗ 重要提醒 (IMPORTANT) */
+        .result-content .guide-important {
+            background: linear-gradient(135deg, #ffebee 0%, #fce4ec 100%);
+            border-color: #f44336;
+        }
+
+        .result-content .guide-important::before {
+            content: '❗';
+        }
+
+        .result-content .guide-important .guide-box-title {
+            color: #c62828;
+        }
+
+        /* ✅ 成功/完成 (SUCCESS) */
+        .result-content .guide-success {
+            background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+            border-color: #4caf50;
+        }
+
+        .result-content .guide-success::before {
+            content: '✅';
+        }
+
+        .result-content .guide-success .guide-box-title {
+            color: #2e7d32;
+        }
+
+        /* 📌 備註 (NOTE) */
+        .result-content .guide-note {
+            background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+            border-color: #9c27b0;
+        }
+
+        .result-content .guide-note::before {
+            content: '📌';
+        }
+
+        .result-content .guide-note .guide-box-title {
+            color: #7b1fa2;
+        }
+
+        /* 🎮 遊戲秘訣 (SECRET) */
+        .result-content .guide-secret {
+            background: linear-gradient(135deg, rgba(212, 164, 48, 0.15) 0%, rgba(245, 166, 35, 0.15) 100%);
+            border-color: var(--triforce-gold);
+        }
+
+        .result-content .guide-secret::before {
+            content: '🎮';
+        }
+
+        .result-content .guide-secret .guide-box-title {
+            color: #b8860b;
+        }
+
+        /* 深色模式提示框 */
+        [data-theme="dark"] .result-content .guide-tip {
+            background: linear-gradient(135deg, rgba(33, 150, 243, 0.15) 0%, rgba(156, 39, 176, 0.1) 100%);
+        }
+
+        [data-theme="dark"] .result-content .guide-warning {
+            background: linear-gradient(135deg, rgba(255, 152, 0, 0.15) 0%, rgba(255, 193, 7, 0.1) 100%);
+        }
+
+        [data-theme="dark"] .result-content .guide-important {
+            background: linear-gradient(135deg, rgba(244, 67, 54, 0.15) 0%, rgba(233, 30, 99, 0.1) 100%);
+        }
+
+        [data-theme="dark"] .result-content .guide-success {
+            background: linear-gradient(135deg, rgba(76, 175, 80, 0.15) 0%, rgba(139, 195, 74, 0.1) 100%);
+        }
+
+        [data-theme="dark"] .result-content .guide-note {
+            background: linear-gradient(135deg, rgba(156, 39, 176, 0.15) 0%, rgba(103, 58, 183, 0.1) 100%);
+        }
+
+        [data-theme="dark"] .result-content .guide-secret {
+            background: linear-gradient(135deg, rgba(212, 164, 48, 0.2) 0%, rgba(255, 193, 7, 0.1) 100%);
+        }
+
+        /* ========== 步驟指示器 ========== */
+        .result-content .guide-steps {
+            counter-reset: step-counter;
+            list-style: none;
+            padding-left: 0;
+            margin: 2rem 0;
+        }
+
+        .result-content .guide-steps > li {
+            position: relative;
+            padding: 1.2rem 1.5rem 1.2rem 4rem;
+            margin-bottom: 1rem;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(244, 232, 211, 0.7));
+            border-radius: 10px;
+            border: 2px solid var(--border-ancient);
+            counter-increment: step-counter;
+            transition: all 0.3s ease;
+        }
+
+        .result-content .guide-steps > li::before {
+            content: counter(step-counter);
+            position: absolute;
+            left: -0.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 2.5rem;
+            height: 2.5rem;
+            background: linear-gradient(135deg, var(--hyrule-green), #3a6349);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            font-size: 1.1rem;
+            box-shadow: 0 3px 10px rgba(74, 124, 89, 0.4);
+            border: 3px solid white;
+        }
+
+        .result-content .guide-steps > li:hover {
+            transform: translateX(5px);
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            border-color: var(--hyrule-green);
+        }
+
+        [data-theme="dark"] .result-content .guide-steps > li {
+            background: linear-gradient(135deg, rgba(26, 26, 46, 0.8), rgba(22, 33, 62, 0.6));
+        }
+
+        /* ========== 材料/道具清單 ========== */
+        .result-content .item-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 1rem;
+            margin: 1.5rem 0;
+            list-style: none;
+            padding: 0;
+        }
+
+        .result-content .item-list li {
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+            padding: 0.8rem 1rem;
+            background: linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(244, 232, 211, 0.9));
+            border-radius: 8px;
+            border: 2px solid var(--border-ancient);
+            transition: all 0.3s ease;
+        }
+
+        .result-content .item-list li::before {
+            content: '📦';
+            font-size: 1.2rem;
+        }
+
+        .result-content .item-list li:hover {
+            transform: scale(1.03);
+            box-shadow: 0 4px 12px rgba(212, 164, 48, 0.2);
+            border-color: var(--triforce-gold);
+        }
+
+        [data-theme="dark"] .result-content .item-list li {
+            background: linear-gradient(135deg, rgba(26, 26, 46, 0.9), rgba(22, 33, 62, 0.7));
+        }
+
+        /* ========== Boss/敵人資訊卡 ========== */
+        .result-content .boss-card {
+            background: linear-gradient(145deg, #2d2416 0%, #1a1410 100%);
+            border-radius: 16px;
+            padding: 0;
+            margin: 2rem 0;
+            overflow: hidden;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.1);
+            border: 3px solid var(--triforce-gold);
+        }
+
+        .result-content .boss-card-header {
+            background: linear-gradient(135deg, var(--heart-red) 0%, #c0392b 100%);
+            padding: 1rem 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .result-content .boss-card-header::before {
+            content: '👹';
+            font-size: 1.8rem;
+        }
+
+        .result-content .boss-card-name {
+            font-family: 'Cinzel', serif;
+            font-size: 1.4rem;
+            color: white;
+            font-weight: 700;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .result-content .boss-card-body {
+            padding: 1.5rem;
+            color: #f4e8d3;
+        }
+
+        .result-content .boss-stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .result-content .boss-stat {
+            text-align: center;
+            padding: 1rem;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+            border: 1px solid rgba(212, 164, 48, 0.3);
+        }
+
+        .result-content .boss-stat-label {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: rgba(244, 232, 211, 0.7);
+            margin-bottom: 0.3rem;
+        }
+
+        .result-content .boss-stat-value {
+            font-family: 'Cinzel', serif;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: var(--triforce-gold);
+        }
+
+        /* ========== 技能/能力卡片 ========== */
+        .result-content .skill-card {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem;
+            margin: 1rem 0;
+            background: linear-gradient(135deg, rgba(91, 206, 250, 0.1), rgba(0, 212, 170, 0.05));
+            border-radius: 10px;
+            border: 2px solid rgba(91, 206, 250, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .result-content .skill-card:hover {
+            border-color: var(--sheikah-blue);
+            box-shadow: 0 0 15px rgba(91, 206, 250, 0.2);
+        }
+
+        .result-content .skill-icon {
+            width: 50px;
+            height: 50px;
+            background: linear-gradient(135deg, var(--sheikah-blue), var(--sheikah-glow));
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            flex-shrink: 0;
+        }
+
+        .result-content .skill-info {
+            flex: 1;
+        }
+
+        .result-content .skill-name {
+            font-family: 'Cinzel', serif;
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 0.3rem;
+        }
+
+        .result-content .skill-desc {
+            font-size: 0.9rem;
+            color: #6a5a4a;
+            line-height: 1.5;
+        }
+
+        [data-theme="dark"] .result-content .skill-card {
+            background: linear-gradient(135deg, rgba(91, 206, 250, 0.1), rgba(0, 212, 170, 0.05));
+        }
+
+        [data-theme="dark"] .result-content .skill-name {
+            color: var(--text-dark);
+        }
+
+        [data-theme="dark"] .result-content .skill-desc {
+            color: rgba(232, 232, 240, 0.8);
+        }
+
+        /* ========== 章節分隔線 ========== */
+        .result-content .section-divider {
+            display: flex;
+            align-items: center;
+            margin: 2.5rem 0;
+            gap: 1rem;
+        }
+
+        .result-content .section-divider::before,
+        .result-content .section-divider::after {
+            content: '';
+            flex: 1;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--border-ancient), transparent);
+        }
+
+        .result-content .section-divider-icon {
+            font-size: 1.5rem;
+            color: var(--triforce-gold);
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.1); }
+        }
+
+        /* ========== 美化標題樣式 ========== */
+        .result-content h1 {
+            position: relative;
+            padding: 1rem 1.5rem;
+            background: linear-gradient(135deg, var(--hyrule-green) 0%, #2d5a3d 100%);
+            color: white !important;
+            border-radius: 10px;
+            margin: 2.5rem 0 1.5rem;
+            box-shadow: 0 4px 15px rgba(74, 124, 89, 0.3);
+        }
+
+        .result-content h1::before {
+            content: '📖 ';
+        }
+
+        .result-content h2 {
+            position: relative;
+            padding: 0.8rem 0 0.8rem 1.5rem;
+            border-left: 4px solid var(--triforce-gold);
+            border-bottom: 2px solid var(--border-ancient);
+            background: linear-gradient(90deg, rgba(212, 164, 48, 0.1), transparent);
+        }
+
+        .result-content h2::before {
+            content: '▶ ';
+            color: var(--triforce-gold);
+        }
+
+        .result-content h3 {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+            padding: 0.5rem 1rem;
+            background: rgba(74, 124, 89, 0.1);
+            border-radius: 20px;
+            margin: 1.5rem 0 1rem;
+        }
+
+        .result-content h3::before {
+            content: '◆';
+            color: var(--hyrule-green);
+            font-size: 0.8em;
+        }
+
+        /* ========== 優化列表樣式 ========== */
+        .result-content ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .result-content ul > li {
+            position: relative;
+            padding: 0.6rem 0 0.6rem 2rem;
+            border-bottom: 1px dashed rgba(212, 164, 48, 0.2);
+        }
+
+        .result-content ul > li:last-child {
+            border-bottom: none;
+        }
+
+        .result-content ul > li::before {
+            content: '▪';
+            position: absolute;
+            left: 0.5rem;
+            color: var(--triforce-gold);
+            font-size: 1.2rem;
+        }
+
+        .result-content ol {
+            counter-reset: custom-counter;
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .result-content ol > li {
+            position: relative;
+            padding: 0.8rem 0 0.8rem 3rem;
+            counter-increment: custom-counter;
+            border-left: 2px solid var(--border-ancient);
+            margin-left: 1rem;
+        }
+
+        .result-content ol > li::before {
+            content: counter(custom-counter);
+            position: absolute;
+            left: -1.25rem;
+            top: 0.8rem;
+            width: 2rem;
+            height: 2rem;
+            background: var(--hyrule-green);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 0.85rem;
+            box-shadow: 0 2px 8px rgba(74, 124, 89, 0.3);
+        }
+
+        /* ========== 引言美化 ========== */
+        .result-content blockquote {
+            position: relative;
+            padding: 1.5rem 2rem;
+            margin: 2rem 0;
+            background: linear-gradient(135deg, rgba(244, 232, 211, 0.5), rgba(255, 255, 255, 0.3));
+            border-left: none;
+            border-radius: 12px;
+            box-shadow: inset 0 0 0 2px var(--border-ancient);
+        }
+
+        .result-content blockquote::before {
+            content: '"';
+            position: absolute;
+            top: -10px;
+            left: 20px;
+            font-size: 4rem;
+            font-family: Georgia, serif;
+            color: var(--triforce-gold);
+            opacity: 0.5;
+            line-height: 1;
+        }
+
+        .result-content blockquote::after {
+            content: '— 攻略提示';
+            display: block;
+            margin-top: 1rem;
+            text-align: right;
+            font-size: 0.85rem;
+            color: var(--hyrule-green);
+            font-style: normal;
+        }
+
+        [data-theme="dark"] .result-content blockquote {
+            background: linear-gradient(135deg, rgba(26, 26, 46, 0.5), rgba(22, 33, 62, 0.3));
+        }
+
+        /* ========== 程式碼區塊美化 ========== */
+        .result-content pre {
+            position: relative;
+            background: linear-gradient(180deg, #1e1e2e 0%, #11111b 100%);
+            border-radius: 12px;
+            padding: 0;
+            overflow: hidden;
+            border: 2px solid #313244;
+        }
+
+        .result-content pre::before {
+            content: '指令 / 代碼';
+            display: block;
+            padding: 0.6rem 1rem;
+            background: #313244;
+            color: #cdd6f4;
+            font-size: 0.8rem;
+            font-family: 'Noto Sans TC', sans-serif;
+            border-bottom: 1px solid #45475a;
+        }
+
+        .result-content pre code {
+            display: block;
+            padding: 1.2rem 1.5rem;
+            overflow-x: auto;
+            color: #cdd6f4;
+            font-size: 0.9rem;
+            line-height: 1.6;
+        }
+
+        /* ========== 行內代碼美化 ========== */
+        .result-content code {
+            background: linear-gradient(135deg, rgba(91, 206, 250, 0.15), rgba(0, 212, 170, 0.1));
+            color: #0d9488;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            font-size: 0.9em;
+            border: 1px solid rgba(91, 206, 250, 0.3);
+        }
+
+        [data-theme="dark"] .result-content code {
+            background: linear-gradient(135deg, rgba(91, 206, 250, 0.2), rgba(0, 212, 170, 0.15));
+            color: var(--sheikah-blue);
+        }
+
+        /* ========== 表格標題圖標 ========== */
+        .result-content th .th-icon {
+            margin-right: 0.5rem;
         }
 
         .result-content .warning-block {
@@ -2724,7 +3277,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.0.2';
+        const APP_VERSION = '4.1.0';
         
         // 強制清除舊快取
         async function clearOldCaches() {
@@ -3831,45 +4384,101 @@
 遊戲：${gameName}
 問題：${question}
 
-【回答格式要求 - 必須遵守】
+【回答格式要求 - 必須嚴格遵守以下專業格式】
 
-1. **善用表格呈現數據**：當涉及以下情況時，必須使用 Markdown 表格格式：
-   - 道具/裝備比較（名稱、效果、取得方式）
-   - Boss/敵人資料（HP、弱點、掉落物）
-   - 材料清單（名稱、數量、位置）
-   - 技能/屬性數值
-   - 任務獎勵
-   
-   表格範例：
-   | 道具名稱 | 效果 | 取得位置 |
-   |---------|------|---------|
-   | XXX | YYY | ZZZ |
+## 🎯 必用格式元素
 
-2. **詳細步驟說明**：如果問題涉及任何操作流程（如打 Boss、解謎、完成任務、取得道具等），必須提供編號的逐步指南：
-   1. [具體操作]
-   2. [具體操作]
-   3. 以此類推...
-   
-3. **前置條件**：使用表格說明執行前需要準備什麼
-   | 項目 | 建議 |
-   |-----|-----|
-   | 等級 | XX |
-   | 裝備 | XX |
-   | 道具 | XX |
+### 1. 善用表格呈現數據
+當涉及以下情況時，必須使用 Markdown 表格格式：
+- 道具/裝備比較、Boss/敵人資料、材料清單、技能數值、任務獎勵
 
-4. **具體位置**：如涉及地點，請說明詳細位置（地圖名稱、座標、地標參考）
+表格範例：
+| 道具名稱 | 效果 | 取得位置 |
+|---------|------|---------|
+| XXX | YYY | ZZZ |
 
-5. **操作技巧**：
-   - 按鍵/手把操作說明
-   - 時機把握要點
-   - 常見失敗原因與解決方法
+### 2. 詳細步驟說明
+操作流程必須使用編號列表，每個步驟都要具體清晰：
+1. 第一步操作
+2. 第二步操作
+3. 以此類推...
 
-6. **注意事項**：
-   - 可能遇到的陷阱或敵人
-   - 推薦的策略或配裝
-   - 替代方案（如果有的話）
+### 3. 專業提示框（非常重要！請積極使用）
+在適當的地方使用以下提示框語法，讓攻略更人性化：
 
-請使用繁體中文回答，積極使用 Markdown 表格來整理數據，使用 ## 標題、數字列表步驟、**粗體**重點，確保內容針對 ${platformDisplayName} 平台版本。`;
+**💡 小提示框**（分享實用技巧時使用）：
+> [TIP] 這裡放小提示內容，例如：推薦先完成 XX 支線任務獲得強力裝備
+
+**⚠️ 注意框**（警告玩家容易犯錯的地方）：
+> [WARNING] 這裡放注意事項，例如：此 Boss 會在 50% HP 時進入狂暴模式
+
+**❗ 重要框**（關鍵資訊不可錯過）：
+> [IMPORTANT] 這裡放重要提醒，例如：此道具每週只能獲得一次
+
+**✅ 成功框**（完成階段或獎勵說明）：
+> [SUCCESS] 恭喜完成！獲得獎勵：XXX
+
+**📌 備註框**（補充說明）：
+> [NOTE] 備註資訊，例如：此方法適用於 1.5 版本以上
+
+**🎮 秘訣框**（進階技巧或隱藏內容）：
+> [SECRET] 隱藏秘訣，例如：連續迴避 3 次可觸發無敵幀
+
+### 4. 章節分隔
+用 --- 來分隔不同章節，增加閱讀節奏感
+
+### 5. 前置條件表格
+| 項目 | 建議 |
+|-----|-----|
+| 等級 | XX |
+| 裝備 | XX |
+| 道具 | XX |
+
+### 6. 操作技巧
+- 使用 \`按鍵名稱\` 標記具體按鍵
+- 說明時機把握要點
+- 列出常見失敗原因與解決方法
+
+## 📝 格式範例
+
+# 攻略標題
+
+## 前言
+簡短介紹...
+
+> [TIP] 開始前建議先準備 XXX
+
+---
+
+## 準備階段
+
+| 項目 | 建議 |
+|-----|-----|
+| 等級 | 50+ |
+
+---
+
+## 詳細步驟
+
+1. 前往 XXX 地點
+2. 與 NPC 對話
+3. 完成任務
+
+> [WARNING] 注意敵人的攻擊範圍
+
+> [SECRET] 隱藏寶箱在右側角落
+
+---
+
+## 獎勵
+
+| 獎勵 | 數量 |
+|-----|-----|
+| 金幣 | 5000 |
+
+> [SUCCESS] 恭喜完成！
+
+請使用繁體中文回答，**必須積極使用上述提示框語法**，讓攻略更專業、更人性化。確保內容針對 ${platformDisplayName} 平台版本。`;
 
             try {
                 const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`, {
@@ -4323,7 +4932,41 @@ ${followupQuestion}
             // 解析Markdown表格
             html = parseMarkdownTables(html);
 
-            // Headers
+            // ========== 專業攻略框解析 ==========
+            // 💡 小提示 [TIP]
+            html = html.replace(/&gt;\s*\[TIP\]\s*([\s\S]*?)(?=\n\n|$)/gm, function(match, content) {
+                return createGuideBox('tip', '小提示', content.trim());
+            });
+            
+            // ⚠️ 注意 [WARNING]
+            html = html.replace(/&gt;\s*\[WARNING\]\s*([\s\S]*?)(?=\n\n|$)/gm, function(match, content) {
+                return createGuideBox('warning', '注意事項', content.trim());
+            });
+            
+            // ❗ 重要 [IMPORTANT]
+            html = html.replace(/&gt;\s*\[IMPORTANT\]\s*([\s\S]*?)(?=\n\n|$)/gm, function(match, content) {
+                return createGuideBox('important', '重要提醒', content.trim());
+            });
+            
+            // ✅ 成功 [SUCCESS]
+            html = html.replace(/&gt;\s*\[SUCCESS\]\s*([\s\S]*?)(?=\n\n|$)/gm, function(match, content) {
+                return createGuideBox('success', '完成！', content.trim());
+            });
+            
+            // 📌 備註 [NOTE]
+            html = html.replace(/&gt;\s*\[NOTE\]\s*([\s\S]*?)(?=\n\n|$)/gm, function(match, content) {
+                return createGuideBox('note', '備註', content.trim());
+            });
+            
+            // 🎮 秘訣 [SECRET]
+            html = html.replace(/&gt;\s*\[SECRET\]\s*([\s\S]*?)(?=\n\n|$)/gm, function(match, content) {
+                return createGuideBox('secret', '遊戲秘訣', content.trim());
+            });
+
+            // 章節分隔線 ---
+            html = html.replace(/^---$/gm, '<div class="section-divider"><span class="section-divider-icon">⚔️</span></div>');
+
+            // Headers with auto icons
             html = html.replace(/^### (.*$)/gm, '<h3>$1</h3>');
             html = html.replace(/^## (.*$)/gm, '<h2>$1</h2>');
             html = html.replace(/^# (.*$)/gm, '<h1>$1</h1>');
@@ -4333,8 +4976,8 @@ ${followupQuestion}
             html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
             html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
 
-            // Blockquotes
-            html = html.replace(/^> (.*$)/gm, '<blockquote>$1</blockquote>');
+            // Blockquotes (regular ones, not guide boxes)
+            html = html.replace(/^&gt; (.*$)/gm, '<blockquote>$1</blockquote>');
 
             // Unordered lists
             html = html.replace(/^\* (.*$)/gm, '<li>$1</li>');
@@ -4344,7 +4987,7 @@ ${followupQuestion}
             // Ordered lists
             html = html.replace(/^\d+\. (.*$)/gm, '<li>$1</li>');
 
-            // Wrap consecutive li elements in ul
+            // Wrap consecutive li elements in ul/ol
             html = html.replace(/(<li>.*<\/li>\n?)+/g, '<ul>$&</ul>');
 
             // Line breaks
@@ -4357,7 +5000,7 @@ ${followupQuestion}
             // Clean up
             html = html.replace(/<p><\/p>/g, '');
             
-            // 清理表格周圍多餘的標籤
+            // 清理各種元素周圍多餘的標籤
             html = html.replace(/<p>(<table[\s\S]*?<\/table>)<\/p>/g, '$1');
             html = html.replace(/<br>(<table)/g, '$1');
             html = html.replace(/(<\/table>)<br>/g, '$1');
@@ -4369,10 +5012,22 @@ ${followupQuestion}
             html = html.replace(/(<\/pre>)<\/p>/g, '$1');
             html = html.replace(/<p>(<blockquote>)/g, '$1');
             html = html.replace(/(<\/blockquote>)<\/p>/g, '$1');
+            html = html.replace(/<p>(<div class="guide-)/g, '$1');
+            html = html.replace(/(<\/div>)<\/p>/g, '$1');
+            html = html.replace(/<p>(<div class="section-divider)/g, '$1');
             html = html.replace(/<br><\/p>/g, '</p>');
             html = html.replace(/<p><br>/g, '<p>');
+            
+            // 合併連續的 blockquote
+            html = html.replace(/<\/blockquote><br><blockquote>/g, '<br>');
 
             return html;
+        }
+
+        // 創建專業攻略提示框
+        function createGuideBox(type, title, content) {
+            content = content.replace(/^&gt;\s*/gm, '').replace(/\n/g, '<br>');
+            return `<div class="guide-box guide-${type}"><div class="guide-box-title">${title}</div><div class="guide-box-content">${content}</div></div>`;
         }
 
         // Copy Result
