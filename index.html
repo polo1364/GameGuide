@@ -6,7 +6,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <meta name="version" content="4.3.0">
+    <meta name="version" content="4.3.1">
     <title>GameMaster 遊戲攻略助手 | AI 攻略生成器</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4a7c59">
@@ -3483,6 +3483,7 @@
             border-radius: 20px;
             background: rgba(255, 255, 255, 0.68);
             overflow: hidden;
+            scroll-margin-top: 96px;
         }
 
         .guide-section-heading {
@@ -4336,7 +4337,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.3.0';
+        const APP_VERSION = '4.3.1';
         
         // 強制清除舊快取
         async function clearOldCaches() {
@@ -5414,23 +5415,33 @@
             const content = document.getElementById('resultContent');
             if (!select || !content) return;
 
-            const headings = Array.from(content.querySelectorAll('h2'));
-            select.innerHTML = '<option value="">章節快速跳轉</option>' + headings.map((heading, index) => {
-                if (!heading.id) heading.id = `guide-section-${index}`;
-                return `<option value="${heading.id}">${escapeHtml(heading.textContent.trim())}</option>`;
+            const sections = Array.from(content.querySelectorAll('.guide-section'));
+            select.innerHTML = '<option value="">章節快速跳轉</option>' + sections.map((section, index) => {
+                if (!section.id) section.id = `guide-section-${index}`;
+                const heading = section.querySelector('h2');
+                const title = heading?.textContent.trim() || `章節 ${index + 1}`;
+                return `<option value="${section.id}">${escapeHtml(title)}</option>`;
             }).join('');
+            select.onchange = () => jumpToChapter(select.value);
         }
 
         function jumpToChapter(id) {
             if (!id) return;
-            const heading = document.getElementById(id);
-            const section = heading?.closest('.guide-section');
-            if (section?.classList.contains('collapsed')) {
+            const section = document.getElementById(id);
+            if (!section) return;
+
+            if (section.classList.contains('collapsed')) {
                 section.classList.remove('collapsed');
             }
-            heading?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+            const toolbar = document.getElementById('readingToolbar');
+            const offset = (toolbar?.offsetHeight || 0) + 24;
+            const top = section.getBoundingClientRect().top + window.scrollY - offset;
+            window.scrollTo({ top: Math.max(0, top), behavior: 'smooth' });
+
             const select = document.getElementById('chapterSelect');
             if (select) select.value = '';
+            updateReadingProgress();
         }
 
         function buildCollapsibleSections(content) {
@@ -5442,10 +5453,10 @@
 
             Array.from(content.childNodes).forEach((node) => {
                 if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'H2') {
-                    currentSection = document.createElement('section');
-                    currentSection.className = 'guide-section';
+                    const section = document.createElement('section');
+                    section.className = 'guide-section';
                     const headingText = node.textContent.trim();
-                    if (isFocusSection(headingText)) currentSection.classList.add('focus-keep');
+                    if (isFocusSection(headingText)) section.classList.add('focus-keep');
 
                     const heading = document.createElement('div');
                     heading.className = 'guide-section-heading';
@@ -5454,13 +5465,14 @@
                     toggle.className = 'section-toggle-btn';
                     toggle.textContent = '⌄';
                     toggle.title = '展開/收合章節';
-                    toggle.addEventListener('click', () => currentSection.classList.toggle('collapsed'));
+                    toggle.addEventListener('click', () => section.classList.toggle('collapsed'));
 
                     currentBody = document.createElement('div');
                     currentBody.className = 'guide-section-body';
                     heading.append(node, toggle);
-                    currentSection.append(heading, currentBody);
-                    fragment.append(currentSection);
+                    section.append(heading, currentBody);
+                    fragment.append(section);
+                    currentSection = section;
                 } else if (currentBody) {
                     currentBody.append(node);
                 } else {
