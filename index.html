@@ -6,8 +6,8 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <meta name="version" content="4.2.2">
-    <title>GameMaster 攻略大師 | 遊戲攻略生成器</title>
+    <meta name="version" content="4.2.4">
+    <title>GameMaster 遊戲攻略助手 | AI 攻略生成器</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4a7c59">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -2774,6 +2774,619 @@
                 padding: 1.5rem;
             }
         }
+
+        /* Bright gaming tech theme */
+        :root,
+        [data-theme="dark"] {
+            --sheikah-blue: #0877ff;
+            --sheikah-glow: #00b8ff;
+            --triforce-gold: #ffb703;
+            --heart-red: #d92d20;
+            --ancient-orange: #ff7a00;
+            --hyrule-green: #0b6bcb;
+            --bg-parchment: #f7fbff;
+            --bg-dark: #0f2347;
+            --bg-card: rgba(255, 255, 255, 0.92);
+            --bg-card-dark: rgba(255, 255, 255, 0.94);
+            --text-dark: #101828;
+            --text-light: #ffffff;
+            --border-ancient: rgba(8, 119, 255, 0.32);
+            --shadow-sheikah: 0 0 26px rgba(0, 184, 255, 0.28);
+            --shadow-soft: 0 18px 48px rgba(16, 24, 40, 0.14);
+            --text-secondary: #475467;
+        }
+
+        body,
+        [data-theme="dark"] body {
+            color: #101828;
+            background:
+                radial-gradient(circle at 12% 8%, rgba(0, 184, 255, 0.30), transparent 24rem),
+                radial-gradient(circle at 88% 12%, rgba(124, 58, 237, 0.20), transparent 22rem),
+                radial-gradient(circle at 50% 92%, rgba(255, 183, 3, 0.18), transparent 24rem),
+                linear-gradient(180deg, #eff8ff 0%, #f7fbff 42%, #ffffff 100%);
+        }
+
+        body::before,
+        [data-theme="dark"] body::before {
+            opacity: 0.75;
+            background:
+                linear-gradient(rgba(8, 119, 255, 0.075) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(8, 119, 255, 0.075) 1px, transparent 1px),
+                radial-gradient(circle at 50% 0%, rgba(0, 184, 255, 0.10), transparent 35rem);
+            background-size: 42px 42px, 42px 42px, auto;
+        }
+
+        .bg-animation::before,
+        [data-theme="dark"] .bg-animation::before {
+            height: 100%;
+            background:
+                linear-gradient(120deg, transparent 0 38%, rgba(0, 184, 255, 0.10) 39%, transparent 41%),
+                linear-gradient(60deg, transparent 0 62%, rgba(124, 58, 237, 0.08) 63%, transparent 65%);
+        }
+
+        .bg-animation::after,
+        [data-theme="dark"] .bg-animation::after {
+            content: '';
+            top: 72px;
+            left: 50%;
+            width: min(720px, 86vw);
+            height: 220px;
+            border: 1px solid rgba(0, 184, 255, 0.18);
+            border-radius: 999px;
+            background: radial-gradient(circle, rgba(0, 184, 255, 0.12), transparent 68%);
+            filter: blur(2px);
+            opacity: 0.9;
+            animation: none;
+        }
+
+        .grid-overlay {
+            display: block;
+            position: absolute;
+            inset: 0;
+            opacity: 0.45;
+            background-image:
+                linear-gradient(90deg, rgba(8, 119, 255, 0.12) 1px, transparent 1px),
+                linear-gradient(rgba(8, 119, 255, 0.12) 1px, transparent 1px);
+            background-size: 96px 96px;
+            mask-image: linear-gradient(180deg, rgba(0, 0, 0, 0.75), transparent 72%);
+        }
+
+        .container {
+            max-width: 1180px;
+        }
+
+        header {
+            padding: 4.5rem 0 2.4rem;
+        }
+
+        .logo {
+            font-family: 'Noto Sans TC', sans-serif;
+            font-size: clamp(2.15rem, 5vw, 3.7rem);
+            font-weight: 800;
+            letter-spacing: 0.02em;
+            background: linear-gradient(100deg, #0b3b75 0%, #0877ff 45%, #00b8ff 72%, #7c3aed 100%);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            text-shadow: 0 16px 42px rgba(8, 119, 255, 0.18);
+        }
+
+        .logo::before,
+        .logo::after {
+            display: none;
+        }
+
+        .logo::before {
+            content: '◇';
+        }
+
+        .logo::after {
+            content: '◇';
+        }
+
+        .tagline {
+            font-family: 'Noto Sans TC', sans-serif;
+            font-weight: 600;
+            color: #0b3b75;
+            letter-spacing: 0.03em;
+            border: 1px solid rgba(8, 119, 255, 0.25);
+            background: rgba(255, 255, 255, 0.76);
+            box-shadow: 0 14px 36px rgba(8, 119, 255, 0.12);
+        }
+
+        .theme-toggle {
+            display: none;
+        }
+
+        .input-section,
+        .result-card,
+        .game-info-card,
+        .modal,
+        .floating-panel,
+        [data-theme="dark"] .input-section,
+        [data-theme="dark"] .result-card,
+        [data-theme="dark"] .game-info-card,
+        [data-theme="dark"] .modal,
+        [data-theme="dark"] .floating-panel {
+            color: #101828;
+            border: 1px solid rgba(8, 119, 255, 0.26);
+            background:
+                linear-gradient(145deg, rgba(255, 255, 255, 0.96), rgba(239, 248, 255, 0.92)),
+                rgba(255, 255, 255, 0.94);
+            box-shadow:
+                0 24px 70px rgba(16, 24, 40, 0.13),
+                0 0 0 1px rgba(255, 255, 255, 0.85) inset,
+                0 0 36px rgba(0, 184, 255, 0.08);
+            backdrop-filter: blur(20px);
+        }
+
+        .input-section,
+        .result-card {
+            border-radius: 28px;
+        }
+
+        .input-section::before,
+        .result-card::before {
+            background: #ffffff;
+            color: #0877ff;
+            border: 1px solid rgba(8, 119, 255, 0.18);
+            box-shadow: 0 0 0 8px rgba(0, 184, 255, 0.08);
+        }
+
+        .input-label,
+        .modal-title,
+        .result-title,
+        .panel-title,
+        .followup-label {
+            font-family: 'Noto Sans TC', sans-serif;
+            color: #0b3b75;
+            font-weight: 800;
+            letter-spacing: 0.04em;
+        }
+
+        .input-field,
+        .followup-input,
+        [data-theme="dark"] .input-field,
+        [data-theme="dark"] .followup-input {
+            color: #101828;
+            background: #ffffff;
+            border: 1.5px solid rgba(8, 119, 255, 0.28);
+            box-shadow:
+                0 1px 0 rgba(255, 255, 255, 0.9) inset,
+                0 10px 24px rgba(16, 24, 40, 0.06);
+        }
+
+        .input-field::placeholder,
+        .followup-input::placeholder,
+        [data-theme="dark"] .input-field::placeholder,
+        [data-theme="dark"] .followup-input::placeholder {
+            color: #667085;
+        }
+
+        .input-field:focus,
+        .followup-input:focus {
+            border-color: #0877ff;
+            background: #ffffff;
+            box-shadow:
+                0 0 0 4px rgba(8, 119, 255, 0.14),
+                0 14px 32px rgba(8, 119, 255, 0.16);
+        }
+
+        .generate-btn,
+        .save-btn,
+        .followup-btn,
+        .floating-panel-toggle {
+            color: #ffffff;
+            border: 0;
+            background:
+                linear-gradient(135deg, rgba(255, 255, 255, 0.24), transparent 38%),
+                linear-gradient(135deg, #0877ff 0%, #00a3ff 52%, #7c3aed 100%);
+            box-shadow:
+                0 18px 42px rgba(8, 119, 255, 0.30),
+                0 0 0 1px rgba(255, 255, 255, 0.28) inset;
+        }
+
+        .generate-btn:hover,
+        .save-btn:hover,
+        .followup-btn:hover,
+        .floating-panel-toggle:hover {
+            background:
+                linear-gradient(135deg, rgba(255, 255, 255, 0.30), transparent 36%),
+                linear-gradient(135deg, #006ee6 0%, #00b8ff 50%, #6d28d9 100%);
+            box-shadow:
+                0 24px 56px rgba(8, 119, 255, 0.34),
+                0 0 0 5px rgba(0, 184, 255, 0.13);
+        }
+
+        .popular-game-btn,
+        .quick-template-btn,
+        .copy-btn,
+        .bookmark-btn,
+        .panel-tab,
+        .font-btn,
+        .settings-btn {
+            color: #0b3b75;
+            border: 1px solid rgba(8, 119, 255, 0.24);
+            background: rgba(255, 255, 255, 0.86);
+            box-shadow: 0 10px 24px rgba(16, 24, 40, 0.08);
+        }
+
+        .popular-game-btn:hover,
+        .quick-template-btn:hover,
+        .copy-btn:hover,
+        .bookmark-btn:hover,
+        .panel-tab:hover,
+        .font-btn:hover,
+        .settings-btn:hover {
+            color: #ffffff;
+            border-color: #0877ff;
+            background: linear-gradient(135deg, #0877ff, #00b8ff);
+            box-shadow: 0 14px 30px rgba(8, 119, 255, 0.24);
+        }
+
+        .settings-btn:hover {
+            transform: rotate(90deg) scale(1.08);
+        }
+
+        .detected-platform {
+            color: #0b3b75;
+            background: linear-gradient(135deg, rgba(0, 184, 255, 0.13), rgba(8, 119, 255, 0.08));
+            border-color: rgba(8, 119, 255, 0.34);
+        }
+
+        .autocomplete-list,
+        .autocomplete-item {
+            color: #101828;
+            background: #ffffff;
+        }
+
+        .autocomplete-list {
+            border: 1px solid rgba(8, 119, 255, 0.26);
+            box-shadow: 0 22px 48px rgba(16, 24, 40, 0.16);
+        }
+
+        .autocomplete-item:hover,
+        .autocomplete-item.selected {
+            background: linear-gradient(135deg, rgba(8, 119, 255, 0.10), rgba(0, 184, 255, 0.10));
+        }
+
+        .result-header {
+            border-bottom: 1px solid rgba(8, 119, 255, 0.18);
+        }
+
+        .result-content,
+        [data-theme="dark"] .result-content {
+            color: #101828;
+            font-size: 1.02rem;
+            line-height: 1.92;
+        }
+
+        .result-content p,
+        .result-content li,
+        .result-content td,
+        .result-content blockquote {
+            color: #182230;
+        }
+
+        .result-content h1,
+        .result-content h2,
+        .result-content h3 {
+            font-family: 'Noto Sans TC', sans-serif;
+            color: #0b3b75;
+            font-weight: 850;
+        }
+
+        .result-content h2 {
+            border-bottom: 2px solid rgba(8, 119, 255, 0.22);
+        }
+
+        .result-content strong {
+            color: #0057c2;
+        }
+
+        .result-content code,
+        [data-theme="dark"] .result-content code {
+            color: #0b3b75;
+            background: rgba(8, 119, 255, 0.10);
+            border: 1px solid rgba(8, 119, 255, 0.18);
+        }
+
+        .result-content pre {
+            color: #eaf6ff;
+            background: #102a4c;
+        }
+
+        .result-content table,
+        [data-theme="dark"] .result-content table {
+            background: #ffffff;
+            border: 1px solid rgba(8, 119, 255, 0.16);
+            box-shadow: 0 16px 42px rgba(16, 24, 40, 0.10);
+        }
+
+        .result-content thead,
+        [data-theme="dark"] .result-content thead {
+            background: linear-gradient(135deg, #0877ff 0%, #00a3ff 100%);
+        }
+
+        .result-content th {
+            color: #ffffff;
+        }
+
+        .result-content td {
+            border-bottom-color: rgba(8, 119, 255, 0.12);
+        }
+
+        .result-content tbody tr,
+        [data-theme="dark"] .result-content tbody tr {
+            background: #ffffff;
+        }
+
+        .result-content tbody tr:nth-child(even),
+        [data-theme="dark"] .result-content tbody tr:nth-child(even) {
+            background: #f4faff;
+        }
+
+        .result-content tbody tr:hover,
+        [data-theme="dark"] .result-content tbody tr:hover {
+            background: #eaf6ff;
+        }
+
+        .result-content td:first-child {
+            color: #0b3b75;
+        }
+
+        .result-content blockquote,
+        [data-theme="dark"] .result-content blockquote {
+            color: #182230;
+            border-left-color: #0877ff;
+            background: linear-gradient(135deg, rgba(8, 119, 255, 0.08), rgba(0, 184, 255, 0.06));
+        }
+
+        .result-content .guide-box {
+            color: #182230;
+            border-width: 1.5px;
+            box-shadow: 0 12px 28px rgba(16, 24, 40, 0.08);
+        }
+
+        .result-content .guide-tip {
+            background: linear-gradient(135deg, #eaf6ff 0%, #eef8ff 100%);
+        }
+
+        .result-content .guide-warning {
+            background: linear-gradient(135deg, #fff8e6 0%, #fff1cc 100%);
+        }
+
+        .result-content .guide-important {
+            background: linear-gradient(135deg, #fff0f0 0%, #ffe7e7 100%);
+        }
+
+        .result-content .guide-success {
+            background: linear-gradient(135deg, #eafaf1 0%, #dcfce7 100%);
+        }
+
+        .result-content .guide-note {
+            background: linear-gradient(135deg, #f4efff 0%, #ede9fe 100%);
+        }
+
+        .result-content .guide-secret {
+            background: linear-gradient(135deg, #fff8e6 0%, #eaf6ff 100%);
+        }
+
+        .api-info {
+            color: #182230;
+            border: 1px solid rgba(8, 119, 255, 0.24);
+            background: linear-gradient(135deg, rgba(8, 119, 255, 0.08), rgba(0, 184, 255, 0.10));
+        }
+
+        .api-info a {
+            color: #0057c2;
+        }
+
+        .modal-overlay {
+            background: rgba(15, 35, 71, 0.46);
+            backdrop-filter: blur(14px);
+        }
+
+        .toast {
+            background: #0b3b75;
+            color: #ffffff;
+            box-shadow: 0 18px 40px rgba(8, 119, 255, 0.26);
+        }
+
+        footer {
+            color: #344054;
+            opacity: 1;
+        }
+
+        /* Professional guide article layout */
+        .result-card {
+            padding: clamp(1.5rem, 3vw, 3rem);
+        }
+
+        .result-content {
+            counter-reset: guide-section;
+        }
+
+        .result-content h1 {
+            position: relative;
+            margin: 0 0 1.8rem;
+            padding: 1.4rem 1.6rem 1.4rem 1.8rem;
+            border: 1px solid rgba(8, 119, 255, 0.22);
+            border-radius: 22px;
+            color: #0b3b75;
+            background:
+                linear-gradient(135deg, rgba(8, 119, 255, 0.10), rgba(0, 184, 255, 0.08)),
+                #ffffff;
+            box-shadow: 0 18px 42px rgba(8, 119, 255, 0.12);
+        }
+
+        .result-content h1::before {
+            content: '攻略指南';
+            display: block;
+            width: fit-content;
+            margin-bottom: 0.55rem;
+            padding: 0.25rem 0.7rem;
+            border-radius: 999px;
+            color: #0057c2;
+            background: rgba(8, 119, 255, 0.10);
+            font-size: 0.78rem;
+            font-weight: 800;
+            letter-spacing: 0.08em;
+        }
+
+        .result-content h2 {
+            counter-increment: guide-section;
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin: 2.1rem 0 1rem;
+            padding: 0.85rem 1rem;
+            border: 0;
+            border-left: 5px solid #0877ff;
+            border-radius: 14px;
+            color: #0b3b75;
+            background: linear-gradient(135deg, rgba(8, 119, 255, 0.08), rgba(0, 184, 255, 0.05));
+        }
+
+        .result-content h2::before {
+            content: counter(guide-section, decimal-leading-zero);
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 2.2rem;
+            height: 2.2rem;
+            border-radius: 12px;
+            color: #ffffff;
+            background: linear-gradient(135deg, #0877ff, #00b8ff);
+            font-size: 0.86rem;
+            font-weight: 900;
+            box-shadow: 0 10px 22px rgba(8, 119, 255, 0.22);
+        }
+
+        .result-content h3 {
+            margin: 1.55rem 0 0.75rem;
+            padding-left: 0.85rem;
+            border-left: 3px solid rgba(8, 119, 255, 0.42);
+            color: #17406f;
+        }
+
+        .result-content p {
+            margin-bottom: 1rem;
+        }
+
+        .result-content ul,
+        .result-content ol {
+            padding-left: 0;
+            margin: 1rem 0 1.35rem;
+        }
+
+        .result-content li {
+            position: relative;
+            margin: 0.55rem 0;
+            padding: 0.72rem 0.95rem 0.72rem 2.15rem;
+            border: 1px solid rgba(8, 119, 255, 0.10);
+            border-radius: 14px;
+            color: #182230;
+            background: rgba(255, 255, 255, 0.76);
+            box-shadow: 0 8px 20px rgba(16, 24, 40, 0.05);
+            list-style: none;
+        }
+
+        .result-content li::before {
+            content: '';
+            position: absolute;
+            left: 0.95rem;
+            top: 1.15rem;
+            width: 0.45rem;
+            height: 0.45rem;
+            border-radius: 50%;
+            background: #0877ff;
+            box-shadow: 0 0 0 4px rgba(8, 119, 255, 0.12);
+        }
+
+        .result-content table {
+            margin: 1.25rem 0 1.7rem;
+        }
+
+        .result-content th {
+            font-size: 0.94rem;
+            letter-spacing: 0.04em;
+        }
+
+        .result-content td {
+            vertical-align: top;
+        }
+
+        .result-content .guide-box {
+            margin: 1.25rem 0;
+            padding: 1.2rem 1.35rem 1.2rem 3.6rem;
+            border-radius: 18px;
+            border-left-width: 5px;
+            background-color: #ffffff;
+        }
+
+        .result-content .guide-box::before {
+            top: 1.25rem;
+            left: 1.1rem;
+            width: 1.8rem;
+            height: 1.8rem;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 10px;
+            background: rgba(255, 255, 255, 0.75);
+            box-shadow: 0 8px 18px rgba(16, 24, 40, 0.08);
+        }
+
+        .result-content .guide-box-title {
+            margin-bottom: 0.35rem;
+            font-family: 'Noto Sans TC', sans-serif;
+            font-size: 0.98rem;
+            letter-spacing: 0.04em;
+        }
+
+        .result-content .section-divider {
+            margin: 2rem 0;
+        }
+
+        .result-content .section-divider::before {
+            content: '';
+            display: block;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(8, 119, 255, 0.32), transparent);
+        }
+
+        .result-content .section-divider-icon {
+            display: none;
+        }
+
+        .conversation-divider {
+            color: #0b3b75;
+            font-weight: 800;
+        }
+
+        .question-badge {
+            margin: 0.5rem 0 1rem;
+            color: #0b3b75;
+            border: 1px solid rgba(8, 119, 255, 0.18);
+            background: rgba(8, 119, 255, 0.08);
+        }
+
+        @media (max-width: 768px) {
+            .result-content h1 {
+                padding: 1.1rem;
+                font-size: 1.5rem;
+            }
+
+            .result-content h2 {
+                align-items: flex-start;
+                font-size: 1.18rem;
+            }
+
+            .result-content li {
+                padding-right: 0.8rem;
+            }
+        }
     </style>
 </head>
 <body>
@@ -2846,8 +3459,8 @@
     <div class="container">
         <!-- Header -->
         <header>
-            <h1 class="logo">海拉魯攻略書</h1>
-            <p class="tagline">~ 勇者的智慧指南 ~</p>
+            <h1 class="logo">GameMaster 遊戲攻略助手</h1>
+            <p class="tagline">輸入遊戲名稱與問題，快速生成清楚、實用的攻略指南</p>
         </header>
 
         <!-- Input Section -->
@@ -2952,7 +3565,7 @@
 
         <!-- Footer -->
         <footer>
-            <p>✦ 由 <strong>DeepSeek</strong> 戰術核心驅動 ✦ 攻略內容僅供參考</p>
+            <p>由 <strong>DeepSeek</strong> 生成攻略內容，資訊僅供遊玩參考</p>
         </footer>
     </div>
 
@@ -3464,7 +4077,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.2.2';
+        const APP_VERSION = '4.2.4';
         
         // 強制清除舊快取
         async function clearOldCaches() {
@@ -3523,8 +4136,9 @@
                 updateFontSize();
             }
             
-            // 載入主題設定
-            currentTheme = await getSetting('theme', 'light');
+            // 固定使用明亮科技風主題
+            currentTheme = 'light';
+            await saveSetting('theme', 'light');
             initTheme();
             
             // 載入書籤
@@ -3664,24 +4278,15 @@
         
         // Theme functions
         function initTheme() {
-            if (currentTheme === 'dark') {
-                document.documentElement.setAttribute('data-theme', 'dark');
-                document.getElementById('themeBtn').textContent = '☀️';
-            }
+            document.documentElement.removeAttribute('data-theme');
+            document.getElementById('themeBtn').textContent = '🌙';
         }
         
         function toggleTheme() {
-            const btn = document.getElementById('themeBtn');
-            if (currentTheme === 'light') {
-                currentTheme = 'dark';
-                document.documentElement.setAttribute('data-theme', 'dark');
-                btn.textContent = '☀️';
-            } else {
-                currentTheme = 'light';
-                document.documentElement.removeAttribute('data-theme');
-                btn.textContent = '🌙';
-            }
-            saveSetting('theme', currentTheme);
+            currentTheme = 'light';
+            document.documentElement.removeAttribute('data-theme');
+            document.getElementById('themeBtn').textContent = '🌙';
+            saveSetting('theme', 'light');
         }
         
         // Floating Panel functions
@@ -4610,11 +5215,34 @@
 遊戲：${gameName}
 問題：${question}
 
-【回答格式要求 - 必須嚴格遵守以下專業格式】
+【回答格式要求 - 必須嚴格遵守以下專業攻略格式】
 
-## 🎯 必用格式元素
+## 標題與章節格式
+- 主標題請使用：# ${gameName} ${question}攻略
+- 章節標題請使用一般攻略文常見名稱，例如：重點摘要、前置準備、流程攻略、Boss打法、裝備建議、注意事項、常見問題
+- 標題不要使用過度誇張、奇幻、宣傳或角色扮演語氣
+- 可在內容提示框使用符號，但主標題與章節標題請保持清楚、正式、容易閱讀
 
-### 1. 善用表格呈現數據
+## 必須包含的攻略結構
+請依照問題類型彈性調整，但至少包含以下章節：
+1. **重點摘要**：用 3-5 個要點先給玩家結論，包含推薦等級、主要目標、最重要注意事項。
+2. **攻略資訊表**：用表格整理平台、適用版本、建議進度、難度、預估時間、必要條件。
+3. **前置準備**：列出裝備、技能、道具、角色配置或任務前置條件。
+4. **流程攻略**：用清楚的編號步驟說明，不要只寫概念，要寫玩家下一步該做什麼。
+5. **關鍵打法／取得方式／任務重點**：依問題內容選擇合適標題，補充技巧、位置、路線或機制。
+6. **常見錯誤與解法**：列出玩家容易卡住的點與解決方式。
+7. **後續建議**：完成後建議做什麼、可取得什麼、是否有替代路線或更高效率玩法。
+
+## 專業度要求
+- 資訊要具體，避免空泛句，例如「提升戰力」「多練習」必須改成可執行建議。
+- 重要數值、材料、地點、NPC、技能、裝備、Boss階段請優先用表格整理。
+- 如果遊戲版本或平台差異可能影響攻略，請用 [NOTE] 或 [WARNING] 標示。
+- 若不確定資料，請明確說明不確定原因，並提供保守可行的替代做法。
+- 每個主要章節都要有足夠細節，避免只有一兩句。
+
+## 必用格式元素
+
+### 1. 表格整理資料
 當涉及以下情況時，必須使用 Markdown 表格格式：
 - 道具/裝備比較、Boss/敵人資料、材料清單、技能數值、任務獎勵
 
@@ -4665,18 +5293,31 @@
 - 說明時機把握要點
 - 列出常見失敗原因與解決方法
 
-## 📝 格式範例
+## 格式範例
 
-# 攻略標題
+# ${gameName} ${question}攻略
 
-## 前言
-簡短介紹...
+## 重點摘要
+- 推薦先完成 XXX 前置任務。
+- 建議等級或裝備門檻：XX。
+- 最容易失敗的點是 XXX，請先準備 XXX。
 
 > [TIP] 開始前建議先準備 XXX
 
 ---
 
-## 準備階段
+## 攻略資訊表
+
+| 項目 | 建議 |
+|-----|-----|
+| 適用平台 | ${platformDisplayName} |
+| 建議進度 | 主線第 X 章後 |
+| 難度 | 中等 |
+| 預估時間 | 20-30 分鐘 |
+
+---
+
+## 前置準備
 
 | 項目 | 建議 |
 |-----|-----|
@@ -4684,7 +5325,7 @@
 
 ---
 
-## 詳細步驟
+## 流程攻略
 
 1. 前往 XXX 地點
 2. 與 NPC 對話
@@ -4696,7 +5337,7 @@
 
 ---
 
-## 獎勵
+## 獎勵與後續建議
 
 | 獎勵 | 數量 |
 |-----|-----|
@@ -4704,13 +5345,13 @@
 
 > [SUCCESS] 恭喜完成！
 
-請使用繁體中文回答，**必須積極使用上述提示框語法**，讓攻略更專業、更人性化。確保內容針對 ${platformDisplayName} 平台版本。`;
+請使用繁體中文回答，**主標題與章節標題要像正式攻略文章**，內容可適度使用上述提示框語法，讓攻略更專業、更容易閱讀。確保內容針對 ${platformDisplayName} 平台版本。`;
 
             try {
                 const messages = [
                     {
                         role: 'system',
-                        content: '你是專業遊戲攻略編輯，回答必須使用繁體中文、Markdown、清楚步驟與可執行建議。'
+                        content: '你是專業遊戲攻略網站編輯，回答必須使用繁體中文、Markdown、正式攻略文架構、清楚步驟、資料表格、注意事項與可執行建議。'
                     },
                     { role: 'user', content: prompt }
                 ];
@@ -4765,9 +5406,12 @@ ${followupQuestion}
 請根據之前的攻略內容和你掌握的可靠遊戲知識，提供準確的補充說明；如果資訊可能受版本影響，請明確提醒。
 
 格式要求：
+- 請使用小型專業攻略格式，建議章節為：補充摘要、具體做法、注意事項、替代方案
 - 如果涉及數據比較（道具、裝備、材料、敵人資料等），請使用 Markdown 表格格式
 - 如果問題涉及步驟，請提供詳細的編號步驟
+- 小標題請使用正式攻略文語氣，例如：補充說明、推薦打法、注意事項、替代方案
 - 使用 **粗體** 標註重點
+- 必要時使用 [TIP]、[WARNING]、[IMPORTANT] 提示框
 - 使用繁體中文和 Markdown 格式回答`;
 
             try {

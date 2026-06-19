@@ -1,5 +1,5 @@
 // GameMaster Service Worker
-const CACHE_VERSION = '9';
+const CACHE_VERSION = '11';
 const CACHE_NAME = `gamemaster-v${CACHE_VERSION}`;
 const STATIC_ASSETS = [
   './',

@@ -1,7 +1,7 @@
 {
-  "name": "GameMaster 攻略大師",
-  "short_name": "攻略大師",
-  "description": "AI 驅動的遊戲攻略生成器",
+  "name": "GameMaster 遊戲攻略助手",
+  "short_name": "遊戲攻略助手",
+  "description": "AI 驅動的遊戲攻略查詢與生成工具",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#2d2416",
