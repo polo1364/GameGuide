@@ -1,5 +1,5 @@
 // GameMaster Service Worker
-const CACHE_VERSION = '6';
+const CACHE_VERSION = '7';
 const CACHE_NAME = `gamemaster-v${CACHE_VERSION}`;
 const STATIC_ASSETS = [
   './',
@@ -65,7 +65,7 @@ self.addEventListener('fetch', (event) => {
   
   // Skip cross-origin requests and API calls
   if (url.origin !== location.origin || 
-      url.href.includes('generativelanguage.googleapis.com') ||
+      url.href.includes('api.deepseek.com') ||
       url.href.includes('fonts.googleapis.com') ||
       url.href.includes('fonts.gstatic.com') ||
       url.href.includes('wikipedia.org')) {
