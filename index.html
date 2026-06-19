@@ -6,7 +6,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <meta name="version" content="4.2.4">
+    <meta name="version" content="4.3.0">
     <title>GameMaster 遊戲攻略助手 | AI 攻略生成器</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4a7c59">
@@ -3387,9 +3387,251 @@
                 padding-right: 0.8rem;
             }
         }
+
+        .reading-progress {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            z-index: 2000;
+            background: rgba(8, 119, 255, 0.08);
+        }
+
+        .reading-progress-bar {
+            width: 0%;
+            height: 100%;
+            background: linear-gradient(90deg, #0877ff, #00b8ff, #7c3aed);
+            box-shadow: 0 0 16px rgba(0, 184, 255, 0.55);
+            transition: width 0.15s ease;
+        }
+
+        .reading-toolbar {
+            position: sticky;
+            top: 0.75rem;
+            z-index: 20;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 1rem;
+            margin: 1.1rem 0 1.35rem;
+            padding: 0.9rem 1rem;
+            border: 1px solid rgba(8, 119, 255, 0.18);
+            border-radius: 18px;
+            background: rgba(255, 255, 255, 0.86);
+            box-shadow: 0 14px 32px rgba(16, 24, 40, 0.10);
+            backdrop-filter: blur(18px);
+        }
+
+        .reading-stats {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            color: #0b3b75;
+            font-size: 0.9rem;
+            font-weight: 800;
+        }
+
+        .reading-stats span {
+            padding: 0.35rem 0.7rem;
+            border-radius: 999px;
+            background: rgba(8, 119, 255, 0.09);
+        }
+
+        .reading-actions {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: flex-end;
+            gap: 0.55rem;
+        }
+
+        .chapter-select,
+        .reading-action-btn {
+            min-height: 38px;
+            padding: 0.45rem 0.78rem;
+            border: 1px solid rgba(8, 119, 255, 0.22);
+            border-radius: 999px;
+            color: #0b3b75;
+            background: #ffffff;
+            font-family: 'Noto Sans TC', sans-serif;
+            font-size: 0.88rem;
+            font-weight: 800;
+            cursor: pointer;
+            box-shadow: 0 8px 18px rgba(16, 24, 40, 0.06);
+        }
+
+        .chapter-select {
+            max-width: 220px;
+        }
+
+        .reading-action-btn:hover,
+        .chapter-select:focus {
+            border-color: #0877ff;
+            box-shadow: 0 0 0 4px rgba(8, 119, 255, 0.10);
+            outline: none;
+        }
+
+        .reading-action-btn.active {
+            color: #ffffff;
+            border-color: #0877ff;
+            background: linear-gradient(135deg, #0877ff, #00b8ff);
+        }
+
+        .guide-section {
+            margin: 1.35rem 0;
+            border: 1px solid rgba(8, 119, 255, 0.12);
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.68);
+            overflow: hidden;
+        }
+
+        .guide-section-heading {
+            display: flex;
+            align-items: stretch;
+            gap: 0.75rem;
+            padding: 0;
+        }
+
+        .guide-section-heading h2 {
+            flex: 1;
+            margin: 0;
+            border-radius: 0;
+            background: linear-gradient(135deg, rgba(8, 119, 255, 0.10), rgba(0, 184, 255, 0.06));
+        }
+
+        .section-toggle-btn {
+            width: 44px;
+            margin: 0.85rem 0.85rem 0.85rem 0;
+            border: 1px solid rgba(8, 119, 255, 0.20);
+            border-radius: 14px;
+            color: #0b3b75;
+            background: #ffffff;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: 900;
+        }
+
+        .guide-section-body {
+            padding: 0.2rem 1.2rem 1.2rem;
+        }
+
+        .guide-section.collapsed .guide-section-body {
+            display: none;
+        }
+
+        .guide-section.collapsed .section-toggle-btn {
+            transform: rotate(-90deg);
+        }
+
+        .focus-mode .guide-section:not(.focus-keep) {
+            display: none;
+        }
+
+        .focus-mode .followup-section {
+            display: none;
+        }
+
+        .focus-mode .result-content h1::before {
+            content: '重點閱讀模式';
+        }
+
+        .reading-compact .result-content {
+            line-height: 1.65;
+            letter-spacing: 0;
+        }
+
+        .reading-comfortable .result-content {
+            line-height: 1.92;
+            letter-spacing: 0.01em;
+        }
+
+        .reading-relaxed .result-content {
+            line-height: 2.15;
+            letter-spacing: 0.035em;
+        }
+
+        .keyword-highlight {
+            padding: 0.05rem 0.28rem;
+            border-radius: 0.45rem;
+            color: #0b3b75;
+            background: linear-gradient(135deg, rgba(255, 183, 3, 0.34), rgba(0, 184, 255, 0.18));
+            box-decoration-break: clone;
+            -webkit-box-decoration-break: clone;
+        }
+
+        @media (max-width: 768px) {
+            .reading-toolbar {
+                position: static;
+                align-items: stretch;
+                flex-direction: column;
+            }
+
+            .reading-actions {
+                justify-content: flex-start;
+            }
+
+            .chapter-select {
+                max-width: none;
+                width: 100%;
+            }
+
+            .guide-section-body {
+                padding: 0.1rem 0.8rem 0.95rem;
+            }
+
+            .result-content table.mobile-card-table,
+            .result-content table.mobile-card-table thead,
+            .result-content table.mobile-card-table tbody,
+            .result-content table.mobile-card-table tr,
+            .result-content table.mobile-card-table th,
+            .result-content table.mobile-card-table td {
+                display: block;
+            }
+
+            .result-content table.mobile-card-table {
+                border: 0;
+                box-shadow: none;
+                background: transparent;
+            }
+
+            .result-content table.mobile-card-table thead {
+                display: none;
+            }
+
+            .result-content table.mobile-card-table tr {
+                margin: 0 0 1rem;
+                padding: 0.85rem;
+                border: 1px solid rgba(8, 119, 255, 0.16);
+                border-radius: 18px;
+                background: #ffffff;
+                box-shadow: 0 10px 24px rgba(16, 24, 40, 0.08);
+            }
+
+            .result-content table.mobile-card-table td {
+                display: grid;
+                grid-template-columns: minmax(6rem, 38%) 1fr;
+                gap: 0.75rem;
+                padding: 0.65rem 0;
+                border-bottom: 1px solid rgba(8, 119, 255, 0.10);
+            }
+
+            .result-content table.mobile-card-table td:last-child {
+                border-bottom: 0;
+            }
+
+            .result-content table.mobile-card-table td::before {
+                content: attr(data-label);
+                color: #0b3b75;
+                font-weight: 900;
+            }
+        }
     </style>
 </head>
 <body>
+    <div class="reading-progress" id="readingProgress">
+        <div class="reading-progress-bar" id="readingProgressBar"></div>
+    </div>
+
     <!-- Background Animation -->
     <div class="bg-animation">
         <div class="grid-overlay"></div>
@@ -3544,6 +3786,21 @@
                             </svg>
                             複製
                         </button>
+                    </div>
+                </div>
+                <div class="reading-toolbar" id="readingToolbar" style="display: none;">
+                    <div class="reading-stats">
+                        <span id="readingTime">約 0 分鐘閱讀</span>
+                        <span id="readingProgressText">已閱讀 0%</span>
+                    </div>
+                    <div class="reading-actions">
+                        <select class="chapter-select" id="chapterSelect" onchange="jumpToChapter(this.value)" aria-label="章節快速跳轉">
+                            <option value="">章節快速跳轉</option>
+                        </select>
+                        <button class="reading-action-btn" id="focusModeBtn" onclick="toggleFocusMode()">重點模式</button>
+                        <button class="reading-action-btn" onclick="toggleAllSections(false)">全部收合</button>
+                        <button class="reading-action-btn" onclick="toggleAllSections(true)">全部展開</button>
+                        <button class="reading-action-btn" id="readingDensityBtn" onclick="cycleReadingDensity()">舒適閱讀</button>
                     </div>
                 </div>
                 <div class="result-content" id="resultContent"></div>
@@ -3852,6 +4109,8 @@
         let currentTheme = 'light';
         let currentGuideData = null; // 儲存當前攻略資料
         let currentGameInfo = null; // 儲存當前遊戲資訊
+        let currentQuestionText = '';
+        let readingDensity = 'comfortable';
         const DEEPSEEK_API_URL = 'https://api.deepseek.com/chat/completions';
         const DEEPSEEK_MODEL = 'deepseek-chat';
         const DEEPSEEK_API_KEY_SETTING = 'deepseek_api_key';
@@ -4077,7 +4336,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.2.4';
+        const APP_VERSION = '4.3.0';
         
         // 強制清除舊快取
         async function clearOldCaches() {
@@ -4135,6 +4394,15 @@
                 fontSizeLevel = parseInt(savedFontSize);
                 updateFontSize();
             }
+
+            readingDensity = await getSetting('reading_density', 'comfortable');
+            if (!['compact', 'comfortable', 'relaxed'].includes(readingDensity)) {
+                readingDensity = 'comfortable';
+            }
+            const densityBtn = document.getElementById('readingDensityBtn');
+            if (densityBtn) {
+                densityBtn.textContent = { compact: '緊湊閱讀', comfortable: '舒適閱讀', relaxed: '寬鬆閱讀' }[readingDensity];
+            }
             
             // 固定使用明亮科技風主題
             currentTheme = 'light';
@@ -4153,6 +4421,9 @@
             
             // Register Service Worker for PWA
             registerServiceWorker();
+
+            window.addEventListener('scroll', updateReadingProgress, { passive: true });
+            window.addEventListener('resize', updateReadingProgress);
         });
         
         // PWA Service Worker Registration
@@ -5090,6 +5361,210 @@
             }
         }
 
+        function enhanceGuideReading(questionText = '') {
+            currentQuestionText = questionText || currentQuestionText || '';
+            const resultCard = document.getElementById('resultCard');
+            const resultContent = document.getElementById('resultContent');
+            const toolbar = document.getElementById('readingToolbar');
+            if (!resultCard || !resultContent || !toolbar) return;
+
+            resultCard.classList.remove('reading-compact', 'reading-comfortable', 'reading-relaxed');
+            resultCard.classList.add(`reading-${readingDensity}`);
+
+            prepareMobileTables(resultContent);
+            highlightGuideKeywords(resultContent, currentQuestionText);
+            buildCollapsibleSections(resultContent);
+            updateChapterQuickNav();
+            updateReadingStats();
+            updateReadingProgress();
+            toolbar.style.display = 'flex';
+        }
+
+        function updateReadingStats() {
+            const resultContent = document.getElementById('resultContent');
+            const readingTime = document.getElementById('readingTime');
+            if (!resultContent || !readingTime) return;
+
+            const text = resultContent.innerText.trim();
+            const chineseChars = (text.match(/[\u4e00-\u9fff]/g) || []).length;
+            const words = text.replace(/[\u4e00-\u9fff]/g, '').trim().split(/\s+/).filter(Boolean).length;
+            const minutes = Math.max(1, Math.ceil((chineseChars / 450) + (words / 220)));
+            readingTime.textContent = `約 ${minutes} 分鐘閱讀`;
+        }
+
+        function updateReadingProgress() {
+            const resultSection = document.getElementById('resultSection');
+            const progressBar = document.getElementById('readingProgressBar');
+            const progressText = document.getElementById('readingProgressText');
+            if (!resultSection || !progressBar || resultSection.style.display === 'none') {
+                if (progressBar) progressBar.style.width = '0%';
+                return;
+            }
+
+            const rect = resultSection.getBoundingClientRect();
+            const total = Math.max(1, resultSection.scrollHeight - window.innerHeight * 0.55);
+            const read = Math.min(total, Math.max(0, -rect.top + window.innerHeight * 0.12));
+            const percent = Math.round((read / total) * 100);
+            progressBar.style.width = `${percent}%`;
+            if (progressText) progressText.textContent = `已閱讀 ${percent}%`;
+        }
+
+        function updateChapterQuickNav() {
+            const select = document.getElementById('chapterSelect');
+            const content = document.getElementById('resultContent');
+            if (!select || !content) return;
+
+            const headings = Array.from(content.querySelectorAll('h2'));
+            select.innerHTML = '<option value="">章節快速跳轉</option>' + headings.map((heading, index) => {
+                if (!heading.id) heading.id = `guide-section-${index}`;
+                return `<option value="${heading.id}">${escapeHtml(heading.textContent.trim())}</option>`;
+            }).join('');
+        }
+
+        function jumpToChapter(id) {
+            if (!id) return;
+            const heading = document.getElementById(id);
+            const section = heading?.closest('.guide-section');
+            if (section?.classList.contains('collapsed')) {
+                section.classList.remove('collapsed');
+            }
+            heading?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            const select = document.getElementById('chapterSelect');
+            if (select) select.value = '';
+        }
+
+        function buildCollapsibleSections(content) {
+            if (content.querySelector('.guide-section')) return;
+
+            const fragment = document.createDocumentFragment();
+            let currentSection = null;
+            let currentBody = null;
+
+            Array.from(content.childNodes).forEach((node) => {
+                if (node.nodeType === Node.ELEMENT_NODE && node.tagName === 'H2') {
+                    currentSection = document.createElement('section');
+                    currentSection.className = 'guide-section';
+                    const headingText = node.textContent.trim();
+                    if (isFocusSection(headingText)) currentSection.classList.add('focus-keep');
+
+                    const heading = document.createElement('div');
+                    heading.className = 'guide-section-heading';
+                    const toggle = document.createElement('button');
+                    toggle.type = 'button';
+                    toggle.className = 'section-toggle-btn';
+                    toggle.textContent = '⌄';
+                    toggle.title = '展開/收合章節';
+                    toggle.addEventListener('click', () => currentSection.classList.toggle('collapsed'));
+
+                    currentBody = document.createElement('div');
+                    currentBody.className = 'guide-section-body';
+                    heading.append(node, toggle);
+                    currentSection.append(heading, currentBody);
+                    fragment.append(currentSection);
+                } else if (currentBody) {
+                    currentBody.append(node);
+                } else {
+                    fragment.append(node);
+                }
+            });
+
+            content.innerHTML = '';
+            content.append(fragment);
+        }
+
+        function isFocusSection(title) {
+            return /重點摘要|攻略資訊|前置準備|注意事項|常見錯誤|常見問題|補充摘要|具體做法/.test(title);
+        }
+
+        function toggleAllSections(expand) {
+            document.querySelectorAll('#resultContent .guide-section').forEach(section => {
+                section.classList.toggle('collapsed', !expand);
+            });
+        }
+
+        function toggleFocusMode() {
+            const resultCard = document.getElementById('resultCard');
+            const btn = document.getElementById('focusModeBtn');
+            if (!resultCard || !btn) return;
+            const enabled = resultCard.classList.toggle('focus-mode');
+            btn.classList.toggle('active', enabled);
+            btn.textContent = enabled ? '完整模式' : '重點模式';
+            showToast(enabled ? '✅ 已切換為重點模式' : '✅ 已切換為完整模式');
+            updateReadingProgress();
+        }
+
+        function cycleReadingDensity() {
+            const order = ['compact', 'comfortable', 'relaxed'];
+            const labels = { compact: '緊湊閱讀', comfortable: '舒適閱讀', relaxed: '寬鬆閱讀' };
+            const resultCard = document.getElementById('resultCard');
+            const btn = document.getElementById('readingDensityBtn');
+            const next = order[(order.indexOf(readingDensity) + 1) % order.length];
+            readingDensity = next;
+            if (resultCard) {
+                resultCard.classList.remove('reading-compact', 'reading-comfortable', 'reading-relaxed');
+                resultCard.classList.add(`reading-${readingDensity}`);
+            }
+            if (btn) btn.textContent = labels[readingDensity];
+            saveSetting('reading_density', readingDensity);
+            showToast(`📖 ${labels[readingDensity]}`);
+        }
+
+        function prepareMobileTables(content) {
+            content.querySelectorAll('table').forEach(table => {
+                table.classList.add('mobile-card-table');
+                const headers = Array.from(table.querySelectorAll('thead th')).map(th => th.textContent.trim());
+                table.querySelectorAll('tbody tr').forEach(row => {
+                    Array.from(row.children).forEach((cell, index) => {
+                        cell.setAttribute('data-label', headers[index] || `欄位 ${index + 1}`);
+                    });
+                });
+            });
+        }
+
+        function highlightGuideKeywords(content, questionText) {
+            content.querySelectorAll('.keyword-highlight').forEach(mark => {
+                mark.replaceWith(document.createTextNode(mark.textContent));
+            });
+
+            const keywords = extractHighlightKeywords(currentGameName, questionText);
+            if (keywords.length === 0) return;
+            const pattern = new RegExp(`(${keywords.map(escapeRegExp).join('|')})`, 'gi');
+            const walker = document.createTreeWalker(content, NodeFilter.SHOW_TEXT, {
+                acceptNode(node) {
+                    const parent = node.parentElement;
+                    if (!parent || parent.closest('script, style, code, pre, .guide-box-title, h1, h2, h3')) {
+                        return NodeFilter.FILTER_REJECT;
+                    }
+                    pattern.lastIndex = 0;
+                    return pattern.test(node.nodeValue) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+                }
+            });
+
+            const nodes = [];
+            while (walker.nextNode()) nodes.push(walker.currentNode);
+            nodes.forEach(node => {
+                pattern.lastIndex = 0;
+                const wrapper = document.createElement('span');
+                wrapper.innerHTML = escapeHtml(node.nodeValue).replace(pattern, '<mark class="keyword-highlight">$1</mark>');
+                node.replaceWith(...Array.from(wrapper.childNodes));
+            });
+        }
+
+        function extractHighlightKeywords(gameName, questionText) {
+            const stopWords = new Set(['請提供', '攻略', '如何', '什麼', '哪裡', '完整', '建議', '包括', '遊戲', '問題', '流程', '說明']);
+            const source = `${gameName || ''} ${questionText || ''}`;
+            const chinese = source.match(/[\u4e00-\u9fff]{2,8}/g) || [];
+            const english = source.match(/[A-Za-z0-9][A-Za-z0-9'_-]{2,}/g) || [];
+            return Array.from(new Set([...chinese, ...english]
+                .map(s => s.trim())
+                .filter(s => s.length >= 2 && !stopWords.has(s))
+            )).sort((a, b) => b.length - a.length).slice(0, 12);
+        }
+
+        function escapeRegExp(text) {
+            return text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        }
+
         // Platform Selection
         // Modal Functions
         function openModal() {
@@ -5472,6 +5947,7 @@ ${followupQuestion}
             }
             
             resultContent.innerHTML += html;
+            enhanceGuideReading(currentQuestionText);
             
             // Scroll to new content
             resultContent.lastElementChild?.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -5669,6 +6145,7 @@ ${followupQuestion}
             
             resultSection.style.display = 'block';
             updateFontSize();
+            enhanceGuideReading(questionText);
             
             // 儲存當前攻略資料供收藏使用
             currentGuideData = {
