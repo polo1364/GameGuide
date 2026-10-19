@@ -1,0 +1,36 @@
+{
+  "characters": 1144,
+  "headings": [
+    "前置準備",
+    "Boss 打法",
+    "第一階段",
+    "第二階段",
+    "注意事項"
+  ],
+  "html": "<div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：0 段附有可對應的來源引文，1 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:07:45.291Z。</div></div><p>PC 版近戰新手打<mark class=\"keyword-highlight\">惡兆妖鬼</mark>，核心是<strong>先探索寧姆格福升級、帶骨灰與 NPC 吸引仇恨；第一階段用束縛器製造輸出窗口，第二階段改以翻滾閃避為主</strong>。束縛器依攻略僅能在第一階段使用、可用兩次；骨灰須在畫面左側出現重生雕像圖示時才能召喚；骨灰血量歸零會離場，但<strong>能否再次召喚，待確認：尚未找到明確說明</strong>。</p><section class=\"guide-section focus-keep\" id=\"guide-section-0\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-0\">前置準備</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li><strong>先探索寧姆格福再挑戰</strong>：周邊地城與敵人比<mark class=\"keyword-highlight\">瑪爾基特</mark>好處理，可累積盧恩升級；優先提高生命值與主要攻擊屬性（編輯建議，非官方數值表）。</li><li><strong>取得召魂鈴與骨灰</strong>：沒有召魂鈴無法使用骨灰。攻略提到可在風暴山丘小屋與羅德莉卡反覆對話取得水母骨灰；離群野狼骨灰亦可早期取得。實際完整取得流程<strong>待確認：尚未找到逐步說明</strong>。</li><li><strong>購買<mark class=\"keyword-highlight\">瑪爾基特</mark>的束縛器</strong>：在蒙流洞窟將帕奇血量削至約五成以下、讓他投降，即可向其購買，價格 5,000 盧恩。若已擊殺帕奇，鈴珠可交給圓桌廳的雙指老嫗解鎖購買。</li><li><strong>進門前召喚 NPC</strong>：Boss 門外有金色召喚記號可叫羅德莉卡（攻略寫作 Rodgier），可與骨灰並用，讓<mark class=\"keyword-highlight\">瑪爾基特</mark>分心。NPC 是否每次都能召喚、是否消耗道具，<strong>待確認：尚未找到說明</strong>。</li></ol></div></section><section class=\"guide-section\" id=\"guide-section-1\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-1\">Boss 打法</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><h3 id=\"toc-heading-2\">第一階段</h3><br><ul><li><strong>開場先召喚</strong>：進場後確認畫面左側出現重生雕像圖示，再使用骨灰；沒有圖示就不能召喚。骨灰與 NPC 同時在場時，趁<mark class=\"keyword-highlight\">瑪爾基特</mark>被吸引時從側面輸出。</li><li><strong>束縛器時機</strong>：在他蓄力大招式、你來不及拉開距離時使用，可打斷動作並把他壓制數秒。攻略明確說第一階段可用兩次，<strong>第二階段不要指望它</strong>。</li><li><strong>近戰節奏</strong>：舉盾擋住一般揮擊後，立刻按強攻擊觸發防禦反擊，較容易削減架勢；跳躍攻擊也有助破架勢。砍一至兩下就準備翻滾。</li><li><strong>保留資源</strong>：盡量讓骨灰與 NPC 在進入第二階段前仍有血量。</li></ul><h3 id=\"toc-heading-3\">第二階段</h3><br><ul><li><strong>放下盾牌、改雙手握武</strong>：攻略指出第二階段的神聖錘會擊穿防禦，與其硬擋不如翻滾，雙手握持可提高傷害。</li><li><strong>以閃避和快速削血為主</strong>：第二階段動作更難預測，重點是躲開連段後抓收招空檔反擊，並盡快結束戰鬥。</li><li><strong>補血時機</strong>：拉開距離、確認他正在追打骨灰或 NPC 時再喝藥；不要在連段中硬喝。</li></ul></div></section><section class=\"guide-section focus-keep\" id=\"guide-section-2\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-4\">注意事項</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ul><li><strong>束縛器階段限制</strong>：來源只支持「第一階段可用兩次」，沒有支持第二階段可用。</li><li><strong>骨灰召喚位置</strong>：必須在重生雕像附近、畫面左側出現圖示時才能使用。</li><li><strong>骨灰<mark class=\"keyword-highlight\">被打倒後能否復活</mark></strong>：來源只說骨灰血量歸零會離場，<strong>未說明能否再次召喚</strong>，請以遊戲內實際測試或官方說明為準。</li><li>以上攻略來自 2022 年編輯攻略與非官方資料庫，PC 版現行平衡與細節可能不同。</li></ul><p>參考來源（本段仍有待確認內容）：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a>、<a href=\"https://eldenring.wiki.gg/wiki/Patches%27_Bell_Bearing\" target=\"_blank\" rel=\"noopener noreferrer\">S3 次級攻略</a></p></div></section>",
+  "links": [
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://eldenring.wiki.gg/wiki/Patches%27_Bell_Bearing",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S3 次級攻略"
+    }
+  ],
+  "steps": 4,
+  "tables": 0,
+  "text": "備註\n來源比對（AI）：0 段附有可對應的來源引文，1 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:07:45.291Z。\n\nPC 版近戰新手打惡兆妖鬼，核心是先探索寧姆格福升級、帶骨灰與 NPC 吸引仇恨；第一階段用束縛器製造輸出窗口，第二階段改以翻滾閃避為主。束縛器依攻略僅能在第一階段使用、可用兩次；骨灰須在畫面左側出現重生雕像圖示時才能召喚；骨灰血量歸零會離場，但能否再次召喚，待確認：尚未找到明確說明。\n\n前置準備\n⌄\n先探索寧姆格福再挑戰：周邊地城與敵人比瑪爾基特好處理，可累積盧恩升級；優先提高生命值與主要攻擊屬性（編輯建議，非官方數值表）。\n取得召魂鈴與骨灰：沒有召魂鈴無法使用骨灰。攻略提到可在風暴山丘小屋與羅德莉卡反覆對話取得水母骨灰；離群野狼骨灰亦可早期取得。實際完整取得流程待確認：尚未找到逐步說明。\n購買瑪爾基特的束縛器：在蒙流洞窟將帕奇血量削至約五成以下、讓他投降，即可向其購買，價格 5,000 盧恩。若已擊殺帕奇，鈴珠可交給圓桌廳的雙指老嫗解鎖購買。\n進門前召喚 NPC：Boss 門外有金色召喚記號可叫羅德莉卡（攻略寫作 Rodgier），可與骨灰並用，讓瑪爾基特分心。NPC 是否每次都能召喚、是否消耗道具，待確認：尚未找到說明。\nBoss 打法\n⌄\n第一階段\n\n開場先召喚：進場後確認畫面左側出現重生雕像圖示，再使用骨灰；沒有圖示就不能召喚。骨灰與 NPC 同時在場時，趁瑪爾基特被吸引時從側面輸出。\n束縛器時機：在他蓄力大招式、你來不及拉開距離時使用，可打斷動作並把他壓制數秒。攻略明確說第一階段可用兩次，第二階段不要指望它。\n近戰節奏：舉盾擋住一般揮擊後，立刻按強攻擊觸發防禦反擊，較容易削減架勢；跳躍攻擊也有助破架勢。砍一至兩下就準備翻滾。\n保留資源：盡量讓骨灰與 NPC 在進入第二階段前仍有血量。\n第二階段\n\n放下盾牌、改雙手握武：攻略指出第二階段的神聖錘會擊穿防禦，與其硬擋不如翻滾，雙手握持可提高傷害。\n以閃避和快速削血為主：第二階段動作更難預測，重點是躲開連段後抓收招空檔反擊，並盡快結束戰鬥。\n補血時機：拉開距離、確認他正在追打骨灰或 NPC 時再喝藥；不要在連段中硬喝。\n注意事項\n⌄\n束縛器階段限制：來源只支持「第一階段可用兩次」，沒有支持第二階段可用。\n骨灰召喚位置：必須在重生雕像附近、畫面左側出現圖示時才能使用。\n骨灰被打倒後能否復活：來源只說骨灰血量歸零會離場，未說明能否再次召喚，請以遊戲內實際測試或官方說明為準。\n以上攻略來自 2022 年編輯攻略與非官方資料庫，PC 版現行平衡與細節可能不同。\n\n參考來源（本段仍有待確認內容）：S2 次級攻略、S1 官方、S3 次級攻略",
+  "id": "boss-before-strict-pending",
+  "capturedAt": "2026-10-19T15:09:46.358Z"
+}

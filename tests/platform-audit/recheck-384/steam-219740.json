@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-19",
+  "url": "https://store.steampowered.com/api/appdetails?appids=219740&l=english&cc=us",
+  "name": "Don't Starve",
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "requirements": {
+    "pc": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong>Windows XP/Vista/Windows 7/Windows 8<br>\t</li><li><strong>Processor:</strong>1.7+ GHz or better<br>\t</li><li><strong>Memory:</strong>1+ gigs of RAM GB RAM<br>\t</li><li><strong>Graphics:</strong>Radeon HD5450 or better; 256 MB or higher<br>\t</li><li><strong>DirectX®:</strong>9.0c<br>\t</li><li><strong>Hard Drive:</strong>500 MB HD space<br>\t</li><li><strong>Sound:</strong>100% DirectX9.0c compatible sound card and drivers</li></ul>"
+    },
+    "mac": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong>Lion (OSX 10.7.X)<br>\t</li><li><strong>Processor:</strong>2.0 GHz Intel<br>\t</li><li><strong>Memory:</strong>4 GB RAM<br>\t</li><li><strong>Graphics:</strong>256 MB NVidia or ATI graphics card<br>\t</li><li><strong>Hard Drive:</strong>512 MB Free Space<br>\t</li><li><strong>Additional:</strong>Not recommended for Intel GMA Graphics or Mac Minis or early-generation MacBooks</li></ul>"
+    },
+    "linux": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong>1.7+ GHz or better<br>\t</li><li><strong>Memory:</strong>1+ gigs of RAM GB RAM<br>\t</li><li><strong>Graphics:</strong>Radeon HD5450 or better; 256 MB or higher<br>\t</li><li><strong>Hard Drive:</strong>500 MB HD space</li></ul>"
+    }
+  }
+}

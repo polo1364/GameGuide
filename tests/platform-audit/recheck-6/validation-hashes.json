@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-10-19",
+  "syntax": "PASS",
+  "appChanges": "version only",
+  "repeatApplyIdenticalFiles": 7,
+  "sourcesAdded": 11,
+  "evidenceEntries": 18,
+  "searchRecords": 30,
+  "hashes": {
+    "games.json": "a122f267dc0e48fdd69e39c73cb96a0d29381b46ef98ebc97c8a81a62c533795",
+    "tests/platform-audit/audit-838.json": "d05a40545ce5d2a06f1a5cd9ba0c9725a61c6e2bcfe43a17210f323e0358d8dd",
+    "tests/platform-audit/pending.json": "0102e09dded75e8a67c3e6e5513960f56b8b96540c32d39f2cfa9ebeb750eb28",
+    "tests/platform-audit/README.md": "76f3986d193a2846e85682d6c96aac40a9e61ab819a52c4c2d8f609557960a08",
+    "tests/platform-audit/recheck-6/audit-6.json": "5d8bcba621f339ace9203695cb0fe472b66819ac330b2cb59e9572d110f79cf7",
+    "tests/platform-audit/recheck-6/pending.json": "0102e09dded75e8a67c3e6e5513960f56b8b96540c32d39f2cfa9ebeb750eb28",
+    "tests/platform-audit/recheck-6/README.md": "38a3527ed44602c944087decfcf811076516f51bd5f64528f16a182a19074dec"
+  }
+}

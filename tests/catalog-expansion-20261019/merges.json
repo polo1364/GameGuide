@@ -1,0 +1,23 @@
+[
+  {
+    "target": "Fall Guys",
+    "duplicate": "糖豆人 終極淘汰賽",
+    "aliases": ["fall guys ultimate knockout"],
+    "source": "https://www.fallguys.com/season-archive",
+    "reason": "官方季別檔案將 Ultimate Knockout 舊季與 Free for All 列為同一 Fall Guys 遊戲的歷史；兩個目錄條目是同作不同名稱，非獨立續作或重製版。"
+  },
+  {
+    "target": "機戰傭兵6 境界天火",
+    "duplicate": "機戰傭兵VI 境界天火",
+    "aliases": [],
+    "source": "https://www.bandainamcoent.com/games/armored-core-vi-fires-of-rubicon",
+    "reason": "兩個條目均對應 Bandai Namco 的 ARMORED CORE VI FIRES OF RUBICON 同一商品頁與平台；6 與 VI 為同一代數字寫法，非不同版本。"
+  },
+  {
+    "target": "遊戲王 ARC-V Tag Force Special",
+    "duplicate": "遊戲王 Tag Force Special",
+    "aliases": ["yu-gi-oh arc-v tag force special"],
+    "source": "https://www.konami.com/games/jp/ja/products/yugioh_tfsp_psp/",
+    "reason": "兩個條目均對應 KONAMI 同一款遊戯王アーク・ファイブ TAG FORCE SPECIAL；保留 ARC-V 完整名稱，簡稱改作別名，PSP 原生及 Vita 相容範圍沿用既有註記。"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "asOf": "2026-10-19",
+  "replayUnchanged": true,
+  "generatedFiles": 8,
+  "nonTargetHistoricalRecordsPreserved": 805,
+  "updatedHistoricalRecords": 33,
+  "sha256": {
+    "games.json": "c6c43ffede19b76eeaeedecd770ff3ee942178be2d54490a5203a2f32134412c",
+    "tests/platform-audit/audit-838.json": "4723bf932c7b507629bd3e723f814d4a2bd56fa9a1a82a60f6b08940316e602b",
+    "tests/platform-audit/pending.json": "00396ce897e3eb93542c79ab4c3c1129cbf31be1d386d0642f76b0cbf8903ace",
+    "tests/platform-audit/README.md": "e594cf15a2bf94b83883c25c9cb7291f72ffd7d8a1ad6fc722a825a9ef0d477a",
+    "tests/platform-audit/recheck-25/audit-25.json": "48dc5b78e4c38ed15c7ffb388b9e6ca41689dc9574b23a002f1f147698b78f67",
+    "tests/platform-audit/recheck-25/preserved.json": "14938dda101fa3540fe953fbe77b1c52cbb59f7fa93dde93d29dbfb22b080781",
+    "tests/platform-audit/recheck-25/pending.json": "00396ce897e3eb93542c79ab4c3c1129cbf31be1d386d0642f76b0cbf8903ace",
+    "tests/platform-audit/recheck-25/README.md": "749ec400465783907cd7046419cbe72809b15f5910711c86d86f0e4ad2beebe9",
+    "index.html": "8a7349d794794b26d093078a09cf5b2677c7bf7818b2aba62ba31fc620b3dc11",
+    "sw.js": "5d16d8b6442d14c51fbf6694885ce6f802e6a4313dc07163406bb077b4a309fc",
+    "tests/regression.cjs": "e185ff3fb32ad1bc6dc83052188807410da02d4fd7885151240589d6d38818d6",
+    "tests/platform-audit/recheck-25/apply-review.cjs": "96ab831a0a9d01cfb434881a4ff6899b035c06aa00c18e7a3827a1ff4ec5d7d9"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-19",
+  "idempotent": true,
+  "files": {
+    "games.json": "58f864ec51ea538938c940d095b1db880418d9ca93122281322dfe19ec8cef20",
+    "tests/platform-audit/audit-838.json": "571a3723c0e640e3a7722ae19e815429a09724c2ecebde31f71a6b0d040d5aea",
+    "tests/platform-audit/pending.json": "f1318fd80fcf9cbdcafe42de5f39107cc3baa8178d890eee1d524cd84d65bd19",
+    "tests/platform-audit/README.md": "e91672b267c2849720ff10cb8d3eadb93bd1d88238ef19dd589b9cb92624fb1b",
+    "tests/platform-audit/recheck-49/audit-49.json": "c73b4d5054c83165b672282e29aba832f9815e60172a22ca349f5e368ffc6f34",
+    "tests/platform-audit/recheck-49/pending.json": "1baac4e260035984c7a1fbfdccacf06faf46497d7c95801e816c6a59ed179181",
+    "tests/platform-audit/recheck-49/README.md": "e194e4f906508387c8ea92b2186c1cf0568b37e5b5c079447348138010d54367"
+  }
+}

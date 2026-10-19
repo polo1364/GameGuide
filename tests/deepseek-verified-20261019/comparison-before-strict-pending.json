@@ -1,0 +1,40 @@
+{
+  "characters": 1004,
+  "headings": [
+    "比較與取捨",
+    "操作要點",
+    "推薦與替代方案"
+  ],
+  "html": "<div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：1 段附有可對應的來源引文，3 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:07:45.825Z。</div></div><p><strong>前期近戰新手，PC 版建議先選「長劍＋盾牌」起手</strong>：盾牌格擋與防反的操作容錯較高，等熟悉翻滾、鎖定與架勢後，再轉打刀雙手持握會更順。兩套都屬前期可取得的武器，但打刀雙持的節奏與風險明顯更高。</p><div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">以下機制依 2021 官方入門指南（早期版本）說明；武器實際數值、打刀出血累積與取得細節，本次來源未涵蓋，標為待確認。</div></div><p>參考來源（本段仍有待確認內容）：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><section class=\"guide-section\" id=\"guide-section-0\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-0\">比較與取捨</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><table class=\"mobile-card-table\"><thead><tr><th>項目</th><th>長劍＋盾牌</th><th>打刀雙手持握</th></tr></thead><tbody><tr><td data-label=\"項目\">操作難度</td><td data-label=\"長劍＋盾牌\">較低，可先按住格擋觀察敵人</td><td data-label=\"打刀雙手持握\">較高，需掌握翻滾時機與連段收招</td></tr><tr><td data-label=\"項目\">主要優勢</td><td data-label=\"長劍＋盾牌\">格擋、防反破架勢，失誤代價小</td><td data-label=\"打刀雙手持握\">雙手持握攻擊力提升、較易破防，攻擊距離較長</td></tr><tr><td data-label=\"項目\">主要弱點</td><td data-label=\"長劍＋盾牌\">輸出較保守，需靠防反與跳劈累積架勢</td><td data-label=\"打刀雙手持握\">無盾可擋，失誤直接吃傷害</td></tr><tr><td data-label=\"項目\">必要屬性</td><td data-label=\"長劍＋盾牌\">力氣、靈巧為主，體力與耐力保底</td><td data-label=\"打刀雙手持握\">靈巧為主，耐力需求更吃緊</td></tr><tr><td data-label=\"項目\">取得門檻</td><td data-label=\"長劍＋盾牌\">長劍為初始可選武器之一；盾牌前期可取得</td><td data-label=\"打刀雙手持握\">打刀需擊敗特定敵人取得，門檻較高（細節待確認）</td></tr></tbody></table><p>待確認：尚未找到長劍與打刀的能力值需求、打刀取得位置與出血累積的來源；操作難度與<mark class=\"keyword-highlight\">優缺點</mark>比較屬建議，非來源記載。</p><p>參考來源（本段仍有待確認內容）：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p></div></section><section class=\"guide-section\" id=\"guide-section-1\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-1\">操作要點</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li>長劍＋盾牌：左手裝盾，<code>L1/LB</code> 格擋；擋下攻擊後立刻按 <code>R2/RT</code> 使出防反，較易打破敵人架勢。</li><li>打刀雙持：按住 <code>△/Y</code> 再按 <code>R1/RB</code> 或 <code>R2/RT</code> 切換右手武器雙手持握；雙持時攻擊力提升、較易破防，但另一手武器無法使用。</li><li>雙持狀態下按 <code>L2/LT</code> 發動武器戰技，會消耗 FP；FP 歸零後無法再使用戰技。</li><li>兩手各裝同類武器時按 <code>L1/LB</code> 可發動雙刀攻擊；但「打刀雙手持握」是單手武器雙手拿，兩者不同，別混淆。</li></ol><p>來源：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p></div></section><section class=\"guide-section focus-keep\" id=\"guide-section-2\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-2\">推薦與替代方案</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ul><li><strong>先練長劍＋盾牌</strong>：把格擋、防反、跳劈破架勢練熟，耐力與體力優先。</li><li><strong>想提早轉打刀</strong>：可先單手持打刀配盾，熟悉攻擊距離後再改雙持；不要一開始就放棄防禦手段。</li><li><strong>替代思路</strong>：若覺得長劍傷害不足，可先強化武器與提升耐力，而非急著換武器；具體強化素材與數值待確認。</li></ul><p>待確認：尚未找到打刀取得位置、出血累積、能力值門檻與強化數據的來源；上述轉換順序與配點優先屬建議。</p><p>參考來源（本段仍有待確認內容）：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p></div></section>",
+  "links": [
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    }
+  ],
+  "steps": 4,
+  "tables": 1,
+  "text": "備註\n來源比對（AI）：1 段附有可對應的來源引文，3 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:07:45.825Z。\n\n前期近戰新手，PC 版建議先選「長劍＋盾牌」起手：盾牌格擋與防反的操作容錯較高，等熟悉翻滾、鎖定與架勢後，再轉打刀雙手持握會更順。兩套都屬前期可取得的武器，但打刀雙持的節奏與風險明顯更高。\n\n備註\n以下機制依 2021 官方入門指南（早期版本）說明；武器實際數值、打刀出血累積與取得細節，本次來源未涵蓋，標為待確認。\n\n參考來源（本段仍有待確認內容）：S1 官方\n\n比較與取捨\n⌄\n項目\t長劍＋盾牌\t打刀雙手持握\n操作難度\t較低，可先按住格擋觀察敵人\t較高，需掌握翻滾時機與連段收招\n主要優勢\t格擋、防反破架勢，失誤代價小\t雙手持握攻擊力提升、較易破防，攻擊距離較長\n主要弱點\t輸出較保守，需靠防反與跳劈累積架勢\t無盾可擋，失誤直接吃傷害\n必要屬性\t力氣、靈巧為主，體力與耐力保底\t靈巧為主，耐力需求更吃緊\n取得門檻\t長劍為初始可選武器之一；盾牌前期可取得\t打刀需擊敗特定敵人取得，門檻較高（細節待確認）\n\n待確認：尚未找到長劍與打刀的能力值需求、打刀取得位置與出血累積的來源；操作難度與優缺點比較屬建議，非來源記載。\n\n參考來源（本段仍有待確認內容）：S1 官方\n\n操作要點\n⌄\n長劍＋盾牌：左手裝盾，L1/LB 格擋；擋下攻擊後立刻按 R2/RT 使出防反，較易打破敵人架勢。\n打刀雙持：按住 △/Y 再按 R1/RB 或 R2/RT 切換右手武器雙手持握；雙持時攻擊力提升、較易破防，但另一手武器無法使用。\n雙持狀態下按 L2/LT 發動武器戰技，會消耗 FP；FP 歸零後無法再使用戰技。\n兩手各裝同類武器時按 L1/LB 可發動雙刀攻擊；但「打刀雙手持握」是單手武器雙手拿，兩者不同，別混淆。\n\n來源：S1 官方\n\n推薦與替代方案\n⌄\n先練長劍＋盾牌：把格擋、防反、跳劈破架勢練熟，耐力與體力優先。\n想提早轉打刀：可先單手持打刀配盾，熟悉攻擊距離後再改雙持；不要一開始就放棄防禦手段。\n替代思路：若覺得長劍傷害不足，可先強化武器與提升耐力，而非急著換武器；具體強化素材與數值待確認。\n\n待確認：尚未找到打刀取得位置、出血累積、能力值門檻與強化數據的來源；上述轉換順序與配點優先屬建議。\n\n參考來源（本段仍有待確認內容）：S1 官方",
+  "id": "comparison-before-strict-pending",
+  "capturedAt": "2026-10-19T15:09:46.373Z"
+}

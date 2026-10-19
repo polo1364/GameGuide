@@ -1,0 +1,153 @@
+[
+  {
+    "reviewIndex": 17,
+    "auditIndex": 318,
+    "name": "聲之形",
+    "status": "unresolved",
+    "platform": "未確認",
+    "safePlatform": "未確認",
+    "platformNote": "中文「聲之形」由采昌官方明列為京都動畫影視作品；英文別名 Voice of Cards 則是 Square Enix 另有三個不同副標的卡牌 RPG。現有資料沒有能決定所指遊戲的副標或開發商，不將任一款 Voice of Cards 平台套到聲之形，改列未確認。",
+    "safePlatformNote": "撤下未能對應本筆身分的 PC/PS4/Switch；未確認不代表斷言沒有改編遊戲。",
+    "sources": [
+      "https://www.ccii.com.tw/html/about",
+      "https://voiceofcards.square-enix-games.com/en_US/",
+      "https://www.jp.square-enix.com/vocb/"
+    ],
+    "evidence": [
+      "采昌第一方公司介紹把聲之形列在京都動畫作品中。",
+      "Square Enix 系列頁及產品頁列出 Voice of Cards 三部曲：ドラゴンの島、できそこないの巫女、囚われの魔物；本筆別名沒有可唯一辨識的副標。",
+      "以「聲之形 官方 遊戲」「聲之形 采昌」「Voice of Cards site.jp.square-enix.com 中文」查詢並回讀上述第一方頁；沒有取得本筆中文名與任一卡牌遊戲相同的官方連結。目錄亦無可確定合併的 Voice of Cards 具名作品。"
+    ],
+    "resolvedGap": "確認中文影視名稱與英文卡牌系列不同，移除假定平台；仍缺這筆應指哪一個遊戲的可唯一識別原文副標。",
+    "checkedAt": "2026-10-19",
+    "identityCorrection": {
+      "aliases": [
+        "聲之形"
+      ],
+      "reason": "采昌官方對應京都動畫作品；Square Enix 的 Voice of Cards 是另一卡牌遊戲系列，移除錯置的英文與聲之卡牌別名，不據此斷言沒有任何改編遊戲。"
+    },
+    "remainingReason": "identity-required"
+  },
+  {
+    "reviewIndex": 20,
+    "auditIndex": 338,
+    "name": "迷宮飯 千年國度的荒唐食譜",
+    "status": "unresolved",
+    "platform": "未確認",
+    "safePlatform": "未確認",
+    "platformNote": "截至查核日，未取得「千年國度的荒唐食譜」副標所對應的官方電玩商品或平台公告；原 Switch 沒有可追溯證據，撤下改列未確認。官方另有迷宮飯實體桌遊 Monster Eater，不能拿桌遊或動畫資料證明這筆是 Switch 遊戲。",
+    "safePlatformNote": "移除未證實 Switch，保留條目身分未解；查無足夠證據不等於作品不存在。",
+    "sources": [
+      "https://delicious-in-dungeon.com/news.html",
+      "https://www.kadokawa.co.jp/topics/13984/"
+    ],
+    "evidence": [
+      "動畫官方新聞頁 2022-08-10 公告的是モンスターイーター ～ダンジョン飯 ボードゲーム～，描述實體桌遊，名稱不是本筆副標。",
+      "KADOKAWA 官方展覽公告可確認迷宮飯 IP 與展覽商品，但不是本筆副標電玩的發行公告。",
+      "本輪查詢「迷宮飯 千年國度」「千年國度的荒唐食譜」「ダンジョン飯 ゲーム 公式」「迷宮飯 Switch site.nintendo.com」「ダンジョン飯 ゲーム site.delicious-in-dungeon.com」「迷宮飯 ゲーム site.kadokawa.co.jp」；檢視官方新聞，未取得對應副標、開發商或 Switch 商品。未採用非官方遊戲爆料補平台。"
+    ],
+    "resolvedGap": "依授權撤下無官方證據的 Switch；仍缺能唯一識別完整副標電玩的正式產品或開發商公告。",
+    "checkedAt": "2026-10-19",
+    "remainingReason": "identity-required"
+  },
+  {
+    "reviewIndex": 22,
+    "auditIndex": 340,
+    "name": "奇蹟餐廳",
+    "status": "verified",
+    "platform": "PC",
+    "safePlatform": "PC",
+    "platformNote": "依原台灣代理光譜產品及更新資料辨識為 Enlight 2003 年 Restaurant Empire，非 Vertigo 的 Cook, Serve, Delicious!。GOG 正式商品列 Windows；移除錯置的 PS4/Switch，不混入 Restaurant Empire II。",
+    "safePlatformNote": "依中文原作的第一方辨識鏈更正為 PC（Windows）。",
+    "sources": [
+      "https://www.ttime.com.tw/products/products_4.htm",
+      "https://www.ttime.com.tw/support/support_data.htm",
+      "https://www.gog.com/en/game/restaurant_empire",
+      "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/"
+    ],
+    "evidence": [
+      "光譜第一方產品表明列奇蹟餐廳、2003、Hong Kong、Enlight Software；這是中文正式作品的原代理證據。",
+      "光譜官方技術支援另有奇蹟餐廳國際中文版 1.14 升 1.21 說明，其更新檔連結名為 RE121.exe；與產品表共同排除 CSD 別名。",
+      "GOG Restaurant Empire 商品列 2003-03-26、Enlight Software 及 Windows；與光譜中文作品的年份和製作公司相互對應，形成跨官方來源辨識鏈。",
+      "Cook, Serve, Delicious! 的 Steam 商品開發商為 Vertigo Gaming Inc.，不是光譜所列 Enlight；不沿用該錯誤別名的主機平台。目錄未找到另一筆 Restaurant Empire。"
+    ],
+    "resolvedGap": "找到原代理中文作品及年份／開發商，解開別名衝突並移除另一遊戲平台。",
+    "checkedAt": "2026-10-19",
+    "identityCorrection": {
+      "aliases": [
+        "restaurant empire"
+      ],
+      "reason": "光譜官方中文商品對應 Enlight 2003 年作品；以 GOG 的同年同廠 Restaurant Empire 商品交叉辨識，移除 cook serve delicious、csd 及過度泛稱餐廳。"
+    }
+  },
+  {
+    "reviewIndex": 32,
+    "auditIndex": 497,
+    "name": "魔兵驚天錄",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Wii U/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Wii U/Switch",
+    "platformNote": "任天堂官方中文商品將 BAYONETTA 明列為蓓優妮塔 魔兵驚天錄；更正錯誤 The Wonderful 101 別名。PlatinumGames 逐版列出 Windows PC、PS3、Xbox 360、Wii U、Switch，以及 PS4/Xbox One 週年版；不把相容執行列為新原生世代。",
+    "safePlatformNote": "名稱與平台均依任天堂及開發商商品頁確認。",
+    "sources": [
+      "https://www.nintendo.com/hk/bayonetta/1-2/pc/top.html",
+      "https://www.platinumgames.com/works/bayonetta"
+    ],
+    "evidence": [
+      "任天堂中文第一方頁同一商品標示 BAYONETTA／蓓優妮塔 魔兵驚天錄，能直接更正英文別名。",
+      "PlatinumGames 商品規格分段列 PS4/Xbox One、Switch、Windows PC、Wii U、PS3/Xbox 360。",
+      "目前 games.json 已有「蓓優妮塔」，其 alias=bayonetta，且同樣涵蓋初代平台；另有神奇101 重製版，因此本筆不應再攜帶 The Wonderful 101 別名。"
+    ],
+    "resolvedGap": "官方中英文同頁唯一對應 Bayonetta 初代；解開錯別名並找到同作品重複條目。",
+    "checkedAt": "2026-10-19",
+    "identityCorrection": {
+      "aliases": [
+        "bayonetta",
+        "蓓優妮塔",
+        "魔兵",
+        "魔兵1",
+        "貝姐1"
+      ],
+      "reason": "任天堂官方中文名稱明確對應 BAYONETTA；刪除不同作品 the wonderful 101。"
+    },
+    "mergeRecommendation": {
+      "targetName": "蓓優妮塔",
+      "reason": "目錄已存在 alias=bayonetta 的初代，任天堂官方將蓓優妮塔與魔兵驚天錄列為同一 BAYONETTA 商品，建議保留目標條目並併入正確別名。"
+    }
+  },
+  {
+    "reviewIndex": 39,
+    "auditIndex": 582,
+    "name": "戰慄時空",
+    "status": "verified",
+    "platform": "PC/macOS/Linux/PS2",
+    "safePlatform": "PC/macOS/Linux/PS2",
+    "platformNote": "Valve 繁中 25 週年頁確認戰慄時空是 1998 年 Half-Life 初代；移除 Counter-Strike／CS／反恐精英別名。Valve 本作產品頁明列 Windows、OSX、Linux、PlayStation 2，補齊歷史原生 PS2 版；不混入 Half-Life: Source、Black Mesa 或續作。",
+    "safePlatformNote": "依 Valve 作品頁平台欄套用；macOS/PS2 包含歷史發行，不保證所有現代系統或地區仍可購買。",
+    "sources": [
+      "https://www.half-life.com/zh-tw/halflife/25th",
+      "https://www.half-life.com/en/halflife"
+    ],
+    "evidence": [
+      "Valve 繁中週年頁以戰慄時空標題、1998-11-19 日期及初代開發團隊說明連到 Half-Life 商品，確立官方名稱對應。",
+      "Valve Half-Life 產品頁的 Platforms 明列 Windows, OSX, Linux, PlayStation 2，直接解開上輪 PS2 歷史移植缺口。",
+      "目前 games.json 已有「半條命」，alias 含 half life、半條命1，指同一初代；此筆錯置的 counter strike、cs、反恐精英須移除。"
+    ],
+    "resolvedGap": "官方中文名解開 Counter-Strike 錯別名；Valve 完整平台欄補 PS2，並辨識目錄既有同作品。",
+    "checkedAt": "2026-10-19",
+    "identityCorrection": {
+      "aliases": [
+        "half-life",
+        "half life",
+        "半條命",
+        "半條命1",
+        "戰慄時空1"
+      ],
+      "reason": "Valve 官方繁中名稱為戰慄時空，英文為 Half-Life；移除全部 Counter-Strike 別名。"
+    },
+    "mergeRecommendation": {
+      "targetName": "半條命",
+      "reason": "目錄目標已有 half life／半條命1；官方繁中週年頁與英文初代頁明確為同作，建議合併正確別名並將目標平台補齊 PS2。"
+    }
+  }
+]

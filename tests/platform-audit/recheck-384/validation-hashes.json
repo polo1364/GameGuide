@@ -1,0 +1,13 @@
+{
+  "checkedAt": "2026-10-19",
+  "idempotence": "PASS",
+  "files": {
+    "games.json": "50cc619bd3c4d72100efd6fa2a0fd346019f0bcb348142bd4bb5acc75c59e529",
+    "tests/platform-audit/audit-838.json": "806cc7907e6abf5d67408645140d0aabb66403c332bb4dfd487c0baf3736b3f7",
+    "tests/platform-audit/pending.json": "a0f25329ee6311cde72f9705931087bba5d88511cce4333ae09159ba3a78e16b",
+    "tests/platform-audit/README.md": "29e38ebfa7635d72491775a4e4cb7a874fa13fb8fd6865f90a5edfbb68fbd289",
+    "tests/platform-audit/recheck-384/audit-384.json": "2de18d135c5b6dfd75a1b1ec98535a29bbd7ebd20c18748c4807fe19c5242411",
+    "tests/platform-audit/recheck-384/README.md": "13283dce0ce24efa62113c988ee1d17d235a3f4aceec48acef5cc901e563bd8b",
+    "tests/platform-audit/recheck-384/review-a.md": "c4842aa28fc61cd0ae2664a304cded1f0463d8a59f3b3b36539fa00423d2052a"
+  }
+}

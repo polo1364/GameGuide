@@ -1,0 +1,2684 @@
+{
+  "asOf": "2026-10-19",
+  "count": 49,
+  "records": [
+    {
+      "auditIndex": 60,
+      "name": "絕命暗殺令",
+      "status": "unresolved",
+      "before": "PC/PS/Xbox",
+      "after": "PC/PS/Xbox",
+      "changed": false,
+      "note": "HITMAN 未提供年份或副標題；IOI 現行 World of Assassination 平台不可套用到初代或 2016 版。原平台暫存未認證，需使用者指定作品。",
+      "sources": [
+        "https://ioi.dk/en-us/hitman/news/2023/hitman-3-to-become-world-of-assassination",
+        "https://ioi.dk/hitman/patch-notes/2026/game-update-3-270"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 0,
+      "game": {
+        "name": "絕命暗殺令",
+        "alias": [
+          "hitman",
+          "刺客任務"
+        ],
+        "platform": "PC/PS/Xbox",
+        "icon": "🎯",
+        "category": "潛行",
+        "platformNote": "HITMAN 未提供年份或副標題；IOI 現行 World of Assassination 平台不可套用到初代或 2016 版。原平台暫存未認證，需使用者指定作品。",
+        "platformSources": [
+          "https://ioi.dk/en-us/hitman/news/2023/hitman-3-to-become-world-of-assassination",
+          "https://ioi.dk/hitman/patch-notes/2026/game-update-3-270"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 60,
+        "name": "絕命暗殺令",
+        "status": "unresolved",
+        "platform": "PC/PS/Xbox",
+        "platformNote": "HITMAN 未提供年份或副標題；IOI 現行 World of Assassination 平台不可套用到初代或 2016 版。原平台暫存未認證，需使用者指定作品。",
+        "sources": [
+          "https://ioi.dk/en-us/hitman/news/2023/hitman-3-to-become-world-of-assassination",
+          "https://ioi.dk/hitman/patch-notes/2026/game-update-3-270"
+        ],
+        "evidence": [
+          "HITMAN 未提供年份或副標題；IOI 現行 World of Assassination 平台不可套用到初代或 2016 版。原平台暫存未認證，需使用者指定作品。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/PS/Xbox",
+        "safePlatformNote": "HITMAN 未提供年份或副標題；IOI 現行 World of Assassination 平台不可套用到初代或 2016 版。原平台暫存未認證，需使用者指定作品。",
+        "reviewIndex": 6,
+        "resolvedGap": "仍缺：HITMAN 未提供年份或副標題；IOI 現行 World of Assassination 平台不可套用到初代或 2016 版。原平台暫存未認證，需使用者指定作品。"
+      }
+    },
+    {
+      "auditIndex": 75,
+      "name": "模擬城市",
+      "status": "unresolved",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。",
+      "sources": [
+        "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx",
+        "https://store.ea.com/commerce/app/products/simcity-digital-deluxe-upgrade-pack"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 1,
+      "game": {
+        "name": "模擬城市",
+        "alias": [
+          "simcity"
+        ],
+        "platform": "PC",
+        "icon": "🏙️",
+        "category": "模擬",
+        "platformNote": "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。",
+        "platformSources": [
+          "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx",
+          "https://store.ea.com/commerce/app/products/simcity-digital-deluxe-upgrade-pack"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 75,
+        "name": "模擬城市",
+        "status": "unresolved",
+        "platform": "PC",
+        "platformNote": "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。",
+        "sources": [
+          "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx",
+          "https://store.ea.com/commerce/app/products/simcity-digital-deluxe-upgrade-pack"
+        ],
+        "evidence": [
+          "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC",
+        "safePlatformNote": "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。",
+        "reviewIndex": 10,
+        "resolvedGap": "仍缺：泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。"
+      }
+    },
+    {
+      "auditIndex": 77,
+      "name": "農場模擬器系列",
+      "status": "unresolved",
+      "before": "PC/PS/Xbox",
+      "after": "PC/PS/Xbox",
+      "changed": false,
+      "note": "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。",
+      "sources": [
+        "https://farming-simulator.com/about.php?platform=pc"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 2,
+      "game": {
+        "name": "農場模擬器系列",
+        "alias": [
+          "farming simulator"
+        ],
+        "platform": "PC/PS/Xbox",
+        "icon": "🚜",
+        "category": "模擬",
+        "platformNote": "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。",
+        "platformSources": [
+          "https://farming-simulator.com/about.php?platform=pc"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 77,
+        "name": "農場模擬器系列",
+        "status": "unresolved",
+        "platform": "PC/PS/Xbox",
+        "platformNote": "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。",
+        "sources": [
+          "https://farming-simulator.com/about.php?platform=pc"
+        ],
+        "evidence": [
+          "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/PS/Xbox",
+        "safePlatformNote": "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。",
+        "reviewIndex": 11,
+        "resolvedGap": "仍缺：系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。"
+      }
+    },
+    {
+      "auditIndex": 78,
+      "name": "微軟模擬飛行",
+      "status": "unresolved",
+      "before": "PC/Xbox",
+      "after": "PC/Xbox",
+      "changed": false,
+      "note": "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。",
+      "sources": [
+        "https://www.xbox.com/en-us/games/microsoft-flight-simulator-2024",
+        "https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 3,
+      "game": {
+        "name": "微軟模擬飛行",
+        "alias": [
+          "microsoft flight simulator",
+          "模擬飛行",
+          "msfs"
+        ],
+        "platform": "PC/Xbox",
+        "icon": "✈️",
+        "category": "模擬",
+        "platformNote": "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。",
+        "platformSources": [
+          "https://www.xbox.com/en-us/games/microsoft-flight-simulator-2024",
+          "https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 78,
+        "name": "微軟模擬飛行",
+        "status": "unresolved",
+        "platform": "PC/Xbox",
+        "platformNote": "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。",
+        "sources": [
+          "https://www.xbox.com/en-us/games/microsoft-flight-simulator-2024",
+          "https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"
+        ],
+        "evidence": [
+          "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/Xbox",
+        "safePlatformNote": "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。",
+        "reviewIndex": 12,
+        "resolvedGap": "仍缺：未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。"
+      }
+    },
+    {
+      "auditIndex": 188,
+      "name": "仙境傳說 復興",
+      "status": "unresolved",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "官方 Renewal 是原 RO 服務版本；既有中文「復興」與英文 alias 不足以對應單一官方產品。仍需營運商或正確原文名稱，保留原值並禁止自動指定平台。",
+      "sources": [
+        "https://renewal.playragnarok.com/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 4,
+      "game": {
+        "name": "仙境傳說 復興",
+        "alias": [
+          "ragnarok renewal",
+          "ro renewal"
+        ],
+        "platform": "PC",
+        "icon": "🔄",
+        "category": "MMORPG",
+        "platformNote": "官方 Renewal 是原 RO 服務版本；既有中文「復興」與英文 alias 不足以對應單一官方產品。仍需營運商或正確原文名稱，保留原值並禁止自動指定平台。",
+        "platformSources": [
+          "https://renewal.playragnarok.com/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 188,
+        "name": "仙境傳說 復興",
+        "status": "unresolved",
+        "platform": "PC",
+        "platformNote": "官方 Renewal 是原 RO 服務版本；既有中文「復興」與英文 alias 不足以對應單一官方產品。仍需營運商或正確原文名稱，保留原值並禁止自動指定平台。",
+        "sources": [
+          "https://renewal.playragnarok.com/"
+        ],
+        "evidence": [
+          "官方 Renewal 是原 RO 服務版本；既有中文「復興」與英文 alias 不足以對應單一官方產品。仍需營運商或正確原文名稱，保留原值並禁止自動指定平台。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC",
+        "safePlatformNote": "官方 Renewal 是原 RO 服務版本；既有中文「復興」與英文 alias 不足以對應單一官方產品。仍需營運商或正確原文名稱，保留原值並禁止自動指定平台。",
+        "reviewIndex": 29,
+        "resolvedGap": "仍缺：官方 Renewal 是原 RO 服務版本；既有中文「復興」與英文 alias 不足以對應單一官方產品。仍需營運商或正確原文名稱，保留原值並禁止自動指定平台。"
+      }
+    },
+    {
+      "auditIndex": 192,
+      "name": "魔力寶貝 懷舊版",
+      "status": "unresolved",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "易玩通官方網站可確認中國「魔力寶貝懷舊」客戶端，但現有條目未記錄地區或營運商，不能直接認定是此服務。PC 原值保留，需先釐清版本。",
+      "sources": [
+        "https://cg.softstar.com.tw/",
+        "https://www.polchina.com.cn/staticHtml/download.html"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 5,
+      "game": {
+        "name": "魔力寶貝 懷舊版",
+        "alias": [
+          "cross gate classic",
+          "魔力懷舊",
+          "cg classic"
+        ],
+        "platform": "PC",
+        "icon": "📜",
+        "category": "MMORPG",
+        "platformNote": "易玩通官方網站可確認中國「魔力寶貝懷舊」客戶端，但現有條目未記錄地區或營運商，不能直接認定是此服務。PC 原值保留，需先釐清版本。",
+        "platformSources": [
+          "https://cg.softstar.com.tw/",
+          "https://www.polchina.com.cn/staticHtml/download.html"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 192,
+        "name": "魔力寶貝 懷舊版",
+        "status": "unresolved",
+        "platform": "PC",
+        "platformNote": "易玩通官方網站可確認中國「魔力寶貝懷舊」客戶端，但現有條目未記錄地區或營運商，不能直接認定是此服務。PC 原值保留，需先釐清版本。",
+        "sources": [
+          "https://cg.softstar.com.tw/",
+          "https://www.polchina.com.cn/staticHtml/download.html"
+        ],
+        "evidence": [
+          "易玩通官方網站可確認中國「魔力寶貝懷舊」客戶端，但現有條目未記錄地區或營運商，不能直接認定是此服務。PC 原值保留，需先釐清版本。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC",
+        "safePlatformNote": "易玩通官方網站可確認中國「魔力寶貝懷舊」客戶端，但現有條目未記錄地區或營運商，不能直接認定是此服務。PC 原值保留，需先釐清版本。",
+        "reviewIndex": 31,
+        "resolvedGap": "仍缺：易玩通官方網站可確認中國「魔力寶貝懷舊」客戶端，但現有條目未記錄地區或營運商，不能直接認定是此服務。PC 原值保留，需先釐清版本。"
+      }
+    },
+    {
+      "auditIndex": 204,
+      "name": "遊戲王 World Championship",
+      "status": "unresolved",
+      "before": "DS/3DS",
+      "after": "依年度確認（GBA／Nintendo DS）",
+      "changed": true,
+      "note": "KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。",
+      "sources": [
+        "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/",
+        "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/?m=8",
+        "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_set_gba/"
+      ],
+      "checkedAt": "2026-10-19",
+      "unresolvedCorrection": "仍缺：KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。",
+      "reviewIndex": 6,
+      "game": {
+        "name": "遊戲王 World Championship",
+        "alias": [
+          "yu-gi-oh wc",
+          "world championship",
+          "世界大賽"
+        ],
+        "platform": "依年度確認（GBA／Nintendo DS）",
+        "icon": "🌍",
+        "category": "卡牌對戰",
+        "platformNote": "KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。",
+        "platformSources": [
+          "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/",
+          "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/?m=8",
+          "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_set_gba/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 204,
+        "name": "遊戲王 World Championship",
+        "status": "unresolved",
+        "platform": "依年度確認（GBA／Nintendo DS）",
+        "platformNote": "KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。",
+        "sources": [
+          "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/",
+          "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/?m=8",
+          "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_set_gba/"
+        ],
+        "evidence": [
+          "KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "依年度確認（GBA／Nintendo DS）",
+        "safePlatformNote": "KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。",
+        "reviewIndex": 34,
+        "resolvedGap": "仍缺：KONAMI 的 2006 與 2011 商品分別確認 GBA、Nintendo DS；舊欄把 3DS 相容機當原生平台，改為已知年度範圍。未提供年份，仍不能替使用者選定某一版本。",
+        "allowUnresolvedPlatformCorrection": true
+      }
+    },
+    {
+      "auditIndex": 223,
+      "name": "流亡黯道 手機版",
+      "status": "partial",
+      "before": "iOS/Android",
+      "after": "行動裝置（系統未公布）",
+      "changed": true,
+      "note": "GGG 官方僅稱行動裝置實驗開發，未提供可核實的 iOS／Android 發售清單或日期；移除舊資料對具體系統的肯定宣稱，仍待完整公布。",
+      "sources": [
+        "https://www.pathofexile.com/mobile",
+        "https://www.pathofexile.com/support",
+        "https://www.pathofexile.com/echoes"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 7,
+      "game": {
+        "name": "流亡黯道 手機版",
+        "alias": [
+          "path of exile mobile",
+          "poe mobile"
+        ],
+        "platform": "行動裝置（系統未公布）",
+        "icon": "📱",
+        "category": "動作RPG",
+        "platformNote": "GGG 官方僅稱行動裝置實驗開發，未提供可核實的 iOS／Android 發售清單或日期；移除舊資料對具體系統的肯定宣稱，仍待完整公布。",
+        "platformSources": [
+          "https://www.pathofexile.com/mobile",
+          "https://www.pathofexile.com/support",
+          "https://www.pathofexile.com/echoes"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial",
+        "releaseStatus": "upcoming"
+      },
+      "previousReview": {
+        "auditIndex": 223,
+        "name": "流亡黯道 手機版",
+        "status": "partial",
+        "platform": "行動裝置（系統未公布）",
+        "platformNote": "GGG 官方僅稱行動裝置實驗開發，未提供可核實的 iOS／Android 發售清單或日期；移除舊資料對具體系統的肯定宣稱，仍待完整公布。",
+        "sources": [
+          "https://www.pathofexile.com/mobile",
+          "https://www.pathofexile.com/support",
+          "https://www.pathofexile.com/echoes"
+        ],
+        "evidence": [
+          "GGG 官方僅稱行動裝置實驗開發，未提供可核實的 iOS／Android 發售清單或日期；移除舊資料對具體系統的肯定宣稱，仍待完整公布。"
+        ],
+        "checkedAt": "2026-10-19",
+        "releaseStatus": "upcoming",
+        "safePlatform": "行動裝置（系統未公布）",
+        "reviewIndex": 41,
+        "safePlatformNote": "GGG 官方僅稱行動裝置實驗開發，未提供可核實的 iOS／Android 發售清單或日期；移除舊資料對具體系統的肯定宣稱，仍待完整公布。",
+        "resolvedGap": "仍缺：GGG 官方僅稱行動裝置實驗開發，未提供可核實的 iOS／Android 發售清單或日期；移除舊資料對具體系統的肯定宣稱，仍待完整公布。"
+      }
+    },
+    {
+      "auditIndex": 237,
+      "name": "巫師 重製版",
+      "status": "partial",
+      "before": "PC/PS5",
+      "after": "未公布",
+      "changed": true,
+      "note": "CDPR 官方開發公告尚未提供可核實的平台清單；移除舊欄 PC／PS5 的確定宣稱，以未公布顯示。發售平台仍待正式揭露。",
+      "sources": [
+        "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 8,
+      "game": {
+        "name": "巫師 重製版",
+        "alias": [
+          "the witcher remake",
+          "witcher remake"
+        ],
+        "platform": "未公布",
+        "icon": "⚔️",
+        "category": "動作RPG",
+        "platformNote": "CDPR 官方開發公告尚未提供可核實的平台清單；移除舊欄 PC／PS5 的確定宣稱，以未公布顯示。發售平台仍待正式揭露。",
+        "platformSources": [
+          "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial",
+        "releaseStatus": "upcoming"
+      },
+      "previousReview": {
+        "auditIndex": 237,
+        "name": "巫師 重製版",
+        "status": "partial",
+        "platform": "未公布",
+        "platformNote": "CDPR 官方開發公告尚未提供可核實的平台清單；移除舊欄 PC／PS5 的確定宣稱，以未公布顯示。發售平台仍待正式揭露。",
+        "sources": [
+          "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development"
+        ],
+        "evidence": [
+          "CDPR 官方開發公告尚未提供可核實的平台清單；移除舊欄 PC／PS5 的確定宣稱，以未公布顯示。發售平台仍待正式揭露。"
+        ],
+        "checkedAt": "2026-10-19",
+        "releaseStatus": "upcoming",
+        "safePlatform": "未公布",
+        "reviewIndex": 46,
+        "safePlatformNote": "CDPR 官方開發公告尚未提供可核實的平台清單；移除舊欄 PC／PS5 的確定宣稱，以未公布顯示。發售平台仍待正式揭露。",
+        "resolvedGap": "仍缺：CDPR 官方開發公告尚未提供可核實的平台清單；移除舊欄 PC／PS5 的確定宣稱，以未公布顯示。發售平台仍待正式揭露。"
+      }
+    },
+    {
+      "auditIndex": 249,
+      "name": "石器時代M",
+      "status": "partial",
+      "before": "iOS/Android",
+      "after": "iOS/Android",
+      "changed": false,
+      "note": "Netmarble 官方 2018 上市影片確認台港澳石器時代M 身分；仍未取得可直接核對兩個手機系統的原版官方下載頁，保留 iOS／Android 舊值，與放置冒險分開。",
+      "sources": [
+        "https://www.youtube.com/watch?v=2SEU9fFRnFo",
+        "https://www.youtube.com/watch?v=lniaSa80r38"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 9,
+      "game": {
+        "name": "石器時代M",
+        "alias": [
+          "stone age m",
+          "石器m"
+        ],
+        "platform": "iOS/Android",
+        "icon": "🦕",
+        "category": "MMORPG",
+        "platformNote": "Netmarble 官方 2018 上市影片確認台港澳石器時代M 身分；仍未取得可直接核對兩個手機系統的原版官方下載頁，保留 iOS／Android 舊值，與放置冒險分開。",
+        "platformSources": [
+          "https://www.youtube.com/watch?v=2SEU9fFRnFo",
+          "https://www.youtube.com/watch?v=lniaSa80r38"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 249,
+        "name": "石器時代M",
+        "status": "partial",
+        "platform": "iOS/Android",
+        "platformNote": "Netmarble 官方 2018 上市影片確認台港澳石器時代M 身分；仍未取得可直接核對兩個手機系統的原版官方下載頁，保留 iOS／Android 舊值，與放置冒險分開。",
+        "sources": [
+          "https://www.youtube.com/watch?v=2SEU9fFRnFo",
+          "https://www.youtube.com/watch?v=lniaSa80r38"
+        ],
+        "evidence": [
+          "Netmarble 官方 2018 上市影片確認台港澳石器時代M 身分；仍未取得可直接核對兩個手機系統的原版官方下載頁，保留 iOS／Android 舊值，與放置冒險分開。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "iOS/Android",
+        "reviewIndex": 53,
+        "safePlatformNote": "Netmarble 官方 2018 上市影片確認台港澳石器時代M 身分；仍未取得可直接核對兩個手機系統的原版官方下載頁，保留 iOS／Android 舊值，與放置冒險分開。",
+        "resolvedGap": "仍缺：Netmarble 官方 2018 上市影片確認台港澳石器時代M 身分；仍未取得可直接核對兩個手機系統的原版官方下載頁，保留 iOS／Android 舊值，與放置冒險分開。"
+      }
+    },
+    {
+      "auditIndex": 263,
+      "name": "仙劍奇俠傳",
+      "status": "partial",
+      "before": "PC",
+      "after": "PC/iOS",
+      "changed": true,
+      "note": "依 alias「仙劍1」對應初代；大宇自有 2013 公告明列 1995 原作與 iOS DOS 懷舊移植版，補 iOS 歷史平台。尚未補齊其他歷史移植的官方證據，非新仙劍重製版或系列泛稱。",
+      "sources": [
+        "https://km.softstar.com.tw/topic.aspx?tid=487"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 10,
+      "game": {
+        "name": "仙劍奇俠傳",
+        "alias": [
+          "chinese paladin",
+          "仙劍1",
+          "仙劍"
+        ],
+        "platform": "PC/iOS",
+        "icon": "🗡️",
+        "category": "RPG",
+        "platformNote": "依 alias「仙劍1」對應初代；大宇自有 2013 公告明列 1995 原作與 iOS DOS 懷舊移植版，補 iOS 歷史平台。尚未補齊其他歷史移植的官方證據，非新仙劍重製版或系列泛稱。",
+        "platformSources": [
+          "https://km.softstar.com.tw/topic.aspx?tid=487"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 263,
+        "name": "仙劍奇俠傳",
+        "status": "partial",
+        "platform": "PC/iOS",
+        "platformNote": "依 alias「仙劍1」對應初代；大宇自有 2013 公告明列 1995 原作與 iOS DOS 懷舊移植版，補 iOS 歷史平台。尚未補齊其他歷史移植的官方證據，非新仙劍重製版或系列泛稱。",
+        "sources": [
+          "https://km.softstar.com.tw/topic.aspx?tid=487"
+        ],
+        "evidence": [
+          "依 alias「仙劍1」對應初代；大宇自有 2013 公告明列 1995 原作與 iOS DOS 懷舊移植版，補 iOS 歷史平台。尚未補齊其他歷史移植的官方證據，非新仙劍重製版或系列泛稱。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/iOS",
+        "reviewIndex": 58,
+        "safePlatformNote": "依 alias「仙劍1」對應初代；大宇自有 2013 公告明列 1995 原作與 iOS DOS 懷舊移植版，補 iOS 歷史平台。尚未補齊其他歷史移植的官方證據，非新仙劍重製版或系列泛稱。",
+        "resolvedGap": "仍缺：依 alias「仙劍1」對應初代；大宇自有 2013 公告明列 1995 原作與 iOS DOS 懷舊移植版，補 iOS 歷史平台。尚未補齊其他歷史移植的官方證據，非新仙劍重製版或系列泛稱。"
+      }
+    },
+    {
+      "auditIndex": 273,
+      "name": "大富翁系列",
+      "status": "unresolved",
+      "before": "PC/Switch",
+      "after": "PC/Switch",
+      "changed": false,
+      "note": "大富翁為系列集合，Softstar 可確認大富翁4等獨立產品，但無法由泛稱選定代數。保留舊平台作待辨識資料，須指定作品後才能自動判定。",
+      "sources": [
+        "https://store.steampowered.com/app/2027920?l=tchinese",
+        "https://store.steampowered.com/app/2027920/?l=schinese",
+        "https://www.softstar.com.tw/download/Download_game.aspx?gid=RICH4",
+        "https://www.softstar.com.tw/download/download.aspx"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 11,
+      "game": {
+        "name": "大富翁系列",
+        "alias": [
+          "richman",
+          "大富翁4",
+          "大富翁"
+        ],
+        "platform": "PC/Switch",
+        "icon": "🎲",
+        "category": "桌遊",
+        "platformNote": "大富翁為系列集合，Softstar 可確認大富翁4等獨立產品，但無法由泛稱選定代數。保留舊平台作待辨識資料，須指定作品後才能自動判定。",
+        "platformSources": [
+          "https://store.steampowered.com/app/2027920?l=tchinese",
+          "https://store.steampowered.com/app/2027920/?l=schinese",
+          "https://www.softstar.com.tw/download/Download_game.aspx?gid=RICH4",
+          "https://www.softstar.com.tw/download/download.aspx"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 273,
+        "name": "大富翁系列",
+        "status": "unresolved",
+        "platform": "PC/Switch",
+        "platformNote": "大富翁為系列集合，Softstar 可確認大富翁4等獨立產品，但無法由泛稱選定代數。保留舊平台作待辨識資料，須指定作品後才能自動判定。",
+        "sources": [
+          "https://store.steampowered.com/app/2027920?l=tchinese",
+          "https://store.steampowered.com/app/2027920/?l=schinese",
+          "https://www.softstar.com.tw/download/Download_game.aspx?gid=RICH4",
+          "https://www.softstar.com.tw/download/download.aspx"
+        ],
+        "evidence": [
+          "大富翁為系列集合，Softstar 可確認大富翁4等獨立產品，但無法由泛稱選定代數。保留舊平台作待辨識資料，須指定作品後才能自動判定。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/Switch",
+        "reviewIndex": 60,
+        "safePlatformNote": "大富翁為系列集合，Softstar 可確認大富翁4等獨立產品，但無法由泛稱選定代數。保留舊平台作待辨識資料，須指定作品後才能自動判定。",
+        "resolvedGap": "仍缺：大富翁為系列集合，Softstar 可確認大富翁4等獨立產品，但無法由泛稱選定代數。保留舊平台作待辨識資料，須指定作品後才能自動判定。"
+      }
+    },
+    {
+      "auditIndex": 274,
+      "name": "金庸群俠傳",
+      "status": "partial",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "智冠自有歷史資料確認原版金庸群俠傳身分與 1996 年獲獎，仍缺直接標示原版作業平台的產品／規格資料；PC 舊值保留，不用 Online 或其他同名作品補證。",
+      "sources": [
+        "https://www.soft-world.com/About/History?EKind=6"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 12,
+      "game": {
+        "name": "金庸群俠傳",
+        "alias": [
+          "heroes of jin yong",
+          "金庸"
+        ],
+        "platform": "PC",
+        "icon": "🥋",
+        "category": "RPG",
+        "platformNote": "智冠自有歷史資料確認原版金庸群俠傳身分與 1996 年獲獎，仍缺直接標示原版作業平台的產品／規格資料；PC 舊值保留，不用 Online 或其他同名作品補證。",
+        "platformSources": [
+          "https://www.soft-world.com/About/History?EKind=6"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 274,
+        "name": "金庸群俠傳",
+        "status": "partial",
+        "platform": "PC",
+        "platformNote": "智冠自有歷史資料確認原版金庸群俠傳身分與 1996 年獲獎，仍缺直接標示原版作業平台的產品／規格資料；PC 舊值保留，不用 Online 或其他同名作品補證。",
+        "sources": [
+          "https://www.soft-world.com/About/History?EKind=6"
+        ],
+        "evidence": [
+          "智冠自有歷史資料確認原版金庸群俠傳身分與 1996 年獲獎，仍缺直接標示原版作業平台的產品／規格資料；PC 舊值保留，不用 Online 或其他同名作品補證。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC",
+        "reviewIndex": 61,
+        "safePlatformNote": "智冠自有歷史資料確認原版金庸群俠傳身分與 1996 年獲獎，仍缺直接標示原版作業平台的產品／規格資料；PC 舊值保留，不用 Online 或其他同名作品補證。",
+        "resolvedGap": "仍缺：智冠自有歷史資料確認原版金庸群俠傳身分與 1996 年獲獎，仍缺直接標示原版作業平台的產品／規格資料；PC 舊值保留，不用 Online 或其他同名作品補證。"
+      }
+    },
+    {
+      "auditIndex": 275,
+      "name": "武林群俠傳",
+      "status": "partial",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "智冠官方歷史確認武林群俠傳是早期獨立作品；Steam 的 Tale of Wuxia 明確是俠客風雲傳，移除錯誤別名。原版 PC 平台仍缺直接規格證據，暫列部分核實。",
+      "sources": [
+        "https://www.soft-world.com/About/History?EKind=6",
+        "https://store.steampowered.com/app/377530/Tale_of_Wuxia/"
+      ],
+      "checkedAt": "2026-10-19",
+      "aliasCorrection": {
+        "before": [
+          "tale of wuxia",
+          "武林"
+        ],
+        "after": [
+          "武林群俠傳",
+          "武林"
+        ],
+        "reason": "Tale of Wuxia 的發行商商品名稱為俠客風雲傳，不能拿來作武林群俠傳別名。"
+      },
+      "reviewIndex": 13,
+      "game": {
+        "name": "武林群俠傳",
+        "alias": [
+          "武林群俠傳",
+          "武林"
+        ],
+        "platform": "PC",
+        "icon": "🏯",
+        "category": "RPG",
+        "platformNote": "智冠官方歷史確認武林群俠傳是早期獨立作品；Steam 的 Tale of Wuxia 明確是俠客風雲傳，移除錯誤別名。原版 PC 平台仍缺直接規格證據，暫列部分核實。",
+        "platformSources": [
+          "https://www.soft-world.com/About/History?EKind=6",
+          "https://store.steampowered.com/app/377530/Tale_of_Wuxia/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 275,
+        "name": "武林群俠傳",
+        "status": "partial",
+        "platform": "PC",
+        "platformNote": "智冠官方歷史確認武林群俠傳是早期獨立作品；Steam 的 Tale of Wuxia 明確是俠客風雲傳，移除錯誤別名。原版 PC 平台仍缺直接規格證據，暫列部分核實。",
+        "sources": [
+          "https://www.soft-world.com/About/History?EKind=6",
+          "https://store.steampowered.com/app/377530/Tale_of_Wuxia/"
+        ],
+        "evidence": [
+          "智冠官方歷史確認武林群俠傳是早期獨立作品；Steam 的 Tale of Wuxia 明確是俠客風雲傳，移除錯誤別名。原版 PC 平台仍缺直接規格證據，暫列部分核實。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC",
+        "reviewIndex": 62,
+        "safePlatformNote": "智冠官方歷史確認武林群俠傳是早期獨立作品；Steam 的 Tale of Wuxia 明確是俠客風雲傳，移除錯誤別名。原版 PC 平台仍缺直接規格證據，暫列部分核實。",
+        "resolvedGap": "仍缺：智冠官方歷史確認武林群俠傳是早期獨立作品；Steam 的 Tale of Wuxia 明確是俠客風雲傳，移除錯誤別名。原版 PC 平台仍缺直接規格證據，暫列部分核實。",
+        "identityCorrection": {
+          "aliases": [
+            "武林群俠傳",
+            "武林"
+          ],
+          "reason": "Tale of Wuxia 的發行商商品名稱為俠客風雲傳，不能拿來作武林群俠傳別名。"
+        }
+      }
+    },
+    {
+      "auditIndex": 295,
+      "name": "Fate/stay night",
+      "status": "partial",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "TYPE-MOON 原作 FAQ 核實 Windows PC；Aniplex 的 REMASTERED 以 Vita Realta Nua 為基底。既有條目未指定原版或全年齡移植，保留 PC，仍待版本定義後補完整平台，不把重製版清單直接套入。",
+      "sources": [
+        "https://www.aniplex.co.jp/lineup/fate-sn-game/",
+        "https://www.aniplex.co.jp/lineup/fate-ha/",
+        "https://www.typemoon.com/faq/index.html"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 14,
+      "game": {
+        "name": "Fate/stay night",
+        "alias": [
+          "fate sn",
+          "fsn",
+          "fate"
+        ],
+        "platform": "PC",
+        "icon": "⚔️",
+        "category": "視覺小說",
+        "platformNote": "TYPE-MOON 原作 FAQ 核實 Windows PC；Aniplex 的 REMASTERED 以 Vita Realta Nua 為基底。既有條目未指定原版或全年齡移植，保留 PC，仍待版本定義後補完整平台，不把重製版清單直接套入。",
+        "platformSources": [
+          "https://www.aniplex.co.jp/lineup/fate-sn-game/",
+          "https://www.aniplex.co.jp/lineup/fate-ha/",
+          "https://www.typemoon.com/faq/index.html"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 295,
+        "name": "Fate/stay night",
+        "status": "partial",
+        "platform": "PC",
+        "platformNote": "TYPE-MOON 原作 FAQ 核實 Windows PC；Aniplex 的 REMASTERED 以 Vita Realta Nua 為基底。既有條目未指定原版或全年齡移植，保留 PC，仍待版本定義後補完整平台，不把重製版清單直接套入。",
+        "sources": [
+          "https://www.aniplex.co.jp/lineup/fate-sn-game/",
+          "https://www.aniplex.co.jp/lineup/fate-ha/",
+          "https://www.typemoon.com/faq/index.html"
+        ],
+        "evidence": [
+          "TYPE-MOON 原作 FAQ 核實 Windows PC；Aniplex 的 REMASTERED 以 Vita Realta Nua 為基底。既有條目未指定原版或全年齡移植，保留 PC，仍待版本定義後補完整平台，不把重製版清單直接套入。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC",
+        "reviewIndex": 77,
+        "safePlatformNote": "TYPE-MOON 原作 FAQ 核實 Windows PC；Aniplex 的 REMASTERED 以 Vita Realta Nua 為基底。既有條目未指定原版或全年齡移植，保留 PC，仍待版本定義後補完整平台，不把重製版清單直接套入。",
+        "resolvedGap": "仍缺：TYPE-MOON 原作 FAQ 核實 Windows PC；Aniplex 的 REMASTERED 以 Vita Realta Nua 為基底。既有條目未指定原版或全年齡移植，保留 PC，仍待版本定義後補完整平台，不把重製版清單直接套入。"
+      }
+    },
+    {
+      "auditIndex": 297,
+      "name": "極限脫出系列",
+      "status": "unresolved",
+      "before": "PC/PS4/Switch",
+      "after": "PC/PS4/Switch",
+      "changed": false,
+      "note": "極限脫出為系列條目，官方 The Nonary Games 確認的是 999／VLR 合輯 PC、PS4、Xbox，不能推及全系列或 Switch。未指定作品，原值暫存且禁止自動選平台。",
+      "sources": [
+        "https://www.spike-chunsoft.com/games/zero-escape-nonary-games/",
+        "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/",
+        "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-price-reduced/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 15,
+      "game": {
+        "name": "極限脫出系列",
+        "alias": [
+          "zero escape",
+          "999",
+          "極限脫出"
+        ],
+        "platform": "PC/PS4/Switch",
+        "icon": "🔢",
+        "category": "解謎",
+        "platformNote": "極限脫出為系列條目，官方 The Nonary Games 確認的是 999／VLR 合輯 PC、PS4、Xbox，不能推及全系列或 Switch。未指定作品，原值暫存且禁止自動選平台。",
+        "platformSources": [
+          "https://www.spike-chunsoft.com/games/zero-escape-nonary-games/",
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/",
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-price-reduced/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 297,
+        "name": "極限脫出系列",
+        "status": "unresolved",
+        "platform": "PC/PS4/Switch",
+        "platformNote": "極限脫出為系列條目，官方 The Nonary Games 確認的是 999／VLR 合輯 PC、PS4、Xbox，不能推及全系列或 Switch。未指定作品，原值暫存且禁止自動選平台。",
+        "sources": [
+          "https://www.spike-chunsoft.com/games/zero-escape-nonary-games/",
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/",
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-price-reduced/"
+        ],
+        "evidence": [
+          "極限脫出為系列條目，官方 The Nonary Games 確認的是 999／VLR 合輯 PC、PS4、Xbox，不能推及全系列或 Switch。未指定作品，原值暫存且禁止自動選平台。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/PS4/Switch",
+        "reviewIndex": 79,
+        "safePlatformNote": "極限脫出為系列條目，官方 The Nonary Games 確認的是 999／VLR 合輯 PC、PS4、Xbox，不能推及全系列或 Switch。未指定作品，原值暫存且禁止自動選平台。",
+        "resolvedGap": "仍缺：極限脫出為系列條目，官方 The Nonary Games 確認的是 999／VLR 合輯 PC、PS4、Xbox，不能推及全系列或 Switch。未指定作品，原值暫存且禁止自動選平台。"
+      }
+    },
+    {
+      "auditIndex": 302,
+      "name": "逆轉裁判系列",
+      "status": "unresolved",
+      "before": "PC/PS4/Switch",
+      "after": "PC/PS4/Switch",
+      "changed": false,
+      "note": "逆轉裁判系列含原作、合輯與重製，各平台不同。已補官方 456 合輯公告作版本對照，但不得用合集平台認證整個系列。",
+      "sources": [
+        "https://us-store.captown.capcom.com/collections/ace-attorney",
+        "https://store.captown.capcom.com/en/collections/ace-attorney",
+        "https://us-store.captown.capcom.com/products/997892-us",
+        "https://news.capcomusa.com/2024/01/25/take-that-apollo-justice-ace-attorney-trilogy-is-out-now/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 16,
+      "game": {
+        "name": "逆轉裁判系列",
+        "alias": [
+          "ace attorney",
+          "逆轉",
+          "逆轉裁判"
+        ],
+        "platform": "PC/PS4/Switch",
+        "icon": "⚖️",
+        "category": "解謎",
+        "platformNote": "逆轉裁判系列含原作、合輯與重製，各平台不同。已補官方 456 合輯公告作版本對照，但不得用合集平台認證整個系列。",
+        "platformSources": [
+          "https://us-store.captown.capcom.com/collections/ace-attorney",
+          "https://store.captown.capcom.com/en/collections/ace-attorney",
+          "https://us-store.captown.capcom.com/products/997892-us",
+          "https://news.capcomusa.com/2024/01/25/take-that-apollo-justice-ace-attorney-trilogy-is-out-now/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 302,
+        "name": "逆轉裁判系列",
+        "status": "unresolved",
+        "platform": "PC/PS4/Switch",
+        "platformNote": "逆轉裁判系列含原作、合輯與重製，各平台不同。已補官方 456 合輯公告作版本對照，但不得用合集平台認證整個系列。",
+        "sources": [
+          "https://us-store.captown.capcom.com/collections/ace-attorney",
+          "https://store.captown.capcom.com/en/collections/ace-attorney",
+          "https://us-store.captown.capcom.com/products/997892-us",
+          "https://news.capcomusa.com/2024/01/25/take-that-apollo-justice-ace-attorney-trilogy-is-out-now/"
+        ],
+        "evidence": [
+          "逆轉裁判系列含原作、合輯與重製，各平台不同。已補官方 456 合輯公告作版本對照，但不得用合集平台認證整個系列。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/PS4/Switch",
+        "reviewIndex": 84,
+        "safePlatformNote": "逆轉裁判系列含原作、合輯與重製，各平台不同。已補官方 456 合輯公告作版本對照，但不得用合集平台認證整個系列。",
+        "resolvedGap": "仍缺：逆轉裁判系列含原作、合輯與重製，各平台不同。已補官方 456 合輯公告作版本對照，但不得用合集平台認證整個系列。"
+      }
+    },
+    {
+      "auditIndex": 318,
+      "name": "聲之形",
+      "status": "unresolved",
+      "before": "PC/PS4/Switch",
+      "after": "PC/PS4/Switch",
+      "changed": false,
+      "note": "Square Enix 可確認 Voice of Cards 三部曲，但既有中文「聲之形」與英文 alias 不對應，且未指定哪一款卡牌之聲。保持未解，不能猜測更名為任一部。",
+      "sources": [
+        "https://voiceofcards.square-enix-games.com/en_US/",
+        "https://voiceofcards.square-enix-games.com/en_US/theforsakenmaiden",
+        "https://voiceofcards.square-enix-games.com/en_GB/thebeastsofburden",
+        "https://www.square-enix-games.com/en_EU/home/experience-three-great-stories-one-set-voice-cards-trilogy-now-available"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 17,
+      "game": {
+        "name": "聲之形",
+        "alias": [
+          "voice of cards",
+          "聲之卡牌"
+        ],
+        "platform": "PC/PS4/Switch",
+        "icon": "🃏",
+        "category": "卡牌RPG",
+        "platformNote": "Square Enix 可確認 Voice of Cards 三部曲，但既有中文「聲之形」與英文 alias 不對應，且未指定哪一款卡牌之聲。保持未解，不能猜測更名為任一部。",
+        "platformSources": [
+          "https://voiceofcards.square-enix-games.com/en_US/",
+          "https://voiceofcards.square-enix-games.com/en_US/theforsakenmaiden",
+          "https://voiceofcards.square-enix-games.com/en_GB/thebeastsofburden",
+          "https://www.square-enix-games.com/en_EU/home/experience-three-great-stories-one-set-voice-cards-trilogy-now-available"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 318,
+        "name": "聲之形",
+        "status": "unresolved",
+        "platform": "PC/PS4/Switch",
+        "platformNote": "Square Enix 可確認 Voice of Cards 三部曲，但既有中文「聲之形」與英文 alias 不對應，且未指定哪一款卡牌之聲。保持未解，不能猜測更名為任一部。",
+        "sources": [
+          "https://voiceofcards.square-enix-games.com/en_US/",
+          "https://voiceofcards.square-enix-games.com/en_US/theforsakenmaiden",
+          "https://voiceofcards.square-enix-games.com/en_GB/thebeastsofburden",
+          "https://www.square-enix-games.com/en_EU/home/experience-three-great-stories-one-set-voice-cards-trilogy-now-available"
+        ],
+        "evidence": [
+          "Square Enix 可確認 Voice of Cards 三部曲，但既有中文「聲之形」與英文 alias 不對應，且未指定哪一款卡牌之聲。保持未解，不能猜測更名為任一部。"
+        ],
+        "checkedAt": "2026-10-19",
+        "safePlatform": "PC/PS4/Switch",
+        "reviewIndex": 93,
+        "safePlatformNote": "Square Enix 可確認 Voice of Cards 三部曲，但既有中文「聲之形」與英文 alias 不對應，且未指定哪一款卡牌之聲。保持未解，不能猜測更名為任一部。",
+        "resolvedGap": "仍缺：Square Enix 可確認 Voice of Cards 三部曲，但既有中文「聲之形」與英文 alias 不對應，且未指定哪一款卡牌之聲。保持未解，不能猜測更名為任一部。"
+      }
+    },
+    {
+      "auditIndex": 333,
+      "name": "太鼓之達人",
+      "status": "unresolved",
+      "before": "PS4/Switch",
+      "after": "PS4/Switch",
+      "changed": false,
+      "note": "重新比對官方單作：Drum Session 為 PS4；Rhythm Festival 為 Switch、PS5、Series、PC。條目與 alias 僅系列名，無法選定其中一作，保留舊值但不視為認證。",
+      "sources": [
+        "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-launching-on-new-gen-consoles-and-pc",
+        "https://www.bandainamcoent.com/games/taiko-no-tatsujin-rhythm-festival",
+        "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-free-dondon-update",
+        "https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-session"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 18,
+      "game": {
+        "name": "太鼓之達人",
+        "alias": [
+          "taiko no tatsujin",
+          "太鼓達人"
+        ],
+        "platform": "PS4/Switch",
+        "icon": "🥁",
+        "category": "音樂",
+        "platformNote": "重新比對官方單作：Drum Session 為 PS4；Rhythm Festival 為 Switch、PS5、Series、PC。條目與 alias 僅系列名，無法選定其中一作，保留舊值但不視為認證。",
+        "platformSources": [
+          "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-launching-on-new-gen-consoles-and-pc",
+          "https://www.bandainamcoent.com/games/taiko-no-tatsujin-rhythm-festival",
+          "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-free-dondon-update",
+          "https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-session"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 101,
+        "auditIndex": 333,
+        "name": "太鼓之達人",
+        "status": "unresolved",
+        "platform": "PS4/Switch",
+        "safePlatform": "PS4/Switch",
+        "platformNote": "重新比對官方單作：Drum Session 為 PS4；Rhythm Festival 為 Switch、PS5、Series、PC。條目與 alias 僅系列名，無法選定其中一作，保留舊值但不視為認證。",
+        "safePlatformNote": "重新比對官方單作：Drum Session 為 PS4；Rhythm Festival 為 Switch、PS5、Series、PC。條目與 alias 僅系列名，無法選定其中一作，保留舊值但不視為認證。",
+        "sources": [
+          "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-launching-on-new-gen-consoles-and-pc",
+          "https://www.bandainamcoent.com/games/taiko-no-tatsujin-rhythm-festival",
+          "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-free-dondon-update",
+          "https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-session"
+        ],
+        "evidence": [
+          "重新比對官方單作：Drum Session 為 PS4；Rhythm Festival 為 Switch、PS5、Series、PC。條目與 alias 僅系列名，無法選定其中一作，保留舊值但不視為認證。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已核實缺口是未指定副標題，需指定作品；不可任選最新作或合併系列。"
+      }
+    },
+    {
+      "auditIndex": 334,
+      "name": "初音未來 Project DIVA",
+      "status": "unresolved",
+      "before": "PC/PS4/Switch",
+      "after": "PC/PS4/Switch",
+      "changed": false,
+      "note": "重新比對 SEGA 正式規格：Mega Mix+ 是 PC、Mega39s 是 Switch、Future Tone 是 PS4；本條只有系列名，不能確定版本。保留原平台待指定副標題。",
+      "sources": [
+        "https://asia.sega.com/mega39splus/en/",
+        "https://miku.sega.com/divax/dlc.html",
+        "https://miku.sega.com/divax/music_ps4.html",
+        "https://miku.sega.com/futuretone/index.html",
+        "https://asia.sega.com/mega39s/cht/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 19,
+      "game": {
+        "name": "初音未來 Project DIVA",
+        "alias": [
+          "project diva",
+          "初音",
+          "miku"
+        ],
+        "platform": "PC/PS4/Switch",
+        "icon": "🎤",
+        "category": "音樂",
+        "platformNote": "重新比對 SEGA 正式規格：Mega Mix+ 是 PC、Mega39s 是 Switch、Future Tone 是 PS4；本條只有系列名，不能確定版本。保留原平台待指定副標題。",
+        "platformSources": [
+          "https://asia.sega.com/mega39splus/en/",
+          "https://miku.sega.com/divax/dlc.html",
+          "https://miku.sega.com/divax/music_ps4.html",
+          "https://miku.sega.com/futuretone/index.html",
+          "https://asia.sega.com/mega39s/cht/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 102,
+        "auditIndex": 334,
+        "name": "初音未來 Project DIVA",
+        "status": "unresolved",
+        "platform": "PC/PS4/Switch",
+        "safePlatform": "PC/PS4/Switch",
+        "platformNote": "重新比對 SEGA 正式規格：Mega Mix+ 是 PC、Mega39s 是 Switch、Future Tone 是 PS4；本條只有系列名，不能確定版本。保留原平台待指定副標題。",
+        "safePlatformNote": "重新比對 SEGA 正式規格：Mega Mix+ 是 PC、Mega39s 是 Switch、Future Tone 是 PS4；本條只有系列名，不能確定版本。保留原平台待指定副標題。",
+        "sources": [
+          "https://asia.sega.com/mega39splus/en/",
+          "https://miku.sega.com/divax/dlc.html",
+          "https://miku.sega.com/divax/music_ps4.html",
+          "https://miku.sega.com/futuretone/index.html",
+          "https://asia.sega.com/mega39s/cht/"
+        ],
+        "evidence": [
+          "重新比對 SEGA 正式規格：Mega Mix+ 是 PC、Mega39s 是 Switch、Future Tone 是 PS4；本條只有系列名，不能確定版本。保留原平台待指定副標題。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已定位多個不同商品與平台；缺口為作品副標題而非找不到來源。"
+      }
+    },
+    {
+      "auditIndex": 338,
+      "name": "迷宮飯 千年國度的荒唐食譜",
+      "status": "unresolved",
+      "before": "Switch",
+      "after": "Switch",
+      "changed": false,
+      "note": "本輪再次以完整中文名稱及迷宮飯日文遊戲/Switch 搜尋，仍未定位此副標題的官方遊戲商品、開發商或公告。不能從同名漫畫動畫或其他料理迷宮遊戲推論平台；原 Switch 僅保留舊值，不代表證實。",
+      "sources": [],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 20,
+      "game": {
+        "name": "迷宮飯 千年國度的荒唐食譜",
+        "alias": [
+          "dungeon meshi",
+          "迷宮飯"
+        ],
+        "platform": "Switch",
+        "icon": "🍳",
+        "category": "動作",
+        "platformNote": "本輪再次以完整中文名稱及迷宮飯日文遊戲/Switch 搜尋，仍未定位此副標題的官方遊戲商品、開發商或公告。不能從同名漫畫動畫或其他料理迷宮遊戲推論平台；原 Switch 僅保留舊值，不代表證實。",
+        "platformSources": [],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 106,
+        "auditIndex": 338,
+        "name": "迷宮飯 千年國度的荒唐食譜",
+        "status": "unresolved",
+        "platform": "Switch",
+        "safePlatform": "Switch",
+        "platformNote": "本輪再次以完整中文名稱及迷宮飯日文遊戲/Switch 搜尋，仍未定位此副標題的官方遊戲商品、開發商或公告。不能從同名漫畫動畫或其他料理迷宮遊戲推論平台；原 Switch 僅保留舊值，不代表證實。",
+        "safePlatformNote": "本輪再次以完整中文名稱及迷宮飯日文遊戲/Switch 搜尋，仍未定位此副標題的官方遊戲商品、開發商或公告。不能從同名漫畫動畫或其他料理迷宮遊戲推論平台；原 Switch 僅保留舊值，不代表證實。",
+        "sources": [],
+        "evidence": [
+          "本輪再次以完整中文名稱及迷宮飯日文遊戲/Switch 搜尋，仍未定位此副標題的官方遊戲商品、開發商或公告。不能從同名漫畫動畫或其他料理迷宮遊戲推論平台；原 Switch 僅保留舊值，不代表證實。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已實際重查；缺少能識別該副標題遊戲的第一方商品頁或開發商名稱。"
+      }
+    },
+    {
+      "auditIndex": 339,
+      "name": "符文工房",
+      "status": "unresolved",
+      "before": "Switch/PC",
+      "after": "Switch/PC",
+      "changed": false,
+      "note": "官方 Rune Factory 4 Special 列 PC/PS4/Xbox One/Switch，Rune Factory 5 僅 PC/Switch；既有名稱與 alias 未指定代數或 Special，不能選一作代表系列。",
+      "sources": [
+        "https://marvelousgames.com/games/rune-factory-4-special-2",
+        "https://www.xseedgames.com/2021/12/07/xseed-games-releases-rune-factory-4-special-for-playstation-4-xbox-one-and-pc/",
+        "https://www.xseedgames.com/2021/08/24/rune-factory-series-celebrates-15-years-of-farming-friendship-and-adventures/",
+        "https://www.xseedgames.com/games/rune-factory-4-special/",
+        "https://www.xseedgames.com/games/rune-factory-5/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 21,
+      "game": {
+        "name": "符文工房",
+        "alias": [
+          "rune factory",
+          "符文工廠"
+        ],
+        "platform": "Switch/PC",
+        "icon": "🌾",
+        "category": "模擬RPG",
+        "platformNote": "官方 Rune Factory 4 Special 列 PC/PS4/Xbox One/Switch，Rune Factory 5 僅 PC/Switch；既有名稱與 alias 未指定代數或 Special，不能選一作代表系列。",
+        "platformSources": [
+          "https://marvelousgames.com/games/rune-factory-4-special-2",
+          "https://www.xseedgames.com/2021/12/07/xseed-games-releases-rune-factory-4-special-for-playstation-4-xbox-one-and-pc/",
+          "https://www.xseedgames.com/2021/08/24/rune-factory-series-celebrates-15-years-of-farming-friendship-and-adventures/",
+          "https://www.xseedgames.com/games/rune-factory-4-special/",
+          "https://www.xseedgames.com/games/rune-factory-5/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 107,
+        "auditIndex": 339,
+        "name": "符文工房",
+        "status": "unresolved",
+        "platform": "Switch/PC",
+        "safePlatform": "Switch/PC",
+        "platformNote": "官方 Rune Factory 4 Special 列 PC/PS4/Xbox One/Switch，Rune Factory 5 僅 PC/Switch；既有名稱與 alias 未指定代數或 Special，不能選一作代表系列。",
+        "safePlatformNote": "官方 Rune Factory 4 Special 列 PC/PS4/Xbox One/Switch，Rune Factory 5 僅 PC/Switch；既有名稱與 alias 未指定代數或 Special，不能選一作代表系列。",
+        "sources": [
+          "https://marvelousgames.com/games/rune-factory-4-special-2",
+          "https://www.xseedgames.com/2021/12/07/xseed-games-releases-rune-factory-4-special-for-playstation-4-xbox-one-and-pc/",
+          "https://www.xseedgames.com/2021/08/24/rune-factory-series-celebrates-15-years-of-farming-friendship-and-adventures/",
+          "https://www.xseedgames.com/games/rune-factory-4-special/",
+          "https://www.xseedgames.com/games/rune-factory-5/"
+        ],
+        "evidence": [
+          "官方 Rune Factory 4 Special 列 PC/PS4/Xbox One/Switch，Rune Factory 5 僅 PC/Switch；既有名稱與 alias 未指定代數或 Special，不能選一作代表系列。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "重新比對兩作正式規格，缺口確為代數/副標題。"
+      }
+    },
+    {
+      "auditIndex": 340,
+      "name": "奇蹟餐廳",
+      "status": "unresolved",
+      "before": "PC/PS4/Switch",
+      "after": "PC/PS4/Switch",
+      "changed": false,
+      "note": "中文『奇蹟餐廳』與別名 Cook, Serve, Delicious! 仍不能可靠對應同一作品。重新查到 Vertigo 的 CSD 初代確有 PS4/PS5/Xbox One 商品，並不是只出二、三代；但無官方證據證明其中文正式名就是奇蹟餐廳，不能任選名稱覆寫。",
+      "sources": [
+        "https://store.steampowered.com/app/247020/Cook%2C_Serve%2C_Delicious%21/",
+        "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/1",
+        "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/",
+        "https://store.playstation.com/en-us/concept/10009674/",
+        "https://www.xbox.com/en-us/games/store/cook-serve-delicious/9p5b0llqfdn3?cid=xboxone-hq.com",
+        "https://www.vertigogaming.net/csd2presskit/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 22,
+      "game": {
+        "name": "奇蹟餐廳",
+        "alias": [
+          "cook serve delicious",
+          "餐廳",
+          "csd"
+        ],
+        "platform": "PC/PS4/Switch",
+        "icon": "👨‍🍳",
+        "category": "模擬",
+        "platformNote": "中文『奇蹟餐廳』與別名 Cook, Serve, Delicious! 仍不能可靠對應同一作品。重新查到 Vertigo 的 CSD 初代確有 PS4/PS5/Xbox One 商品，並不是只出二、三代；但無官方證據證明其中文正式名就是奇蹟餐廳，不能任選名稱覆寫。",
+        "platformSources": [
+          "https://store.steampowered.com/app/247020/Cook%2C_Serve%2C_Delicious%21/",
+          "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/1",
+          "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/",
+          "https://store.playstation.com/en-us/concept/10009674/",
+          "https://www.xbox.com/en-us/games/store/cook-serve-delicious/9p5b0llqfdn3?cid=xboxone-hq.com",
+          "https://www.vertigogaming.net/csd2presskit/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 108,
+        "auditIndex": 340,
+        "name": "奇蹟餐廳",
+        "status": "unresolved",
+        "platform": "PC/PS4/Switch",
+        "safePlatform": "PC/PS4/Switch",
+        "platformNote": "中文『奇蹟餐廳』與別名 Cook, Serve, Delicious! 仍不能可靠對應同一作品。重新查到 Vertigo 的 CSD 初代確有 PS4/PS5/Xbox One 商品，並不是只出二、三代；但無官方證據證明其中文正式名就是奇蹟餐廳，不能任選名稱覆寫。",
+        "safePlatformNote": "中文『奇蹟餐廳』與別名 Cook, Serve, Delicious! 仍不能可靠對應同一作品。重新查到 Vertigo 的 CSD 初代確有 PS4/PS5/Xbox One 商品，並不是只出二、三代；但無官方證據證明其中文正式名就是奇蹟餐廳，不能任選名稱覆寫。",
+        "sources": [
+          "https://store.steampowered.com/app/247020/Cook%2C_Serve%2C_Delicious%21/",
+          "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/1",
+          "https://store.steampowered.com/app/247020/Cook_Serve_Delicious/",
+          "https://store.playstation.com/en-us/concept/10009674/",
+          "https://www.xbox.com/en-us/games/store/cook-serve-delicious/9p5b0llqfdn3?cid=xboxone-hq.com",
+          "https://www.vertigogaming.net/csd2presskit/"
+        ],
+        "evidence": [
+          "中文『奇蹟餐廳』與別名 Cook, Serve, Delicious! 仍不能可靠對應同一作品。重新查到 Vertigo 的 CSD 初代確有 PS4/PS5/Xbox One 商品，並不是只出二、三代；但無官方證據證明其中文正式名就是奇蹟餐廳，不能任選名稱覆寫。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已解開 CSD 主機版實際存在；仍缺本筆中文名稱與英文別名的身分連結。"
+      }
+    },
+    {
+      "auditIndex": 361,
+      "name": "神鬼寓言",
+      "status": "unresolved",
+      "before": "PC/Xbox",
+      "after": "PC/Xbox",
+      "changed": false,
+      "note": "官方現行 Fable 為 Playground 重啟作，預定 2027-02-23；原條目未給年份、開發商或 Anniversary/Lost Chapters 副標題，無法判斷原版或重啟。保留舊值但不視為已上市平台。",
+      "sources": [
+        "https://www.xbox.com/en-us/games/fable",
+        "https://www.xbox.com/en-ca/games/fable",
+        "https://www.xbox.com/en-CA/games/fable/",
+        "https://www.fablethegame.com/en-US/news/fable-at-xbox-showcase-2026",
+        "https://www.xbox.com/en-US/games/fable?wfExp=382CT"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 23,
+      "game": {
+        "name": "神鬼寓言",
+        "alias": [
+          "fable",
+          "神鬼寓言"
+        ],
+        "platform": "PC/Xbox",
+        "icon": "🧙",
+        "category": "動作RPG",
+        "platformNote": "官方現行 Fable 為 Playground 重啟作，預定 2027-02-23；原條目未給年份、開發商或 Anniversary/Lost Chapters 副標題，無法判斷原版或重啟。保留舊值但不視為已上市平台。",
+        "platformSources": [
+          "https://www.xbox.com/en-us/games/fable",
+          "https://www.xbox.com/en-ca/games/fable",
+          "https://www.xbox.com/en-CA/games/fable/",
+          "https://www.fablethegame.com/en-US/news/fable-at-xbox-showcase-2026",
+          "https://www.xbox.com/en-US/games/fable?wfExp=382CT"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 114,
+        "auditIndex": 361,
+        "name": "神鬼寓言",
+        "status": "unresolved",
+        "platform": "PC/Xbox",
+        "safePlatform": "PC/Xbox",
+        "platformNote": "官方現行 Fable 為 Playground 重啟作，預定 2027-02-23；原條目未給年份、開發商或 Anniversary/Lost Chapters 副標題，無法判斷原版或重啟。保留舊值但不視為已上市平台。",
+        "safePlatformNote": "官方現行 Fable 為 Playground 重啟作，預定 2027-02-23；原條目未給年份、開發商或 Anniversary/Lost Chapters 副標題，無法判斷原版或重啟。保留舊值但不視為已上市平台。",
+        "sources": [
+          "https://www.xbox.com/en-us/games/fable",
+          "https://www.xbox.com/en-ca/games/fable",
+          "https://www.xbox.com/en-CA/games/fable/",
+          "https://www.fablethegame.com/en-US/news/fable-at-xbox-showcase-2026",
+          "https://www.xbox.com/en-US/games/fable?wfExp=382CT"
+        ],
+        "evidence": [
+          "官方現行 Fable 為 Playground 重啟作，預定 2027-02-23；原條目未給年份、開發商或 Anniversary/Lost Chapters 副標題，無法判斷原版或重啟。保留舊值但不視為已上市平台。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "重查官方最新重啟日期；仍需指定年份或版本才可套用平台。"
+      }
+    },
+    {
+      "auditIndex": 370,
+      "name": "蒼翼默示錄",
+      "status": "unresolved",
+      "before": "PC/PS4/Switch",
+      "after": "PC/PS4/Switch",
+      "changed": false,
+      "note": "Arc 官方分列 Centralfiction Special Edition 與 Cross Tag Battle 等作品；原名稱/alias 僅 BlazBlue 系列，未能指定單作，不能將不同代作平台合成一列。",
+      "sources": [
+        "https://www.arcsystemworks.com/bbtag-open-beta-faq/",
+        "https://www.blazblue.jp/cf/cs/switch/",
+        "https://www.arcsystemworks.jp/portal/support/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 24,
+      "game": {
+        "name": "蒼翼默示錄",
+        "alias": [
+          "blazblue",
+          "bb",
+          "蒼翼"
+        ],
+        "platform": "PC/PS4/Switch",
+        "icon": "💙",
+        "category": "格鬥",
+        "platformNote": "Arc 官方分列 Centralfiction Special Edition 與 Cross Tag Battle 等作品；原名稱/alias 僅 BlazBlue 系列，未能指定單作，不能將不同代作平台合成一列。",
+        "platformSources": [
+          "https://www.arcsystemworks.com/bbtag-open-beta-faq/",
+          "https://www.blazblue.jp/cf/cs/switch/",
+          "https://www.arcsystemworks.jp/portal/support/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 119,
+        "auditIndex": 370,
+        "name": "蒼翼默示錄",
+        "status": "unresolved",
+        "platform": "PC/PS4/Switch",
+        "safePlatform": "PC/PS4/Switch",
+        "platformNote": "Arc 官方分列 Centralfiction Special Edition 與 Cross Tag Battle 等作品；原名稱/alias 僅 BlazBlue 系列，未能指定單作，不能將不同代作平台合成一列。",
+        "safePlatformNote": "Arc 官方分列 Centralfiction Special Edition 與 Cross Tag Battle 等作品；原名稱/alias 僅 BlazBlue 系列，未能指定單作，不能將不同代作平台合成一列。",
+        "sources": [
+          "https://www.arcsystemworks.com/bbtag-open-beta-faq/",
+          "https://www.blazblue.jp/cf/cs/switch/",
+          "https://www.arcsystemworks.jp/portal/support/"
+        ],
+        "evidence": [
+          "Arc 官方分列 Centralfiction Special Edition 與 Cross Tag Battle 等作品；原名稱/alias 僅 BlazBlue 系列，未能指定單作，不能將不同代作平台合成一列。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "重新確認多作存在；需要單作副標題。"
+      }
+    },
+    {
+      "auditIndex": 380,
+      "name": "率土之濱",
+      "status": "partial",
+      "before": "iOS/Android",
+      "after": "iOS/Android",
+      "changed": false,
+      "note": "官方入駐的網易 TapTap 商品及兩手機商店確認 iOS/Android；TapTap PC 端入口未標明是 Windows 原生或 Android 執行環境，官網本輪無法開啟，不增列 PC。",
+      "sources": [
+        "https://play.google.com/store/apps/details?hl=zh&id=com.gamedreamer.tw.newstzbtw",
+        "https://apps.apple.com/jp/app/%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BF%B1-%E5%A4%A7%E4%B8%89%E5%9B%BD%E5%BF%97/id1240638262",
+        "https://play.google.com/store/apps/details?hl=zh_TW&id=com.gamedreamer.tw.newstzbtw",
+        "https://www.taptap.cn/app/4682?os=pc"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 25,
+      "game": {
+        "name": "率土之濱",
+        "alias": [
+          "three kingdoms tactics",
+          "率土"
+        ],
+        "platform": "iOS/Android",
+        "icon": "🗡️",
+        "category": "策略",
+        "platformNote": "官方入駐的網易 TapTap 商品及兩手機商店確認 iOS/Android；TapTap PC 端入口未標明是 Windows 原生或 Android 執行環境，官網本輪無法開啟，不增列 PC。",
+        "platformSources": [
+          "https://play.google.com/store/apps/details?hl=zh&id=com.gamedreamer.tw.newstzbtw",
+          "https://apps.apple.com/jp/app/%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BF%B1-%E5%A4%A7%E4%B8%89%E5%9B%BD%E5%BF%97/id1240638262",
+          "https://play.google.com/store/apps/details?hl=zh_TW&id=com.gamedreamer.tw.newstzbtw",
+          "https://www.taptap.cn/app/4682?os=pc"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "reviewIndex": 126,
+        "auditIndex": 380,
+        "name": "率土之濱",
+        "status": "partial",
+        "platform": "iOS/Android",
+        "safePlatform": "iOS/Android",
+        "platformNote": "官方入駐的網易 TapTap 商品及兩手機商店確認 iOS/Android；TapTap PC 端入口未標明是 Windows 原生或 Android 執行環境，官網本輪無法開啟，不增列 PC。",
+        "safePlatformNote": "官方入駐的網易 TapTap 商品及兩手機商店確認 iOS/Android；TapTap PC 端入口未標明是 Windows 原生或 Android 執行環境，官網本輪無法開啟，不增列 PC。",
+        "sources": [
+          "https://play.google.com/store/apps/details?hl=zh&id=com.gamedreamer.tw.newstzbtw",
+          "https://apps.apple.com/jp/app/%E7%8E%87%E5%9C%9F%E4%B9%8B%E6%BF%B1-%E5%A4%A7%E4%B8%89%E5%9B%BD%E5%BF%97/id1240638262",
+          "https://play.google.com/store/apps/details?hl=zh_TW&id=com.gamedreamer.tw.newstzbtw",
+          "https://www.taptap.cn/app/4682?os=pc"
+        ],
+        "evidence": [
+          "官方入駐的網易 TapTap 商品及兩手機商店確認 iOS/Android；TapTap PC 端入口未標明是 Windows 原生或 Android 執行環境，官網本輪無法開啟，不增列 PC。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "手機平台已完整補證；仍缺中國版桌面客戶端的原生系統規格，故 partial。"
+      }
+    },
+    {
+      "auditIndex": 387,
+      "name": "夢幻西遊",
+      "status": "unresolved",
+      "before": "iOS/Android",
+      "after": "iOS/Android",
+      "changed": false,
+      "note": "網易企業報告分別列夢幻西遊電腦版與夢幻西遊手遊；原條目與 alias 未指定版本，本輪官方遊戲站亦無法讀取。不可由手機舊欄反推是哪個同名商品。",
+      "sources": [
+        "https://ir.netease.com/static-files/24dd170d-c05c-4dd2-96a6-8d3abe3d1bf8"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 26,
+      "game": {
+        "name": "夢幻西遊",
+        "alias": [
+          "fantasy westward journey",
+          "夢幻",
+          "mhxy"
+        ],
+        "platform": "iOS/Android",
+        "icon": "🐒",
+        "category": "MMORPG",
+        "platformNote": "網易企業報告分別列夢幻西遊電腦版與夢幻西遊手遊；原條目與 alias 未指定版本，本輪官方遊戲站亦無法讀取。不可由手機舊欄反推是哪個同名商品。",
+        "platformSources": [
+          "https://ir.netease.com/static-files/24dd170d-c05c-4dd2-96a6-8d3abe3d1bf8"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 133,
+        "auditIndex": 387,
+        "name": "夢幻西遊",
+        "status": "unresolved",
+        "platform": "iOS/Android",
+        "safePlatform": "iOS/Android",
+        "platformNote": "網易企業報告分別列夢幻西遊電腦版與夢幻西遊手遊；原條目與 alias 未指定版本，本輪官方遊戲站亦無法讀取。不可由手機舊欄反推是哪個同名商品。",
+        "safePlatformNote": "網易企業報告分別列夢幻西遊電腦版與夢幻西遊手遊；原條目與 alias 未指定版本，本輪官方遊戲站亦無法讀取。不可由手機舊欄反推是哪個同名商品。",
+        "sources": [
+          "https://ir.netease.com/static-files/24dd170d-c05c-4dd2-96a6-8d3abe3d1bf8"
+        ],
+        "evidence": [
+          "網易企業報告分別列夢幻西遊電腦版與夢幻西遊手遊；原條目與 alias 未指定版本，本輪官方遊戲站亦無法讀取。不可由手機舊欄反推是哪個同名商品。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "官方已確認端遊/手遊為不同產品，仍缺條目要代表的版本。"
+      }
+    },
+    {
+      "auditIndex": 388,
+      "name": "大話西遊",
+      "status": "unresolved",
+      "before": "iOS/Android",
+      "after": "iOS/Android",
+      "changed": false,
+      "note": "本輪重新搜尋並嘗試大話西遊官方手遊站，頁面無法讀取；網易正式報告可確認大話西遊2等系列作品，原名稱/alias 未指定代作或手遊，不能把不同作品平台合併。",
+      "sources": [
+        "https://ir.netease.com/static-files/24dd170d-c05c-4dd2-96a6-8d3abe3d1bf8"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 27,
+      "game": {
+        "name": "大話西遊",
+        "alias": [
+          "westward journey",
+          "大話"
+        ],
+        "platform": "iOS/Android",
+        "icon": "🌸",
+        "category": "MMORPG",
+        "platformNote": "本輪重新搜尋並嘗試大話西遊官方手遊站，頁面無法讀取；網易正式報告可確認大話西遊2等系列作品，原名稱/alias 未指定代作或手遊，不能把不同作品平台合併。",
+        "platformSources": [
+          "https://ir.netease.com/static-files/24dd170d-c05c-4dd2-96a6-8d3abe3d1bf8"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 134,
+        "auditIndex": 388,
+        "name": "大話西遊",
+        "status": "unresolved",
+        "platform": "iOS/Android",
+        "safePlatform": "iOS/Android",
+        "platformNote": "本輪重新搜尋並嘗試大話西遊官方手遊站，頁面無法讀取；網易正式報告可確認大話西遊2等系列作品，原名稱/alias 未指定代作或手遊，不能把不同作品平台合併。",
+        "safePlatformNote": "本輪重新搜尋並嘗試大話西遊官方手遊站，頁面無法讀取；網易正式報告可確認大話西遊2等系列作品，原名稱/alias 未指定代作或手遊，不能把不同作品平台合併。",
+        "sources": [
+          "https://ir.netease.com/static-files/24dd170d-c05c-4dd2-96a6-8d3abe3d1bf8"
+        ],
+        "evidence": [
+          "本輪重新搜尋並嘗試大話西遊官方手遊站，頁面無法讀取；網易正式報告可確認大話西遊2等系列作品，原名稱/alias 未指定代作或手遊，不能把不同作品平台合併。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "缺口是具體代作/手遊身分，非把網頁讀取失敗視作未發行。"
+      }
+    },
+    {
+      "auditIndex": 391,
+      "name": "楚留香",
+      "status": "partial",
+      "before": "iOS/Android",
+      "after": "iOS/Android",
+      "changed": false,
+      "note": "網易官方入駐 TapTap 商品明說一夢江湖原名楚留香並列 iOS/Android，補齊 Android。頁面另有 TapTap PC 端入口但未證明原生 Windows；網易桌面官網無法讀取，暫不加 PC。",
+      "sources": [
+        "https://apps.apple.com/cn/app/%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96/id1089795423",
+        "https://apps.apple.com/cn/app/%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96/id1089795423?platform=iphone&see-all=customers-also-bought-apps",
+        "https://www.taptap.cn/app/50500?os=pc"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 28,
+      "game": {
+        "name": "楚留香",
+        "alias": [
+          "chu liu xiang",
+          "楚留香"
+        ],
+        "platform": "iOS/Android",
+        "icon": "🎭",
+        "category": "MMORPG",
+        "platformNote": "網易官方入駐 TapTap 商品明說一夢江湖原名楚留香並列 iOS/Android，補齊 Android。頁面另有 TapTap PC 端入口但未證明原生 Windows；網易桌面官網無法讀取，暫不加 PC。",
+        "platformSources": [
+          "https://apps.apple.com/cn/app/%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96/id1089795423",
+          "https://apps.apple.com/cn/app/%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96/id1089795423?platform=iphone&see-all=customers-also-bought-apps",
+          "https://www.taptap.cn/app/50500?os=pc"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "reviewIndex": 136,
+        "auditIndex": 391,
+        "name": "楚留香",
+        "status": "partial",
+        "platform": "iOS/Android",
+        "safePlatform": "iOS/Android",
+        "platformNote": "網易官方入駐 TapTap 商品明說一夢江湖原名楚留香並列 iOS/Android，補齊 Android。頁面另有 TapTap PC 端入口但未證明原生 Windows；網易桌面官網無法讀取，暫不加 PC。",
+        "safePlatformNote": "網易官方入駐 TapTap 商品明說一夢江湖原名楚留香並列 iOS/Android，補齊 Android。頁面另有 TapTap PC 端入口但未證明原生 Windows；網易桌面官網無法讀取，暫不加 PC。",
+        "sources": [
+          "https://apps.apple.com/cn/app/%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96/id1089795423",
+          "https://apps.apple.com/cn/app/%E4%B8%80%E6%A2%A6%E6%B1%9F%E6%B9%96/id1089795423?platform=iphone&see-all=customers-also-bought-apps",
+          "https://www.taptap.cn/app/50500?os=pc"
+        ],
+        "evidence": [
+          "網易官方入駐 TapTap 商品明說一夢江湖原名楚留香並列 iOS/Android，補齊 Android。頁面另有 TapTap PC 端入口但未證明原生 Windows；網易桌面官網無法讀取，暫不加 PC。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已解決改名與兩手機平台；仍缺原生桌面客戶端直接規格。"
+      }
+    },
+    {
+      "auditIndex": 392,
+      "name": "劍俠情緣",
+      "status": "unresolved",
+      "before": "iOS/Android",
+      "after": "iOS/Android",
+      "changed": false,
+      "note": "西山居正式產品目錄有劍俠情緣網路版、劍俠情緣零、劍網1歸來等不同遊戲；原條目與英文別名未指定作別，不能從某個同名手機商店反推全系列。",
+      "sources": [
+        "https://play.google.com/store/apps/details?hl=ko&id=com.efun.jxqy.hk",
+        "https://play.google.com/store/apps/details?hl=zh&id=com.efun.jxqy.tw",
+        "https://play.google.com/store/apps/details?hl=en-US&id=com.efun.jxqy.tw",
+        "https://www.seasungames.cn/",
+        "https://www.xishanju.com/index/cn/product_m.html"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 29,
+      "game": {
+        "name": "劍俠情緣",
+        "alias": [
+          "swordsman love",
+          "劍俠"
+        ],
+        "platform": "iOS/Android",
+        "icon": "💕",
+        "category": "MMORPG",
+        "platformNote": "西山居正式產品目錄有劍俠情緣網路版、劍俠情緣零、劍網1歸來等不同遊戲；原條目與英文別名未指定作別，不能從某個同名手機商店反推全系列。",
+        "platformSources": [
+          "https://play.google.com/store/apps/details?hl=ko&id=com.efun.jxqy.hk",
+          "https://play.google.com/store/apps/details?hl=zh&id=com.efun.jxqy.tw",
+          "https://play.google.com/store/apps/details?hl=en-US&id=com.efun.jxqy.tw",
+          "https://www.seasungames.cn/",
+          "https://www.xishanju.com/index/cn/product_m.html"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 137,
+        "auditIndex": 392,
+        "name": "劍俠情緣",
+        "status": "unresolved",
+        "platform": "iOS/Android",
+        "safePlatform": "iOS/Android",
+        "platformNote": "西山居正式產品目錄有劍俠情緣網路版、劍俠情緣零、劍網1歸來等不同遊戲；原條目與英文別名未指定作別，不能從某個同名手機商店反推全系列。",
+        "safePlatformNote": "西山居正式產品目錄有劍俠情緣網路版、劍俠情緣零、劍網1歸來等不同遊戲；原條目與英文別名未指定作別，不能從某個同名手機商店反推全系列。",
+        "sources": [
+          "https://play.google.com/store/apps/details?hl=ko&id=com.efun.jxqy.hk",
+          "https://play.google.com/store/apps/details?hl=zh&id=com.efun.jxqy.tw",
+          "https://play.google.com/store/apps/details?hl=en-US&id=com.efun.jxqy.tw",
+          "https://www.seasungames.cn/",
+          "https://www.xishanju.com/index/cn/product_m.html"
+        ],
+        "evidence": [
+          "西山居正式產品目錄有劍俠情緣網路版、劍俠情緣零、劍網1歸來等不同遊戲；原條目與英文別名未指定作別，不能從某個同名手機商店反推全系列。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已用發行商完整產品目錄確認缺口為版本身分。"
+      }
+    },
+    {
+      "auditIndex": 393,
+      "name": "暗黑地牢",
+      "status": "partial",
+      "before": "PC/PS4/Switch/iOS/Android",
+      "after": "PC/macOS/Linux/PS4/PS Vita/Xbox One/Switch/iPadOS/Android",
+      "changed": true,
+      "note": "Steam 確認 Windows/Mac/Linux；PS Store 明列 PS4/PS Vita cross-buy；Xbox 商店確認 Xbox One；官方購買頁與 Apple 確認 Switch 及 iPad 專用 Tablet Edition。Android 高度疑似誤列：2018 官方否認公告原址現為 404，本輪未取得可讀的官方否認原文；Android 暫保留待補證，不表示已確認支援。",
+      "sources": [
+        "https://www.darkestdungeon.com/news/darkest-dungeon-the-fire-s-edge-hotfix/",
+        "https://www.darkestdungeon.com/news/the-fire-s-edge-available-now-/",
+        "https://www.darkestdungeon.com/news/the-fire-s-edge-dlc-releases-august-18th/",
+        "https://www.darkestdungeon.com/darkest-dungeon/",
+        "https://store.steampowered.com/app/262060/Darkest_Dungeon/",
+        "https://store.playstation.com/en-gb/product/EP2483-CUSA05967_00-RHSDDPS4BND00001/",
+        "https://www.xbox.com/en-gb/games/store/darkest-dungeon/bxkvn6g9c5wj",
+        "https://apps.apple.com/gb/app/darkest-dungeon-tablet-edition/id1199831446"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 30,
+      "game": {
+        "name": "暗黑地牢",
+        "alias": [
+          "darkest dungeon",
+          "暗黑地牢",
+          "dd"
+        ],
+        "platform": "PC/macOS/Linux/PS4/PS Vita/Xbox One/Switch/iPadOS/Android",
+        "icon": "🕯️",
+        "category": "Roguelike",
+        "platformNote": "Steam 確認 Windows/Mac/Linux；PS Store 明列 PS4/PS Vita cross-buy；Xbox 商店確認 Xbox One；官方購買頁與 Apple 確認 Switch 及 iPad 專用 Tablet Edition。Android 高度疑似誤列：2018 官方否認公告原址現為 404，本輪未取得可讀的官方否認原文；Android 暫保留待補證，不表示已確認支援。",
+        "platformSources": [
+          "https://www.darkestdungeon.com/news/darkest-dungeon-the-fire-s-edge-hotfix/",
+          "https://www.darkestdungeon.com/news/the-fire-s-edge-available-now-/",
+          "https://www.darkestdungeon.com/news/the-fire-s-edge-dlc-releases-august-18th/",
+          "https://www.darkestdungeon.com/darkest-dungeon/",
+          "https://store.steampowered.com/app/262060/Darkest_Dungeon/",
+          "https://store.playstation.com/en-gb/product/EP2483-CUSA05967_00-RHSDDPS4BND00001/",
+          "https://www.xbox.com/en-gb/games/store/darkest-dungeon/bxkvn6g9c5wj",
+          "https://apps.apple.com/gb/app/darkest-dungeon-tablet-edition/id1199831446"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "reviewIndex": 138,
+        "auditIndex": 393,
+        "name": "暗黑地牢",
+        "status": "partial",
+        "platform": "PC/macOS/Linux/PS4/PS Vita/Xbox One/Switch/iPadOS/Android",
+        "safePlatform": "PC/macOS/Linux/PS4/PS Vita/Xbox One/Switch/iPadOS/Android",
+        "platformNote": "Steam 確認 Windows/Mac/Linux；PS Store 明列 PS4/PS Vita cross-buy；Xbox 商店確認 Xbox One；官方購買頁與 Apple 確認 Switch 及 iPad 專用 Tablet Edition。Android 高度疑似誤列：2018 官方否認公告原址現為 404，本輪未取得可讀的官方否認原文；Android 暫保留待補證，不表示已確認支援。",
+        "safePlatformNote": "Steam 確認 Windows/Mac/Linux；PS Store 明列 PS4/PS Vita cross-buy；Xbox 商店確認 Xbox One；官方購買頁與 Apple 確認 Switch 及 iPad 專用 Tablet Edition。Android 高度疑似誤列：2018 官方否認公告原址現為 404，本輪未取得可讀的官方否認原文；Android 暫保留待補證，不表示已確認支援。",
+        "sources": [
+          "https://www.darkestdungeon.com/news/darkest-dungeon-the-fire-s-edge-hotfix/",
+          "https://www.darkestdungeon.com/news/the-fire-s-edge-available-now-/",
+          "https://www.darkestdungeon.com/news/the-fire-s-edge-dlc-releases-august-18th/",
+          "https://www.darkestdungeon.com/darkest-dungeon/",
+          "https://store.steampowered.com/app/262060/Darkest_Dungeon/",
+          "https://store.playstation.com/en-gb/product/EP2483-CUSA05967_00-RHSDDPS4BND00001/",
+          "https://www.xbox.com/en-gb/games/store/darkest-dungeon/bxkvn6g9c5wj",
+          "https://apps.apple.com/gb/app/darkest-dungeon-tablet-edition/id1199831446"
+        ],
+        "evidence": [
+          "Steam 確認 Windows/Mac/Linux；PS Store 明列 PS4/PS Vita cross-buy；Xbox 商店確認 Xbox One；官方購買頁與 Apple 確認 Switch 及 iPad 專用 Tablet Edition。Android 高度疑似誤列：2018 官方否認公告原址現為 404，本輪未取得可讀的官方否認原文；Android 暫保留待補證，不表示已確認支援。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已解決所有主機世代及 iOS 裝置範圍；僅 Android 是否應刪除仍缺可讀官方否認/完整平台聲明。"
+      }
+    },
+    {
+      "auditIndex": 479,
+      "name": "MLB The Show",
+      "status": "unresolved",
+      "before": "PS5/PS4/Xbox/Switch",
+      "after": "PS5/PS4/Xbox/Switch",
+      "changed": false,
+      "note": "名稱未指定年份，無法用單一年份認證整列。官方 MLB The Show 26 支援頁只列 PS5、Xbox Series X|S、Switch，亦另有獨立 Mobile 產品；不能把既有 PS4 或泛稱 Xbox 視為同一版。",
+      "sources": [
+        "https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/",
+        "https://theshowmobile.sonysandiegostudio.games/hc/en-us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 31,
+      "game": {
+        "name": "MLB The Show",
+        "alias": [
+          "mlb the show",
+          "mlb"
+        ],
+        "platform": "PS5/PS4/Xbox/Switch",
+        "icon": "⚾",
+        "category": "運動",
+        "platformNote": "名稱未指定年份，無法用單一年份認證整列。官方 MLB The Show 26 支援頁只列 PS5、Xbox Series X|S、Switch，亦另有獨立 Mobile 產品；不能把既有 PS4 或泛稱 Xbox 視為同一版。",
+        "platformSources": [
+          "https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/",
+          "https://theshowmobile.sonysandiegostudio.games/hc/en-us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 179,
+        "auditIndex": 479,
+        "name": "MLB The Show",
+        "status": "unresolved",
+        "platform": "PS5/PS4/Xbox/Switch",
+        "safePlatform": "PS5/PS4/Xbox/Switch",
+        "platformNote": "名稱未指定年份，無法用單一年份認證整列。官方 MLB The Show 26 支援頁只列 PS5、Xbox Series X|S、Switch，亦另有獨立 Mobile 產品；不能把既有 PS4 或泛稱 Xbox 視為同一版。",
+        "safePlatformNote": "名稱未指定年份，無法用單一年份認證整列。官方 MLB The Show 26 支援頁只列 PS5、Xbox Series X|S、Switch，亦另有獨立 Mobile 產品；不能把既有 PS4 或泛稱 Xbox 視為同一版。",
+        "sources": [
+          "https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/",
+          "https://theshowmobile.sonysandiegostudio.games/hc/en-us"
+        ],
+        "evidence": [
+          "名稱未指定年份，無法用單一年份認證整列。官方 MLB The Show 26 支援頁只列 PS5、Xbox Series X|S、Switch，亦另有獨立 Mobile 產品；不能把既有 PS4 或泛稱 Xbox 視為同一版。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已確認缺口是年度版本身分，待指定年份。"
+      }
+    },
+    {
+      "auditIndex": 497,
+      "name": "魔兵驚天錄",
+      "status": "unresolved",
+      "before": "Switch/PC/PS4",
+      "after": "Switch/PC/PS4",
+      "changed": false,
+      "note": "中文『魔兵驚天錄』指向 Bayonetta，但別名 The Wonderful 101 指向另一作品；官方兩款產品頁互不相同，不能依單一別名擅自改名或合併。待釐清本筆作品身分，保留原平台。；作品名稱與英文別名互斥，保留本輪 baseline 平台及別名。",
+      "sources": [
+        "https://store.steampowered.com/api/storesearch/?term=the%20wonderful%20101&l=english&cc=us",
+        "https://www.platinumgames.com/games/the-wonderful-101",
+        "https://www.platinumgames.com/official-blog/article/11009",
+        "https://www.platinumgames.com/games/bayonetta/",
+        "https://www.nintendo.com/tw/bayonetta/1-2/pc/top.html"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 32,
+      "game": {
+        "name": "魔兵驚天錄",
+        "alias": [
+          "the wonderful 101",
+          "魔兵"
+        ],
+        "platform": "Switch/PC/PS4",
+        "icon": "👥",
+        "category": "動作",
+        "platformNote": "中文『魔兵驚天錄』指向 Bayonetta，但別名 The Wonderful 101 指向另一作品；官方兩款產品頁互不相同，不能依單一別名擅自改名或合併。待釐清本筆作品身分，保留原平台。；作品名稱與英文別名互斥，保留本輪 baseline 平台及別名。",
+        "platformSources": [
+          "https://store.steampowered.com/api/storesearch/?term=the%20wonderful%20101&l=english&cc=us",
+          "https://www.platinumgames.com/games/the-wonderful-101",
+          "https://www.platinumgames.com/official-blog/article/11009",
+          "https://www.platinumgames.com/games/bayonetta/",
+          "https://www.nintendo.com/tw/bayonetta/1-2/pc/top.html"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 181,
+        "auditIndex": 497,
+        "name": "魔兵驚天錄",
+        "status": "unresolved",
+        "platform": "Switch/PC/PS4",
+        "safePlatform": "Switch/PC/PS4",
+        "platformNote": "中文『魔兵驚天錄』指向 Bayonetta，但別名 The Wonderful 101 指向另一作品；官方兩款產品頁互不相同，不能依單一別名擅自改名或合併。待釐清本筆作品身分，保留原平台。",
+        "safePlatformNote": "作品名稱與英文別名互斥，保留本輪 baseline 平台及別名。",
+        "sources": [
+          "https://store.steampowered.com/api/storesearch/?term=the%20wonderful%20101&l=english&cc=us",
+          "https://www.platinumgames.com/games/the-wonderful-101",
+          "https://www.platinumgames.com/official-blog/article/11009",
+          "https://www.platinumgames.com/games/bayonetta/",
+          "https://www.nintendo.com/tw/bayonetta/1-2/pc/top.html"
+        ],
+        "evidence": [
+          "中文『魔兵驚天錄』指向 Bayonetta，但別名 The Wonderful 101 指向另一作品；官方兩款產品頁互不相同，不能依單一別名擅自改名或合併。待釐清本筆作品身分，保留原平台。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "已確認兩個名稱分屬不同作品；仍缺本筆所指作品身分。"
+      }
+    },
+    {
+      "auditIndex": 502,
+      "name": "腦鍛鍊",
+      "status": "unresolved",
+      "before": "Switch",
+      "after": "Switch",
+      "changed": false,
+      "note": "Nintendo 說明 Brain Training 有 DS 原作及 Switch 新作；條目僅腦鍛鍊/brain training，未指定 Dr Kawashima for Nintendo Switch 副標題。保留 Switch 待身分明確。",
+      "sources": [
+        "https://www.nintendo.com/fr-be/Jeux/Jeux-Nintendo-Switch/Programme-d-entrainement-cerebral-du-Dr-Kawashima-pour-Nintendo-Switch-1656777.html",
+        "https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/",
+        "https://cdn02.nintendo-europe.com/media/downloads/games_8/emanuals/nintendo_ds_21/Manual_NintendoDS_DrKawashimasBrainTraining_EN.pdf"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 33,
+      "game": {
+        "name": "腦鍛鍊",
+        "alias": [
+          "brain training",
+          "腦鍛",
+          "bt"
+        ],
+        "platform": "Switch",
+        "icon": "🧠",
+        "category": "教育",
+        "platformNote": "Nintendo 說明 Brain Training 有 DS 原作及 Switch 新作；條目僅腦鍛鍊/brain training，未指定 Dr Kawashima for Nintendo Switch 副標題。保留 Switch 待身分明確。",
+        "platformSources": [
+          "https://www.nintendo.com/fr-be/Jeux/Jeux-Nintendo-Switch/Programme-d-entrainement-cerebral-du-Dr-Kawashima-pour-Nintendo-Switch-1656777.html",
+          "https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/",
+          "https://cdn02.nintendo-europe.com/media/downloads/games_8/emanuals/nintendo_ds_21/Manual_NintendoDS_DrKawashimasBrainTraining_EN.pdf"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "reviewIndex": 183,
+        "auditIndex": 502,
+        "name": "腦鍛鍊",
+        "status": "unresolved",
+        "platform": "Switch",
+        "safePlatform": "Switch",
+        "platformNote": "Nintendo 說明 Brain Training 有 DS 原作及 Switch 新作；條目僅腦鍛鍊/brain training，未指定 Dr Kawashima for Nintendo Switch 副標題。保留 Switch 待身分明確。",
+        "safePlatformNote": "Nintendo 說明 Brain Training 有 DS 原作及 Switch 新作；條目僅腦鍛鍊/brain training，未指定 Dr Kawashima for Nintendo Switch 副標題。保留 Switch 待身分明確。",
+        "sources": [
+          "https://www.nintendo.com/fr-be/Jeux/Jeux-Nintendo-Switch/Programme-d-entrainement-cerebral-du-Dr-Kawashima-pour-Nintendo-Switch-1656777.html",
+          "https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/",
+          "https://cdn02.nintendo-europe.com/media/downloads/games_8/emanuals/nintendo_ds_21/Manual_NintendoDS_DrKawashimasBrainTraining_EN.pdf"
+        ],
+        "evidence": [
+          "Nintendo 說明 Brain Training 有 DS 原作及 Switch 新作；條目僅腦鍛鍊/brain training，未指定 Dr Kawashima for Nintendo Switch 副標題。保留 Switch 待身分明確。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "官方多代作品已確認，仍缺具體版名。"
+      }
+    },
+    {
+      "auditIndex": 507,
+      "name": "樂高 指環王",
+      "status": "partial",
+      "before": "PC/PS4/Xbox",
+      "after": "PC/PS3/PS Vita/Xbox 360/Wii/DS/3DS",
+      "changed": true,
+      "note": "WB 義大利官方完整主機平台表確認 PS3、Xbox 360、Wii、DS、3DS、PS Vita；Windows 由 Steam/GOG 確認。原 PS4 與本作不符，移除；不能混用 The Hobbit 的 PS4。TT 新網站的 PSP/Wii U 圖示與正式平台表衝突，不採用。歷史 Mac/iOS/Android 有發布線索，但 Feral 舊文轉址、Google Play 舊頁不可讀，本輪未完整取得官方原頁，暫不加未補齊項。",
+      "sources": [
+        "https://store.steampowered.com/api/appdetails?appids=214510&l=english&cc=us",
+        "https://www.warnerbros.it/gioco/genere-avventura/lego-il-signore-degli-anelli/",
+        "https://www.gog.com/en/game/lego_the_lord_of_the_rings",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/LEGO-The-Lord-Of-The-Rings-669698.html"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 34,
+      "game": {
+        "name": "樂高 指環王",
+        "alias": [
+          "lego lord of the rings",
+          "樂高指環王"
+        ],
+        "platform": "PC/PS3/PS Vita/Xbox 360/Wii/DS/3DS",
+        "icon": "🧱",
+        "category": "動作",
+        "platformNote": "WB 義大利官方完整主機平台表確認 PS3、Xbox 360、Wii、DS、3DS、PS Vita；Windows 由 Steam/GOG 確認。原 PS4 與本作不符，移除；不能混用 The Hobbit 的 PS4。TT 新網站的 PSP/Wii U 圖示與正式平台表衝突，不採用。歷史 Mac/iOS/Android 有發布線索，但 Feral 舊文轉址、Google Play 舊頁不可讀，本輪未完整取得官方原頁，暫不加未補齊項。",
+        "platformSources": [
+          "https://store.steampowered.com/api/appdetails?appids=214510&l=english&cc=us",
+          "https://www.warnerbros.it/gioco/genere-avventura/lego-il-signore-degli-anelli/",
+          "https://www.gog.com/en/game/lego_the_lord_of_the_rings",
+          "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/LEGO-The-Lord-Of-The-Rings-669698.html"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "reviewIndex": 187,
+        "auditIndex": 507,
+        "name": "樂高 指環王",
+        "status": "partial",
+        "platform": "PC/PS3/PS Vita/Xbox 360/Wii/DS/3DS",
+        "safePlatform": "PC/PS3/PS Vita/Xbox 360/Wii/DS/3DS",
+        "platformNote": "WB 義大利官方完整主機平台表確認 PS3、Xbox 360、Wii、DS、3DS、PS Vita；Windows 由 Steam/GOG 確認。原 PS4 與本作不符，移除；不能混用 The Hobbit 的 PS4。TT 新網站的 PSP/Wii U 圖示與正式平台表衝突，不採用。歷史 Mac/iOS/Android 有發布線索，但 Feral 舊文轉址、Google Play 舊頁不可讀，本輪未完整取得官方原頁，暫不加未補齊項。",
+        "safePlatformNote": "WB 義大利官方完整主機平台表確認 PS3、Xbox 360、Wii、DS、3DS、PS Vita；Windows 由 Steam/GOG 確認。原 PS4 與本作不符，移除；不能混用 The Hobbit 的 PS4。TT 新網站的 PSP/Wii U 圖示與正式平台表衝突，不採用。歷史 Mac/iOS/Android 有發布線索，但 Feral 舊文轉址、Google Play 舊頁不可讀，本輪未完整取得官方原頁，暫不加未補齊項。",
+        "sources": [
+          "https://store.steampowered.com/api/appdetails?appids=214510&l=english&cc=us",
+          "https://www.warnerbros.it/gioco/genere-avventura/lego-il-signore-degli-anelli/",
+          "https://www.gog.com/en/game/lego_the_lord_of_the_rings",
+          "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/LEGO-The-Lord-Of-The-Rings-669698.html"
+        ],
+        "evidence": [
+          "WB 義大利官方完整主機平台表確認 PS3、Xbox 360、Wii、DS、3DS、PS Vita；Windows 由 Steam/GOG 確認。原 PS4 與本作不符，移除；不能混用 The Hobbit 的 PS4。TT 新網站的 PSP/Wii U 圖示與正式平台表衝突，不採用。歷史 Mac/iOS/Android 有發布線索，但 Feral 舊文轉址、Google Play 舊頁不可讀，本輪未完整取得官方原頁，暫不加未補齊項。"
+        ],
+        "checkedAt": "2026-10-19",
+        "resolvedGap": "主機缺口已解決並移除 PS4 誤列；剩歷史 Mac 與行動版官方原始發行證據。"
+      }
+    },
+    {
+      "auditIndex": 556,
+      "name": "Gang Beasts",
+      "status": "partial",
+      "before": "PC/PS4/Xbox",
+      "after": "PC/PS4/Xbox One/macOS/Linux/Switch",
+      "changed": true,
+      "note": "官方 FAQ 明確 PS5 為 PS4 相容；Xbox One 確認，可安全細分 Xbox。FAQ 亦列 Series，但未明示獨立原生 SKU，暫不新增 Series。；只套用已證實新增／世代細分；未核原平台保留。",
+      "sources": [
+        "https://gangbeasts.game/faq",
+        "https://store.steampowered.com/api/appdetails?appids=285900&l=english&cc=us",
+        "https://gangbeasts.game/press-pack"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 35,
+      "game": {
+        "name": "Gang Beasts",
+        "alias": [
+          "gang beasts",
+          "基佬大亂鬥"
+        ],
+        "platform": "PC/PS4/Xbox One/macOS/Linux/Switch",
+        "icon": "👊",
+        "category": "派對",
+        "platformNote": "官方 FAQ 明確 PS5 為 PS4 相容；Xbox One 確認，可安全細分 Xbox。FAQ 亦列 Series，但未明示獨立原生 SKU，暫不新增 Series。；只套用已證實新增／世代細分；未核原平台保留。",
+        "platformSources": [
+          "https://gangbeasts.game/faq",
+          "https://store.steampowered.com/api/appdetails?appids=285900&l=english&cc=us",
+          "https://gangbeasts.game/press-pack"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 556,
+        "name": "Gang Beasts",
+        "status": "partial",
+        "platform": "PC/PS4/Xbox One/macOS/Linux/Switch",
+        "safePlatform": "PC/PS4/Xbox One/macOS/Linux/Switch",
+        "platformNote": "官方 FAQ 明確 PS5 為 PS4 相容；Xbox One 確認，可安全細分 Xbox。FAQ 亦列 Series，但未明示獨立原生 SKU，暫不新增 Series。",
+        "safePlatformNote": "只套用已證實新增／世代細分；未核原平台保留。",
+        "sources": [
+          "https://gangbeasts.game/faq",
+          "https://store.steampowered.com/api/appdetails?appids=285900&l=english&cc=us",
+          "https://gangbeasts.game/press-pack"
+        ],
+        "evidence": [
+          "官方 FAQ 明確 PS5 為 PS4 相容；Xbox One 確認，可安全細分 Xbox。FAQ 亦列 Series，但未明示獨立原生 SKU，暫不新增 Series。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 228,
+        "resolvedGap": "官方 FAQ 明確 PS5 為 PS4 相容；Xbox One 確認，可安全細分 Xbox。FAQ 亦列 Series，但未明示獨立原生 SKU，暫不新增 Series。"
+      }
+    },
+    {
+      "auditIndex": 569,
+      "name": "地鐵 離鄉",
+      "status": "partial",
+      "before": "PC/PS5/PS4/Xbox/Switch",
+      "after": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/macOS/Linux",
+      "changed": true,
+      "note": "官方次世代上市文補齊 PS4 原版及 PS5／Series 升級；Switch 搜尋僅找到 Metro Redux，不是 Exodus，仍缺 Exodus Switch 的直接產品證據，保留既有 Switch 待查而不認證。；只套用已證實新增／世代細分；未核原平台保留。",
+      "sources": [
+        "https://www.metrothegame.com/news/metro-exodus-out-now-on-xbox-series-xs-and-playstation-5",
+        "https://www.metrothegame.com/it/la-storia-fino-ad-ora/",
+        "https://store.steampowered.com/api/appdetails?appids=412020&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 36,
+      "game": {
+        "name": "地鐵 離鄉",
+        "alias": [
+          "metro exodus",
+          "地鐵離鄉"
+        ],
+        "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/macOS/Linux",
+        "icon": "🚇",
+        "category": "FPS",
+        "platformNote": "官方次世代上市文補齊 PS4 原版及 PS5／Series 升級；Switch 搜尋僅找到 Metro Redux，不是 Exodus，仍缺 Exodus Switch 的直接產品證據，保留既有 Switch 待查而不認證。；只套用已證實新增／世代細分；未核原平台保留。",
+        "platformSources": [
+          "https://www.metrothegame.com/news/metro-exodus-out-now-on-xbox-series-xs-and-playstation-5",
+          "https://www.metrothegame.com/it/la-storia-fino-ad-ora/",
+          "https://store.steampowered.com/api/appdetails?appids=412020&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 569,
+        "name": "地鐵 離鄉",
+        "status": "partial",
+        "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/macOS/Linux",
+        "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/macOS/Linux",
+        "platformNote": "官方次世代上市文補齊 PS4 原版及 PS5／Series 升級；Switch 搜尋僅找到 Metro Redux，不是 Exodus，仍缺 Exodus Switch 的直接產品證據，保留既有 Switch 待查而不認證。",
+        "safePlatformNote": "只套用已證實新增／世代細分；未核原平台保留。",
+        "sources": [
+          "https://www.metrothegame.com/news/metro-exodus-out-now-on-xbox-series-xs-and-playstation-5",
+          "https://www.metrothegame.com/it/la-storia-fino-ad-ora/",
+          "https://store.steampowered.com/api/appdetails?appids=412020&l=english&cc=us"
+        ],
+        "evidence": [
+          "官方次世代上市文補齊 PS4 原版及 PS5／Series 升級；Switch 搜尋僅找到 Metro Redux，不是 Exodus，仍缺 Exodus Switch 的直接產品證據，保留既有 Switch 待查而不認證。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 239,
+        "resolvedGap": "官方次世代上市文補齊 PS4 原版及 PS5／Series 升級；Switch 搜尋僅找到 Metro Redux，不是 Exodus，仍缺 Exodus Switch 的直接產品證據，保留既有 Switch 待查而不認證。"
+      }
+    },
+    {
+      "auditIndex": 580,
+      "name": "半條命2",
+      "status": "partial",
+      "before": "PC",
+      "after": "PC/PS3/Xbox 360/Linux",
+      "changed": true,
+      "note": "Valve Orange Box 公告及訪談確認 Half-Life2 隨合集發行 PS3／360。原 Xbox、歷史 Mac 與 Shield 移植尚缺直接官方版本證據，只新增已證實主機。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+      "sources": [
+        "https://www.teamfortress.com/post.php?id=1325",
+        "https://blog.playstation.com/archive/2011/04/14/portal-2-pretty-much-every-ps3-question-answered-and-that-cake-thing-too/",
+        "https://store.steampowered.com/api/appdetails?appids=220&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 37,
+      "game": {
+        "name": "半條命2",
+        "alias": [
+          "half life 2",
+          "戰慄時空 2",
+          "hl2",
+          "戰慄時空2"
+        ],
+        "platform": "PC/PS3/Xbox 360/Linux",
+        "icon": "🔫",
+        "category": "FPS",
+        "platformNote": "Valve Orange Box 公告及訪談確認 Half-Life2 隨合集發行 PS3／360。原 Xbox、歷史 Mac 與 Shield 移植尚缺直接官方版本證據，只新增已證實主機。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "platformSources": [
+          "https://www.teamfortress.com/post.php?id=1325",
+          "https://blog.playstation.com/archive/2011/04/14/portal-2-pretty-much-every-ps3-question-answered-and-that-cake-thing-too/",
+          "https://store.steampowered.com/api/appdetails?appids=220&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 580,
+        "name": "半條命2",
+        "status": "partial",
+        "platform": "PC/PS3/Xbox 360/Linux",
+        "safePlatform": "PC/PS3/Xbox 360/Linux",
+        "platformNote": "Valve Orange Box 公告及訪談確認 Half-Life2 隨合集發行 PS3／360。原 Xbox、歷史 Mac 與 Shield 移植尚缺直接官方版本證據，只新增已證實主機。",
+        "safePlatformNote": "僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "sources": [
+          "https://www.teamfortress.com/post.php?id=1325",
+          "https://blog.playstation.com/archive/2011/04/14/portal-2-pretty-much-every-ps3-question-answered-and-that-cake-thing-too/",
+          "https://store.steampowered.com/api/appdetails?appids=220&l=english&cc=us"
+        ],
+        "evidence": [
+          "Valve Orange Box 公告及訪談確認 Half-Life2 隨合集發行 PS3／360。原 Xbox、歷史 Mac 與 Shield 移植尚缺直接官方版本證據，只新增已證實主機。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 249,
+        "resolvedGap": "Valve Orange Box 公告及訪談確認 Half-Life2 隨合集發行 PS3／360。原 Xbox、歷史 Mac 與 Shield 移植尚缺直接官方版本證據，只新增已證實主機。"
+      }
+    },
+    {
+      "auditIndex": 581,
+      "name": "半條命",
+      "status": "partial",
+      "before": "PC",
+      "after": "PC/macOS/Linux",
+      "changed": true,
+      "note": "PC／Mac／Linux 的官方 Steam 證據維持；已針對 Gearbox 官方作品頁及 Sony 查找 Half-Life PS2 歷史版，但可讀官方結果主要是 Blue Shift／Condition Zero，不能拿其他作品代證。缺口僅為 PS2 歷史移植的一手發行證據，暫不增列。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+      "sources": [
+        "https://www.gearboxsoftware.com/game/half-life-blue-shift/",
+        "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 38,
+      "game": {
+        "name": "半條命",
+        "alias": [
+          "half life",
+          "半條命1"
+        ],
+        "platform": "PC/macOS/Linux",
+        "icon": "⚔️",
+        "category": "FPS",
+        "platformNote": "PC／Mac／Linux 的官方 Steam 證據維持；已針對 Gearbox 官方作品頁及 Sony 查找 Half-Life PS2 歷史版，但可讀官方結果主要是 Blue Shift／Condition Zero，不能拿其他作品代證。缺口僅為 PS2 歷史移植的一手發行證據，暫不增列。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "platformSources": [
+          "https://www.gearboxsoftware.com/game/half-life-blue-shift/",
+          "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 581,
+        "name": "半條命",
+        "status": "partial",
+        "platform": "PC/macOS/Linux",
+        "safePlatform": "PC/macOS/Linux",
+        "platformNote": "PC／Mac／Linux 的官方 Steam 證據維持；已針對 Gearbox 官方作品頁及 Sony 查找 Half-Life PS2 歷史版，但可讀官方結果主要是 Blue Shift／Condition Zero，不能拿其他作品代證。缺口僅為 PS2 歷史移植的一手發行證據，暫不增列。",
+        "safePlatformNote": "僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "sources": [
+          "https://www.gearboxsoftware.com/game/half-life-blue-shift/",
+          "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+        ],
+        "evidence": [
+          "PC／Mac／Linux 的官方 Steam 證據維持；已針對 Gearbox 官方作品頁及 Sony 查找 Half-Life PS2 歷史版，但可讀官方結果主要是 Blue Shift／Condition Zero，不能拿其他作品代證。缺口僅為 PS2 歷史移植的一手發行證據，暫不增列。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 250,
+        "resolvedGap": "PC／Mac／Linux 的官方 Steam 證據維持；已針對 Gearbox 官方作品頁及 Sony 查找 Half-Life PS2 歷史版，但可讀官方結果主要是 Blue Shift／Condition Zero，不能拿其他作品代證。缺口僅為 PS2 歷史移植的一手發行證據，暫不增列。"
+      }
+    },
+    {
+      "auditIndex": 582,
+      "name": "戰慄時空",
+      "status": "unresolved",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "Valve 繁中商品文確認戰慄時空是 Half-Life；原記錄 alias 卻為 Counter-Strike，兩個不同作品。名稱與 alias 彼此衝突，需指定要保留哪個身份，不能只改平台。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+      "sources": [
+        "https://store.steampowered.com/app/546560/HalfLife_Alyx/?l=tchinese",
+        "https://store.steampowered.com/api/storesearch/?term=counter%20strike&l=english&cc=us",
+        "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 39,
+      "game": {
+        "name": "戰慄時空",
+        "alias": [
+          "counter strike",
+          "cs",
+          "反恐精英"
+        ],
+        "platform": "PC",
+        "icon": "🔫",
+        "category": "FPS",
+        "platformNote": "Valve 繁中商品文確認戰慄時空是 Half-Life；原記錄 alias 卻為 Counter-Strike，兩個不同作品。名稱與 alias 彼此衝突，需指定要保留哪個身份，不能只改平台。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "platformSources": [
+          "https://store.steampowered.com/app/546560/HalfLife_Alyx/?l=tchinese",
+          "https://store.steampowered.com/api/storesearch/?term=counter%20strike&l=english&cc=us",
+          "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 582,
+        "name": "戰慄時空",
+        "status": "unresolved",
+        "platform": "PC",
+        "safePlatform": "PC",
+        "platformNote": "Valve 繁中商品文確認戰慄時空是 Half-Life；原記錄 alias 卻為 Counter-Strike，兩個不同作品。名稱與 alias 彼此衝突，需指定要保留哪個身份，不能只改平台。",
+        "safePlatformNote": "僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "sources": [
+          "https://store.steampowered.com/app/546560/HalfLife_Alyx/?l=tchinese",
+          "https://store.steampowered.com/api/storesearch/?term=counter%20strike&l=english&cc=us",
+          "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+        ],
+        "evidence": [
+          "Valve 繁中商品文確認戰慄時空是 Half-Life；原記錄 alias 卻為 Counter-Strike，兩個不同作品。名稱與 alias 彼此衝突，需指定要保留哪個身份，不能只改平台。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 251,
+        "resolvedGap": "Valve 繁中商品文確認戰慄時空是 Half-Life；原記錄 alias 卻為 Counter-Strike，兩個不同作品。名稱與 alias 彼此衝突，需指定要保留哪個身份，不能只改平台。"
+      }
+    },
+    {
+      "auditIndex": 587,
+      "name": "Dota",
+      "status": "unresolved",
+      "before": "PC",
+      "after": "PC",
+      "changed": false,
+      "note": "重查官方搜尋仍無法把 alias Dota1 唯一對應到特定 Warcraft III 自訂地圖版本及維護者。Steam Dota 2 與 Blizzard 曾公布的 StarCraft II Blizzard DOTA 都不是同一作品，不能拿來驗證本條；保留既有 PC 待身份釐清。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+      "sources": [
+        "https://news.blizzard.com/en-gb/article/9983263/starcraft-ii-art-panel",
+        "https://store.steampowered.com/api/storesearch/?term=dota&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 40,
+      "game": {
+        "name": "Dota",
+        "alias": [
+          "dota",
+          "dota1",
+          "刀塔"
+        ],
+        "platform": "PC",
+        "icon": "🗡️",
+        "category": "MOBA",
+        "platformNote": "重查官方搜尋仍無法把 alias Dota1 唯一對應到特定 Warcraft III 自訂地圖版本及維護者。Steam Dota 2 與 Blizzard 曾公布的 StarCraft II Blizzard DOTA 都不是同一作品，不能拿來驗證本條；保留既有 PC 待身份釐清。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "platformSources": [
+          "https://news.blizzard.com/en-gb/article/9983263/starcraft-ii-art-panel",
+          "https://store.steampowered.com/api/storesearch/?term=dota&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 587,
+        "name": "Dota",
+        "status": "unresolved",
+        "platform": "PC",
+        "safePlatform": "PC",
+        "platformNote": "重查官方搜尋仍無法把 alias Dota1 唯一對應到特定 Warcraft III 自訂地圖版本及維護者。Steam Dota 2 與 Blizzard 曾公布的 StarCraft II Blizzard DOTA 都不是同一作品，不能拿來驗證本條；保留既有 PC 待身份釐清。",
+        "safePlatformNote": "僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "sources": [
+          "https://news.blizzard.com/en-gb/article/9983263/starcraft-ii-art-panel",
+          "https://store.steampowered.com/api/storesearch/?term=dota&l=english&cc=us"
+        ],
+        "evidence": [
+          "重查官方搜尋仍無法把 alias Dota1 唯一對應到特定 Warcraft III 自訂地圖版本及維護者。Steam Dota 2 與 Blizzard 曾公布的 StarCraft II Blizzard DOTA 都不是同一作品，不能拿來驗證本條；保留既有 PC 待身份釐清。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 256,
+        "resolvedGap": "重查官方搜尋仍無法把 alias Dota1 唯一對應到特定 Warcraft III 自訂地圖版本及維護者。Steam Dota 2 與 Blizzard 曾公布的 StarCraft II Blizzard DOTA 都不是同一作品，不能拿來驗證本條；保留既有 PC 待身份釐清。"
+      }
+    },
+    {
+      "auditIndex": 608,
+      "name": "森林之子",
+      "status": "partial",
+      "before": "PC/PS5",
+      "after": "PC/PS5",
+      "changed": false,
+      "note": "本輪再查 Endnight 官方網站與 Steam，仍只有 Windows 發行直接證據；PS5 尚無可讀官方已發售公告或明確否認。保留原列 PS5 但不認證，不能以查無資料推論不存在；實際缺口為 PS5 是否有原生已發售版本。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+      "sources": [
+        "https://store.steampowered.com/app/1326470/Sons_of_The_Forest/",
+        "https://store.steampowered.com/api/appdetails?appids=1326470&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 41,
+      "game": {
+        "name": "森林之子",
+        "alias": [
+          "sons of the forest",
+          "森林之子"
+        ],
+        "platform": "PC/PS5",
+        "icon": "🌳",
+        "category": "生存",
+        "platformNote": "本輪再查 Endnight 官方網站與 Steam，仍只有 Windows 發行直接證據；PS5 尚無可讀官方已發售公告或明確否認。保留原列 PS5 但不認證，不能以查無資料推論不存在；實際缺口為 PS5 是否有原生已發售版本。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "platformSources": [
+          "https://store.steampowered.com/app/1326470/Sons_of_The_Forest/",
+          "https://store.steampowered.com/api/appdetails?appids=1326470&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 608,
+        "name": "森林之子",
+        "status": "partial",
+        "platform": "PC/PS5",
+        "safePlatform": "PC/PS5",
+        "platformNote": "本輪再查 Endnight 官方網站與 Steam，仍只有 Windows 發行直接證據；PS5 尚無可讀官方已發售公告或明確否認。保留原列 PS5 但不認證，不能以查無資料推論不存在；實際缺口為 PS5 是否有原生已發售版本。",
+        "safePlatformNote": "僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "sources": [
+          "https://store.steampowered.com/app/1326470/Sons_of_The_Forest/",
+          "https://store.steampowered.com/api/appdetails?appids=1326470&l=english&cc=us"
+        ],
+        "evidence": [
+          "本輪再查 Endnight 官方網站與 Steam，仍只有 Windows 發行直接證據；PS5 尚無可讀官方已發售公告或明確否認。保留原列 PS5 但不認證，不能以查無資料推論不存在；實際缺口為 PS5 是否有原生已發售版本。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 266,
+        "resolvedGap": "本輪再查 Endnight 官方網站與 Steam，仍只有 Windows 發行直接證據；PS5 尚無可讀官方已發售公告或明確否認。保留原列 PS5 但不認證，不能以查無資料推論不存在；實際缺口為 PS5 是否有原生已發售版本。"
+      }
+    },
+    {
+      "auditIndex": 618,
+      "name": "薩爾達傳說 無雙",
+      "status": "unresolved",
+      "before": "Switch",
+      "after": "Switch",
+      "changed": false,
+      "note": "官方確認 Hyrule Warriors 原作 Wii U，而本筆只有系列通稱且專案另有 Definitive 條目；無唯一版本識別，保留原 Switch 待確認，不將其認證為原作。；維持原平台，身分缺口未解，非平台認證。",
+      "sources": [
+        "https://www.nintendo.com/en-gb/Games/Wii-U-games/Hyrule-Warriors-891849.html",
+        "https://www.nintendo.com/de-de/Spiele/Wii-U-Spiele/Hyrule-Warriors-891849.html",
+        "https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 42,
+      "game": {
+        "name": "薩爾達傳說 無雙",
+        "alias": [
+          "hyrule warriors",
+          "薩爾達無雙",
+          "hw"
+        ],
+        "platform": "Switch",
+        "icon": "⚔️",
+        "category": "動作",
+        "platformNote": "官方確認 Hyrule Warriors 原作 Wii U，而本筆只有系列通稱且專案另有 Definitive 條目；無唯一版本識別，保留原 Switch 待確認，不將其認證為原作。；維持原平台，身分缺口未解，非平台認證。",
+        "platformSources": [
+          "https://www.nintendo.com/en-gb/Games/Wii-U-games/Hyrule-Warriors-891849.html",
+          "https://www.nintendo.com/de-de/Spiele/Wii-U-Spiele/Hyrule-Warriors-891849.html",
+          "https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 618,
+        "name": "薩爾達傳說 無雙",
+        "status": "unresolved",
+        "platform": "Switch",
+        "safePlatform": "Switch",
+        "platformNote": "官方確認 Hyrule Warriors 原作 Wii U，而本筆只有系列通稱且專案另有 Definitive 條目；無唯一版本識別，保留原 Switch 待確認，不將其認證為原作。",
+        "safePlatformNote": "維持原平台，身分缺口未解，非平台認證。",
+        "sources": [
+          "https://www.nintendo.com/en-gb/Games/Wii-U-games/Hyrule-Warriors-891849.html",
+          "https://www.nintendo.com/de-de/Spiele/Wii-U-Spiele/Hyrule-Warriors-891849.html",
+          "https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html"
+        ],
+        "evidence": [
+          "官方確認 Hyrule Warriors 原作 Wii U，而本筆只有系列通稱且專案另有 Definitive 條目；無唯一版本識別，保留原 Switch 待確認，不將其認證為原作。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 272,
+        "resolvedGap": "官方確認 Hyrule Warriors 原作 Wii U，而本筆只有系列通稱且專案另有 Definitive 條目；無唯一版本識別，保留原 Switch 待確認，不將其認證為原作。"
+      }
+    },
+    {
+      "auditIndex": 629,
+      "name": "勇者鬥惡龍 怪物仙境",
+      "status": "unresolved",
+      "before": "Switch",
+      "after": "Switch",
+      "changed": false,
+      "note": "官方 The Dark Prince 為 Switch／Steam／Mobile，但本筆 alias 只有 Dragon Quest Monsters 系列，無該副標；不能把子作品平台套到系列，需指明作品。；維持原平台，身分缺口未解，非平台認證。",
+      "sources": [
+        "https://dragonquest.square-enix-games.com/games/en-gb/dqmonsters/",
+        "https://store.steampowered.com/api/storesearch/?term=dragon%20quest%20monsters&l=english&cc=us"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 43,
+      "game": {
+        "name": "勇者鬥惡龍 怪物仙境",
+        "alias": [
+          "dragon quest monsters",
+          "dqm",
+          "怪物仙境"
+        ],
+        "platform": "Switch",
+        "icon": "👹",
+        "category": "RPG",
+        "platformNote": "官方 The Dark Prince 為 Switch／Steam／Mobile，但本筆 alias 只有 Dragon Quest Monsters 系列，無該副標；不能把子作品平台套到系列，需指明作品。；維持原平台，身分缺口未解，非平台認證。",
+        "platformSources": [
+          "https://dragonquest.square-enix-games.com/games/en-gb/dqmonsters/",
+          "https://store.steampowered.com/api/storesearch/?term=dragon%20quest%20monsters&l=english&cc=us"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 629,
+        "name": "勇者鬥惡龍 怪物仙境",
+        "status": "unresolved",
+        "platform": "Switch",
+        "safePlatform": "Switch",
+        "platformNote": "官方 The Dark Prince 為 Switch／Steam／Mobile，但本筆 alias 只有 Dragon Quest Monsters 系列，無該副標；不能把子作品平台套到系列，需指明作品。",
+        "safePlatformNote": "維持原平台，身分缺口未解，非平台認證。",
+        "sources": [
+          "https://dragonquest.square-enix-games.com/games/en-gb/dqmonsters/",
+          "https://store.steampowered.com/api/storesearch/?term=dragon%20quest%20monsters&l=english&cc=us"
+        ],
+        "evidence": [
+          "官方 The Dark Prince 為 Switch／Steam／Mobile，但本筆 alias 只有 Dragon Quest Monsters 系列，無該副標；不能把子作品平台套到系列，需指明作品。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 273,
+        "resolvedGap": "官方 The Dark Prince 為 Switch／Steam／Mobile，但本筆 alias 只有 Dragon Quest Monsters 系列，無該副標；不能把子作品平台套到系列，需指明作品。"
+      }
+    },
+    {
+      "auditIndex": 634,
+      "name": "世界樹的迷宮",
+      "status": "unresolved",
+      "before": "Switch",
+      "after": "Switch",
+      "changed": false,
+      "note": "Atlus 官方說明 Origins Collection 包含一至三代 HD；本筆只有系列／初代同名而無 HD 或年份，不能唯一對應 Switch HD，需先釐清版本。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+      "sources": [
+        "https://www.atlus.com/etrianorigins/index.html?lang=en",
+        "https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 44,
+      "game": {
+        "name": "世界樹的迷宮",
+        "alias": [
+          "etrian odyssey",
+          "世界樹",
+          "eo"
+        ],
+        "platform": "Switch",
+        "icon": "🌳",
+        "category": "RPG",
+        "platformNote": "Atlus 官方說明 Origins Collection 包含一至三代 HD；本筆只有系列／初代同名而無 HD 或年份，不能唯一對應 Switch HD，需先釐清版本。；僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "platformSources": [
+          "https://www.atlus.com/etrianorigins/index.html?lang=en",
+          "https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 634,
+        "name": "世界樹的迷宮",
+        "status": "unresolved",
+        "platform": "Switch",
+        "safePlatform": "Switch",
+        "platformNote": "Atlus 官方說明 Origins Collection 包含一至三代 HD；本筆只有系列／初代同名而無 HD 或年份，不能唯一對應 Switch HD，需先釐清版本。",
+        "safePlatformNote": "僅套用直接證實平台，未核或身分衝突部分不認證。",
+        "sources": [
+          "https://www.atlus.com/etrianorigins/index.html?lang=en",
+          "https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/"
+        ],
+        "evidence": [
+          "Atlus 官方說明 Origins Collection 包含一至三代 HD；本筆只有系列／初代同名而無 HD 或年份，不能唯一對應 Switch HD，需先釐清版本。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 275,
+        "resolvedGap": "Atlus 官方說明 Origins Collection 包含一至三代 HD；本筆只有系列／初代同名而無 HD 或年份，不能唯一對應 Switch HD，需先釐清版本。"
+      }
+    },
+    {
+      "auditIndex": 720,
+      "name": "The Rise of the Golden Idol",
+      "status": "partial",
+      "before": "PC/PS/Xbox/Switch/Mobile",
+      "after": "PC/macOS/PS/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+      "changed": true,
+      "note": "本輪確認 Playstack 獨立 iOS/Android 已重新上架，並補 Mac、Xbox 原生兩代；Netflix 下架不等於手機版永久消失。PS5 商品可找到，但 PS4 正式版本尚缺可重驗商品欄位，暫保留 PS 泛稱。；保留未核 PS 泛稱，只套用手機、Mac 與 Xbox 已證實更正。",
+      "sources": [
+        "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix",
+        "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+        "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665?platform=vision",
+        "https://www.xbox.com/en-us/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+        "https://store.steampowered.com/api/appdetails?appids=2716400&l=english&cc=us",
+        "https://www.playstation.com/en-ca/games/the-rise-of-the-golden-idol/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 45,
+      "game": {
+        "name": "The Rise of the Golden Idol",
+        "alias": [
+          "rise of the golden idol",
+          "黃金偶像崛起"
+        ],
+        "platform": "PC/macOS/PS/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+        "icon": "🗿",
+        "category": "推理",
+        "platformNote": "本輪確認 Playstack 獨立 iOS/Android 已重新上架，並補 Mac、Xbox 原生兩代；Netflix 下架不等於手機版永久消失。PS5 商品可找到，但 PS4 正式版本尚缺可重驗商品欄位，暫保留 PS 泛稱。；保留未核 PS 泛稱，只套用手機、Mac 與 Xbox 已證實更正。",
+        "platformSources": [
+          "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix",
+          "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+          "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665?platform=vision",
+          "https://www.xbox.com/en-us/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+          "https://store.steampowered.com/api/appdetails?appids=2716400&l=english&cc=us",
+          "https://www.playstation.com/en-ca/games/the-rise-of-the-golden-idol/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 720,
+        "name": "The Rise of the Golden Idol",
+        "status": "partial",
+        "platform": "PC/macOS/PS/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+        "safePlatform": "PC/macOS/PS/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+        "platformNote": "本輪確認 Playstack 獨立 iOS/Android 已重新上架，並補 Mac、Xbox 原生兩代；Netflix 下架不等於手機版永久消失。PS5 商品可找到，但 PS4 正式版本尚缺可重驗商品欄位，暫保留 PS 泛稱。",
+        "safePlatformNote": "保留未核 PS 泛稱，只套用手機、Mac 與 Xbox 已證實更正。",
+        "sources": [
+          "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix",
+          "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+          "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665?platform=vision",
+          "https://www.xbox.com/en-us/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+          "https://store.steampowered.com/api/appdetails?appids=2716400&l=english&cc=us",
+          "https://www.playstation.com/en-ca/games/the-rise-of-the-golden-idol/"
+        ],
+        "evidence": [
+          "本輪確認 Playstack 獨立 iOS/Android 已重新上架，並補 Mac、Xbox 原生兩代；Netflix 下架不等於手機版永久消失。PS5 商品可找到，但 PS4 正式版本尚缺可重驗商品欄位，暫保留 PS 泛稱。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 300,
+        "resolvedGap": "本輪確認 Playstack 獨立 iOS/Android 已重新上架，並補 Mac、Xbox 原生兩代；Netflix 下架不等於手機版永久消失。PS5 商品可找到，但 PS4 正式版本尚缺可重驗商品欄位，暫保留 PS 泛稱。"
+      }
+    },
+    {
+      "auditIndex": 790,
+      "name": "Norco",
+      "status": "partial",
+      "before": "PC/PS/Xbox/Switch",
+      "after": "PC/macOS/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+      "changed": true,
+      "note": "Steam 確認 Windows/macOS；Xbox 商品明列 One、Series 與 Smart Delivery；PS4／PS5 商品補主機世代。Switch 尚缺一手支持，未視為已證實。；PS/Xbox 世代與 macOS 可套用；原 Switch 尚無官方反證，暫保留等待確認。",
+      "sources": [
+        "https://www.xbox.com/en-ca/games/store/0e932bcf-57b6-455e-aa60-b2e5874061f5/9nzfzxdrzqlr",
+        "https://store.steampowered.com/api/appdetails?appids=1221250&l=english&cc=us",
+        "https://store.playstation.com/en-us/product/UP2320-PPSA06361_00-NORCOTHEGAMENAP5/"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 46,
+      "game": {
+        "name": "Norco",
+        "alias": [
+          "norco"
+        ],
+        "platform": "PC/macOS/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+        "icon": "🏭",
+        "category": "冒險",
+        "platformNote": "Steam 確認 Windows/macOS；Xbox 商品明列 One、Series 與 Smart Delivery；PS4／PS5 商品補主機世代。Switch 尚缺一手支持，未視為已證實。；PS/Xbox 世代與 macOS 可套用；原 Switch 尚無官方反證，暫保留等待確認。",
+        "platformSources": [
+          "https://www.xbox.com/en-ca/games/store/0e932bcf-57b6-455e-aa60-b2e5874061f5/9nzfzxdrzqlr",
+          "https://store.steampowered.com/api/appdetails?appids=1221250&l=english&cc=us",
+          "https://store.playstation.com/en-us/product/UP2320-PPSA06361_00-NORCOTHEGAMENAP5/"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial"
+      },
+      "previousReview": {
+        "auditIndex": 790,
+        "name": "Norco",
+        "status": "partial",
+        "platform": "PC/macOS/PS5/PS4/Xbox Series X|S/Xbox One",
+        "safePlatform": "PC/macOS/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+        "platformNote": "Steam 確認 Windows/macOS；Xbox 商品明列 One、Series 與 Smart Delivery；PS4／PS5 商品補主機世代。Switch 尚缺一手支持，未視為已證實。",
+        "safePlatformNote": "PS/Xbox 世代與 macOS 可套用；原 Switch 尚無官方反證，暫保留等待確認。",
+        "sources": [
+          "https://www.xbox.com/en-ca/games/store/0e932bcf-57b6-455e-aa60-b2e5874061f5/9nzfzxdrzqlr",
+          "https://store.steampowered.com/api/appdetails?appids=1221250&l=english&cc=us",
+          "https://store.playstation.com/en-us/product/UP2320-PPSA06361_00-NORCOTHEGAMENAP5/"
+        ],
+        "evidence": [
+          "Steam 確認 Windows/macOS；Xbox 商品明列 One、Series 與 Smart Delivery；PS4／PS5 商品補主機世代。Switch 尚缺一手支持，未視為已證實。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 347,
+        "resolvedGap": "Steam 確認 Windows/macOS；Xbox 商品明列 One、Series 與 Smart Delivery；PS4／PS5 商品補主機世代。Switch 尚缺一手支持，未視為已證實。"
+      }
+    },
+    {
+      "auditIndex": 826,
+      "name": "Project: The Perceiver",
+      "status": "partial",
+      "before": "PC/PS5",
+      "after": "PC/PS5/PS4",
+      "changed": true,
+      "note": "找到 Papergames 本作官網與 PlayStation Asia 原始預告，明確宣布 PS5/PS4；PC 仍無一手確認，發售日亦未公布。；已確認 PS5/PS4 預定；原 PC 尚無直接反證先保留，不代表已證實。",
+      "sources": [
+        "https://www.papegames.com/en",
+        "https://www.youtube.com/watch?v=Wx8ir5rbzIQ",
+        "https://perceiver.infoldgames.com/home"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 47,
+      "game": {
+        "name": "Project: The Perceiver",
+        "alias": [
+          "project the perceiver",
+          "百面千相"
+        ],
+        "platform": "PC/PS5/PS4",
+        "icon": "🎭",
+        "category": "動作RPG",
+        "platformNote": "找到 Papergames 本作官網與 PlayStation Asia 原始預告，明確宣布 PS5/PS4；PC 仍無一手確認，發售日亦未公布。；已確認 PS5/PS4 預定；原 PC 尚無直接反證先保留，不代表已證實。",
+        "platformSources": [
+          "https://www.papegames.com/en",
+          "https://www.youtube.com/watch?v=Wx8ir5rbzIQ",
+          "https://perceiver.infoldgames.com/home"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "partial",
+        "releaseStatus": "upcoming"
+      },
+      "previousReview": {
+        "auditIndex": 826,
+        "name": "Project: The Perceiver",
+        "status": "partial",
+        "platform": "PS5/PS4",
+        "safePlatform": "PC/PS5/PS4",
+        "platformNote": "找到 Papergames 本作官網與 PlayStation Asia 原始預告，明確宣布 PS5/PS4；PC 仍無一手確認，發售日亦未公布。",
+        "safePlatformNote": "已確認 PS5/PS4 預定；原 PC 尚無直接反證先保留，不代表已證實。",
+        "sources": [
+          "https://www.papegames.com/en",
+          "https://www.youtube.com/watch?v=Wx8ir5rbzIQ",
+          "https://perceiver.infoldgames.com/home"
+        ],
+        "evidence": [
+          "找到 Papergames 本作官網與 PlayStation Asia 原始預告，明確宣布 PS5/PS4；PC 仍無一手確認，發售日亦未公布。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 375,
+        "resolvedGap": "找到 Papergames 本作官網與 PlayStation Asia 原始預告，明確宣布 PS5/PS4；PC 仍無一手確認，發售日亦未公布。",
+        "releaseStatus": "upcoming"
+      }
+    },
+    {
+      "auditIndex": 833,
+      "name": "Perfect Dark",
+      "status": "unresolved",
+      "before": "PC/Xbox",
+      "after": "PC/Xbox",
+      "changed": false,
+      "note": "資料庫 name/alias 僅為 Perfect Dark／完美黑暗，無年份或 reboot，不能由 2024 Xbox 專訪單獨斷定指重啟作；官方資料分別存在 2010 舊作與重啟作品。因身分缺口保留原 PC/Xbox，不套用任一版本平台或取消狀態。；身分未定，保留原平台，不把舊作或重啟作證據強行套入。",
+      "sources": [
+        "https://news.xbox.com/en-us/2024/06/09/perfect-dark-details-interview-xbox-games-showcase-2024/",
+        "https://www.xbox.com/en-US/games/perfect-dark"
+      ],
+      "checkedAt": "2026-10-19",
+      "reviewIndex": 48,
+      "game": {
+        "name": "Perfect Dark",
+        "alias": [
+          "perfect dark",
+          "完美黑暗"
+        ],
+        "platform": "PC/Xbox",
+        "icon": "🕶️",
+        "category": "射擊",
+        "platformNote": "資料庫 name/alias 僅為 Perfect Dark／完美黑暗，無年份或 reboot，不能由 2024 Xbox 專訪單獨斷定指重啟作；官方資料分別存在 2010 舊作與重啟作品。因身分缺口保留原 PC/Xbox，不套用任一版本平台或取消狀態。；身分未定，保留原平台，不把舊作或重啟作證據強行套入。",
+        "platformSources": [
+          "https://news.xbox.com/en-us/2024/06/09/perfect-dark-details-interview-xbox-games-showcase-2024/",
+          "https://www.xbox.com/en-US/games/perfect-dark"
+        ],
+        "platformReviewedAt": "2026-10-19",
+        "platformReviewStatus": "unresolved"
+      },
+      "previousReview": {
+        "auditIndex": 833,
+        "name": "Perfect Dark",
+        "status": "unresolved",
+        "platform": "PC/Xbox",
+        "safePlatform": "PC/Xbox",
+        "platformNote": "資料庫 name/alias 僅為 Perfect Dark／完美黑暗，無年份或 reboot，不能由 2024 Xbox 專訪單獨斷定指重啟作；官方資料分別存在 2010 舊作與重啟作品。因身分缺口保留原 PC/Xbox，不套用任一版本平台或取消狀態。",
+        "safePlatformNote": "身分未定，保留原平台，不把舊作或重啟作證據強行套入。",
+        "sources": [
+          "https://news.xbox.com/en-us/2024/06/09/perfect-dark-details-interview-xbox-games-showcase-2024/",
+          "https://www.xbox.com/en-US/games/perfect-dark"
+        ],
+        "evidence": [
+          "資料庫 name/alias 僅為 Perfect Dark／完美黑暗，無年份或 reboot，不能由 2024 Xbox 專訪單獨斷定指重啟作；官方資料分別存在 2010 舊作與重啟作品。因身分缺口保留原 PC/Xbox，不套用任一版本平台或取消狀態。"
+        ],
+        "checkedAt": "2026-10-19",
+        "reviewIndex": 380,
+        "resolvedGap": "資料庫 name/alias 僅為 Perfect Dark／完美黑暗，無年份或 reboot，不能由 2024 Xbox 專訪單獨斷定指重啟作；官方資料分別存在 2010 舊作與重啟作品。因身分缺口保留原 PC/Xbox，不套用任一版本平台或取消狀態。"
+      }
+    }
+  ]
+}

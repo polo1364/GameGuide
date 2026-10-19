@@ -1,0 +1,235 @@
+[
+  {
+    "reviewIndex": 6,
+    "auditIndex": 223,
+    "name": "流亡黯道 手機版",
+    "status": "partial",
+    "platform": "行動裝置（系統未公布）",
+    "platformNote": "GGG 官方確認 Path of Exile Mobile 專案及 ExileCon 2023 試玩；本輪仍未取得具體 iOS／Android 正式發行平台與日期。iOS／Android 未獲確認，非斷言未來不推出；展場試玩不代表正式上市。",
+    "sources": [
+      "https://www.pathofexile.com/forum/view-thread/3396409"
+    ],
+    "evidence": [
+      "GGG Community_Team 於 2023-05-29 的官方公告將 Path of Exile Mobile demo 與 Path of Exile 2 demo 分別列出，足以確認手機專案身分；本文未公布手機作業系統與正式發行日期。"
+    ],
+    "resolvedGap": "已確認具名手機專案而非 POE 主遊戲串流；正式支援作業系統和上市資訊仍未公布於本輪取得的官方資料，保持 partial。",
+    "identityType": "specific-game",
+    "identityNote": "官方具名 Path of Exile Mobile 展示專案，不是 Path of Exile 或 Path of Exile 2 的行動串流。",
+    "editionOptions": [
+      {
+        "name": "Path of Exile Mobile（GGG 手機專案）",
+        "platform": "行動裝置（系統未公布）",
+        "sources": [
+          "https://www.pathofexile.com/forum/view-thread/3396409"
+        ],
+        "scopeNote": "已公布且曾提供展場試玩；未據此推定 iOS、Android 或已上市。"
+      }
+    ],
+    "safePlatform": "行動裝置（系統未公布）",
+    "safePlatformNote": "GGG 官方確認 Path of Exile Mobile 專案及 ExileCon 2023 試玩；本輪仍未取得具體 iOS／Android 正式發行平台與日期。iOS／Android 未獲確認，非斷言未來不推出；展場試玩不代表正式上市。",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 7,
+    "auditIndex": 237,
+    "name": "巫師 重製版",
+    "status": "partial",
+    "platform": "未公布",
+    "platformNote": "指 Fool's Theory 開發、CDPR 監督的初代 The Witcher Remake，代號 Canis Majoris。2022 專案公告與 2026 年 6 月官方產品展望均未提供具體平台；不借用《巫師 3》或《巫師 4》的平台。PC／PS5 未獲確認，非斷言未來不推出。",
+    "sources": [
+      "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development",
+      "https://www.cdprojekt.com/en/wp-content/uploads-en/2026/06/fact-sheet-june-2026.pdf"
+    ],
+    "evidence": [
+      "CDPR 2022-10-26 正式確認以 Unreal Engine 5 重建初代，對應先前 Canis Majoris 代號。",
+      "CD PROJEKT 2026 年 6 月 fact sheet 的長期產品展望仍單列 The Witcher Remake，與新巫師三部曲、Project Sirius 分開；未列發行平台。"
+    ],
+    "resolvedGap": "身分已限定為初代完整重製專案；以較新的 2026 官方產品展望補證，但具體平台仍未公布，保持 partial。",
+    "identityType": "specific-game",
+    "identityNote": "The Witcher Remake／Canis Majoris；不是 2007 原版或 Enhanced Edition，也不是 The Witcher 3 次世代更新。",
+    "editionOptions": [
+      {
+        "name": "The Witcher Remake（Canis Majoris）",
+        "platform": "未公布",
+        "sources": [
+          "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development",
+          "https://www.cdprojekt.com/en/wp-content/uploads-en/2026/06/fact-sheet-june-2026.pdf"
+        ],
+        "scopeNote": "開發專案已確認，具體發行平台尚未確認。"
+      }
+    ],
+    "releaseStatus": "upcoming",
+    "safePlatform": "未公布",
+    "safePlatformNote": "指 Fool's Theory 開發、CDPR 監督的初代 The Witcher Remake，代號 Canis Majoris。2022 專案公告與 2026 年 6 月官方產品展望均未提供具體平台；不借用《巫師 3》或《巫師 4》的平台。PC／PS5 未獲確認，非斷言未來不推出。",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 25,
+    "auditIndex": 507,
+    "name": "樂高 指環王",
+    "status": "verified",
+    "platform": "PC/macOS/PS3/PS Vita/Xbox 360/Wii/DS/3DS/iOS/Android",
+    "platformNote": "範圍為 LEGO The Lord of the Rings 的已證實歷史桌機、主機、掌機及行動移植。Android 原 Google Play 商品 com.wb.goog.llotr 的 2016-03-08 官方頁存檔列 Warner Bros. International Enterprises 與 Android 4.0.3 以上，足以確認歷史發行；不保證今日可購買或新系統相容。TT 現行 PSP／Wii U 通用圖示與 WB 原始平台表衝突，採明確產品平台表而不新增 PSP／Wii U／PS4；未獲確認不表示未來不推出。",
+    "sources": [
+      "https://www.warnerbros.it/gioco/genere-avventura/lego-il-signore-degli-anelli/",
+      "https://store.steampowered.com/app/214510/",
+      "https://www.youtube.com/watch?v=rKoAkj3JLc4",
+      "https://www.youtube.com/watch?v=1TwpkbinbOQ",
+      "https://web.archive.org/web/20160308142238/https://play.google.com/store/apps/details?id=com.wb.goog.llotr"
+    ],
+    "evidence": [
+      "WB 義大利官方產品頁明列 PS3、Xbox 360、Wii、DS、3DS、PS Vita 及 2012-11-23 當地發售日；Steam 商品確認 Windows 版。",
+      "Feral Interactive 官方影片 rKoAkj3JLc4 名為 LEGO The Lord of the Rings for Mac Trailer，描述連結本作 Mac 產品頁；WB Games ANZ 官方影片 1TwpkbinbOQ 明示 iOS 現已上市。",
+      "本輪直接讀回 2016-03-08 14:22:38 UTC 的 Google Play 官方原頁存檔：包名 com.wb.goog.llotr、發行商 Warner Bros. International Enterprises、更新日期 2016-01-08、Android 4.0.3 以上、已有安裝數；不是 APK 轉載站。"
+    ],
+    "resolvedGap": "歷史 Android 缺口已由原 Google Play 官方商品頁存檔補齊。版本界線與歷史可購買性註記清楚；TT 通用圖示衝突不推翻明確官方發行證據，已證實範圍 verified。",
+    "identityType": "specific-game",
+    "identityNote": "2012 年 LEGO The Lord of the Rings 遊戲及其後續移植；不是 LEGO The Hobbit，亦不是整個 LEGO 系列。",
+    "editionOptions": [
+      {
+        "name": "LEGO The Lord of the Rings（Windows／家用主機／掌機版）",
+        "platform": "PC/PS3/PS Vita/Xbox 360/Wii/DS/3DS",
+        "sources": [
+          "https://www.warnerbros.it/gioco/genere-avventura/lego-il-signore-degli-anelli/",
+          "https://store.steampowered.com/app/214510/"
+        ],
+        "scopeNote": "不同硬體的歷史發行版本；不表示各版內容或效能完全一致。"
+      },
+      {
+        "name": "LEGO The Lord of the Rings（Feral Mac 移植）",
+        "platform": "macOS",
+        "sources": [
+          "https://www.youtube.com/watch?v=rKoAkj3JLc4"
+        ],
+        "scopeNote": "歷史 Mac OS X 移植；不由現在 Steam Windows 頁推定 Mac，相容最新 macOS 未承諾。"
+      },
+      {
+        "name": "LEGO The Lord of the Rings（行動移植）",
+        "platform": "iOS/Android",
+        "sources": [
+          "https://www.youtube.com/watch?v=1TwpkbinbOQ",
+          "https://web.archive.org/web/20160308142238/https://play.google.com/store/apps/details?id=com.wb.goog.llotr"
+        ],
+        "scopeNote": "WB 官方 iOS 上市影片及原 Google Play 存檔確認；Android 存檔時間 2016-03-08 14:22:38 UTC，包名 com.wb.goog.llotr，非雲端串流。"
+      }
+    ],
+    "safePlatform": "PC/macOS/PS3/PS Vita/Xbox 360/Wii/DS/3DS/iOS/Android",
+    "safePlatformNote": "範圍為 LEGO The Lord of the Rings 的已證實歷史桌機、主機、掌機及行動移植。Android 原 Google Play 商品 com.wb.goog.llotr 的 2016-03-08 官方頁存檔列 Warner Bros. International Enterprises 與 Android 4.0.3 以上，足以確認歷史發行；不保證今日可購買或新系統相容。TT 現行 PSP／Wii U 通用圖示與 WB 原始平台表衝突，採明確產品平台表而不新增 PSP／Wii U／PS4；未獲確認不表示未來不推出。",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 29,
+    "auditIndex": 720,
+    "name": "The Rise of the Golden Idol",
+    "status": "partial",
+    "platform": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "platformNote": "限定 2024 年獨立續作 The Rise of the Golden Idol。PS5 有正式商品；Sony 嵌入的 2023 公告影片也曾標 PS4，但本輪仍缺可回讀 PS4 正式 SKU 或明確上市公告，PS4 保留為歷史預告而不當作已上市平台。Netflix 行動版已撤下；目前 Playstack 獨立 iOS／Android 商品已重新提供。Switch 2 可相容 Switch 版，不視為原生版本。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/the-rise-of-the-golden-idol/",
+      "https://store.steampowered.com/app/2716400/",
+      "https://www.xbox.com/fr-FR/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/The-Rise-of-the-Golden-Idol-2696296.html",
+      "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+      "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665",
+      "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix"
+    ],
+    "evidence": [
+      "Sony 本作頁正文商品欄 Platform 為 PS5，發售日 2024-11-12；頁面結構資料的商品 SKU 為 EP3495-PPSA25812_00-0003281733473898。",
+      "同頁內嵌官方 Announcement Trailer 的名稱是 PS5 & PS4 Games，影片 EthfB4JjQ2k 發布於 2023-12-08；這能補強歷史 PS4 公告，但無法單獨證明 PS4 正式發行。",
+      "Steam 系統需求列 Windows 與 macOS；Xbox 商品結構資料 gamePlatform 明列 Xbox One 與 Xbox Series X|S 並標原生 Series 最佳化；Nintendo 商品列 Switch。",
+      "Playstack 2026-05-11 FAQ 確認 Netflix 版已撤下、當時仍準備 Rise 行動版；目前 Google Play 商品（2026-06-16 更新）與 Apple 商品皆為 Playstack 發行的本作，故採較新商店證據確認重新上架。"
+    ],
+    "resolvedGap": "補得 PS4 歷史官方公告影片及 PS5 正式 SKU 的直接比較，也重新確認獨立行動版。PS4 正式上市仍欠商品或明確上市證據，保持 partial，不將 Case of the Golden Idol 的 PS4 版混入。",
+    "identityType": "specific-game",
+    "identityNote": "Color Gray Games／Playstack 的 2024 年獨立續作，與 The Case of the Golden Idol（2022）分開。",
+    "editionOptions": [
+      {
+        "name": "The Rise of the Golden Idol（2024 桌機與主機版）",
+        "platform": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch",
+        "sources": [
+          "https://www.playstation.com/en-us/games/the-rise-of-the-golden-idol/",
+          "https://store.steampowered.com/app/2716400/",
+          "https://www.xbox.com/fr-FR/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+          "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/The-Rise-of-the-Golden-Idol-2696296.html"
+        ],
+        "scopeNote": "已確認上市版本；PS4 僅另有歷史公告，尚缺正式上市證據，不列於此已上市清單。"
+      },
+      {
+        "name": "The Rise of the Golden Idol（PS4 歷史預告）",
+        "platform": "PS4（歷史預告，上市未確認）",
+        "sources": [
+          "https://www.playstation.com/en-us/games/the-rise-of-the-golden-idol/"
+        ],
+        "scopeNote": "2023 Sony 官方公告影片曾列 PS4；現可讀商品僅 PS5，不能當作 PS4 已上市或保證仍將推出。"
+      },
+      {
+        "name": "The Rise of the Golden Idol（Playstack 獨立行動版）",
+        "platform": "iOS/Android",
+        "sources": [
+          "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+          "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665",
+          "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix"
+        ],
+        "scopeNote": "2026 年重新提供的 Playstack 商品；先前 Netflix 服務版本已撤下，兩種發行方式分開。"
+      }
+    ],
+    "safePlatform": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "safePlatformNote": "限定 2024 年獨立續作 The Rise of the Golden Idol。PS5 有正式商品；Sony 嵌入的 2023 公告影片也曾標 PS4，但本輪仍缺可回讀 PS4 正式 SKU 或明確上市公告，PS4 保留為歷史預告而不當作已上市平台。Netflix 行動版已撤下；目前 Playstack 獨立 iOS／Android 商品已重新提供。Switch 2 可相容 Switch 版，不視為原生版本。",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 30,
+    "auditIndex": 833,
+    "name": "Perfect Dark",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "platformNote": "同名可能指 2000 年 N64 原作、2010 年 Xbox Live Arcade HD 版或後來重啟專案；原條目沒有年份，不代選版本，也不把它們合成 PC／Xbox。原作另有 Switch／Switch 2 NSO 再發行；2010 版在後續 Xbox 主機透過相容性遊玩；重啟案 PC／Xbox Series X|S 僅屬歷史公布平台，不代表已上市或仍保證推出。本輪未取得取消消息的可直接回讀第一方對外公告，未將取消狀態定案。",
+    "sources": [
+      "https://www.nintendo.com/au/games/nintendo-switch/nintendo-64-nintendo-classics-mature/",
+      "https://news.xbox.com/en-us/2010/03/17/arcade-perfect-dark/",
+      "https://www.xbox.com/en-gb/games/store/perfect-dark/c0swgv4560w1",
+      "https://news.xbox.com/en-us/2024/06/09/perfect-dark-details-interview-xbox-games-showcase-2024/",
+      "https://storage.mfn.se/27b8a293-f595-4698-96b8-b207df8b9cbd/embracer-group-delarsrapport-q1-2024-25.pdf"
+    ],
+    "evidence": [
+      "Nintendo 官方 N64 Classics Mature 商品列 Perfect Dark，服務支援 Switch／Switch 2，需 NSO + Expansion Pack；屬經典原作再發行。",
+      "Xbox 2010-03-17 官方上市文與商品 C0SWGV4560W1 對應 4J Studios HD 版；現店面列 Xbox One、Series X|S、Cloud，並收錄 Rare Replay，不是新重啟版。",
+      "Xbox 2024-06-09 官方專文明確稱新作為 reboot、全新故事與世界，The Initiative／Crystal Dynamics 合作；不能與 N64／2010 版合併。",
+      "Embracer 2024-08-15 Q1 報告的公開專案表將 Perfect Dark 列為 PC、XB X|S（官方投資人文件的 MFN 發布副本，瑞典文表）；只證明當時公告目標。取消內部備忘錄的媒體轉載未採作第一方定案。"
+    ],
+    "resolvedGap": "三種具名版本與官方來源已提供 editionOptions；真正未解的是原條目指向哪一版，因此仍 unresolved。主欄維持依版本確認，重啟歷史平台不拼入舊版。",
+    "identityType": "ambiguous-title",
+    "identityNote": "目前名稱／alias 無年份且三版同名；不能憑原 PC/Xbox 欄推定重啟版，因該欄正是待核資料。",
+    "editionOptions": [
+      {
+        "name": "Perfect Dark（2000，Nintendo 64 原作）",
+        "platform": "Nintendo 64/Switch（NSO版）/Switch 2（NSO版）",
+        "sources": [
+          "https://www.nintendo.com/au/games/nintendo-switch/nintendo-64-nintendo-classics-mature/"
+        ],
+        "scopeNote": "N64 原作及官方 NSO 經典再發行；不是 Switch 原生重製。"
+      },
+      {
+        "name": "Perfect Dark（2010，Xbox Live Arcade HD版）",
+        "platform": "Xbox 360/Xbox One（相容）/Xbox Series X|S（相容）",
+        "sources": [
+          "https://news.xbox.com/en-us/2010/03/17/arcade-perfect-dark/",
+          "https://www.xbox.com/en-gb/games/store/perfect-dark/c0swgv4560w1"
+        ],
+        "scopeNote": "4J Studios 2010 HD 版，後續收錄 Rare Replay；雲端可玩不等於 PC 原生版。"
+      },
+      {
+        "name": "Perfect Dark（The Initiative／Crystal Dynamics 重啟專案）",
+        "platform": "PC/Xbox Series X|S（歷史公布）",
+        "sources": [
+          "https://news.xbox.com/en-us/2024/06/09/perfect-dark-details-interview-xbox-games-showcase-2024/",
+          "https://storage.mfn.se/27b8a293-f595-4698-96b8-b207df8b9cbd/embracer-group-delarsrapport-q1-2024-25.pdf"
+        ],
+        "scopeNote": "與舊作不同世界及故事的重啟案。平台僅記錄 2024 官方公告，不作今日仍開發、將上市或可購買承諾；取消狀態尚無本輪可回讀第一方對外頁。"
+      }
+    ],
+    "safePlatform": "依版本確認",
+    "safePlatformNote": "同名可能指 2000 年 N64 原作、2010 年 Xbox Live Arcade HD 版或後來重啟專案；原條目沒有年份，不代選版本，也不把它們合成 PC／Xbox。原作另有 Switch／Switch 2 NSO 再發行；2010 版在後續 Xbox 主機透過相容性遊玩；重啟案 PC／Xbox Series X|S 僅屬歷史公布平台，不代表已上市或仍保證推出。本輪未取得取消消息的可直接回讀第一方對外公告，未將取消狀態定案。",
+    "checkedAt": "2026-10-19"
+  }
+]

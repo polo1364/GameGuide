@@ -1,0 +1,47 @@
+PASS October catalog includes sourced popular games and release states
+PASS new aliases, current recommendations and Switch 2 selection work
+PASS mobile and indie additions are distinct, sourced and searchable
+PASS historical catalog deduplication retains aliases before the explicit version split
+PASS Taiwan mobile additions have local identity and platform evidence
+PASS exact titles cannot be shadowed by shared series aliases
+PASS platform corrections exclude wrong ports and retired online platforms
+PASS all 838 legacy records have honest audit states and preserved identities
+PASS legacy corrections distinguish mobile ports, native editions and stopped services
+PASS uncertain editions are labeled and cannot silently select a platform
+PASS platform and regional caveats reach guide prompt context
+PASS historical 384 rechecks match their preserved catalog snapshot
+PASS historical 49 rechecks match their snapshot and account for every alias and merge
+PASS 25 recheck replay rejects independent catalog and historical audit edits before writing
+PASS historical 31 identity rechecks match their preserved snapshot
+FAIL 25 split audit reconstructs the catalog and preserves every unrelated record: The expression evaluated to a falsy value:
+
+  assert.ok(game.seriesAliases.includes(row.sourceName))
+
+PASS series searches require a version and explicit aliases select the correct original
+PASS resolved originals stay separate from remakes and archived mobile ports
+PASS repaired identities and merged names resolve without wrong-game aliases
+PASS rechecked ports and corrected aliases use the intended game
+PASS unannounced platforms clear stale detection and specific handhelds stay distinct
+PASS unreleased and playtest games are labeled and grounded in API prompts
+PASS custom game guide renders without ReferenceError
+PASS follow-up preserves collapse buttons and adds chapter navigation
+PASS bookmark restores its own conversation and reading controls
+PASS bookmark metadata is rendered as text
+PASS legacy bookmarks without IDs can be deleted permanently
+PASS late follow-up cannot modify a different loaded guide
+PASS repeated generation while pending sends only one request
+PASS API success, follow-up and failure restore usable controls
+PASS DeepSeek requires its own key and preserves legacy settings
+PASS autocomplete ignores out-of-order and dismissed results
+PASS IndexedDB unavailable still initializes and saves settings
+PASS page cache maintenance preserves current and unrelated caches
+[SW] Activating version 22
+[SW] Deleting old cache: gamemaster-v1
+[SW] Claiming all clients
+PASS service worker activation preserves unrelated caches
+PASS service worker nested navigation is fresh and JSON fallback is not HTML
+PASS real service worker supports offline reload after version change
+PASS layout and main controls at 1440px
+PASS layout and main controls at 390px
+PASS layout and main controls at 320px
+39/40 passed

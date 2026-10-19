@@ -1,0 +1,534 @@
+[
+  {
+    "reviewIndex": 5,
+    "auditIndex": 204,
+    "name": "遊戲王 World Championship",
+    "status": "unresolved",
+    "platform": "依年度確認",
+    "safePlatform": "依年度確認",
+    "platformNote": "World Championship 是年度作品入口，缺少年份無法對應唯一遊戲。2006 套組中的 Windows 安裝片是另一款《遊戲王 ONLINE》，不是 2006 GBA 本體的 PC 版。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "World Championship 是年度作品入口，缺少年份無法對應唯一遊戲。2006 套組中的 Windows 安裝片是另一款《遊戲王 ONLINE》，不是 2006 GBA 本體的 PC 版。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_gba/",
+      "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_set_gba/",
+      "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/"
+    ],
+    "evidence": [
+      "World Championship 是年度作品入口，缺少年份無法對應唯一遊戲。2006 套組中的 Windows 安裝片是另一款《遊戲王 ONLINE》，不是 2006 GBA 本體的 PC 版。",
+      "遊戯王デュエルモンスターズ エキスパート2006（World Championship 2006 套組收錄遊戲）：GBA。日本 2006 年商品；只列套組內 EX2006 遊戲卡匣的平台，不把同捆 ONLINE 安裝片合併為 PC 版。",
+      "遊戯王 5D’s World Championship 2011: Over the Nexus：DS。2011 年 Nintendo DS 原生作品；不因 3DS 可相容 DS 卡匣就標成 3DS 原生。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "World Championship 是年度作品入口，缺少年份無法對應唯一遊戲。2006 套組中的 Windows 安裝片是另一款《遊戲王 ONLINE》，不是 2006 GBA 本體的 PC 版。",
+    "editionOptions": [
+      {
+        "name": "遊戯王デュエルモンスターズ エキスパート2006（World Championship 2006 套組收錄遊戲）",
+        "platform": "GBA",
+        "sources": [
+          "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_gba/",
+          "https://www.konami.com/games/jp/ja/products/yugioh_ex2006_set_gba/"
+        ],
+        "scopeNote": "日本 2006 年商品；只列套組內 EX2006 遊戲卡匣的平台，不把同捆 ONLINE 安裝片合併為 PC 版。"
+      },
+      {
+        "name": "遊戯王 5D’s World Championship 2011: Over the Nexus",
+        "platform": "DS",
+        "sources": [
+          "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/"
+        ],
+        "scopeNote": "2011 年 Nintendo DS 原生作品；不因 3DS 可相容 DS 卡匣就標成 3DS 原生。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 11,
+    "auditIndex": 297,
+    "name": "極限脫出系列",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "官方明確稱 Zero Escape 為系列；999、Virtue’s Last Reward 原版及 Nonary Games 重製合集是不同商品，不能套用單一系列平台清單。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "官方明確稱 Zero Escape 為系列；999、Virtue’s Last Reward 原版及 Nonary Games 重製合集是不同商品，不能套用單一系列平台清單。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/"
+    ],
+    "evidence": [
+      "官方明確稱 Zero Escape 為系列；999、Virtue’s Last Reward 原版及 Nonary Games 重製合集是不同商品，不能套用單一系列平台清單。",
+      "Nine Hours, Nine Persons, Nine Doors（999，2009 原版）：DS。官方回顧明列 2009 Nintendo DS 原版；此選項不包含後來合輯內的重製版。",
+      "Zero Escape: Virtue’s Last Reward（2012 原版）：3DS/PS Vita。2012 原版發行平台，與 2017 合集版本分開。",
+      "Zero Escape: The Nonary Games（重製合輯）：PC/PS4/PS Vita/Xbox One。包含 999 與 VLR；2017 PS4／Vita／Steam，2022 Xbox One／Windows 10。此處記錄發行版本，不將後續主機相容性另算原生移植。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "官方明確稱 Zero Escape 為系列；999、Virtue’s Last Reward 原版及 Nonary Games 重製合集是不同商品，不能套用單一系列平台清單。",
+    "editionOptions": [
+      {
+        "name": "Nine Hours, Nine Persons, Nine Doors（999，2009 原版）",
+        "platform": "DS",
+        "sources": [
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/"
+        ],
+        "scopeNote": "官方回顧明列 2009 Nintendo DS 原版；此選項不包含後來合輯內的重製版。"
+      },
+      {
+        "name": "Zero Escape: Virtue’s Last Reward（2012 原版）",
+        "platform": "3DS/PS Vita",
+        "sources": [
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/"
+        ],
+        "scopeNote": "2012 原版發行平台，與 2017 合集版本分開。"
+      },
+      {
+        "name": "Zero Escape: The Nonary Games（重製合輯）",
+        "platform": "PC/PS4/PS Vita/Xbox One",
+        "sources": [
+          "https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/"
+        ],
+        "scopeNote": "包含 999 與 VLR；2017 PS4／Vita／Steam，2022 Xbox One／Windows 10。此處記錄發行版本，不將後續主機相容性另算原生移植。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 12,
+    "auditIndex": 302,
+    "name": "逆轉裁判系列",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "本筆明示系列，需指定作品或合集。成步堂 123 和王泥喜 456 收錄不同故事；手機版及其他舊版本也不能自動套用本表。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "本筆明示系列，需指定作品或合集。成步堂 123 和王泥喜 456 收錄不同故事；手機版及其他舊版本也不能自動套用本表。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://news.capcomusa.com/lets/browse/take-that-phoenix-wright-ace-attorney-trilogy-is-out-now",
+      "https://news.capcomusa.com/2024/01/25/take-that-apollo-justice-ace-attorney-trilogy-is-out-now/"
+    ],
+    "evidence": [
+      "本筆明示系列，需指定作品或合集。成步堂 123 和王泥喜 456 收錄不同故事；手機版及其他舊版本也不能自動套用本表。",
+      "Phoenix Wright: Ace Attorney Trilogy（成步堂 123，2019 主機／PC 版）：PC/PS4/Xbox One/Switch。2019 HD 合集發行平台；不代表 3DS 舊合集或 iOS／Android 移植的完整平台史。",
+      "Apollo Justice: Ace Attorney Trilogy（王泥喜 456，2024 合集）：PC/PS4/Xbox One/Switch。2024 合集包含 4、5、6 代；不是 2007 第四代原版的單獨平台表。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "本筆明示系列，需指定作品或合集。成步堂 123 和王泥喜 456 收錄不同故事；手機版及其他舊版本也不能自動套用本表。",
+    "editionOptions": [
+      {
+        "name": "Phoenix Wright: Ace Attorney Trilogy（成步堂 123，2019 主機／PC 版）",
+        "platform": "PC/PS4/Xbox One/Switch",
+        "sources": [
+          "https://news.capcomusa.com/lets/browse/take-that-phoenix-wright-ace-attorney-trilogy-is-out-now"
+        ],
+        "scopeNote": "2019 HD 合集發行平台；不代表 3DS 舊合集或 iOS／Android 移植的完整平台史。"
+      },
+      {
+        "name": "Apollo Justice: Ace Attorney Trilogy（王泥喜 456，2024 合集）",
+        "platform": "PC/PS4/Xbox One/Switch",
+        "sources": [
+          "https://news.capcomusa.com/2024/01/25/take-that-apollo-justice-ace-attorney-trilogy-is-out-now/"
+        ],
+        "scopeNote": "2024 合集包含 4、5、6 代；不是 2007 第四代原版的單獨平台表。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 14,
+    "auditIndex": 333,
+    "name": "太鼓之達人",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "太鼓之達人是多款作品共用的系列名稱；Drum Session! 與 Rhythm Festival 的平台不同，不能把 PS4 版本當作 Rhythm Festival。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "太鼓之達人是多款作品共用的系列名稱；Drum Session! 與 Rhythm Festival 的平台不同，不能把 PS4 版本當作 Rhythm Festival。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-session",
+      "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-launching-on-new-gen-consoles-and-pc"
+    ],
+    "evidence": [
+      "太鼓之達人是多款作品共用的系列名稱；Drum Session! 與 Rhythm Festival 的平台不同，不能把 PS4 版本當作 Rhythm Festival。",
+      "Taiko no Tatsujin: Drum Session!：PS4。官方獨立 PS4 商品；未將 PS5 向下相容列成原生 PS5 版。",
+      "Taiko no Tatsujin: Rhythm Festival：PC/PS5/Xbox Series X|S/Switch。官方列 Switch 2022 原版與 2024 PS5／Xbox Series／PC 移植；與 Drum Session! 分開。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "太鼓之達人是多款作品共用的系列名稱；Drum Session! 與 Rhythm Festival 的平台不同，不能把 PS4 版本當作 Rhythm Festival。",
+    "editionOptions": [
+      {
+        "name": "Taiko no Tatsujin: Drum Session!",
+        "platform": "PS4",
+        "sources": [
+          "https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-session"
+        ],
+        "scopeNote": "官方獨立 PS4 商品；未將 PS5 向下相容列成原生 PS5 版。"
+      },
+      {
+        "name": "Taiko no Tatsujin: Rhythm Festival",
+        "platform": "PC/PS5/Xbox Series X|S/Switch",
+        "sources": [
+          "https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-launching-on-new-gen-consoles-and-pc"
+        ],
+        "scopeNote": "官方列 Switch 2022 原版與 2024 PS5／Xbox Series／PC 移植；與 Drum Session! 分開。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 15,
+    "auditIndex": 334,
+    "name": "初音未來 Project DIVA",
+    "status": "verified",
+    "platform": "PSP",
+    "safePlatform": "PSP",
+    "platformNote": "本條依既有完整名稱與別名 Hatsune Miku Project DIVA，範圍限定為 2009 年《初音ミク -Project DIVA-》原作。SEGA 官方回顧明列 2009-07-02、PSP；MEGA39’s／Mega Mix+ 等帶副標作品另列版本對照，不併入主平台。",
+    "safePlatformNote": "本條依既有完整名稱與別名 Hatsune Miku Project DIVA，範圍限定為 2009 年《初音ミク -Project DIVA-》原作。SEGA 官方回顧明列 2009-07-02、PSP；MEGA39’s／Mega Mix+ 等帶副標作品另列版本對照，不併入主平台。",
+    "sources": [
+      "https://info.miku.sega.jp/2762",
+      "https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/ja/ir/201003_1q_pre-1.pdf",
+      "https://www.sega.jp/topics/detail/220623_7/",
+      "https://asia.sega.com/mega39splus/en/"
+    ],
+    "evidence": [
+      "本條依既有完整名稱與別名 Hatsune Miku Project DIVA，範圍限定為 2009 年《初音ミク -Project DIVA-》原作。SEGA 官方回顧明列 2009-07-02、PSP；MEGA39’s／Mega Mix+ 等帶副標作品另列版本對照，不併入主平台。",
+      "初音ミク -Project DIVA-（2009 初代）：PSP。SEGA 官方回顧直接列 2009 年 7 月 2 日 PSP 原作，並由財報交叉核對；與後續 MEGA39’s 版本分開。",
+      "初音未來 Project DIVA MEGA39’s（Mega Mix，2020）：Switch。SEGA 確認 2020 年 2 月 13 日 Switch 商品；不與名稱多一個 + 的 PC 版混同。",
+      "Hatsune Miku: Project DIVA Mega Mix+：PC。官方商品規格明列 PC（Steam）；此處不是 Nintendo Switch 的 Mega Mix 本體。"
+    ],
+    "resolvedGap": "依既有完整名稱／英文別名與官方原作正式標題，明確限定原作年份及平台；不同副標的後作／重製另列對照，不以舊平台反推作品。",
+    "checkedAt": "2026-10-19",
+    "identityType": "specific-game",
+    "identityNote": "本條依既有完整名稱與別名 Hatsune Miku Project DIVA，範圍限定為 2009 年《初音ミク -Project DIVA-》原作。SEGA 官方回顧明列 2009-07-02、PSP；MEGA39’s／Mega Mix+ 等帶副標作品另列版本對照，不併入主平台。",
+    "editionOptions": [
+      {
+        "name": "初音ミク -Project DIVA-（2009 初代）",
+        "platform": "PSP",
+        "sources": [
+          "https://info.miku.sega.jp/2762",
+          "https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/ja/ir/201003_1q_pre-1.pdf"
+        ],
+        "scopeNote": "SEGA 官方回顧直接列 2009 年 7 月 2 日 PSP 原作，並由財報交叉核對；與後續 MEGA39’s 版本分開。"
+      },
+      {
+        "name": "初音未來 Project DIVA MEGA39’s（Mega Mix，2020）",
+        "platform": "Switch",
+        "sources": [
+          "https://www.sega.jp/topics/detail/220623_7/"
+        ],
+        "scopeNote": "SEGA 確認 2020 年 2 月 13 日 Switch 商品；不與名稱多一個 + 的 PC 版混同。"
+      },
+      {
+        "name": "Hatsune Miku: Project DIVA Mega Mix+",
+        "platform": "PC",
+        "sources": [
+          "https://asia.sega.com/mega39splus/en/"
+        ],
+        "scopeNote": "官方商品規格明列 PC（Steam）；此處不是 Nintendo Switch 的 Mega Mix 本體。"
+      }
+    ]
+  },
+  {
+    "reviewIndex": 17,
+    "auditIndex": 339,
+    "name": "符文工房",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "Rune Factory／符文工房缺少代數；不能由原先 PC／Switch 欄位倒推為第 5 代。下列只列代表版本，並非系列完整清單。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "Rune Factory／符文工房缺少代數；不能由原先 PC／Switch 欄位倒推為第 5 代。下列只列代表版本，並非系列完整清單。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://www.xseedgames.com/games/rune-factory-4-special/",
+      "https://www.xseedgames.com/games/rune-factory-5/"
+    ],
+    "evidence": [
+      "Rune Factory／符文工房缺少代數；不能由原先 PC／Switch 欄位倒推為第 5 代。下列只列代表版本，並非系列完整清單。",
+      "Rune Factory 4（Nintendo 3DS 原版）：3DS。發行商將 4 Special 明確定義為 Nintendo 3DS 經典作品的 HD 重製；本選項對應被重製的原版。",
+      "Rune Factory 4 Special：PC/PS4/Xbox One/Switch。官方列 Switch 2020 與 PS4／Xbox One／Windows PC 2021 發行；與 3DS 原版分開。",
+      "Rune Factory 5：PC/Switch。官方分列 Switch 與 Windows PC 的發行日期與平台，不能代證系列所有作品。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "ambiguous-title",
+    "identityNote": "Rune Factory／符文工房缺少代數；不能由原先 PC／Switch 欄位倒推為第 5 代。下列只列代表版本，並非系列完整清單。",
+    "editionOptions": [
+      {
+        "name": "Rune Factory 4（Nintendo 3DS 原版）",
+        "platform": "3DS",
+        "sources": [
+          "https://www.xseedgames.com/games/rune-factory-4-special/"
+        ],
+        "scopeNote": "發行商將 4 Special 明確定義為 Nintendo 3DS 經典作品的 HD 重製；本選項對應被重製的原版。"
+      },
+      {
+        "name": "Rune Factory 4 Special",
+        "platform": "PC/PS4/Xbox One/Switch",
+        "sources": [
+          "https://www.xseedgames.com/games/rune-factory-4-special/"
+        ],
+        "scopeNote": "官方列 Switch 2020 與 PS4／Xbox One／Windows PC 2021 發行；與 3DS 原版分開。"
+      },
+      {
+        "name": "Rune Factory 5",
+        "platform": "PC/Switch",
+        "sources": [
+          "https://www.xseedgames.com/games/rune-factory-5/"
+        ],
+        "scopeNote": "官方分列 Switch 與 Windows PC 的發行日期與平台，不能代證系列所有作品。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 19,
+    "auditIndex": 370,
+    "name": "蒼翼默示錄",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "BlazBlue／蒼翼默示錄缺少副標題，官方目錄列出多款不同遊戲。Calamity Trigger、Portable 與 Centralfiction Special Edition 不能合併成單一條目的平台表。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "BlazBlue／蒼翼默示錄缺少副標題，官方目錄列出多款不同遊戲。Calamity Trigger、Portable 與 Centralfiction Special Edition 不能合併成單一條目的平台表。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://www.blazblue.jp/consumer.html"
+    ],
+    "evidence": [
+      "BlazBlue／蒼翼默示錄缺少副標題，官方目錄列出多款不同遊戲。Calamity Trigger、Portable 與 Centralfiction Special Edition 不能合併成單一條目的平台表。",
+      "BlazBlue: Calamity Trigger（家用主機／PC 版）：PC/PS3/Xbox 360。官方家用目錄列 PC、PS3、Xbox 360；此代表選項不含大型機台版或 Portable。",
+      "BlazBlue: Calamity Trigger Portable：PSP。官方獨立 Portable 商品，2010 年 PSP 發行；與家用主機／PC 商品分開。",
+      "BlazBlue: Centralfiction Special Edition：Switch。官方 2019 年 Switch 特別版商品；本表不是未加 Special Edition 的 Centralfiction 完整平台史。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "BlazBlue／蒼翼默示錄缺少副標題，官方目錄列出多款不同遊戲。Calamity Trigger、Portable 與 Centralfiction Special Edition 不能合併成單一條目的平台表。",
+    "editionOptions": [
+      {
+        "name": "BlazBlue: Calamity Trigger（家用主機／PC 版）",
+        "platform": "PC/PS3/Xbox 360",
+        "sources": [
+          "https://www.blazblue.jp/consumer.html"
+        ],
+        "scopeNote": "官方家用目錄列 PC、PS3、Xbox 360；此代表選項不含大型機台版或 Portable。"
+      },
+      {
+        "name": "BlazBlue: Calamity Trigger Portable",
+        "platform": "PSP",
+        "sources": [
+          "https://www.blazblue.jp/consumer.html"
+        ],
+        "scopeNote": "官方獨立 Portable 商品，2010 年 PSP 發行；與家用主機／PC 商品分開。"
+      },
+      {
+        "name": "BlazBlue: Centralfiction Special Edition",
+        "platform": "Switch",
+        "sources": [
+          "https://www.blazblue.jp/consumer.html"
+        ],
+        "scopeNote": "官方 2019 年 Switch 特別版商品；本表不是未加 Special Edition 的 Centralfiction 完整平台史。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 24,
+    "auditIndex": 502,
+    "name": "腦鍛鍊",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "Brain Training／腦鍛鍊沒有副標題，無法確定是 DS 原作或 Switch 新作。Switch 2 相容標示不代表另有原生 Switch 2 軟體。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "Brain Training／腦鍛鍊沒有副標題，無法確定是 DS 原作或 Switch 新作。Switch 2 相容標示不代表另有原生 Switch 2 軟體。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://cdn02.nintendo-europe.com/media/downloads/games_8/emanuals/nintendo_ds_21/Manual_NintendoDS_DrKawashimasBrainTraining_EN.pdf",
+      "https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/"
+    ],
+    "evidence": [
+      "Brain Training／腦鍛鍊沒有副標題，無法確定是 DS 原作或 Switch 新作。Switch 2 相容標示不代表另有原生 Switch 2 軟體。",
+      "Dr Kawashima’s Brain Training: How Old Is Your Brain?（DS 版）：DS。任天堂操作手冊及系列回顧確認 DS 原作；與 Switch 版為不同軟體。",
+      "Dr Kawashima’s Brain Training for Nintendo Switch：Switch。官方規格的 Console 為 Nintendo Switch；頁面另列 Switch 2 Compatible，僅記為相容性。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "ambiguous-title",
+    "identityNote": "Brain Training／腦鍛鍊沒有副標題，無法確定是 DS 原作或 Switch 新作。Switch 2 相容標示不代表另有原生 Switch 2 軟體。",
+    "editionOptions": [
+      {
+        "name": "Dr Kawashima’s Brain Training: How Old Is Your Brain?（DS 版）",
+        "platform": "DS",
+        "sources": [
+          "https://cdn02.nintendo-europe.com/media/downloads/games_8/emanuals/nintendo_ds_21/Manual_NintendoDS_DrKawashimasBrainTraining_EN.pdf",
+          "https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/"
+        ],
+        "scopeNote": "任天堂操作手冊及系列回顧確認 DS 原作；與 Switch 版為不同軟體。"
+      },
+      {
+        "name": "Dr Kawashima’s Brain Training for Nintendo Switch",
+        "platform": "Switch",
+        "sources": [
+          "https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/"
+        ],
+        "scopeNote": "官方規格的 Console 為 Nintendo Switch；頁面另列 Switch 2 Compatible，僅記為相容性。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 26,
+    "auditIndex": 618,
+    "name": "薩爾達傳說 無雙",
+    "status": "verified",
+    "platform": "Wii U",
+    "safePlatform": "Wii U",
+    "platformNote": "本條依既有完整英文別名 Hyrule Warriors，範圍限定為 2014 年無副標原作。Nintendo 原作商品頁明列 Wii U；Legends 與 Definitive Edition 是具不同副標的商品，另列版本對照，不將 Switch 完全版平台套給原作。",
+    "safePlatformNote": "本條依既有完整英文別名 Hyrule Warriors，範圍限定為 2014 年無副標原作。Nintendo 原作商品頁明列 Wii U；Legends 與 Definitive Edition 是具不同副標的商品，另列版本對照，不將 Switch 完全版平台套給原作。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Wii-U-games/Hyrule-Warriors-891849.html",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Hyrule-Warriors-Legends-1025970.html",
+      "https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html"
+    ],
+    "evidence": [
+      "本條依既有完整英文別名 Hyrule Warriors，範圍限定為 2014 年無副標原作。Nintendo 原作商品頁明列 Wii U；Legends 與 Definitive Edition 是具不同副標的商品，另列版本對照，不將 Switch 完全版平台套給原作。",
+      "Hyrule Warriors（2014 Wii U 原版）：Wii U。Nintendo 歐洲商品頁明列 2014 原版；舊 eShop 停止購買不抹除歷史發行平台。",
+      "Hyrule Warriors: Legends（2016）：3DS。2016 Nintendo 3DS 專屬版本，並非 Wii U 軟體相容執行。",
+      "Hyrule Warriors: Definitive Edition（2018 完全版）：Switch。2018 Switch 完全版；不以此平台倒推 Wii U／3DS 原作版本。"
+    ],
+    "resolvedGap": "依既有完整名稱／英文別名與官方原作正式標題，明確限定原作年份及平台；不同副標的後作／重製另列對照，不以舊平台反推作品。",
+    "checkedAt": "2026-10-19",
+    "identityType": "specific-game",
+    "identityNote": "本條依既有完整英文別名 Hyrule Warriors，範圍限定為 2014 年無副標原作。Nintendo 原作商品頁明列 Wii U；Legends 與 Definitive Edition 是具不同副標的商品，另列版本對照，不將 Switch 完全版平台套給原作。",
+    "editionOptions": [
+      {
+        "name": "Hyrule Warriors（2014 Wii U 原版）",
+        "platform": "Wii U",
+        "sources": [
+          "https://www.nintendo.com/en-gb/Games/Wii-U-games/Hyrule-Warriors-891849.html"
+        ],
+        "scopeNote": "Nintendo 歐洲商品頁明列 2014 原版；舊 eShop 停止購買不抹除歷史發行平台。"
+      },
+      {
+        "name": "Hyrule Warriors: Legends（2016）",
+        "platform": "3DS",
+        "sources": [
+          "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Hyrule-Warriors-Legends-1025970.html"
+        ],
+        "scopeNote": "2016 Nintendo 3DS 專屬版本，並非 Wii U 軟體相容執行。"
+      },
+      {
+        "name": "Hyrule Warriors: Definitive Edition（2018 完全版）",
+        "platform": "Switch",
+        "sources": [
+          "https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html"
+        ],
+        "scopeNote": "2018 Switch 完全版；不以此平台倒推 Wii U／3DS 原作版本。"
+      }
+    ]
+  },
+  {
+    "reviewIndex": 27,
+    "auditIndex": 629,
+    "name": "勇者鬥惡龍 怪物仙境",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "Dragon Quest Monsters／怪物仙境為系列泛稱，不能唯一指定 Terry 原作、RETRO 或 The Dark Prince。已有可操作的版本對照，仍需玩家指定副標題。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "safePlatformNote": "Dragon Quest Monsters／怪物仙境為系列泛稱，不能唯一指定 Terry 原作、RETRO 或 The Dark Prince。已有可操作的版本對照，仍需玩家指定副標題。 已附具名版本與官方來源，主欄不合併各版本平台。",
+    "sources": [
+      "https://www.dragonquest.jp/news/detail/3116/",
+      "https://dragonquest.square-enix-games.com/games/en-us/dqmonsters/",
+      "https://www.square-enix.com/asia/newsportal/en/topics/dragonquest-monsters3/post07.html"
+    ],
+    "evidence": [
+      "Dragon Quest Monsters／怪物仙境為系列泛稱，不能唯一指定 Terry 原作、RETRO 或 The Dark Prince。已有可操作的版本對照，仍需玩家指定副標題。",
+      "Dragon Quest Monsters: Terry’s Wonderland（1998 原版）：Game Boy。官方 RETRO 發行公告回顧 1998 Game Boy 原作；此為歷史原版，不是 Switch 商品。",
+      "Dragon Quest Monsters: Terry’s Wonderland RETRO：Switch/iOS/Android。2019 公告明列先行 Switch 與 iPhone／Android 移植，重現 Game Boy 原版；不是 3D／SP 重製。",
+      "Dragon Quest Monsters: The Dark Prince：PC/Switch/iOS/Android。官方現行產品頁及亞洲發行公告明列 Switch／Steam／iOS／Android；2023 Switch 本體與 2024 PC／手機移植同屬 The Dark Prince，並非 Terry 原作。"
+    ],
+    "resolvedGap": "已釐清系列／同名版本邊界並補具名版本對照；原始泛稱仍不足以唯一選定作品，未以猜測改名或合併。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "Dragon Quest Monsters／怪物仙境為系列泛稱，不能唯一指定 Terry 原作、RETRO 或 The Dark Prince。已有可操作的版本對照，仍需玩家指定副標題。",
+    "editionOptions": [
+      {
+        "name": "Dragon Quest Monsters: Terry’s Wonderland（1998 原版）",
+        "platform": "Game Boy",
+        "sources": [
+          "https://www.dragonquest.jp/news/detail/3116/"
+        ],
+        "scopeNote": "官方 RETRO 發行公告回顧 1998 Game Boy 原作；此為歷史原版，不是 Switch 商品。"
+      },
+      {
+        "name": "Dragon Quest Monsters: Terry’s Wonderland RETRO",
+        "platform": "Switch/iOS/Android",
+        "sources": [
+          "https://www.dragonquest.jp/news/detail/3116/"
+        ],
+        "scopeNote": "2019 公告明列先行 Switch 與 iPhone／Android 移植，重現 Game Boy 原版；不是 3D／SP 重製。"
+      },
+      {
+        "name": "Dragon Quest Monsters: The Dark Prince",
+        "platform": "PC/Switch/iOS/Android",
+        "sources": [
+          "https://dragonquest.square-enix-games.com/games/en-us/dqmonsters/",
+          "https://www.square-enix.com/asia/newsportal/en/topics/dragonquest-monsters3/post07.html"
+        ],
+        "scopeNote": "官方現行產品頁及亞洲發行公告明列 Switch／Steam／iOS／Android；2023 Switch 本體與 2024 PC／手機移植同屬 The Dark Prince，並非 Terry 原作。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 28,
+    "auditIndex": 634,
+    "name": "世界樹的迷宮",
+    "status": "verified",
+    "platform": "DS",
+    "safePlatform": "DS",
+    "platformNote": "本條依既有中文名稱與完整英文別名 Etrian Odyssey，範圍限定為 2007 年無副標原作。SEGA 正式商品頁明列 2007-01-18、Nintendo DS；HD 單作與 Origins Collection 合輯有獨立商品名，另列版本對照，不併入主平台。",
+    "safePlatformNote": "本條依既有中文名稱與完整英文別名 Etrian Odyssey，範圍限定為 2007 年無副標原作。SEGA 正式商品頁明列 2007-01-18、Nintendo DS；HD 單作與 Origins Collection 合輯有獨立商品名，另列版本對照，不併入主平台。",
+    "sources": [
+      "https://www.sega.jp/game/detail/atlus_sekaiju/",
+      "https://www.atlus.com/etrianorigins/index.html?lang=en",
+      "https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/"
+    ],
+    "evidence": [
+      "本條依既有中文名稱與完整英文別名 Etrian Odyssey，範圍限定為 2007 年無副標原作。SEGA 正式商品頁明列 2007-01-18、Nintendo DS；HD 單作與 Origins Collection 合輯有獨立商品名，另列版本對照，不併入主平台。",
+      "Etrian Odyssey／世界樹的迷宮（2007 原版）：DS。SEGA 商品資料明列 2007 年 1 月 18 日、Nintendo DS；此選項不含 HD 重製。",
+      "Etrian Odyssey HD（單作重製）：PC/Switch。Atlus 購買選單列 Steam／Nintendo Switch；Nintendo 另有獨立 HD 商品頁。",
+      "Etrian Odyssey Origins Collection（HD 合輯）：PC/Switch。Atlus 明列合輯包含 I、II、III 的 HD 版，與第一代 HD 單作不同商品。"
+    ],
+    "resolvedGap": "依既有完整名稱／英文別名與官方原作正式標題，明確限定原作年份及平台；不同副標的後作／重製另列對照，不以舊平台反推作品。",
+    "checkedAt": "2026-10-19",
+    "identityType": "specific-game",
+    "identityNote": "本條依既有中文名稱與完整英文別名 Etrian Odyssey，範圍限定為 2007 年無副標原作。SEGA 正式商品頁明列 2007-01-18、Nintendo DS；HD 單作與 Origins Collection 合輯有獨立商品名，另列版本對照，不併入主平台。",
+    "editionOptions": [
+      {
+        "name": "Etrian Odyssey／世界樹的迷宮（2007 原版）",
+        "platform": "DS",
+        "sources": [
+          "https://www.sega.jp/game/detail/atlus_sekaiju/"
+        ],
+        "scopeNote": "SEGA 商品資料明列 2007 年 1 月 18 日、Nintendo DS；此選項不含 HD 重製。"
+      },
+      {
+        "name": "Etrian Odyssey HD（單作重製）",
+        "platform": "PC/Switch",
+        "sources": [
+          "https://www.atlus.com/etrianorigins/index.html?lang=en",
+          "https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/"
+        ],
+        "scopeNote": "Atlus 購買選單列 Steam／Nintendo Switch；Nintendo 另有獨立 HD 商品頁。"
+      },
+      {
+        "name": "Etrian Odyssey Origins Collection（HD 合輯）",
+        "platform": "PC/Switch",
+        "sources": [
+          "https://www.atlus.com/etrianorigins/index.html?lang=en"
+        ],
+        "scopeNote": "Atlus 明列合輯包含 I、II、III 的 HD 版，與第一代 HD 單作不同商品。"
+      }
+    ]
+  }
+]
+

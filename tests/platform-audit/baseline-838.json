@@ -1,0 +1,9756 @@
+{
+  "date": "2026-10-18",
+  "baselineCount": 966,
+  "pending": [
+    {
+      "auditIndex": 0,
+      "name": "薩爾達傳說 王國之淚",
+      "alias": [
+        "zelda",
+        "totk",
+        "王淚",
+        "tears of the kingdom"
+      ],
+      "platform": "Switch",
+      "icon": "🗡️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 1,
+      "name": "薩爾達傳說 曠野之息",
+      "alias": [
+        "zelda",
+        "botw",
+        "曠野",
+        "breath of the wild"
+      ],
+      "platform": "Switch",
+      "icon": "🏹",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 2,
+      "name": "超級瑪利歐兄弟 驚奇",
+      "alias": [
+        "mario",
+        "wonder",
+        "瑪利歐",
+        "驚奇"
+      ],
+      "platform": "Switch",
+      "icon": "🍄",
+      "category": "平台動作"
+    },
+    {
+      "auditIndex": 3,
+      "name": "超級瑪利歐 奧德賽",
+      "alias": [
+        "mario",
+        "odyssey",
+        "奧德賽"
+      ],
+      "platform": "Switch",
+      "icon": "🎩",
+      "category": "平台動作"
+    },
+    {
+      "auditIndex": 4,
+      "name": "斯普拉遁3",
+      "alias": [
+        "splatoon",
+        "漆彈",
+        "噴噴",
+        "splatoon 3"
+      ],
+      "platform": "Switch",
+      "icon": "🦑",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 5,
+      "name": "集合啦！動物森友會",
+      "alias": [
+        "animal crossing",
+        "動森",
+        "acnh"
+      ],
+      "platform": "Switch",
+      "icon": "🏝️",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 6,
+      "name": "寶可夢 朱／紫",
+      "alias": [
+        "pokemon",
+        "寶可夢",
+        "朱紫",
+        "scarlet",
+        "violet",
+        "sv"
+      ],
+      "platform": "Switch",
+      "icon": "⚡",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 7,
+      "name": "寶可夢傳說 阿爾宙斯",
+      "alias": [
+        "pokemon",
+        "arceus",
+        "阿爾宙斯",
+        "pla"
+      ],
+      "platform": "Switch",
+      "icon": "🌟",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 8,
+      "name": "寶可夢 晶燦鑽石／明亮珍珠",
+      "alias": [
+        "pokemon",
+        "bdsp",
+        "鑽石珍珠"
+      ],
+      "platform": "Switch",
+      "icon": "💎",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 9,
+      "name": "寶可夢 劍／盾",
+      "alias": [
+        "pokemon",
+        "sword",
+        "shield",
+        "劍盾",
+        "swsh"
+      ],
+      "platform": "Switch",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 10,
+      "name": "寶可夢 Let's Go 皮卡丘/伊布",
+      "alias": [
+        "pokemon",
+        "lets go",
+        "皮卡丘",
+        "伊布"
+      ],
+      "platform": "Switch",
+      "icon": "⚡",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 11,
+      "name": "瑪利歐賽車8 豪華版",
+      "alias": [
+        "mario kart",
+        "mk8",
+        "瑪車"
+      ],
+      "platform": "Switch",
+      "icon": "🏎️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 12,
+      "name": "任天堂明星大亂鬥 特別版",
+      "alias": [
+        "smash",
+        "大亂鬥",
+        "ssbu"
+      ],
+      "platform": "Switch",
+      "icon": "👊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 13,
+      "name": "異度神劍3",
+      "alias": [
+        "xenoblade",
+        "異度神劍",
+        "xc3"
+      ],
+      "platform": "Switch",
+      "icon": "🔮",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 14,
+      "name": "異度神劍2",
+      "alias": [
+        "xenoblade",
+        "異度神劍",
+        "xc2"
+      ],
+      "platform": "Switch",
+      "icon": "🔮",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 15,
+      "name": "火焰之紋章 Engage",
+      "alias": [
+        "fire emblem",
+        "fe",
+        "火紋",
+        "engage"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 16,
+      "name": "火焰之紋章 風花雪月",
+      "alias": [
+        "fire emblem",
+        "three houses",
+        "風花雪月"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 17,
+      "name": "星之卡比 探索發現",
+      "alias": [
+        "kirby",
+        "卡比",
+        "forgotten land"
+      ],
+      "platform": "Switch",
+      "icon": "⭐",
+      "category": "平台動作"
+    },
+    {
+      "auditIndex": 18,
+      "name": "皮克敏4",
+      "alias": [
+        "pikmin",
+        "皮克敏"
+      ],
+      "platform": "Switch",
+      "icon": "🌱",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 19,
+      "name": "薩爾達傳說 織夢島",
+      "alias": [
+        "zelda",
+        "link awakening",
+        "織夢島"
+      ],
+      "platform": "Switch",
+      "icon": "🌊",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 20,
+      "name": "路易吉洋樓3",
+      "alias": [
+        "luigi mansion",
+        "路易吉",
+        "洋樓"
+      ],
+      "platform": "Switch",
+      "icon": "👻",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 21,
+      "name": "健身環大冒險",
+      "alias": [
+        "ring fit",
+        "健身環"
+      ],
+      "platform": "Switch",
+      "icon": "💪",
+      "category": "健身"
+    },
+    {
+      "auditIndex": 22,
+      "name": "薩爾達無雙 災厄啟示錄",
+      "alias": [
+        "hyrule warriors",
+        "無雙",
+        "災厄",
+        "hyrule warriors age of calamity",
+        "災厄啟示錄",
+        "hwac"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 23,
+      "name": "瑪利歐派對 超級巨星",
+      "alias": [
+        "mario party",
+        "superstars",
+        "瑪派"
+      ],
+      "platform": "Switch",
+      "icon": "🎉",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 24,
+      "name": "超級瑪利歐創作家2",
+      "alias": [
+        "mario maker",
+        "創作家",
+        "mm2"
+      ],
+      "platform": "Switch",
+      "icon": "🔧",
+      "category": "創作"
+    },
+    {
+      "auditIndex": 25,
+      "name": "奇幻生活i：轉圈圈的龍和偷取時間的少女",
+      "alias": [
+        "fantasy life",
+        "奇幻生活"
+      ],
+      "platform": "Switch",
+      "icon": "🐉",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 26,
+      "name": "牧場物語 Welcome！美麗人生",
+      "alias": [
+        "story of seasons",
+        "牧場物語",
+        "story of seasons wonderful life",
+        "牧場美麗人生"
+      ],
+      "platform": "Switch",
+      "icon": "🌾",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 27,
+      "name": "符文工廠5",
+      "alias": [
+        "rune factory",
+        "符文工廠",
+        "rf5",
+        "rune factory 5"
+      ],
+      "platform": "Switch/PC",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 28,
+      "name": "天穗之咲稻姬",
+      "alias": [
+        "sakuna",
+        "天穗",
+        "咲稻姬"
+      ],
+      "platform": "Switch",
+      "icon": "🌾",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 29,
+      "name": "魔物獵人 崛起",
+      "alias": [
+        "monster hunter",
+        "mh rise",
+        "崛起"
+      ],
+      "platform": "Switch",
+      "icon": "🐲",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 30,
+      "name": "魔物獵人 崛起：破曉",
+      "alias": [
+        "monster hunter",
+        "sunbreak",
+        "破曉"
+      ],
+      "platform": "Switch",
+      "icon": "🌅",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 31,
+      "name": "勇者鬥惡龍XI S",
+      "alias": [
+        "dragon quest",
+        "dq11",
+        "勇鬥"
+      ],
+      "platform": "Switch",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 32,
+      "name": "八方旅人",
+      "alias": [
+        "octopath",
+        "歧路旅人",
+        "octopath traveler"
+      ],
+      "platform": "Switch/PC/PS5/PS4",
+      "icon": "🎭",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 33,
+      "name": "八方旅人2",
+      "alias": [
+        "octopath",
+        "歧路旅人2",
+        "octopath traveler 2"
+      ],
+      "platform": "Switch/PC/PS5/PS4",
+      "icon": "🎭",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 34,
+      "name": "巫師3：狂獵 完整版",
+      "alias": [
+        "witcher",
+        "巫師"
+      ],
+      "platform": "Switch",
+      "icon": "🐺",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 35,
+      "name": "黑暗靈魂 重製版",
+      "alias": [
+        "dark souls",
+        "黑魂"
+      ],
+      "platform": "Switch",
+      "icon": "🔥",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 36,
+      "name": "胡鬧廚房 全都好吃",
+      "alias": [
+        "overcooked",
+        "胡鬧廚房",
+        "煮過頭"
+      ],
+      "platform": "Switch",
+      "icon": "🍳",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 37,
+      "name": "馬力歐+瘋狂兔子 希望之星",
+      "alias": [
+        "mario rabbids",
+        "瘋狂兔子",
+        "瑪利歐 + 瘋狂兔子 希望之星",
+        "mario rabbids sparks",
+        "瑪兔",
+        "瑪利歐+瘋狂兔子 希望之星",
+        "mario rabbids sparks of hope",
+        "瑪兔2",
+        "mrsoh"
+      ],
+      "platform": "Switch",
+      "icon": "🐰",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 38,
+      "name": "薄暮傳說 Remastered",
+      "alias": [
+        "tales of vesperia",
+        "薄暮傳說",
+        "宵星傳奇",
+        "宵星傳說"
+      ],
+      "platform": "Switch/PC/PS4",
+      "icon": "⭐",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 39,
+      "name": "超級機器人大戰30",
+      "alias": [
+        "super robot wars",
+        "機戰",
+        "srw30"
+      ],
+      "platform": "Switch",
+      "icon": "🤖",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 40,
+      "name": "賽伯利亞之謎",
+      "alias": [
+        "syberia",
+        "賽伯利亞"
+      ],
+      "platform": "Switch",
+      "icon": "❄️",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 41,
+      "name": "Minecraft",
+      "alias": [
+        "minecraft",
+        "當個創世神",
+        "麥塊",
+        "我的世界",
+        "mc"
+      ],
+      "platform": "Switch/PC/PS5/PS4/Xbox/iOS/Android",
+      "icon": "⛏️",
+      "category": "沙盒"
+    },
+    {
+      "auditIndex": 42,
+      "name": "太鼓之達人 咚咔！二合一大冒險",
+      "alias": [
+        "taiko",
+        "太鼓達人"
+      ],
+      "platform": "Switch",
+      "icon": "🥁",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 43,
+      "name": "艾爾登法環",
+      "alias": [
+        "elden ring",
+        "er",
+        "法環",
+        "老頭環"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "💍",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 44,
+      "name": "艾爾登法環 黃金樹幽影",
+      "alias": [
+        "elden ring",
+        "shadow of erdtree",
+        "黃金樹"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🌳",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 45,
+      "name": "黑神話：悟空",
+      "alias": [
+        "black myth",
+        "wukong",
+        "悟空",
+        "黑神話",
+        "Black Myth: Wukong",
+        "black myth wukong",
+        "黑神話悟空"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🐒",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 46,
+      "name": "博德之門3",
+      "alias": [
+        "baldurs gate",
+        "bg3",
+        "博德之門",
+        "柏德之門3",
+        "baldurs gate 3"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🎭",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 47,
+      "name": "隻狼：暗影雙死",
+      "alias": [
+        "sekiro",
+        "隻狼"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🥷",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 48,
+      "name": "黑暗靈魂3",
+      "alias": [
+        "dark souls 3",
+        "ds3",
+        "黑魂3"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔥",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 49,
+      "name": "電馭叛客2077",
+      "alias": [
+        "cyberpunk",
+        "電馭",
+        "2077"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌆",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 50,
+      "name": "巫師3：狂獵",
+      "alias": [
+        "witcher 3",
+        "巫師3"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🐺",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 51,
+      "name": "上古卷軸5：無界天際",
+      "alias": [
+        "skyrim",
+        "上古卷軸",
+        "天際"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 52,
+      "name": "魔物獵人 世界",
+      "alias": [
+        "monster hunter world",
+        "mhw",
+        "魔物世界"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🐲",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 53,
+      "name": "魔物獵人 荒野",
+      "alias": [
+        "monster hunter wilds",
+        "荒野"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏜️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 54,
+      "name": "死亡擱淺",
+      "alias": [
+        "death stranding",
+        "死亡擱淺"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "📦",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 55,
+      "name": "對馬戰鬼",
+      "alias": [
+        "ghost of tsushima",
+        "對馬"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🍃",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 56,
+      "name": "最後生還者 Part I",
+      "alias": [
+        "last of us",
+        "最後生還者"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🍄",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 57,
+      "name": "地平線 零之曙光",
+      "alias": [
+        "horizon zero dawn",
+        "地平線"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🦖",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 58,
+      "name": "戰神",
+      "alias": [
+        "god of war",
+        "戰神2018"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🪓",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 59,
+      "name": "漫威蜘蛛人",
+      "alias": [
+        "spider-man",
+        "蜘蛛人"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🕷️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 60,
+      "name": "絕命暗殺令",
+      "alias": [
+        "hitman",
+        "刺客任務"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🎯",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 61,
+      "name": "極地戰嚎6",
+      "alias": [
+        "far cry 6",
+        "極地戰嚎",
+        "fc6"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🏝️",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 62,
+      "name": "虹彩六號：圍攻行動",
+      "alias": [
+        "rainbow six siege",
+        "r6"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🎯",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 63,
+      "name": "絕對武力2",
+      "alias": [
+        "counter strike 2",
+        "cs2"
+      ],
+      "platform": "PC",
+      "icon": "🔫",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 64,
+      "name": "特戰英豪",
+      "alias": [
+        "valorant",
+        "瓦羅蘭特",
+        "val"
+      ],
+      "platform": "PC",
+      "icon": "🎯",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 65,
+      "name": "英雄聯盟",
+      "alias": [
+        "league of legends",
+        "lol",
+        "聯盟"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 66,
+      "name": "Dota 2",
+      "alias": [
+        "dota2",
+        "dota",
+        "dota 2",
+        "刀塔2"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 67,
+      "name": "暗黑破壞神4",
+      "alias": [
+        "diablo 4",
+        "d4",
+        "暗黑4"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "😈",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 68,
+      "name": "流亡黯道",
+      "alias": [
+        "path of exile",
+        "poe",
+        "流亡"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💀",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 69,
+      "name": "薩爾達傳說 時之笛",
+      "alias": [
+        "ocarina of time",
+        "時之笛",
+        "oot"
+      ],
+      "platform": "N64/3DS",
+      "icon": "🎵",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 70,
+      "name": "要塞英雄",
+      "alias": [
+        "fortnite",
+        "堡壘之夜"
+      ],
+      "platform": "PC/Xbox/Switch/Mobile/PS5/PS4",
+      "icon": "🏰",
+      "category": "大逃殺"
+    },
+    {
+      "auditIndex": 71,
+      "name": "決勝時刻：戰域",
+      "alias": [
+        "call of duty warzone",
+        "cod",
+        "戰域",
+        "決勝時刻 戰區",
+        "cod warzone",
+        "戰區"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🔫",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 72,
+      "name": "鬥陣特攻2",
+      "alias": [
+        "overwatch 2",
+        "ow2",
+        "守望先鋒2"
+      ],
+      "platform": "PC/PS5/Xbox/Switch/PS4",
+      "icon": "🎮",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 73,
+      "name": "世紀帝國4",
+      "alias": [
+        "age of empires 4",
+        "aoe4",
+        "世紀帝國",
+        "帝國時代4"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🏰",
+      "category": "即時戰略"
+    },
+    {
+      "auditIndex": 74,
+      "name": "文明帝國6",
+      "alias": [
+        "civilization 6",
+        "civ6",
+        "文明6"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🌍",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 75,
+      "name": "模擬城市",
+      "alias": [
+        "simcity"
+      ],
+      "platform": "PC",
+      "icon": "🏙️",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 76,
+      "name": "都市：天際線2",
+      "alias": [
+        "cities skylines 2",
+        "天際線",
+        "城市 天際線2",
+        "天際線2",
+        "cs2",
+        "Cities: Skylines II",
+        "都市天際線2",
+        "城市天際線2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌆",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 77,
+      "name": "農場模擬器系列",
+      "alias": [
+        "farming simulator"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🚜",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 78,
+      "name": "微軟模擬飛行",
+      "alias": [
+        "microsoft flight simulator",
+        "模擬飛行",
+        "msfs"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "✈️",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 79,
+      "name": "歐洲卡車模擬2",
+      "alias": [
+        "euro truck simulator",
+        "卡車模擬",
+        "euro truck simulator 2",
+        "ets2",
+        "歐卡2"
+      ],
+      "platform": "PC",
+      "icon": "🚛",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 80,
+      "name": "極限競速 地平線5",
+      "alias": [
+        "forza horizon 5",
+        "fh5"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🏎️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 81,
+      "name": "跑車浪漫旅7",
+      "alias": [
+        "gran turismo 7",
+        "gt7",
+        "GT賽車7"
+      ],
+      "platform": "PS5/PS4",
+      "icon": "🏎️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 82,
+      "name": "Final Fantasy XVI",
+      "alias": [
+        "ff16",
+        "final fantasy 16",
+        "最終幻想16"
+      ],
+      "platform": "PS5/PC",
+      "icon": "🔥",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 83,
+      "name": "Final Fantasy VII 重生",
+      "alias": [
+        "ff7 rebirth",
+        "重生",
+        "最終幻想7 重生",
+        "final fantasy 7 rebirth",
+        "ff7r2"
+      ],
+      "platform": "PS5/PC",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 84,
+      "name": "Final Fantasy VII 重製版",
+      "alias": [
+        "ff7 remake",
+        "重製",
+        "最終幻想7 重製版",
+        "final fantasy 7 remake",
+        "ff7r"
+      ],
+      "platform": "PS5/PS4/PC",
+      "icon": "🌃",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 85,
+      "name": "戰神 諸神黃昏",
+      "alias": [
+        "god of war ragnarok",
+        "諸神黃昏"
+      ],
+      "platform": "PS5/PS4/PC",
+      "icon": "🪓",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 86,
+      "name": "地平線 西方禁地",
+      "alias": [
+        "horizon forbidden west",
+        "西方禁地"
+      ],
+      "platform": "PS5/PS4/PC",
+      "icon": "🦖",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 87,
+      "name": "漫威蜘蛛人2",
+      "alias": [
+        "spider-man 2",
+        "蜘蛛人2"
+      ],
+      "platform": "PS5",
+      "icon": "🕷️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 88,
+      "name": "最後生還者 Part II",
+      "alias": [
+        "last of us 2",
+        "最後生還者2"
+      ],
+      "platform": "PS5/PS4/PC",
+      "icon": "🦋",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 89,
+      "name": "血源詛咒",
+      "alias": [
+        "bloodborne",
+        "血源",
+        "bb"
+      ],
+      "platform": "PS4",
+      "icon": "🩸",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 90,
+      "name": "惡魔靈魂",
+      "alias": [
+        "demon's souls",
+        "惡魔靈魂"
+      ],
+      "platform": "PS5",
+      "icon": "👹",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 91,
+      "name": "Stellar Blade",
+      "alias": [
+        "stellar blade",
+        "星刃",
+        "劍星"
+      ],
+      "platform": "PS5/PC",
+      "icon": "✨",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 92,
+      "name": "浪人崛起",
+      "alias": [
+        "rise of ronin",
+        "浪人",
+        "Rise of the Ronin",
+        "rise of the ronin"
+      ],
+      "platform": "PS5/PC",
+      "icon": "⛩️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 93,
+      "name": "人中之龍8",
+      "alias": [
+        "like a dragon 8",
+        "人龍8",
+        "如龍8",
+        "人中之龍 無限財富",
+        "infinite wealth",
+        "無限財富",
+        "yakuza 8"
+      ],
+      "platform": "PS5/PS4/Xbox/PC",
+      "icon": "🐉",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 94,
+      "name": "人中之龍0 誓言之地",
+      "alias": [
+        "yakuza 0",
+        "人龍0",
+        "如龍0 誓約的場所",
+        "如龍0"
+      ],
+      "platform": "PS4/PC",
+      "icon": "🐉",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 95,
+      "name": "人中之龍 極",
+      "alias": [
+        "yakuza kiwami",
+        "人龍極",
+        "如龍 極",
+        "如龍極"
+      ],
+      "platform": "PS4/PC",
+      "icon": "🐉",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 96,
+      "name": "仁王2",
+      "alias": [
+        "nioh 2"
+      ],
+      "platform": "PS5/PS4/PC",
+      "icon": "👺",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 97,
+      "name": "仁王",
+      "alias": [
+        "nioh",
+        "仁王1"
+      ],
+      "platform": "PS4/PC",
+      "icon": "👺",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 98,
+      "name": "臥龍：蒼天隕落",
+      "alias": [
+        "wo long",
+        "臥龍",
+        "臥龍 蒼天隕落",
+        "wolong"
+      ],
+      "platform": "PS5/PS4/Xbox/PC",
+      "icon": "🐉",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 99,
+      "name": "Lies of P",
+      "alias": [
+        "lies of p",
+        "匹諾丘"
+      ],
+      "platform": "PS5/PS4/Xbox/PC",
+      "icon": "🎭",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 100,
+      "name": "尼爾：自動人形",
+      "alias": [
+        "nier automata",
+        "尼爾",
+        "尼爾 自動人形",
+        "尼爾a",
+        "2b"
+      ],
+      "platform": "PS4/PC/Xbox/Switch",
+      "icon": "🤖",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 101,
+      "name": "尼爾 人工生命 ver.1.22474487139...",
+      "alias": [
+        "尼爾：人工生命",
+        "nier replicant",
+        "尼爾人工生命",
+        "尼爾 人工生命 ver.1.22",
+        "尼爾r"
+      ],
+      "platform": "PS4/Xbox/PC",
+      "icon": "📖",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 102,
+      "name": "破曉傳奇",
+      "alias": [
+        "tales of arise",
+        "破曉",
+        "時空幻境 破曉"
+      ],
+      "platform": "PS5/PS4/Xbox/PC",
+      "icon": "🌸",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 103,
+      "name": "緋紅結繫",
+      "alias": [
+        "scarlet nexus",
+        "緋紅連結"
+      ],
+      "platform": "PS5/PS4/Xbox/PC",
+      "icon": "🧠",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 104,
+      "name": "審判之逝：湮滅的記憶",
+      "alias": [
+        "lost judgment",
+        "審判之逝"
+      ],
+      "platform": "PS5/PS4/Xbox",
+      "icon": "⚖️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 105,
+      "name": "碧藍幻想 Relink",
+      "alias": [
+        "granblue fantasy relink",
+        "碧藍幻想",
+        "gbf relink",
+        "Granblue Fantasy: Relink",
+        "碧藍幻想relink"
+      ],
+      "platform": "PS5/PS4/PC",
+      "icon": "✨",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 106,
+      "name": "王國之心3",
+      "alias": [
+        "kingdom hearts 3",
+        "kh3"
+      ],
+      "platform": "PS4/Xbox/PC",
+      "icon": "🔑",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 107,
+      "name": "鐵拳8",
+      "alias": [
+        "tekken 8",
+        "鐵拳",
+        "Tekken 8"
+      ],
+      "platform": "PS5/Xbox/PC",
+      "icon": "👊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 108,
+      "name": "真人快打1",
+      "alias": [
+        "mortal kombat 1",
+        "mk1",
+        "真人快打"
+      ],
+      "platform": "PS5/Xbox/PC/Switch",
+      "icon": "💀",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 109,
+      "name": "七龍珠FighterZ",
+      "alias": [
+        "dragon ball fighterz",
+        "dbfz"
+      ],
+      "platform": "PS4/Xbox/PC/Switch",
+      "icon": "🐉",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 110,
+      "name": "機戰傭兵6 境界天火",
+      "alias": [
+        "armored core 6",
+        "ac6",
+        "裝甲核心6",
+        "機戰傭兵6",
+        "Armored Core VI: Fires of Rubicon"
+      ],
+      "platform": "PS5/PS4/Xbox/PC",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 111,
+      "name": "霍格華茲的傳承",
+      "alias": [
+        "hogwarts legacy",
+        "霍格華茲"
+      ],
+      "platform": "PS5/PS4/Xbox/PC/Switch",
+      "icon": "🧙",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 112,
+      "name": "潛龍諜影V 幻痛",
+      "alias": [
+        "metal gear solid v",
+        "mgsv",
+        "潛龍諜影"
+      ],
+      "platform": "PS4/Xbox/PC",
+      "icon": "📦",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 113,
+      "name": "死亡循環",
+      "alias": [
+        "deathloop"
+      ],
+      "platform": "PS5/Xbox/PC",
+      "icon": "🔄",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 114,
+      "name": "死亡回歸",
+      "alias": [
+        "returnal",
+        "死亡回歸"
+      ],
+      "platform": "PS5/PC",
+      "icon": "🔄",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 115,
+      "name": "崩壞：星穹鐵道",
+      "alias": [
+        "honkai star rail",
+        "星鐵",
+        "崩鐵",
+        "hsr",
+        "Honkai: Star Rail",
+        "崩壞星穹鐵道",
+        "星穹鐵道"
+      ],
+      "platform": "PC/PS5/iOS/Android",
+      "icon": "🚂",
+      "category": "回合RPG"
+    },
+    {
+      "auditIndex": 116,
+      "name": "崩壞3rd",
+      "alias": [
+        "honkai impact 3rd",
+        "崩壞3",
+        "hi3"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "⚡",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 117,
+      "name": "FGO",
+      "alias": [
+        "fate grand order",
+        "fgo",
+        "命運冠位指定",
+        "Fate/Grand Order",
+        "fate go"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 118,
+      "name": "賽馬娘",
+      "alias": [
+        "uma musume",
+        "賽馬娘 Pretty Derby",
+        "馬娘"
+      ],
+      "platform": "iOS/Android/PC",
+      "icon": "🏇",
+      "category": "養成"
+    },
+    {
+      "auditIndex": 119,
+      "name": "藍色檔案",
+      "alias": [
+        "blue archive",
+        "藍檔",
+        "碧藍檔案",
+        "蔚藍檔案",
+        "ba"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📘",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 120,
+      "name": "公主連結",
+      "alias": [
+        "princess connect",
+        "pcr",
+        "公主連結 Re:Dive",
+        "公連",
+        "超異域公主連結Re:Dive"
+      ],
+      "platform": "iOS/Android",
+      "icon": "👸",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 121,
+      "name": "碧藍航線",
+      "alias": [
+        "azur lane",
+        "艦b",
+        "碧藍"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🚢",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 122,
+      "name": "少女前線",
+      "alias": [
+        "girls frontline",
+        "少前",
+        "gf"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🔫",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 123,
+      "name": "王者榮耀",
+      "alias": [
+        "honor of kings",
+        "王者",
+        "農藥"
+      ],
+      "platform": "iOS/Android",
+      "icon": "👑",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 124,
+      "name": "傳說對決",
+      "alias": [
+        "arena of valor",
+        "aov",
+        "Garena 傳說對決",
+        "傳對"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 125,
+      "name": "荒野行動",
+      "alias": [
+        "knives out",
+        "荒野行動"
+      ],
+      "platform": "iOS/Android/PC",
+      "icon": "🔫",
+      "category": "大逃殺"
+    },
+    {
+      "auditIndex": 126,
+      "name": "和平精英",
+      "alias": [
+        "peace elite",
+        "吃雞",
+        "game for peace",
+        "和平"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🍳",
+      "category": "大逃殺"
+    },
+    {
+      "auditIndex": 127,
+      "name": "Candy Crush Saga",
+      "alias": [
+        "candy crush",
+        "糖果傳奇",
+        "candy crush saga",
+        "糖果",
+        "candy"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🍬",
+      "category": "益智"
+    },
+    {
+      "auditIndex": 128,
+      "name": "部落衝突",
+      "alias": [
+        "clash of clans",
+        "coc",
+        "部落"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 129,
+      "name": "皇室戰爭",
+      "alias": [
+        "clash royale",
+        "cr",
+        "皇室"
+      ],
+      "platform": "iOS/Android",
+      "icon": "👑",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 130,
+      "name": "寶可夢大集結",
+      "alias": [
+        "pokemon unite",
+        "大集結"
+      ],
+      "platform": "Switch/iOS/Android",
+      "icon": "⚡",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 131,
+      "name": "寶可夢GO",
+      "alias": [
+        "pokemon go",
+        "pogo"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🚶",
+      "category": "AR"
+    },
+    {
+      "auditIndex": 132,
+      "name": "寶可夢Sleep",
+      "alias": [
+        "pokemon sleep"
+      ],
+      "platform": "iOS/Android",
+      "icon": "😴",
+      "category": "休閒"
+    },
+    {
+      "auditIndex": 133,
+      "name": "最後一戰 無限",
+      "alias": [
+        "halo infinite",
+        "halo",
+        "最後一戰",
+        "光環 無限"
+      ],
+      "platform": "Xbox/PC",
+      "icon": "🎖️",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 134,
+      "name": "戰爭機器5",
+      "alias": [
+        "gears 5",
+        "戰爭機器",
+        "gears of war 5"
+      ],
+      "platform": "Xbox/PC",
+      "icon": "⚙️",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 135,
+      "name": "極限競速",
+      "alias": [
+        "forza motorsport",
+        "極限競速"
+      ],
+      "platform": "Xbox/PC",
+      "icon": "🏎️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 136,
+      "name": "盜賊之海",
+      "alias": [
+        "sea of thieves",
+        "sot",
+        "盜海",
+        "Sea of Thieves"
+      ],
+      "platform": "Xbox/PC/PS5",
+      "icon": "🏴‍☠️",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 137,
+      "name": "星空",
+      "alias": [
+        "starfield"
+      ],
+      "platform": "Xbox/PC",
+      "icon": "🌟",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 138,
+      "name": "異塵餘生4",
+      "alias": [
+        "fallout 4",
+        "異塵餘生",
+        "fo4",
+        "輻射4"
+      ],
+      "platform": "PC/PS4/Xbox/PS5",
+      "icon": "☢️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 139,
+      "name": "Minecraft Dungeons",
+      "alias": [
+        "minecraft dungeons",
+        "麥塊地城",
+        "我的世界 地下城",
+        "mc地下城"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 140,
+      "name": "超級瑪利歐3D樂園",
+      "alias": [
+        "super mario 3d land",
+        "3d樂園"
+      ],
+      "platform": "3DS",
+      "icon": "🍄",
+      "category": "平台動作"
+    },
+    {
+      "auditIndex": 141,
+      "name": "路易吉洋樓2",
+      "alias": [
+        "luigi's mansion 2",
+        "路易吉洋樓"
+      ],
+      "platform": "3DS",
+      "icon": "👻",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 142,
+      "name": "魔物獵人4G",
+      "alias": [
+        "monster hunter 4 ultimate",
+        "mh4g"
+      ],
+      "platform": "3DS",
+      "icon": "🐲",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 143,
+      "name": "魔物獵人XX",
+      "alias": [
+        "monster hunter xx",
+        "mhxx",
+        "魔物獵人xx"
+      ],
+      "platform": "3DS/Switch",
+      "icon": "🐲",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 144,
+      "name": "勇者鬥惡龍VIII",
+      "alias": [
+        "dragon quest 8",
+        "dq8"
+      ],
+      "platform": "3DS/PS2",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 145,
+      "name": "勇者鬥惡龍VII",
+      "alias": [
+        "dragon quest 7",
+        "dq7"
+      ],
+      "platform": "3DS",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 146,
+      "name": "精靈寶可夢 太陽/月亮",
+      "alias": [
+        "pokemon sun moon",
+        "日月"
+      ],
+      "platform": "3DS",
+      "icon": "☀️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 147,
+      "name": "精靈寶可夢 終極紅寶石/始源藍寶石",
+      "alias": [
+        "pokemon oras"
+      ],
+      "platform": "3DS",
+      "icon": "💎",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 148,
+      "name": "精靈寶可夢 X/Y",
+      "alias": [
+        "pokemon xy"
+      ],
+      "platform": "3DS",
+      "icon": "🦌",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 149,
+      "name": "火焰之紋章 覺醒",
+      "alias": [
+        "fire emblem awakening",
+        "覺醒"
+      ],
+      "platform": "3DS",
+      "icon": "⚔️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 150,
+      "name": "火焰之紋章if",
+      "alias": [
+        "fire emblem fates",
+        "if"
+      ],
+      "platform": "3DS",
+      "icon": "⚔️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 151,
+      "name": "薩爾達傳說 眾神的三角之力2",
+      "alias": [
+        "zelda a link between worlds"
+      ],
+      "platform": "3DS",
+      "icon": "🔺",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 152,
+      "name": "薩爾達傳說 時之笛3D",
+      "alias": [
+        "zelda ocarina of time 3d",
+        "時之笛"
+      ],
+      "platform": "3DS",
+      "icon": "🎵",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 153,
+      "name": "薩爾達傳說 穆修拉的面具3D",
+      "alias": [
+        "zelda majoras mask 3d",
+        "穆修拉",
+        "魔吉拉面具",
+        "majoras mask"
+      ],
+      "platform": "3DS",
+      "icon": "🎭",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 154,
+      "name": "勇氣默示錄",
+      "alias": [
+        "bravely default",
+        "勇氣默示錄"
+      ],
+      "platform": "3DS",
+      "icon": "📖",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 155,
+      "name": "洛克人EXE 合集",
+      "alias": [
+        "mega man battle network",
+        "bn",
+        "exe"
+      ],
+      "platform": "Switch/PS4/PC",
+      "icon": "💻",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 156,
+      "name": "洛克人Zero/ZX 合集",
+      "alias": [
+        "mega man zero zx",
+        "zero"
+      ],
+      "platform": "Switch/PS4/PC",
+      "icon": "🔴",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 157,
+      "name": "洛克人 經典合集",
+      "alias": [
+        "mega man legacy",
+        "洛克人"
+      ],
+      "platform": "Switch/PS4/PC",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 158,
+      "name": "洛克人X 合集",
+      "alias": [
+        "mega man x collection",
+        "洛克人x"
+      ],
+      "platform": "Switch/PS4/PC",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 159,
+      "name": "超級炸彈超人R 2",
+      "alias": [
+        "bomberman r 2",
+        "炸彈超人"
+      ],
+      "platform": "Switch/PS5/PC",
+      "icon": "💣",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 160,
+      "name": "軒轅劍柒",
+      "alias": [
+        "xuan yuan sword 7",
+        "軒轅劍7",
+        "軒轅劍七"
+      ],
+      "platform": "PC/PS4/PS5/Switch",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 161,
+      "name": "軒轅劍外傳 穹之扉",
+      "alias": [
+        "xuan yuan sword dome of sky",
+        "穹之扉"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🌌",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 162,
+      "name": "軒轅劍陸 鳳凌長空千載雲",
+      "alias": [
+        "xuan yuan sword 6",
+        "軒轅劍6",
+        "軒轅劍六"
+      ],
+      "platform": "PC",
+      "icon": "🐦",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 163,
+      "name": "軒轅劍外傳 雲之遙",
+      "alias": [
+        "xuan yuan sword cloud of beyond",
+        "雲之遙"
+      ],
+      "platform": "PC",
+      "icon": "☁️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 164,
+      "name": "軒轅劍外傳 漢之雲",
+      "alias": [
+        "xuan yuan sword han cloud",
+        "漢之雲"
+      ],
+      "platform": "PC",
+      "icon": "🌥️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 165,
+      "name": "軒轅劍伍 一劍凌雲山海情",
+      "alias": [
+        "xuan yuan sword 5",
+        "軒轅劍5",
+        "軒轅劍五"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 166,
+      "name": "軒轅劍外傳 蒼之濤",
+      "alias": [
+        "xuan yuan sword blue surge",
+        "蒼之濤"
+      ],
+      "platform": "PC",
+      "icon": "🌊",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 167,
+      "name": "軒轅劍肆 黑龍舞兮雲飛揚",
+      "alias": [
+        "xuan yuan sword 4",
+        "軒轅劍4",
+        "軒轅劍四",
+        "黑龍舞兮"
+      ],
+      "platform": "PC",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 168,
+      "name": "軒轅劍參外傳 天之痕",
+      "alias": [
+        "xuan yuan sword trail in sky",
+        "天之痕",
+        "軒轅劍三外傳"
+      ],
+      "platform": "PC",
+      "icon": "✨",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 169,
+      "name": "軒轅劍參 雲和山的彼端",
+      "alias": [
+        "xuan yuan sword 3",
+        "軒轅劍3",
+        "軒轅劍三",
+        "雲和山的彼端"
+      ],
+      "platform": "PC",
+      "icon": "⛰️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 170,
+      "name": "軒轅劍外傳 楓之舞",
+      "alias": [
+        "xuan yuan sword maple dance",
+        "楓之舞"
+      ],
+      "platform": "PC",
+      "icon": "🍁",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 171,
+      "name": "軒轅劍貳",
+      "alias": [
+        "xuan yuan sword 2",
+        "軒轅劍2",
+        "軒轅劍二"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 172,
+      "name": "軒轅劍壹",
+      "alias": [
+        "xuan yuan sword 1",
+        "軒轅劍1",
+        "軒轅劍一"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 173,
+      "name": "惡靈古堡7 生化危機",
+      "alias": [
+        "resident evil 7",
+        "re7",
+        "biohazard 7",
+        "生化危機7"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🏠",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 174,
+      "name": "惡靈古堡3 重製版",
+      "alias": [
+        "resident evil 3 remake",
+        "re3",
+        "biohazard 3",
+        "生化危機3",
+        "乃乃"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🔥",
+      "category": "恐怖動作"
+    },
+    {
+      "auditIndex": 175,
+      "name": "惡靈古堡 HD 重製版",
+      "alias": [
+        "resident evil hd",
+        "re1",
+        "biohazard hd",
+        "生化危機1"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🏰",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 176,
+      "name": "惡靈古堡0 HD 重製版",
+      "alias": [
+        "resident evil 0 hd",
+        "re0",
+        "biohazard 0",
+        "生化危機0"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🚂",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 177,
+      "name": "惡靈古堡5",
+      "alias": [
+        "resident evil 5",
+        "re5",
+        "biohazard 5",
+        "生化危機5"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "☀️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 178,
+      "name": "惡靈古堡6",
+      "alias": [
+        "resident evil 6",
+        "re6",
+        "biohazard 6",
+        "生化危機6"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🌍",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 179,
+      "name": "惡靈古堡 啟示錄",
+      "alias": [
+        "resident evil revelations",
+        "啟示錄",
+        "biohazard revelations"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🚢",
+      "category": "恐怖動作"
+    },
+    {
+      "auditIndex": 180,
+      "name": "惡靈古堡 啟示錄2",
+      "alias": [
+        "resident evil revelations 2",
+        "啟示錄2",
+        "biohazard revelations 2"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🏝️",
+      "category": "恐怖動作"
+    },
+    {
+      "auditIndex": 181,
+      "name": "惡靈古堡 聖女密碼 X",
+      "alias": [
+        "resident evil code veronica",
+        "code veronica",
+        "cvx"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🦋",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 182,
+      "name": "惡靈古堡 村莊 黃金版",
+      "alias": [
+        "resident evil village gold",
+        "re8 gold",
+        "玫瑰之影"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🌹",
+      "category": "恐怖動作"
+    },
+    {
+      "auditIndex": 183,
+      "name": "惡靈古堡 抵抗計畫",
+      "alias": [
+        "resident evil resistance",
+        "re resistance"
+      ],
+      "platform": "PC/PS4",
+      "icon": "👥",
+      "category": "多人對戰"
+    },
+    {
+      "auditIndex": 184,
+      "name": "惡靈古堡 Re:Verse",
+      "alias": [
+        "resident evil reverse",
+        "re verse"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🔫",
+      "category": "多人對戰"
+    },
+    {
+      "auditIndex": 185,
+      "name": "仙境傳說 Online",
+      "alias": [
+        "ragnarok online",
+        "ro",
+        "仙境傳說"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 186,
+      "name": "RO仙境傳說：愛如初見",
+      "alias": [
+        "仙境傳說 起源",
+        "ragnarok origin",
+        "ro origin",
+        "仙境起源"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🌟",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 187,
+      "name": "仙境傳說2",
+      "alias": [
+        "ragnarok online 2",
+        "ro2"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 188,
+      "name": "仙境傳說 復興",
+      "alias": [
+        "ragnarok renewal",
+        "ro renewal"
+      ],
+      "platform": "PC",
+      "icon": "🔄",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 189,
+      "name": "魔力寶貝",
+      "alias": [
+        "cross gate",
+        "cg",
+        "魔力",
+        "crossgate"
+      ],
+      "platform": "PC",
+      "icon": "💎",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 190,
+      "name": "魔力寶貝2",
+      "alias": [
+        "cross gate 2",
+        "cg2",
+        "魔力2"
+      ],
+      "platform": "PC",
+      "icon": "💠",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 191,
+      "name": "魔力寶貝 歸來",
+      "alias": [
+        "cross gate return",
+        "魔力歸來",
+        "cg return"
+      ],
+      "platform": "PC",
+      "icon": "🔮",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 192,
+      "name": "魔力寶貝 懷舊版",
+      "alias": [
+        "cross gate classic",
+        "魔力懷舊",
+        "cg classic"
+      ],
+      "platform": "PC",
+      "icon": "📜",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 193,
+      "name": "魔力寶貝M",
+      "alias": [
+        "cross gate m",
+        "魔力m",
+        "cgm"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📲",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 194,
+      "name": "魔力寶貝 旅人",
+      "alias": [
+        "cross gate traveler",
+        "魔力旅人"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🧳",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 195,
+      "name": "魔力寶貝:重返法蘭",
+      "alias": [
+        "cross gate return to falan",
+        "重返法蘭",
+        "法蘭城",
+        "cg falan"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏰",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 196,
+      "name": "遊戲王 Master Duel",
+      "alias": [
+        "yu-gi-oh master duel",
+        "ygo md",
+        "大師決鬥",
+        "master duel"
+      ],
+      "platform": "PC/PS5/PS4/Switch/iOS/Android",
+      "icon": "🃏",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 197,
+      "name": "遊戲王 Duel Links",
+      "alias": [
+        "yu-gi-oh duel links",
+        "ygo dl",
+        "決鬥聯盟",
+        "duel links"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🔗",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 198,
+      "name": "遊戲王 Cross Duel",
+      "alias": [
+        "yu-gi-oh cross duel",
+        "ygo cd",
+        "交叉決鬥"
+      ],
+      "platform": "iOS/Android",
+      "icon": "❌",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 199,
+      "name": "遊戲王 Rush Duel 最強大亂鬥!!",
+      "alias": [
+        "yu-gi-oh rush duel",
+        "rush duel",
+        "衝鋒決鬥"
+      ],
+      "platform": "Switch",
+      "icon": "⚡",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 200,
+      "name": "遊戲王 Legacy of the Duelist: Link Evolution",
+      "alias": [
+        "yu-gi-oh lotd",
+        "link evolution",
+        "決鬥者的遺產"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🏆",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 201,
+      "name": "遊戲王 怪獸之決鬥",
+      "alias": [
+        "yu-gi-oh duel monsters",
+        "duel monsters",
+        "dm"
+      ],
+      "platform": "GBA/DS",
+      "icon": "👹",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 202,
+      "name": "遊戲王 Tag Force",
+      "alias": [
+        "yu-gi-oh tag force",
+        "tag force",
+        "tf"
+      ],
+      "platform": "PSP",
+      "icon": "👥",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 203,
+      "name": "遊戲王 Tag Force Special",
+      "alias": [
+        "yu-gi-oh tag force special",
+        "tf special"
+      ],
+      "platform": "PSP",
+      "icon": "⭐",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 204,
+      "name": "遊戲王 World Championship",
+      "alias": [
+        "yu-gi-oh wc",
+        "world championship",
+        "世界大賽"
+      ],
+      "platform": "DS/3DS",
+      "icon": "🌍",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 205,
+      "name": "遊戲王 ARC-V Tag Force Special",
+      "alias": [
+        "yu-gi-oh arc-v",
+        "arc-v tf"
+      ],
+      "platform": "PSP",
+      "icon": "🌀",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 206,
+      "name": "遊戲王 5D's Wheelie Breakers",
+      "alias": [
+        "yu-gi-oh 5ds",
+        "wheelie breakers"
+      ],
+      "platform": "Wii",
+      "icon": "🏍️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 207,
+      "name": "遊戲王 怪獸膠囊",
+      "alias": [
+        "yu-gi-oh capsule monsters",
+        "capsule monsters"
+      ],
+      "platform": "PS2",
+      "icon": "💊",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 208,
+      "name": "遊戲王 早期之日",
+      "alias": [
+        "yu-gi-oh early days",
+        "ygo classic"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "📅",
+      "category": "卡牌對戰"
+    },
+    {
+      "auditIndex": 209,
+      "name": "心動小鎮",
+      "alias": [
+        "heartbeat town",
+        "心動",
+        "慢節奏生活",
+        "heartopia"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🏘️",
+      "category": "模擬經營"
+    },
+    {
+      "auditIndex": 210,
+      "name": "棕色塵埃2",
+      "alias": [
+        "brown dust 2",
+        "bd2",
+        "棕塵2",
+        "Brown Dust 2"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "⚔️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 211,
+      "name": "Final Fantasy XIV",
+      "alias": [
+        "ff14",
+        "ffxiv",
+        "最終幻想14",
+        "太空戰士14"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🌟",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 212,
+      "name": "燕雲十六聲",
+      "alias": [
+        "where winds meet",
+        "燕雲",
+        "yangyun",
+        "Where Winds Meet"
+      ],
+      "platform": "PC/PS5/Mobile",
+      "icon": "🏯",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 213,
+      "name": "新楓之谷",
+      "alias": [
+        "maplestory",
+        "楓之谷",
+        "冒險島"
+      ],
+      "platform": "PC",
+      "icon": "🍁",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 214,
+      "name": "鳴潮",
+      "alias": [
+        "wuthering waves",
+        "wuwa",
+        "Wuthering Waves"
+      ],
+      "platform": "PC/PS5/iOS/Android",
+      "icon": "🌊",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 215,
+      "name": "勝利女神:妮姬",
+      "alias": [
+        "goddess of victory nikke",
+        "nikke",
+        "妮姬",
+        "NIKKE: Goddess of Victory",
+        "勝利女神nikke"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🔫",
+      "category": "射擊RPG"
+    },
+    {
+      "auditIndex": 216,
+      "name": "神魔之塔",
+      "alias": [
+        "tower of saviors",
+        "tos",
+        "神魔"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🗼",
+      "category": "轉珠RPG"
+    },
+    {
+      "auditIndex": 217,
+      "name": "七騎士",
+      "alias": [
+        "seven knights",
+        "7knights",
+        "七騎士"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🛡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 218,
+      "name": "七騎士2",
+      "alias": [
+        "seven knights 2",
+        "7knights2"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 219,
+      "name": "暗黑破壞神3",
+      "alias": [
+        "diablo 3",
+        "d3",
+        "暗黑3"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "👿",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 220,
+      "name": "暗黑破壞神2 獄火重生",
+      "alias": [
+        "diablo 2 resurrected",
+        "d2r",
+        "暗黑2重製"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🔥",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 221,
+      "name": "暗黑破壞神 永生不朽",
+      "alias": [
+        "diablo immortal",
+        "暗黑手遊"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "💀",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 222,
+      "name": "流亡黯道2",
+      "alias": [
+        "path of exile 2",
+        "poe2",
+        "流亡2",
+        "Path of Exile 2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "⚫",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 223,
+      "name": "流亡黯道 手機版",
+      "alias": [
+        "path of exile mobile",
+        "poe mobile"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📱",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 224,
+      "name": "魔獸世界",
+      "alias": [
+        "world of warcraft",
+        "wow",
+        "魔獸"
+      ],
+      "platform": "PC",
+      "icon": "🦁",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 225,
+      "name": "魔獸世界 經典版",
+      "alias": [
+        "wow classic",
+        "魔獸經典",
+        "懷舊服"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 226,
+      "name": "魔獸世界 巫妖王之怒經典版",
+      "alias": [
+        "wow wotlk",
+        "巫妖王",
+        "wlk"
+      ],
+      "platform": "PC",
+      "icon": "❄️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 227,
+      "name": "歧路旅人 大陸的霸者",
+      "alias": [
+        "octopath traveler cotc",
+        "八方旅人手遊",
+        "大陸的霸者"
+      ],
+      "platform": "iOS/Android",
+      "icon": "👑",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 228,
+      "name": "刺客教條 幻象",
+      "alias": [
+        "assassins creed mirage",
+        "ac mirage",
+        "刺客幻象"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🗡️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 229,
+      "name": "刺客教條 維京紀元",
+      "alias": [
+        "assassins creed valhalla",
+        "ac valhalla",
+        "刺客維京"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 230,
+      "name": "刺客教條 奧德賽",
+      "alias": [
+        "assassins creed odyssey",
+        "ac odyssey",
+        "刺客希臘"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🏛️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 231,
+      "name": "刺客教條 起源",
+      "alias": [
+        "assassins creed origins",
+        "ac origins",
+        "刺客埃及"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🏺",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 232,
+      "name": "刺客教條 影",
+      "alias": [
+        "assassins creed shadows",
+        "ac shadows",
+        "刺客日本",
+        "Assassin's Creed Shadows",
+        "刺客教條暗影"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🥷",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 233,
+      "name": "俠盜獵車手5",
+      "alias": [
+        "gta 5",
+        "gta v",
+        "俠盜5"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🚗",
+      "category": "開放世界"
+    },
+    {
+      "auditIndex": 234,
+      "name": "俠盜獵車手 Online",
+      "alias": [
+        "gta online",
+        "gtao"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "💰",
+      "category": "開放世界"
+    },
+    {
+      "auditIndex": 235,
+      "name": "碧血狂殺2",
+      "alias": [
+        "red dead redemption 2",
+        "rdr2",
+        "大鏢客2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🤠",
+      "category": "開放世界"
+    },
+    {
+      "auditIndex": 236,
+      "name": "碧血狂殺 Online",
+      "alias": [
+        "red dead online",
+        "rdo"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🐴",
+      "category": "開放世界"
+    },
+    {
+      "auditIndex": 237,
+      "name": "巫師 重製版",
+      "alias": [
+        "the witcher remake",
+        "witcher remake"
+      ],
+      "platform": "PC/PS5",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 238,
+      "name": "異塵餘生76",
+      "alias": [
+        "fallout 76",
+        "fo76",
+        "輻射76"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "💣",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 239,
+      "name": "明日方舟 終末地",
+      "alias": [
+        "arknights endfield",
+        "方舟終末地",
+        "Arknights: Endfield",
+        "明日方舟終末地",
+        "終末地"
+      ],
+      "platform": "PC/iOS/Android/PS5",
+      "icon": "🌍",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 240,
+      "name": "少女前線2 追放",
+      "alias": [
+        "girls frontline 2",
+        "gf2",
+        "少前2",
+        "Girls' Frontline 2: Exilium",
+        "少女前線2",
+        "追放"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🎯",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 241,
+      "name": "陰陽師",
+      "alias": [
+        "onmyoji",
+        "陰陽師"
+      ],
+      "platform": "iOS/Android/PC",
+      "icon": "👻",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 242,
+      "name": "第五人格",
+      "alias": [
+        "identity v",
+        "idv",
+        "第五"
+      ],
+      "platform": "iOS/Android/PC",
+      "icon": "🎭",
+      "category": "非對稱對戰"
+    },
+    {
+      "auditIndex": 243,
+      "name": "英雄聯盟 激鬥峽谷",
+      "alias": [
+        "wild rift",
+        "wr",
+        "手遊lol"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📱",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 244,
+      "name": "絕地求生 Mobile",
+      "alias": [
+        "pubg mobile",
+        "pubgm",
+        "手遊吃雞",
+        "PUBG MOBILE：絕地求生M",
+        "絕地求生M"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📱",
+      "category": "大逃殺"
+    },
+    {
+      "auditIndex": 245,
+      "name": "天堂W",
+      "alias": [
+        "lineage w",
+        "天堂w"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "⚔️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 246,
+      "name": "天堂M",
+      "alias": [
+        "lineage m",
+        "天堂m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🗡️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 247,
+      "name": "天堂2M",
+      "alias": [
+        "lineage 2m",
+        "天堂2m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏰",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 248,
+      "name": "石器時代 覺醒",
+      "alias": [
+        "stone age awakening",
+        "石器覺醒"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🦴",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 249,
+      "name": "石器時代M",
+      "alias": [
+        "stone age m",
+        "石器m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🦕",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 250,
+      "name": "黑暗靈魂2 原罪學者",
+      "alias": [
+        "dark souls 2",
+        "ds2",
+        "黑魂2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "👑",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 251,
+      "name": "決勝時刻 現代戰爭3",
+      "alias": [
+        "call of duty mw3",
+        "cod mw3",
+        "決勝時刻"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🔫",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 252,
+      "name": "決勝時刻 Mobile",
+      "alias": [
+        "call of duty mobile",
+        "codm",
+        "決勝手遊"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📱",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 253,
+      "name": "戰地風雲2042",
+      "alias": [
+        "battlefield 2042",
+        "bf2042",
+        "戰地2042"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🎖️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 254,
+      "name": "星際戰甲",
+      "alias": [
+        "warframe",
+        "戰甲",
+        "wf"
+      ],
+      "platform": "PC/PS5/PS4/Switch/Xbox",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 255,
+      "name": "天命2",
+      "alias": [
+        "destiny 2",
+        "d2",
+        "命運2"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🌌",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 256,
+      "name": "邊緣禁地3",
+      "alias": [
+        "borderlands 3",
+        "bl3",
+        "無主之地3"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🎭",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 257,
+      "name": "全境封鎖2",
+      "alias": [
+        "the division 2",
+        "division 2",
+        "全境2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🦠",
+      "category": "射擊RPG"
+    },
+    {
+      "auditIndex": 258,
+      "name": "FIFA 24 / EA Sports FC 24",
+      "alias": [
+        "fc24",
+        "fifa24",
+        "足球"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "⚽",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 259,
+      "name": "NBA 2K24",
+      "alias": [
+        "nba2k24",
+        "2k24",
+        "籃球"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🏀",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 260,
+      "name": "跑跑卡丁車",
+      "alias": [
+        "kartrider",
+        "跑跑",
+        "kart"
+      ],
+      "platform": "PC",
+      "icon": "🏎️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 261,
+      "name": "跑跑卡丁車 Rush+",
+      "alias": [
+        "kartrider rush+",
+        "跑跑手遊"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🚗",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 262,
+      "name": "極速領域",
+      "alias": [
+        "kartrider drift",
+        "跑跑漂移"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🏁",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 263,
+      "name": "仙劍奇俠傳",
+      "alias": [
+        "chinese paladin",
+        "仙劍1",
+        "仙劍"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 264,
+      "name": "仙劍奇俠傳二",
+      "alias": [
+        "chinese paladin 2",
+        "仙劍2"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 265,
+      "name": "仙劍奇俠傳三",
+      "alias": [
+        "chinese paladin 3",
+        "仙劍3"
+      ],
+      "platform": "PC",
+      "icon": "🌸",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 266,
+      "name": "仙劍奇俠傳四",
+      "alias": [
+        "chinese paladin 4",
+        "仙劍4"
+      ],
+      "platform": "PC",
+      "icon": "🌙",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 267,
+      "name": "仙劍奇俠傳五",
+      "alias": [
+        "chinese paladin 5",
+        "仙劍5"
+      ],
+      "platform": "PC",
+      "icon": "☀️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 268,
+      "name": "仙劍奇俠傳六",
+      "alias": [
+        "chinese paladin 6",
+        "仙劍6"
+      ],
+      "platform": "PC",
+      "icon": "🔮",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 269,
+      "name": "仙劍奇俠傳七",
+      "alias": [
+        "chinese paladin 7",
+        "仙劍7"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "💫",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 270,
+      "name": "古劍奇譚",
+      "alias": [
+        "gujian",
+        "古劍1"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 271,
+      "name": "古劍奇譚二",
+      "alias": [
+        "gujian 2",
+        "古劍2"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 272,
+      "name": "古劍奇譚三",
+      "alias": [
+        "gujian 3",
+        "古劍3"
+      ],
+      "platform": "PC",
+      "icon": "🌟",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 273,
+      "name": "大富翁系列",
+      "alias": [
+        "richman",
+        "大富翁4",
+        "大富翁"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🎲",
+      "category": "桌遊"
+    },
+    {
+      "auditIndex": 274,
+      "name": "金庸群俠傳",
+      "alias": [
+        "heroes of jin yong",
+        "金庸"
+      ],
+      "platform": "PC",
+      "icon": "🥋",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 275,
+      "name": "武林群俠傳",
+      "alias": [
+        "tale of wuxia",
+        "武林"
+      ],
+      "platform": "PC",
+      "icon": "🏯",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 276,
+      "name": "俠客風雲傳",
+      "alias": [
+        "tale of wuxia prequel",
+        "俠客"
+      ],
+      "platform": "PC",
+      "icon": "🎭",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 277,
+      "name": "河洛群俠傳",
+      "alias": [
+        "ho tu lo shu heroes",
+        "河洛"
+      ],
+      "platform": "PC",
+      "icon": "📜",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 278,
+      "name": "空洞騎士",
+      "alias": [
+        "hollow knight",
+        "hk",
+        "窟窿騎士"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🐛",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 279,
+      "name": "空洞騎士 絲之歌",
+      "alias": [
+        "hollow knight silksong",
+        "silksong",
+        "Hollow Knight: Silksong",
+        "絲之歌",
+        "空洞騎士絲之歌"
+      ],
+      "platform": "PC/PS5/Switch/Xbox",
+      "icon": "🦋",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 280,
+      "name": "蔚藍",
+      "alias": [
+        "celeste",
+        "蔚藍",
+        "celeste"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🍓",
+      "category": "平台動作"
+    },
+    {
+      "auditIndex": 281,
+      "name": "死亡細胞",
+      "alias": [
+        "dead cells",
+        "死細胞"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "🧪",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 282,
+      "name": "哈迪斯",
+      "alias": [
+        "hades",
+        "黑帝斯"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🔥",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 283,
+      "name": "以撒的結合 重生",
+      "alias": [
+        "binding of isaac rebirth",
+        "以撒"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "😢",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 284,
+      "name": "挺進地牢",
+      "alias": [
+        "進入地牢",
+        "enter the gungeon",
+        "槍牢"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🔫",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 285,
+      "name": "吸血鬼倖存者",
+      "alias": [
+        "vampire survivors",
+        "吸血鬼生存者"
+      ],
+      "platform": "PC/Switch/iOS/Android",
+      "icon": "🧛",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 286,
+      "name": "星露谷物語",
+      "alias": [
+        "stardew valley",
+        "星露谷"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "🌾",
+      "category": "模擬經營"
+    },
+    {
+      "auditIndex": 287,
+      "name": "泰拉瑞亞",
+      "alias": [
+        "terraria"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "⛏️",
+      "category": "沙盒"
+    },
+    {
+      "auditIndex": 288,
+      "name": "饑荒",
+      "alias": [
+        "dont starve",
+        "飢荒",
+        "ds"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "🔥",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 289,
+      "name": "饑荒 聯機版",
+      "alias": [
+        "dont starve together",
+        "dst",
+        "飢荒聯機"
+      ],
+      "platform": "PC/PS4",
+      "icon": "👥",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 290,
+      "name": "邊緣世界",
+      "alias": [
+        "rimworld",
+        "環世界"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🌍",
+      "category": "模擬經營"
+    },
+    {
+      "auditIndex": 291,
+      "name": "命運石之門",
+      "alias": [
+        "steins gate",
+        "石頭門",
+        "sg"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "⏰",
+      "category": "視覺小說"
+    },
+    {
+      "auditIndex": 292,
+      "name": "命運石之門0",
+      "alias": [
+        "steins gate 0",
+        "石頭門0"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🔬",
+      "category": "視覺小說"
+    },
+    {
+      "auditIndex": 293,
+      "name": "CLANNAD",
+      "alias": [
+        "clannad",
+        "團子大家族"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🍡",
+      "category": "視覺小說"
+    },
+    {
+      "auditIndex": 294,
+      "name": "Little Busters!",
+      "alias": [
+        "little busters",
+        "lb",
+        "小小克星"
+      ],
+      "platform": "PC/Switch",
+      "icon": "⚾",
+      "category": "視覺小說"
+    },
+    {
+      "auditIndex": 295,
+      "name": "Fate/stay night",
+      "alias": [
+        "fate sn",
+        "fsn",
+        "fate"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "視覺小說"
+    },
+    {
+      "auditIndex": 296,
+      "name": "白色相簿2",
+      "alias": [
+        "white album 2",
+        "wa2"
+      ],
+      "platform": "PC/PS3",
+      "icon": "❄️",
+      "category": "視覺小說"
+    },
+    {
+      "auditIndex": 297,
+      "name": "極限脫出系列",
+      "alias": [
+        "zero escape",
+        "999",
+        "極限脫出"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🔢",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 298,
+      "name": "AI：夢境檔案",
+      "alias": [
+        "ai somnium files",
+        "ai夢境"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "👁️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 299,
+      "name": "彈丸論破",
+      "alias": [
+        "danganronpa",
+        "彈丸1"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🐻",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 300,
+      "name": "彈丸論破2",
+      "alias": [
+        "danganronpa 2",
+        "彈丸2"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🏝️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 301,
+      "name": "彈丸論破V3",
+      "alias": [
+        "danganronpa v3",
+        "彈丸v3"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🎭",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 302,
+      "name": "逆轉裁判系列",
+      "alias": [
+        "ace attorney",
+        "逆轉",
+        "逆轉裁判"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "⚖️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 303,
+      "name": "逆轉裁判456 王泥喜精選集",
+      "alias": [
+        "ace attorney 456",
+        "逆轉456"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "👔",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 304,
+      "name": "大逆轉裁判 編年史",
+      "alias": [
+        "great ace attorney",
+        "大逆轉"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🎩",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 305,
+      "name": "幽靈詭計",
+      "alias": [
+        "ghost trick",
+        "幽靈偵探"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "👻",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 306,
+      "name": "異度神劍",
+      "alias": [
+        "xenoblade chronicles",
+        "異度神劍1",
+        "xc1"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 307,
+      "name": "勇氣默示錄2",
+      "alias": [
+        "bravely default 2",
+        "bd2"
+      ],
+      "platform": "Switch/PC",
+      "icon": "📖",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 308,
+      "name": "三角戰略",
+      "alias": [
+        "triangle strategy",
+        "三角策略"
+      ],
+      "platform": "Switch/PC",
+      "icon": "🔺",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 309,
+      "name": "牧場物語 橄欖鎮與希望的大地",
+      "alias": [
+        "story of seasons olive town",
+        "牧場橄欖鎮"
+      ],
+      "platform": "Switch/PC",
+      "icon": "🌿",
+      "category": "模擬經營"
+    },
+    {
+      "auditIndex": 310,
+      "name": "符文工廠4 豪華版",
+      "alias": [
+        "rune factory 4",
+        "rf4"
+      ],
+      "platform": "Switch",
+      "icon": "🏰",
+      "category": "模擬RPG"
+    },
+    {
+      "auditIndex": 311,
+      "name": "哆啦A夢 牧場物語",
+      "alias": [
+        "doraemon story of seasons",
+        "哆啦牧場"
+      ],
+      "platform": "Switch/PC",
+      "icon": "🐱",
+      "category": "模擬經營"
+    },
+    {
+      "auditIndex": 312,
+      "name": "十字軍之王3",
+      "alias": [
+        "crusader kings 3",
+        "ck3"
+      ],
+      "platform": "PC/PS5",
+      "icon": "👑",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 313,
+      "name": "鋼鐵雄心4",
+      "alias": [
+        "hearts of iron 4",
+        "hoi4"
+      ],
+      "platform": "PC",
+      "icon": "🎖️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 314,
+      "name": "群星",
+      "alias": [
+        "stellaris",
+        "群星"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🌌",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 315,
+      "name": "歐陸風雲4",
+      "alias": [
+        "europa universalis 4",
+        "eu4"
+      ],
+      "platform": "PC",
+      "icon": "🗺️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 316,
+      "name": "全軍破敵 戰鎚3",
+      "alias": [
+        "total war warhammer 3",
+        "戰鎚3",
+        "Total War: Warhammer III",
+        "戰鎚全軍破敵3",
+        "tww3"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 317,
+      "name": "龍背上的騎兵3",
+      "alias": [
+        "drakengard 3",
+        "誓血龍騎士3"
+      ],
+      "platform": "PS3",
+      "icon": "🐉",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 318,
+      "name": "聲之形",
+      "alias": [
+        "voice of cards",
+        "聲之卡牌"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🃏",
+      "category": "卡牌RPG"
+    },
+    {
+      "auditIndex": 319,
+      "name": "女神異聞錄5 皇家版",
+      "alias": [
+        "persona 5 royal",
+        "p5r",
+        "p5"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🎭",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 320,
+      "name": "女神異聞錄4 黃金版",
+      "alias": [
+        "persona 4 golden",
+        "p4g",
+        "p4"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "📺",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 321,
+      "name": "女神異聞錄3 Reload",
+      "alias": [
+        "persona 3 reload",
+        "p3r",
+        "p3",
+        "Persona 3 Reload",
+        "女神異聞錄3 reload"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🌙",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 322,
+      "name": "真女神轉生5 復仇",
+      "alias": [
+        "shin megami tensei 5",
+        "smt5",
+        "真5",
+        "Shin Megami Tensei V: Vengeance",
+        "smt v vengeance",
+        "真女神轉生5 vengeance",
+        "真女神轉生5復仇"
+      ],
+      "platform": "PC/PS5/PS4/Switch/Xbox",
+      "icon": "😈",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 323,
+      "name": "靈魂駭客2",
+      "alias": [
+        "soul hackers 2",
+        "靈魂駭客2"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "💻",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 324,
+      "name": "如龍 極2",
+      "alias": [
+        "yakuza kiwami 2",
+        "人龍極2",
+        "如龍極2"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🔥",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 325,
+      "name": "如龍7 光與暗的去向",
+      "alias": [
+        "yakuza 7",
+        "人龍7",
+        "如龍7"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 326,
+      "name": "審判之眼 死神的遺言",
+      "alias": [
+        "judgment",
+        "審判之眼"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "👁️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 327,
+      "name": "戰場女武神4",
+      "alias": [
+        "valkyria chronicles 4",
+        "戰場女武神4",
+        "vc4"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🎖️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 328,
+      "name": "戰場女武神 重製版",
+      "alias": [
+        "valkyria chronicles remastered",
+        "戰場女武神1"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "⚔️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 329,
+      "name": "十三機兵防衛圈",
+      "alias": [
+        "13 sentinels",
+        "13機兵",
+        "十三機兵",
+        "13 sentinels aegis rim",
+        "13s"
+      ],
+      "platform": "PS4/Switch",
+      "icon": "🤖",
+      "category": "策略AVG"
+    },
+    {
+      "auditIndex": 330,
+      "name": "奧丁領域 里普特拉西爾",
+      "alias": [
+        "odin sphere",
+        "奧丁領域"
+      ],
+      "platform": "PS4",
+      "icon": "🌸",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 331,
+      "name": "魔女與百騎兵",
+      "alias": [
+        "the witch and hundred knight",
+        "魔女百騎兵"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🧙‍♀️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 332,
+      "name": "魔界戰記7",
+      "alias": [
+        "魔界戰記",
+        "disgaea",
+        "disgaea 7",
+        "d7"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "👿",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 333,
+      "name": "太鼓之達人",
+      "alias": [
+        "taiko no tatsujin",
+        "太鼓達人"
+      ],
+      "platform": "PS4/Switch",
+      "icon": "🥁",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 334,
+      "name": "初音未來 Project DIVA",
+      "alias": [
+        "project diva",
+        "初音",
+        "miku"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🎤",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 335,
+      "name": "偶像大師 星耀季節",
+      "alias": [
+        "idolmaster starlit season",
+        "偶像大師"
+      ],
+      "platform": "PC/PS4",
+      "icon": "⭐",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 336,
+      "name": "BanG Dream!",
+      "alias": [
+        "bang dream",
+        "少女樂團派對",
+        "邦邦"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🎸",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 337,
+      "name": "Love Live! 學園偶像祭2",
+      "alias": [
+        "love live sifas",
+        "ll",
+        "拉拉"
+      ],
+      "platform": "iOS/Android",
+      "icon": "💖",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 338,
+      "name": "迷宮飯 千年國度的荒唐食譜",
+      "alias": [
+        "dungeon meshi",
+        "迷宮飯"
+      ],
+      "platform": "Switch",
+      "icon": "🍳",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 339,
+      "name": "符文工房",
+      "alias": [
+        "rune factory",
+        "符文工廠"
+      ],
+      "platform": "Switch/PC",
+      "icon": "🌾",
+      "category": "模擬RPG"
+    },
+    {
+      "auditIndex": 340,
+      "name": "奇蹟餐廳",
+      "alias": [
+        "cook serve delicious",
+        "餐廳",
+        "csd"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "👨‍🍳",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 341,
+      "name": "藍色反射 帝",
+      "alias": [
+        "blue reflection tie",
+        "藍色反射2"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "💙",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 342,
+      "name": "萊莎的鍊金工房",
+      "alias": [
+        "atelier ryza",
+        "萊莎",
+        "ryza"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "⚗️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 343,
+      "name": "萊莎的鍊金工房2",
+      "alias": [
+        "atelier ryza 2",
+        "萊莎2"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🧪",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 344,
+      "name": "萊莎的鍊金工房3",
+      "alias": [
+        "atelier ryza 3",
+        "萊莎3"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "✨",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 345,
+      "name": "最終幻想15",
+      "alias": [
+        "final fantasy 15",
+        "ff15",
+        "最終幻想15"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🚗",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 346,
+      "name": "最終幻想 紛爭NT",
+      "alias": [
+        "dissidia final fantasy nt",
+        "dissidia"
+      ],
+      "platform": "PS4/PC",
+      "icon": "⚔️",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 347,
+      "name": "王國之心 記憶旋律",
+      "alias": [
+        "kingdom hearts melody",
+        "kh melody"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🎵",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 348,
+      "name": "鬼滅之刃 火之神血風譚",
+      "alias": [
+        "demon slayer",
+        "鬼滅之刃",
+        "鬼滅"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🔥",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 349,
+      "name": "航海王 時光旅詩",
+      "alias": [
+        "one piece odyssey",
+        "海賊王"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🏴‍☠️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 350,
+      "name": "七龍珠Z 卡卡洛特",
+      "alias": [
+        "dragon ball z kakarot",
+        "七龍珠z"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🟠",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 351,
+      "name": "七龍珠 電光火石Zero",
+      "alias": [
+        "dragon ball sparking zero",
+        "七龍珠閃電"
+      ],
+      "platform": "PC/PS5",
+      "icon": "⚡",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 352,
+      "name": "火影忍者 終極風暴4",
+      "alias": [
+        "naruto storm 4",
+        "火影風暴4"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🍃",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 353,
+      "name": "我的英雄學院 One's Justice 2",
+      "alias": [
+        "my hero academia",
+        "我英"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "💪",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 354,
+      "name": "JoJo的奇妙冒險 群星對決R",
+      "alias": [
+        "jojo asbr",
+        "jojo"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "⭐",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 355,
+      "name": "交響曲傳奇 重製版",
+      "alias": [
+        "tales of symphonia",
+        "交響曲傳奇"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🎵",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 356,
+      "name": "狂野之心",
+      "alias": [
+        "wild hearts",
+        "狂野之心"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🐉",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 357,
+      "name": "英雄傳說 創之軌跡",
+      "alias": [
+        "the legend of heroes hajimari",
+        "創軌"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 358,
+      "name": "英雄傳說 閃之軌跡4",
+      "alias": [
+        "trails of cold steel 4",
+        "閃軌4"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 359,
+      "name": "英雄傳說 黎之軌跡",
+      "alias": [
+        "kuro no kiseki",
+        "黎軌",
+        "The Legend of Heroes: Trails through Daybreak",
+        "trails through daybreak",
+        "黎之軌跡",
+        "英雄傳說黎之軌跡"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🌙",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 360,
+      "name": "英雄傳說 界之軌跡",
+      "alias": [
+        "kai no kiseki",
+        "界軌"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🌌",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 361,
+      "name": "神鬼寓言",
+      "alias": [
+        "fable",
+        "神鬼寓言"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🧙",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 362,
+      "name": "天外世界",
+      "alias": [
+        "the outer worlds",
+        "外部世界"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🌌",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 363,
+      "name": "耀西的手工世界",
+      "alias": [
+        "yoshis crafted world",
+        "耀西"
+      ],
+      "platform": "Switch",
+      "icon": "🦎",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 364,
+      "name": "紙片瑪利歐 摺紙國王",
+      "alias": [
+        "paper mario origami king",
+        "紙片瑪利歐"
+      ],
+      "platform": "Switch",
+      "icon": "📄",
+      "category": "冒險RPG"
+    },
+    {
+      "auditIndex": 365,
+      "name": "ARMS",
+      "alias": [
+        "arms",
+        "神臂鬥士"
+      ],
+      "platform": "Switch",
+      "icon": "🥊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 366,
+      "name": "異度神劍X",
+      "alias": [
+        "xenoblade chronicles x",
+        "異度x"
+      ],
+      "platform": "Switch",
+      "icon": "🌍",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 367,
+      "name": "碧藍幻想Versus 新世紀",
+      "alias": [
+        "granblue fantasy versus rising",
+        "gbvsr",
+        "Granblue Fantasy Versus: Rising",
+        "gbvs rising",
+        "碧藍幻想versus rising"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🥊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 368,
+      "name": "DNF Duel",
+      "alias": [
+        "dnf duel",
+        "地下城決鬥"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "⚔️",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 369,
+      "name": "聖騎士之戰 奮戰",
+      "alias": [
+        "聖騎士之戰",
+        "guilty gear strive",
+        "gg strive",
+        "ggst",
+        "罪惡裝備 奮戰"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🎸",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 370,
+      "name": "蒼翼默示錄",
+      "alias": [
+        "blazblue",
+        "bb",
+        "蒼翼"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "💙",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 371,
+      "name": "無期迷途",
+      "alias": [
+        "path to nowhere",
+        "ptn",
+        "無期"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⛓️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 372,
+      "name": "重返未來1999",
+      "alias": [
+        "reverse 1999",
+        "1999",
+        "重返",
+        "Reverse: 1999"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "⏰",
+      "category": "回合RPG"
+    },
+    {
+      "auditIndex": 373,
+      "name": "塵白禁區",
+      "alias": [
+        "snowbreak",
+        "塵白",
+        "Snowbreak: Containment Zone",
+        "塵白禁域"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "❄️",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 374,
+      "name": "白夜極光",
+      "alias": [
+        "alchemy stars",
+        "白夜",
+        "as"
+      ],
+      "platform": "iOS/Android",
+      "icon": "✨",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 375,
+      "name": "幻塔",
+      "alias": [
+        "tower of fantasy",
+        "tof",
+        "幻塔"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🗼",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 376,
+      "name": "戰雙帕彌什",
+      "alias": [
+        "punishing gray raven",
+        "pgr",
+        "戰雙"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 377,
+      "name": "荒野亂鬥",
+      "alias": [
+        "brawl stars",
+        "荒野",
+        "bs"
+      ],
+      "platform": "iOS/Android",
+      "icon": "💥",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 378,
+      "name": "海島奇兵",
+      "alias": [
+        "boom beach",
+        "海島"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏝️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 379,
+      "name": "萬國覺醒",
+      "alias": [
+        "rise of kingdoms",
+        "rok",
+        "萬國"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏰",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 380,
+      "name": "率土之濱",
+      "alias": [
+        "three kingdoms tactics",
+        "率土"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🗡️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 381,
+      "name": "三國志戰略版",
+      "alias": [
+        "three kingdoms strategy",
+        "三戰"
+      ],
+      "platform": "iOS/Android",
+      "icon": "📜",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 382,
+      "name": "文明與征服",
+      "alias": [
+        "civilization conquest",
+        "文征"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌍",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 383,
+      "name": "劍與遠征",
+      "alias": [
+        "afk arena",
+        "afk",
+        "劍遠"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "放置RPG"
+    },
+    {
+      "auditIndex": 384,
+      "name": "劍與遠征2",
+      "alias": [
+        "afk journey",
+        "afk2",
+        "劍遠2"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🗡️",
+      "category": "放置RPG"
+    },
+    {
+      "auditIndex": 385,
+      "name": "放置少女",
+      "alias": [
+        "idle girl",
+        "放少"
+      ],
+      "platform": "iOS/Android",
+      "icon": "👧",
+      "category": "放置RPG"
+    },
+    {
+      "auditIndex": 386,
+      "name": "深空之眼",
+      "alias": [
+        "aether gazer",
+        "Aether Gazer"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌌",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 387,
+      "name": "夢幻西遊",
+      "alias": [
+        "fantasy westward journey",
+        "夢幻",
+        "mhxy"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🐒",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 388,
+      "name": "大話西遊",
+      "alias": [
+        "westward journey",
+        "大話"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌸",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 389,
+      "name": "夢幻新誅仙",
+      "alias": [
+        "jade dynasty mobile",
+        "誅仙"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 390,
+      "name": "天涯明月刀手遊",
+      "alias": [
+        "moonlight blade mobile",
+        "天刀m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌙",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 391,
+      "name": "楚留香",
+      "alias": [
+        "chu liu xiang",
+        "楚留香"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🎭",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 392,
+      "name": "劍俠情緣",
+      "alias": [
+        "swordsman love",
+        "劍俠"
+      ],
+      "platform": "iOS/Android",
+      "icon": "💕",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 393,
+      "name": "暗黑地牢",
+      "alias": [
+        "darkest dungeon",
+        "暗黑地牢",
+        "dd"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "🕯️",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 394,
+      "name": "殺戮尖塔",
+      "alias": [
+        "slay the spire",
+        "sts"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "🃏",
+      "category": "卡牌Roguelike"
+    },
+    {
+      "auditIndex": 395,
+      "name": "影之詩",
+      "alias": [
+        "shadowverse",
+        "sv",
+        "影詩"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🃏",
+      "category": "卡牌"
+    },
+    {
+      "auditIndex": 396,
+      "name": "爐石傳說",
+      "alias": [
+        "hearthstone",
+        "hs",
+        "爐石"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🔥",
+      "category": "卡牌"
+    },
+    {
+      "auditIndex": 397,
+      "name": "符文大地傳說",
+      "alias": [
+        "legends of runeterra",
+        "lor",
+        "符文"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🎴",
+      "category": "卡牌"
+    },
+    {
+      "auditIndex": 398,
+      "name": "開心消消樂",
+      "alias": [
+        "happy match",
+        "消消樂"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌈",
+      "category": "休閒"
+    },
+    {
+      "auditIndex": 399,
+      "name": "貪吃蛇大作戰",
+      "alias": [
+        "slither io",
+        "貪吃蛇"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🐍",
+      "category": "休閒"
+    },
+    {
+      "auditIndex": 400,
+      "name": "球球大作戰",
+      "alias": [
+        "agar io mobile",
+        "球球"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚪",
+      "category": "休閒"
+    },
+    {
+      "auditIndex": 401,
+      "name": "Free Fire",
+      "alias": [
+        "free fire",
+        "我要活下去",
+        "ff"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🔥",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 402,
+      "name": "使命召喚手遊",
+      "alias": [
+        "cod mobile",
+        "codm",
+        "使命召喚m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🔫",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 403,
+      "name": "天堂2革命",
+      "alias": [
+        "lineage 2 revolution",
+        "天堂2r"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 404,
+      "name": "黑色沙漠M",
+      "alias": [
+        "black desert mobile",
+        "黑沙m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏜️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 405,
+      "name": "MMORPG 奧丁",
+      "alias": [
+        "odin valhalla rising",
+        "奧丁"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🛡️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 406,
+      "name": "劍靈 革命",
+      "alias": [
+        "blade and soul revolution",
+        "劍靈m"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🗡️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 407,
+      "name": "食物語",
+      "alias": [
+        "food fantasy",
+        "食物語"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🍜",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 408,
+      "name": "灰燼戰線",
+      "alias": [
+        "ash arms",
+        "灰燼"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🔧",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 409,
+      "name": "最後的克勞蒂亞",
+      "alias": [
+        "last cloudia",
+        "克勞蒂亞",
+        "lc"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚡",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 410,
+      "name": "另一個伊甸",
+      "alias": [
+        "another eden",
+        "伊甸",
+        "ae"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌿",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 411,
+      "name": "機戰傭兵VI 境界天火",
+      "alias": [
+        "armored core vi",
+        "acvi"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "⚙️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 412,
+      "name": "神諭 原罪2",
+      "alias": [
+        "divinity original sin 2",
+        "dos2",
+        "神諭2"
+      ],
+      "platform": "PC/PS4/Switch/Xbox",
+      "icon": "📜",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 413,
+      "name": "永恆之柱2",
+      "alias": [
+        "pillars of eternity 2",
+        "poe2",
+        "永恆之柱"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⚔️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 414,
+      "name": "開拓者 正義之怒",
+      "alias": [
+        "pathfinder wrath",
+        "開拓者"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🗡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 415,
+      "name": "質量效應 傳奇版",
+      "alias": [
+        "mass effect legendary",
+        "me",
+        "質量效應"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🚀",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 416,
+      "name": "質量效應 仙女座",
+      "alias": [
+        "mass effect andromeda",
+        "mea"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🌌",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 417,
+      "name": "龍騰世紀 審判",
+      "alias": [
+        "dragon age inquisition",
+        "dai",
+        "龍騰"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 418,
+      "name": "龍騰世紀 恐懼之狼",
+      "alias": [
+        "dragon age dreadwolf",
+        "dreadwolf"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌙",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 419,
+      "name": "控制",
+      "alias": [
+        "control",
+        "控制"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🏢",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 420,
+      "name": "量子裂痕",
+      "alias": [
+        "quantum break",
+        "量子"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "⏱️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 421,
+      "name": "心靈殺手",
+      "alias": [
+        "alan wake",
+        "心靈殺手1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔦",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 422,
+      "name": "心靈殺手2",
+      "alias": [
+        "alan wake 2",
+        "心靈殺手2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "📖",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 423,
+      "name": "馬克思佩恩",
+      "alias": [
+        "max payne",
+        "馬克思"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "🔫",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 424,
+      "name": "毀滅戰士 永恆",
+      "alias": [
+        "doom eternal",
+        "doom",
+        "毀滅戰士"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "😈",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 425,
+      "name": "毀滅戰士",
+      "alias": [
+        "doom 2016",
+        "doom2016"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🔥",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 426,
+      "name": "德軍總部 新血脈",
+      "alias": [
+        "wolfenstein youngblood",
+        "德軍總部"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "⚔️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 427,
+      "name": "德軍總部 新巨像",
+      "alias": [
+        "wolfenstein 2",
+        "新巨像"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🛡️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 428,
+      "name": "古墓奇兵 暗影",
+      "alias": [
+        "tomb raider shadow",
+        "古墓暗影"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🏺",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 429,
+      "name": "古墓奇兵 崛起",
+      "alias": [
+        "tomb raider rise",
+        "古墓崛起"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🗻",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 430,
+      "name": "古墓奇兵",
+      "alias": [
+        "tomb raider 2013",
+        "古墓2013"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⛰️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 431,
+      "name": "古墓奇兵 重啟三部曲",
+      "alias": [
+        "tomb raider trilogy",
+        "古墓三部曲"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "📦",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 432,
+      "name": "正當防衛4",
+      "alias": [
+        "just cause 4",
+        "jc4",
+        "正當防衛"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💥",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 433,
+      "name": "正當防衛3",
+      "alias": [
+        "just cause 3",
+        "jc3"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🌴",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 434,
+      "name": "瘋狂麥斯",
+      "alias": [
+        "mad max",
+        "瘋狂麥斯"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🏜️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 435,
+      "name": "黑道聖徒 重啟版",
+      "alias": [
+        "saints row reboot",
+        "黑道聖徒"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🚗",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 436,
+      "name": "看門狗 自由軍團",
+      "alias": [
+        "watch dogs legion",
+        "看門狗3"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "📱",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 437,
+      "name": "看門狗2",
+      "alias": [
+        "watch dogs 2",
+        "看門狗2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💻",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 438,
+      "name": "看門狗",
+      "alias": [
+        "watch dogs",
+        "看門狗1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔐",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 439,
+      "name": "極地戰嚎5",
+      "alias": [
+        "far cry 5",
+        "fc5"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⛪",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 440,
+      "name": "極地戰嚎 野蠻紀元",
+      "alias": [
+        "far cry primal",
+        "fc primal"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🦕",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 441,
+      "name": "刺客任務3",
+      "alias": [
+        "hitman 3",
+        "hitman",
+        "殺手3"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🎯",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 442,
+      "name": "刺客任務2",
+      "alias": [
+        "hitman 2",
+        "殺手2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔫",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 443,
+      "name": "刺客任務",
+      "alias": [
+        "hitman 2016",
+        "殺手1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🎩",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 444,
+      "name": "冤罪殺機2",
+      "alias": [
+        "dishonored 2",
+        "冤罪2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🎭",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 445,
+      "name": "冤罪殺機",
+      "alias": [
+        "dishonored",
+        "冤罪1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⚔️",
+      "category": "潛行"
+    },
+    {
+      "auditIndex": 446,
+      "name": "掠食",
+      "alias": [
+        "prey",
+        "掠食"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "👽",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 447,
+      "name": "異塵餘生 新維加斯",
+      "alias": [
+        "fallout new vegas",
+        "fnv",
+        "新維加斯"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "🎰",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 448,
+      "name": "異塵餘生3",
+      "alias": [
+        "fallout 3",
+        "fo3",
+        "輻射3"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "☢️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 449,
+      "name": "異塵餘生 戰略版",
+      "alias": [
+        "fallout tactics",
+        "輻射戰略"
+      ],
+      "platform": "PC",
+      "icon": "🎖️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 450,
+      "name": "上古卷軸4 遺忘之都",
+      "alias": [
+        "elder scrolls 4 oblivion",
+        "tes4",
+        "遺忘之都"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "🏰",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 451,
+      "name": "上古卷軸3 晨風",
+      "alias": [
+        "elder scrolls 3 morrowind",
+        "tes3",
+        "晨風"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🌋",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 452,
+      "name": "上古卷軸 Online 高島",
+      "alias": [
+        "eso high isle",
+        "eso高島"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🏝️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 453,
+      "name": "無主之地2",
+      "alias": [
+        "borderlands 2",
+        "bl2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💀",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 454,
+      "name": "無主之地 前傳",
+      "alias": [
+        "borderlands pre sequel",
+        "blps"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🌙",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 455,
+      "name": "小緹娜的奇幻之地",
+      "alias": [
+        "tiny tinas wonderlands",
+        "小緹娜"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🎲",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 456,
+      "name": "戰神3 重製版",
+      "alias": [
+        "god of war 3 remastered",
+        "gow3"
+      ],
+      "platform": "PS4",
+      "icon": "🔥",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 457,
+      "name": "戰神 升天",
+      "alias": [
+        "god of war ascension",
+        "gow ascension"
+      ],
+      "platform": "PS3",
+      "icon": "⚡",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 458,
+      "name": "地平線 山之呼喚",
+      "alias": [
+        "horizon call of the mountain",
+        "地平線vr"
+      ],
+      "platform": "PS5",
+      "icon": "⛰️",
+      "category": "VR"
+    },
+    {
+      "auditIndex": 459,
+      "name": "最後生還者 重製版",
+      "alias": [
+        "the last of us remastered",
+        "tlou remastered"
+      ],
+      "platform": "PS4",
+      "icon": "🌿",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 460,
+      "name": "秘境探險 奈森德瑞克合輯",
+      "alias": [
+        "uncharted collection",
+        "秘境合輯"
+      ],
+      "platform": "PS4/PC",
+      "icon": "📦",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 461,
+      "name": "漫威金鋼狼",
+      "alias": [
+        "marvels wolverine",
+        "wolverine",
+        "金鋼狼",
+        "Marvel's Wolverine",
+        "marvel wolverine"
+      ],
+      "platform": "PS5",
+      "icon": "🐺",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 462,
+      "name": "死亡擱淺 導演剪輯版",
+      "alias": [
+        "death stranding directors cut",
+        "ds dc"
+      ],
+      "platform": "PS5/PC",
+      "icon": "🎬",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 463,
+      "name": "對馬戰鬼 導演剪輯版",
+      "alias": [
+        "ghost of tsushima directors cut",
+        "got dc"
+      ],
+      "platform": "PS5/PC",
+      "icon": "⛩️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 464,
+      "name": "血源詛咒 老獵人",
+      "alias": [
+        "bloodborne old hunters",
+        "血源dlc"
+      ],
+      "platform": "PS4",
+      "icon": "🎭",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 465,
+      "name": "往日不再",
+      "alias": [
+        "days gone",
+        "往日"
+      ],
+      "platform": "PS4/PC",
+      "icon": "🏍️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 466,
+      "name": "直到黎明",
+      "alias": [
+        "until dawn",
+        "直到黎明"
+      ],
+      "platform": "PS4",
+      "icon": "🌙",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 467,
+      "name": "底特律 變人",
+      "alias": [
+        "detroit become human",
+        "底特律"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🤖",
+      "category": "互動電影"
+    },
+    {
+      "auditIndex": 468,
+      "name": "暴雨殺機",
+      "alias": [
+        "heavy rain",
+        "暴雨"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🌧️",
+      "category": "互動電影"
+    },
+    {
+      "auditIndex": 469,
+      "name": "超能殺機 兩個靈魂",
+      "alias": [
+        "beyond two souls",
+        "兩個靈魂"
+      ],
+      "platform": "PC/PS4",
+      "icon": "👻",
+      "category": "互動電影"
+    },
+    {
+      "auditIndex": 470,
+      "name": "重力異想世界",
+      "alias": [
+        "gravity rush",
+        "重力"
+      ],
+      "platform": "PS4",
+      "icon": "🌍",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 471,
+      "name": "重力異想世界完結篇",
+      "alias": [
+        "gravity rush 2",
+        "重力2"
+      ],
+      "platform": "PS4",
+      "icon": "⭐",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 472,
+      "name": "Knack",
+      "alias": [
+        "knack",
+        "納克"
+      ],
+      "platform": "PS4",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 473,
+      "name": "Knack 2",
+      "alias": [
+        "knack 2",
+        "納克2"
+      ],
+      "platform": "PS4",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 474,
+      "name": "拉捷特與克拉克 時空裂縫",
+      "alias": [
+        "ratchet and clank rift apart",
+        "拉捷特"
+      ],
+      "platform": "PS5/PC",
+      "icon": "🔧",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 475,
+      "name": "拉捷特與克拉克",
+      "alias": [
+        "ratchet and clank 2016",
+        "拉捷特2016"
+      ],
+      "platform": "PS4/PC",
+      "icon": "🛠️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 476,
+      "name": "小小大星球3",
+      "alias": [
+        "littlebigplanet 3",
+        "lbp3",
+        "小小大星球"
+      ],
+      "platform": "PS4",
+      "icon": "🧵",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 477,
+      "name": "夢境",
+      "alias": [
+        "dreams",
+        "夢境"
+      ],
+      "platform": "PS4",
+      "icon": "💭",
+      "category": "創作"
+    },
+    {
+      "auditIndex": 478,
+      "name": "GT Sport",
+      "alias": [
+        "gran turismo sport",
+        "gts"
+      ],
+      "platform": "PS4",
+      "icon": "🏁",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 479,
+      "name": "MLB The Show",
+      "alias": [
+        "mlb the show",
+        "mlb"
+      ],
+      "platform": "PS5/PS4/Xbox/Switch",
+      "icon": "⚾",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 480,
+      "name": "惡名昭彰 次子",
+      "alias": [
+        "infamous second son",
+        "次子"
+      ],
+      "platform": "PS4",
+      "icon": "⚡",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 481,
+      "name": "惡名昭彰 破曉",
+      "alias": [
+        "infamous first light",
+        "破曉"
+      ],
+      "platform": "PS4",
+      "icon": "🌅",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 482,
+      "name": "教團1886",
+      "alias": [
+        "the order 1886",
+        "教團"
+      ],
+      "platform": "PS4",
+      "icon": "🔫",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 483,
+      "name": "殺戮地帶 闇影墮落",
+      "alias": [
+        "killzone shadow fall",
+        "殺戮地帶"
+      ],
+      "platform": "PS4",
+      "icon": "🎯",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 484,
+      "name": "超級瑪利歐 3D世界 + 狂怒世界",
+      "alias": [
+        "mario 3d world",
+        "瑪利歐3d世界"
+      ],
+      "platform": "Switch",
+      "icon": "🍄",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 485,
+      "name": "超級瑪利歐派對",
+      "alias": [
+        "mario party",
+        "瑪派"
+      ],
+      "platform": "Switch",
+      "icon": "🎲",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 486,
+      "name": "超級瑪利歐網球 王牌高手",
+      "alias": [
+        "mario tennis aces",
+        "瑪網",
+        "瑪利歐網球 王牌高手",
+        "mta"
+      ],
+      "platform": "Switch",
+      "icon": "🎾",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 487,
+      "name": "超級瑪利歐高爾夫 超級衝衝衝",
+      "alias": [
+        "mario golf super rush",
+        "瑪高爾夫",
+        "瑪利歐高爾夫 超級衝衝衝",
+        "mgsr"
+      ],
+      "platform": "Switch",
+      "icon": "⛳",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 488,
+      "name": "瑪利歐 + 瘋狂兔子 王國之戰",
+      "alias": [
+        "mario rabbids kingdom",
+        "瑪兔1",
+        "瑪利歐+瘋狂兔子 王國之戰",
+        "mario rabbids kingdom battle",
+        "mrkb"
+      ],
+      "platform": "Switch",
+      "icon": "👑",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 489,
+      "name": "密特羅德 生存恐懼",
+      "alias": [
+        "metroid dread",
+        "密特羅德",
+        "銀河戰士"
+      ],
+      "platform": "Switch",
+      "icon": "👾",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 490,
+      "name": "密特羅德 Prime 重製版",
+      "alias": [
+        "metroid prime remastered",
+        "密特羅德prime"
+      ],
+      "platform": "Switch",
+      "icon": "🔫",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 491,
+      "name": "密特羅德 Prime 4",
+      "alias": [
+        "metroid prime 4",
+        "mp4"
+      ],
+      "platform": "Switch",
+      "icon": "🚀",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 492,
+      "name": "大金剛 熱帶急凍",
+      "alias": [
+        "donkey kong tropical freeze",
+        "大金剛"
+      ],
+      "platform": "Switch",
+      "icon": "🍌",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 493,
+      "name": "蓓優妮塔3",
+      "alias": [
+        "bayonetta 3",
+        "魔兵3",
+        "貝姐3"
+      ],
+      "platform": "Switch",
+      "icon": "👠",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 494,
+      "name": "蓓優妮塔2",
+      "alias": [
+        "bayonetta 2",
+        "魔兵2",
+        "貝姐2"
+      ],
+      "platform": "Switch",
+      "icon": "💄",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 495,
+      "name": "蓓優妮塔",
+      "alias": [
+        "bayonetta",
+        "魔兵1",
+        "貝姐1"
+      ],
+      "platform": "Switch/PC/PS4/Xbox",
+      "icon": "🔫",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 496,
+      "name": "異界鎖鏈",
+      "alias": [
+        "astral chain",
+        "鎖鏈",
+        "ac"
+      ],
+      "platform": "Switch",
+      "icon": "⛓️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 497,
+      "name": "魔兵驚天錄",
+      "alias": [
+        "the wonderful 101",
+        "魔兵"
+      ],
+      "platform": "Switch/PC/PS4",
+      "icon": "👥",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 498,
+      "name": "神奇101 重製版",
+      "alias": [
+        "神奇101",
+        "wonderful 101",
+        "神奇",
+        "the wonderful 101 remastered",
+        "w101"
+      ],
+      "platform": "Switch/PC/PS4",
+      "icon": "🦸",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 499,
+      "name": "漆彈大作戰",
+      "alias": [
+        "splatoon",
+        "漆彈",
+        "噴噴"
+      ],
+      "platform": "Switch",
+      "icon": "🎨",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 500,
+      "name": "1-2-Switch",
+      "alias": [
+        "1-2 switch",
+        "12switch"
+      ],
+      "platform": "Switch",
+      "icon": "🎮",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 501,
+      "name": "Nintendo Switch Sports",
+      "alias": [
+        "switch sports",
+        "ns sports",
+        "ns運動"
+      ],
+      "platform": "Switch",
+      "icon": "⚽",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 502,
+      "name": "腦鍛鍊",
+      "alias": [
+        "brain training",
+        "腦鍛",
+        "bt"
+      ],
+      "platform": "Switch",
+      "icon": "🧠",
+      "category": "教育"
+    },
+    {
+      "auditIndex": 503,
+      "name": "巫師2 王國刺客",
+      "alias": [
+        "the witcher 2",
+        "witcher 2",
+        "巫師2"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 504,
+      "name": "巫師",
+      "alias": [
+        "the witcher",
+        "witcher 1",
+        "巫師1"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 505,
+      "name": "中土世界 戰爭之影",
+      "alias": [
+        "middle earth shadow of war",
+        "中土世界2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💍",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 506,
+      "name": "中土世界 魔多之影",
+      "alias": [
+        "middle earth shadow of mordor",
+        "中土世界1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🗡️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 507,
+      "name": "樂高 指環王",
+      "alias": [
+        "lego lord of the rings",
+        "樂高指環王"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🧱",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 508,
+      "name": "蝙蝠俠 阿卡漢騎士",
+      "alias": [
+        "batman arkham knight",
+        "蝙蝠俠騎士"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🦇",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 509,
+      "name": "蝙蝠俠 阿卡漢城市",
+      "alias": [
+        "batman arkham city",
+        "蝙蝠俠城市"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🏙️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 510,
+      "name": "蝙蝠俠 阿卡漢瘋人院",
+      "alias": [
+        "batman arkham asylum",
+        "蝙蝠俠瘋人院"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🏥",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 511,
+      "name": "蝙蝠俠 阿卡漢起源",
+      "alias": [
+        "batman arkham origins",
+        "蝙蝠俠起源"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "🦸",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 512,
+      "name": "漫威復仇者聯盟",
+      "alias": [
+        "marvels avengers",
+        "復仇者"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🦸",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 513,
+      "name": "漫威星際異攻隊",
+      "alias": [
+        "marvels guardians",
+        "星際異攻隊"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🚀",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 514,
+      "name": "鋼鐵人VR",
+      "alias": [
+        "iron man vr",
+        "鋼鐵人"
+      ],
+      "platform": "PS4",
+      "icon": "🤖",
+      "category": "VR"
+    },
+    {
+      "auditIndex": 515,
+      "name": "星際大戰 絕地組織殞落",
+      "alias": [
+        "star wars jedi fallen order",
+        "絕地組織"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "⚔️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 516,
+      "name": "星際大戰 絕地倖存者",
+      "alias": [
+        "star wars jedi survivor",
+        "絕地倖存者"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌌",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 517,
+      "name": "星際大戰 戰場前線2",
+      "alias": [
+        "star wars battlefront 2",
+        "戰場前線2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🛸",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 518,
+      "name": "星際大戰 戰場前線",
+      "alias": [
+        "star wars battlefront",
+        "戰場前線1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⭐",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 519,
+      "name": "戰地風雲1",
+      "alias": [
+        "battlefield 1",
+        "bf1",
+        "戰地1"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🎖️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 520,
+      "name": "戰地風雲5",
+      "alias": [
+        "battlefield 5",
+        "bf5",
+        "戰地5"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⚔️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 521,
+      "name": "戰地風雲 硬仗",
+      "alias": [
+        "battlefield hardline",
+        "bf硬仗"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🚔",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 522,
+      "name": "戰地風雲4",
+      "alias": [
+        "battlefield 4",
+        "bf4"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🌍",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 523,
+      "name": "泰坦降臨2",
+      "alias": [
+        "titanfall 2",
+        "泰坦2",
+        "tf2"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🤖",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 524,
+      "name": "泰坦降臨",
+      "alias": [
+        "titanfall",
+        "泰坦1",
+        "tf1"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "⚙️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 525,
+      "name": "惡魔獵人5",
+      "alias": [
+        "devil may cry 5",
+        "dmc5",
+        "鬼泣5"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "😈",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 526,
+      "name": "惡魔獵人 HD合輯",
+      "alias": [
+        "devil may cry hd",
+        "dmc hd"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 527,
+      "name": "惡魔獵人4",
+      "alias": [
+        "devil may cry 4",
+        "dmc4",
+        "鬼泣4"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔥",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 528,
+      "name": "DmC 惡魔獵人",
+      "alias": [
+        "dmc devil may cry",
+        "dmc重啟"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💀",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 529,
+      "name": "魔物獵人 物語2",
+      "alias": [
+        "monster hunter stories 2",
+        "mhs2",
+        "物語2",
+        "Monster Hunter Stories 2: Wings of Ruin",
+        "魔物獵人物語2"
+      ],
+      "platform": "PC/Switch/PS4",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 530,
+      "name": "龍族教義",
+      "alias": [
+        "dragons dogma",
+        "龍族",
+        "dd"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🐉",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 531,
+      "name": "龍族教義2",
+      "alias": [
+        "dragons dogma 2",
+        "龍族2",
+        "dd2",
+        "Dragon's Dogma 2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 532,
+      "name": "快打旋風5",
+      "alias": [
+        "street fighter 5",
+        "sf5",
+        "街霸5"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🥋",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 533,
+      "name": "快打旋風4",
+      "alias": [
+        "street fighter 4",
+        "sf4",
+        "街霸4"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "👊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 534,
+      "name": "鐵拳7",
+      "alias": [
+        "tekken 7",
+        "鐵拳7"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "👊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 535,
+      "name": "鐵拳6",
+      "alias": [
+        "tekken 6",
+        "鐵拳6"
+      ],
+      "platform": "PS3/Xbox",
+      "icon": "⚔️",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 536,
+      "name": "真人快打11",
+      "alias": [
+        "mortal kombat 11",
+        "mk11"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "💀",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 537,
+      "name": "真人快打X",
+      "alias": [
+        "mortal kombat x",
+        "mkx",
+        "真人快打x"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔥",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 538,
+      "name": "我的世界 傳奇",
+      "alias": [
+        "minecraft legends",
+        "mc傳奇"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "⚔️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 539,
+      "name": "模擬市民3",
+      "alias": [
+        "the sims 3",
+        "sims 3",
+        "模擬人生3"
+      ],
+      "platform": "PC",
+      "icon": "🌳",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 540,
+      "name": "城市 天際線",
+      "alias": [
+        "cities skylines",
+        "天際線",
+        "cs"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🌆",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 541,
+      "name": "動物園之星",
+      "alias": [
+        "planet zoo",
+        "動物園"
+      ],
+      "platform": "PC",
+      "icon": "🦁",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 542,
+      "name": "過山車之星",
+      "alias": [
+        "planet coaster",
+        "過山車"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🎢",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 543,
+      "name": "侏羅紀世界 進化",
+      "alias": [
+        "jurassic world evolution",
+        "侏羅紀進化"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🦕",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 544,
+      "name": "侏羅紀世界 進化2",
+      "alias": [
+        "jurassic world evolution 2",
+        "侏羅紀進化2"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🦖",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 545,
+      "name": "美國卡車模擬",
+      "alias": [
+        "american truck simulator",
+        "ats",
+        "美卡"
+      ],
+      "platform": "PC",
+      "icon": "🚚",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 546,
+      "name": "農場模擬器19",
+      "alias": [
+        "farming simulator 19",
+        "fs19"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🌾",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 547,
+      "name": "雙人成行",
+      "alias": [
+        "it takes two",
+        "雙人"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "👥",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 548,
+      "name": "逃出生天",
+      "alias": [
+        "a way out",
+        "逃出"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🚪",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 549,
+      "name": "胡鬧廚房2",
+      "alias": [
+        "overcooked 2",
+        "煮過頭2",
+        "分手廚房2"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "👨‍🍳",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 550,
+      "name": "胡鬧廚房",
+      "alias": [
+        "overcooked",
+        "煮過頭",
+        "分手廚房"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🍳",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 551,
+      "name": "胡鬧搬家",
+      "alias": [
+        "moving out",
+        "搬家"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "📦",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 552,
+      "name": "胡鬧搬家2",
+      "alias": [
+        "moving out 2",
+        "搬家2"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🚚",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 553,
+      "name": "Fall Guys",
+      "alias": [
+        "fall guys",
+        "糖豆人",
+        "fg"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch/iOS/Android",
+      "icon": "🫘",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 554,
+      "name": "Among Us",
+      "alias": [
+        "among us",
+        "我們之中",
+        "au"
+      ],
+      "platform": "PC/iOS/Android/Switch",
+      "icon": "👽",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 555,
+      "name": "人類一敗塗地",
+      "alias": [
+        "human fall flat",
+        "人類",
+        "hff"
+      ],
+      "platform": "PC/PS4/Xbox/Switch/iOS/Android",
+      "icon": "🤸",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 556,
+      "name": "Gang Beasts",
+      "alias": [
+        "gang beasts",
+        "基佬大亂鬥"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "👊",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 557,
+      "name": "糖豆人 終極淘汰賽",
+      "alias": [
+        "fall guys ultimate",
+        "糖豆人",
+        "fg"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🫘",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 558,
+      "name": "Pummel Party",
+      "alias": [
+        "pummel party",
+        "揍擊派對"
+      ],
+      "platform": "PC",
+      "icon": "🎲",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 559,
+      "name": "Pico Park",
+      "alias": [
+        "pico park",
+        "pico"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🎮",
+      "category": "派對"
+    },
+    {
+      "auditIndex": 560,
+      "name": "茶杯頭",
+      "alias": [
+        "cuphead"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "☕",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 561,
+      "name": "茶杯頭 最後的美食",
+      "alias": [
+        "cuphead dlc",
+        "茶杯頭dlc",
+        "chdlc"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🍰",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 562,
+      "name": "小小夢魘",
+      "alias": [
+        "little nightmares",
+        "小夢魘1"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "👶",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 563,
+      "name": "小小夢魘2",
+      "alias": [
+        "little nightmares 2",
+        "小夢魘2"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🌙",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 564,
+      "name": "Inside",
+      "alias": [
+        "inside"
+      ],
+      "platform": "PC/PS4/Xbox/Switch/iOS",
+      "icon": "👁️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 565,
+      "name": "Limbo",
+      "alias": [
+        "limbo",
+        "地獄邊境"
+      ],
+      "platform": "PC/PS4/Xbox/Switch/iOS/Android",
+      "icon": "🌑",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 566,
+      "name": "地獄之刃 賽奴雅的獻祭",
+      "alias": [
+        "hellblade senuas sacrifice",
+        "地獄之刃"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🗡️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 567,
+      "name": "地獄之刃2",
+      "alias": [
+        "hellblade 2",
+        "地獄之刃2"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "⚔️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 568,
+      "name": "瘟疫傳說 安魂曲",
+      "alias": [
+        "a plague tale requiem",
+        "瘟疫傳說2"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🕯️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 569,
+      "name": "地鐵 離鄉",
+      "alias": [
+        "metro exodus",
+        "地鐵離鄉"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🚇",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 570,
+      "name": "地鐵 最後的曙光",
+      "alias": [
+        "metro last light",
+        "地鐵曙光"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "💡",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 571,
+      "name": "地鐵2033",
+      "alias": [
+        "metro 2033",
+        "地鐵2033"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🌆",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 572,
+      "name": "生化奇兵 無限",
+      "alias": [
+        "bioshock infinite",
+        "生化奇兵無限"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "☁️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 573,
+      "name": "生化奇兵2",
+      "alias": [
+        "bioshock 2"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🌊",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 574,
+      "name": "生化奇兵 重製版",
+      "alias": [
+        "bioshock remastered",
+        "生化奇兵1"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🏛️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 575,
+      "name": "生化奇兵 合集",
+      "alias": [
+        "bioshock collection",
+        "生化奇兵合集",
+        "bc"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "📦",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 576,
+      "name": "傳送門2",
+      "alias": [
+        "portal 2"
+      ],
+      "platform": "PC/PS3/Xbox/Switch",
+      "icon": "🚪",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 577,
+      "name": "傳送門",
+      "alias": [
+        "portal",
+        "傳送門1"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "🌀",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 578,
+      "name": "傳送門 同伴合集",
+      "alias": [
+        "portal companion collection",
+        "傳送門合集",
+        "pcc"
+      ],
+      "platform": "Switch",
+      "icon": "📦",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 579,
+      "name": "半條命 愛莉克斯",
+      "alias": [
+        "half life alyx",
+        "半條命alyx"
+      ],
+      "platform": "PC",
+      "icon": "🥽",
+      "category": "VR FPS"
+    },
+    {
+      "auditIndex": 580,
+      "name": "半條命2",
+      "alias": [
+        "half life 2",
+        "戰慄時空 2",
+        "hl2",
+        "戰慄時空2"
+      ],
+      "platform": "PC",
+      "icon": "🔫",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 581,
+      "name": "半條命",
+      "alias": [
+        "half life",
+        "半條命1"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 582,
+      "name": "戰慄時空",
+      "alias": [
+        "counter strike",
+        "cs",
+        "反恐精英"
+      ],
+      "platform": "PC",
+      "icon": "🔫",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 583,
+      "name": "絕對武力 全球攻勢",
+      "alias": [
+        "counter strike global offensive",
+        "csgo",
+        "cs全球攻勢"
+      ],
+      "platform": "PC/PS3/Xbox",
+      "icon": "🎯",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 584,
+      "name": "Left 4 Dead 2",
+      "alias": [
+        "left 4 dead 2",
+        "l4d2",
+        "惡靈勢力2",
+        "求生之路2",
+        "求生2"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🧟",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 585,
+      "name": "Left 4 Dead",
+      "alias": [
+        "left 4 dead",
+        "l4d",
+        "惡靈勢力1",
+        "惡靈勢力",
+        "求生之路",
+        "求生1"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "👻",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 586,
+      "name": "Team Fortress 2",
+      "alias": [
+        "team fortress 2",
+        "tf2",
+        "軍團要塞2"
+      ],
+      "platform": "PC",
+      "icon": "🎖️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 587,
+      "name": "Dota",
+      "alias": [
+        "dota",
+        "dota1",
+        "刀塔"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "MOBA"
+    },
+    {
+      "auditIndex": 588,
+      "name": "文明帝國5",
+      "alias": [
+        "civilization 5",
+        "civ5",
+        "文明5"
+      ],
+      "platform": "PC/Mac",
+      "icon": "🏛️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 589,
+      "name": "文明帝國4",
+      "alias": [
+        "civilization 4",
+        "civ4",
+        "文明4"
+      ],
+      "platform": "PC",
+      "icon": "👑",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 590,
+      "name": "文明帝國3",
+      "alias": [
+        "civilization 3",
+        "civ3",
+        "文明3"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 591,
+      "name": "全軍破敵 三國",
+      "alias": [
+        "total war three kingdoms",
+        "全戰三國",
+        "tw三國"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 592,
+      "name": "全軍破敵 羅馬2",
+      "alias": [
+        "total war rome 2",
+        "全戰羅馬2",
+        "tw羅馬"
+      ],
+      "platform": "PC",
+      "icon": "🏛️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 593,
+      "name": "全軍破敵 幕府將軍2",
+      "alias": [
+        "total war shogun 2",
+        "全戰幕府",
+        "tw幕府"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 594,
+      "name": "全軍破敵 拿破崙",
+      "alias": [
+        "total war napoleon",
+        "全戰拿破崙",
+        "tw拿破崙"
+      ],
+      "platform": "PC",
+      "icon": "🎩",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 595,
+      "name": "全軍破敵 中世紀2",
+      "alias": [
+        "total war medieval 2",
+        "全戰中世紀",
+        "tw中世紀"
+      ],
+      "platform": "PC",
+      "icon": "🏰",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 596,
+      "name": "XCOM 2",
+      "alias": [
+        "xcom 2",
+        "xcom2",
+        "幽浮2"
+      ],
+      "platform": "PC/PS4/Xbox/Switch/iOS/Android",
+      "icon": "👽",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 597,
+      "name": "XCOM 未知敵人",
+      "alias": [
+        "xcom enemy unknown",
+        "xcom1",
+        "xcom",
+        "幽浮 未知敵人",
+        "幽浮1"
+      ],
+      "platform": "PC/PS3/Xbox/iOS/Android",
+      "icon": "🛸",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 598,
+      "name": "XCOM 奇美拉小隊",
+      "alias": [
+        "xcom chimera squad",
+        "xcom奇美拉"
+      ],
+      "platform": "PC",
+      "icon": "👥",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 599,
+      "name": "全面戰爭模擬器",
+      "alias": [
+        "totally accurate battle simulator",
+        "tabs",
+        "全面戰爭模擬"
+      ],
+      "platform": "PC/Xbox/Switch",
+      "icon": "⚔️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 600,
+      "name": "Kerbal Space Program",
+      "alias": [
+        "kerbal space program",
+        "ksp",
+        "坎巴拉太空計劃"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🚀",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 601,
+      "name": "Kerbal Space Program 2",
+      "alias": [
+        "kerbal space program 2",
+        "ksp2",
+        "坎巴拉2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌌",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 602,
+      "name": "Factorio",
+      "alias": [
+        "factorio",
+        "異星工廠"
+      ],
+      "platform": "PC/Switch",
+      "icon": "⚙️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 603,
+      "name": "Satisfactory",
+      "alias": [
+        "satisfactory",
+        "幸福工廠"
+      ],
+      "platform": "PC",
+      "icon": "🏭",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 604,
+      "name": "Dyson Sphere Program",
+      "alias": [
+        "dyson sphere program",
+        "dsp",
+        "戴森球計劃"
+      ],
+      "platform": "PC",
+      "icon": "🌍",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 605,
+      "name": "缺氧",
+      "alias": [
+        "oxygen not included",
+        "oni",
+        "缺氧"
+      ],
+      "platform": "PC",
+      "icon": "💨",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 606,
+      "name": "綠色地獄",
+      "alias": [
+        "green hell"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🌿",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 607,
+      "name": "森林",
+      "alias": [
+        "the forest",
+        "森林"
+      ],
+      "platform": "PC/PS4",
+      "icon": "🌲",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 608,
+      "name": "森林之子",
+      "alias": [
+        "sons of the forest",
+        "森林之子"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🌳",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 609,
+      "name": "Valheim",
+      "alias": [
+        "valheim",
+        "瓦爾海姆",
+        "vh"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "⚔️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 610,
+      "name": "ARK 生存進化",
+      "alias": [
+        "ark survival evolved",
+        "ark",
+        "方舟"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch/iOS/Android",
+      "icon": "🦕",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 611,
+      "name": "Conan Exiles",
+      "alias": [
+        "conan exiles",
+        "流放者柯南"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🗡️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 612,
+      "name": "7 Days to Die",
+      "alias": [
+        "7 days to die",
+        "7dtd",
+        "七日殺"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🧟",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 613,
+      "name": "Rust",
+      "alias": [
+        "rust",
+        "rust",
+        "鏽"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🔧",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 614,
+      "name": "DayZ",
+      "alias": [
+        "dayz",
+        "dayz",
+        "dayz"
+      ],
+      "platform": "PC/PS4/Xbox",
+      "icon": "🧟‍♂️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 615,
+      "name": "Project Zomboid",
+      "alias": [
+        "project zomboid",
+        "殭屍毀滅工程",
+        "pz"
+      ],
+      "platform": "PC",
+      "icon": "🧟‍♀️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 616,
+      "name": "瑪利歐激戰前鋒 戰鬥聯賽",
+      "alias": [
+        "mario strikers battle league",
+        "瑪足球",
+        "msbl"
+      ],
+      "platform": "Switch",
+      "icon": "⚽",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 617,
+      "name": "薩爾達無雙 海拉魯全明星",
+      "alias": [
+        "hyrule warriors definitive",
+        "海拉魯全明星",
+        "hwd"
+      ],
+      "platform": "Switch",
+      "icon": "🗡️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 618,
+      "name": "薩爾達傳說 無雙",
+      "alias": [
+        "hyrule warriors",
+        "薩爾達無雙",
+        "hw"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 619,
+      "name": "星之卡比 新星同盟",
+      "alias": [
+        "kirby star allies",
+        "卡比同盟",
+        "ksa"
+      ],
+      "platform": "Switch",
+      "icon": "⭐",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 620,
+      "name": "星之卡比 Wii 豪華版",
+      "alias": [
+        "kirby return to dreamland deluxe",
+        "卡比wii",
+        "krtdd"
+      ],
+      "platform": "Switch",
+      "icon": "🩷",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 621,
+      "name": "星之卡比 機械星球",
+      "alias": [
+        "kirby planet robobot",
+        "卡比機械"
+      ],
+      "platform": "Switch",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 622,
+      "name": "新超級瑪利歐兄弟U 豪華版",
+      "alias": [
+        "new super mario bros u deluxe",
+        "新瑪U",
+        "nsmbu"
+      ],
+      "platform": "Switch",
+      "icon": "🍄",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 623,
+      "name": "世界遊戲大全51",
+      "alias": [
+        "clubhouse games 51",
+        "遊戲大全51",
+        "cg51"
+      ],
+      "platform": "Switch",
+      "icon": "🎲",
+      "category": "桌遊"
+    },
+    {
+      "auditIndex": 624,
+      "name": "寶可夢 隨樂拍",
+      "alias": [
+        "new pokemon snap",
+        "隨樂拍",
+        "nps"
+      ],
+      "platform": "Switch",
+      "icon": "📸",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 625,
+      "name": "寶可夢 探險尋寶",
+      "alias": [
+        "pokemon quest",
+        "探險",
+        "pq"
+      ],
+      "platform": "Switch",
+      "icon": "🎮",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 626,
+      "name": "寶可夢 不可思議迷宮 救援隊DX",
+      "alias": [
+        "pokemon mystery dungeon dx",
+        "救援隊",
+        "pmddx"
+      ],
+      "platform": "Switch",
+      "icon": "🔍",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 627,
+      "name": "聖火降魔錄 無雙 風花雪月",
+      "alias": [
+        "fire emblem warriors three hopes",
+        "fe無雙",
+        "few3h"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 628,
+      "name": "聖火降魔錄 無雙",
+      "alias": [
+        "fire emblem warriors",
+        "fe無雙1",
+        "few"
+      ],
+      "platform": "Switch",
+      "icon": "🗡️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 629,
+      "name": "勇者鬥惡龍 怪物仙境",
+      "alias": [
+        "dragon quest monsters",
+        "dqm",
+        "怪物仙境"
+      ],
+      "platform": "Switch",
+      "icon": "👹",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 630,
+      "name": "最終幻想7 核心危機 重聚",
+      "alias": [
+        "crisis core final fantasy 7 reunion",
+        "核心危機",
+        "ccff7r"
+      ],
+      "platform": "Switch",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 631,
+      "name": "最終幻想12 黃道時代",
+      "alias": [
+        "final fantasy 12 zodiac age",
+        "ff12",
+        "ff12za"
+      ],
+      "platform": "Switch",
+      "icon": "👑",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 632,
+      "name": "最終幻想10/10-2 HD",
+      "alias": [
+        "final fantasy 10 10-2 hd",
+        "ff10",
+        "ffx"
+      ],
+      "platform": "Switch",
+      "icon": "⚽",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 633,
+      "name": "女神異聞錄3 攜帶版",
+      "alias": [
+        "persona 3 portable",
+        "p3p",
+        "p3"
+      ],
+      "platform": "Switch",
+      "icon": "🌙",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 634,
+      "name": "世界樹的迷宮",
+      "alias": [
+        "etrian odyssey",
+        "世界樹",
+        "eo"
+      ],
+      "platform": "Switch",
+      "icon": "🌳",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 635,
+      "name": "世界樹的迷宮 起源合集",
+      "alias": [
+        "etrian odyssey origins collection",
+        "世界樹合集",
+        "eooc"
+      ],
+      "platform": "Switch",
+      "icon": "📦",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 636,
+      "name": "魔界戰記6",
+      "alias": [
+        "disgaea 6",
+        "魔界戰記6",
+        "d6"
+      ],
+      "platform": "Switch",
+      "icon": "😈",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 637,
+      "name": "太鼓之達人 咚咚雷音祭",
+      "alias": [
+        "taiko no tatsujin rhythm festival",
+        "太鼓雷音祭",
+        "tnr"
+      ],
+      "platform": "Switch",
+      "icon": "🥁",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 638,
+      "name": "太鼓之達人 Nintendo Switch版",
+      "alias": [
+        "taiko no tatsujin switch",
+        "太鼓switch",
+        "tns"
+      ],
+      "platform": "Switch",
+      "icon": "🎵",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 639,
+      "name": "初音未來 Project DIVA MEGA39's",
+      "alias": [
+        "project diva mega39s",
+        "初音switch",
+        "pdm39s"
+      ],
+      "platform": "Switch",
+      "icon": "🎤",
+      "category": "音樂"
+    },
+    {
+      "auditIndex": 640,
+      "name": "快打旋風30週年紀念合集",
+      "alias": [
+        "street fighter 30th anniversary",
+        "街霸30週年",
+        "sf30"
+      ],
+      "platform": "Switch",
+      "icon": "🎉",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 641,
+      "name": "Clair Obscur: Expedition 33",
+      "alias": [
+        "expedition 33",
+        "clair obscur",
+        "遠征33",
+        "光與影33號遠征隊"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🎨",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 642,
+      "name": "Kingdom Come: Deliverance II",
+      "alias": [
+        "kingdom come 2",
+        "kcd2",
+        "天國降臨2",
+        "王國降臨2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏰",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 643,
+      "name": "Avowed",
+      "alias": [
+        "avowed",
+        "宣誓"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🪄",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 644,
+      "name": "DOOM: The Dark Ages",
+      "alias": [
+        "doom the dark ages",
+        "doom dark ages",
+        "毀滅戰士黑暗時代"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🔥",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 645,
+      "name": "Split Fiction",
+      "alias": [
+        "split fiction",
+        "雙影奇境"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "👥",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 646,
+      "name": "Atomfall",
+      "alias": [
+        "atomfall",
+        "原子隕落"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "☢️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 647,
+      "name": "The First Berserker: Khazan",
+      "alias": [
+        "khazan",
+        "first berserker",
+        "第一狂戰士卡贊"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🪓",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 648,
+      "name": "South of Midnight",
+      "alias": [
+        "south of midnight",
+        "午夜以南"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🧵",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 649,
+      "name": "Blue Prince",
+      "alias": [
+        "blue prince",
+        "藍色王子"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏛️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 650,
+      "name": "Mandragora: Whispers of the Witch Tree",
+      "alias": [
+        "mandragora",
+        "曼德拉草"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🌿",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 651,
+      "name": "Dragon Age: The Veilguard",
+      "alias": [
+        "dragon age veilguard",
+        "veilguard",
+        "闇龍紀元紗障守護者"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🐲",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 652,
+      "name": "Metaphor: ReFantazio",
+      "alias": [
+        "metaphor refantazio",
+        "暗喻幻想",
+        "metaphor"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "👑",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 653,
+      "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "alias": [
+        "pirate yakuza",
+        "人中之龍海盜",
+        "如龍海盜"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🏴‍☠️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 654,
+      "name": "Dynasty Warriors: Origins",
+      "alias": [
+        "dynasty warriors origins",
+        "真三國無雙起源",
+        "無雙起源"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "⚔️",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 655,
+      "name": "Fantasian Neo Dimension",
+      "alias": [
+        "fantasian",
+        "fantasian neo dimension",
+        "幻想生活? no",
+        "坂口博信"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🎼",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 656,
+      "name": "Visions of Mana",
+      "alias": [
+        "visions of mana",
+        "聖劍傳說visions of mana",
+        "聖劍傳說"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🌳",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 657,
+      "name": "Romancing SaGa 2: Revenge of the Seven",
+      "alias": [
+        "romancing saga 2 remake",
+        "復活邪神2",
+        "七英雄復仇"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "👑",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 658,
+      "name": "SaGa Emerald Beyond",
+      "alias": [
+        "saga emerald beyond",
+        "復活邪神 emerald beyond",
+        "saga eb"
+      ],
+      "platform": "PC/PS5/PS4/Switch/Mobile",
+      "icon": "💚",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 659,
+      "name": "Unicorn Overlord",
+      "alias": [
+        "unicorn overlord",
+        "聖獸之王"
+      ],
+      "platform": "PS5/PS4/Xbox/Switch",
+      "icon": "🦄",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 660,
+      "name": "Eiyuden Chronicle: Hundred Heroes",
+      "alias": [
+        "eiyuden chronicle",
+        "百英雄傳",
+        "hundred heroes"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🛡️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 661,
+      "name": "Paper Mario: The Thousand-Year Door",
+      "alias": [
+        "paper mario ttyd",
+        "紙片瑪利歐千年之門",
+        "千年之門"
+      ],
+      "platform": "Switch",
+      "icon": "📜",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 662,
+      "name": "Mario & Luigi: Brothership",
+      "alias": [
+        "mario luigi brothership",
+        "瑪利歐與路易吉rpg兄弟齊航",
+        "兄弟齊航"
+      ],
+      "platform": "Switch",
+      "icon": "🚢",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 663,
+      "name": "The Legend of Zelda: Echoes of Wisdom",
+      "alias": [
+        "echoes of wisdom",
+        "薩爾達傳說智慧的再現",
+        "智慧的再現"
+      ],
+      "platform": "Switch",
+      "icon": "🔱",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 664,
+      "name": "Princess Peach: Showtime!",
+      "alias": [
+        "princess peach showtime",
+        "碧姬公主表演時刻",
+        "peach showtime"
+      ],
+      "platform": "Switch",
+      "icon": "🎭",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 665,
+      "name": "Luigi's Mansion 2 HD",
+      "alias": [
+        "luigi mansion 2 hd",
+        "路易吉洋樓2hd",
+        "鬼屋2hd"
+      ],
+      "platform": "Switch",
+      "icon": "👻",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 666,
+      "name": "Donkey Kong Country Returns HD",
+      "alias": [
+        "donkey kong country returns hd",
+        "森喜剛歸來hd",
+        "咚奇剛歸來"
+      ],
+      "platform": "Switch",
+      "icon": "🍌",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 667,
+      "name": "Emio - The Smiling Man: Famicom Detective Club",
+      "alias": [
+        "emio",
+        "笑臉男",
+        "famicom detective club",
+        "ファミコン探偵俱樂部"
+      ],
+      "platform": "Switch",
+      "icon": "🙂",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 668,
+      "name": "Nintendo World Championships: NES Edition",
+      "alias": [
+        "nintendo world championships",
+        "nes edition",
+        "任天堂世界錦標賽"
+      ],
+      "platform": "Switch",
+      "icon": "🏆",
+      "category": "挑戰"
+    },
+    {
+      "auditIndex": 669,
+      "name": "Ender Magnolia: Bloom in the Mist",
+      "alias": [
+        "ender magnolia",
+        "ender lilies 2",
+        "終結者瑪格諾莉亞"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🌸",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 670,
+      "name": "Animal Well",
+      "alias": [
+        "animal well",
+        "動物井"
+      ],
+      "platform": "PC/PS5/Switch",
+      "icon": "🕳️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 671,
+      "name": "Balatro",
+      "alias": [
+        "balatro",
+        "小丑牌",
+        "撲克roguelike"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🃏",
+      "category": "卡牌Roguelike"
+    },
+    {
+      "auditIndex": 672,
+      "name": "Pacific Drive",
+      "alias": [
+        "pacific drive",
+        "太平洋車道"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🚗",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 673,
+      "name": "Helldivers 2",
+      "alias": [
+        "helldivers 2",
+        "絕地戰兵2",
+        "地獄潛者2"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🪖",
+      "category": "合作射擊"
+    },
+    {
+      "auditIndex": 674,
+      "name": "Warhammer 40,000: Space Marine 2",
+      "alias": [
+        "space marine 2",
+        "戰鎚40k星際戰士2",
+        "warhammer 40000 space marine 2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🛡️",
+      "category": "動作射擊"
+    },
+    {
+      "auditIndex": 675,
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "alias": [
+        "stalker 2",
+        "stalker2",
+        "車諾比之心",
+        "潛行者2"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "☢️",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 676,
+      "name": "Star Wars Outlaws",
+      "alias": [
+        "star wars outlaws",
+        "星際大戰亡命之徒",
+        "outlaws"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🚀",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 677,
+      "name": "Indiana Jones and the Great Circle",
+      "alias": [
+        "indiana jones great circle",
+        "印第安納瓊斯古老之圈",
+        "great circle"
+      ],
+      "platform": "PC/Xbox/PS5",
+      "icon": "🧭",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 678,
+      "name": "No Rest for the Wicked",
+      "alias": [
+        "no rest for the wicked",
+        "惡意不息"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🩸",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 679,
+      "name": "Enshrouded",
+      "alias": [
+        "enshrouded",
+        "霧鎖王國"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌫️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 680,
+      "name": "Palworld",
+      "alias": [
+        "palworld",
+        "幻獸帕魯",
+        "帕魯"
+      ],
+      "platform": "PC/Xbox/PS5",
+      "icon": "🐾",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 681,
+      "name": "Once Human",
+      "alias": [
+        "once human",
+        "七日世界"
+      ],
+      "platform": "PC/Mobile",
+      "icon": "👁️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 682,
+      "name": "The Finals",
+      "alias": [
+        "the finals",
+        "最終決戰"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "💥",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 683,
+      "name": "XDefiant",
+      "alias": [
+        "xdefiant",
+        "x defiant"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🎯",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 684,
+      "name": "Marvel Rivals",
+      "alias": [
+        "marvel rivals",
+        "漫威爭鋒"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🦸",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 685,
+      "name": "Delta Force",
+      "alias": [
+        "delta force hawk ops",
+        "三角洲行動",
+        "delta force",
+        "Garena 三角洲行動",
+        "Garena三角洲行動",
+        "Garena Delta Force"
+      ],
+      "platform": "PC/Console/Mobile",
+      "icon": "🎖️",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 686,
+      "name": "Arena Breakout: Infinite",
+      "alias": [
+        "arena breakout infinite",
+        "暗區突圍pc",
+        "abi"
+      ],
+      "platform": "PC",
+      "icon": "🎒",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 687,
+      "name": "Gray Zone Warfare",
+      "alias": [
+        "gray zone warfare",
+        "灰區戰爭"
+      ],
+      "platform": "PC",
+      "icon": "🪖",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 688,
+      "name": "Bodycam",
+      "alias": [
+        "bodycam",
+        "隨身攝影機"
+      ],
+      "platform": "PC",
+      "icon": "📹",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 689,
+      "name": "Manor Lords",
+      "alias": [
+        "manor lords",
+        "莊園領主"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🏘️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 690,
+      "name": "Frostpunk 2",
+      "alias": [
+        "frostpunk 2",
+        "冰封龐克2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "❄️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 691,
+      "name": "Ara: History Untold",
+      "alias": [
+        "ara history untold",
+        "ara"
+      ],
+      "platform": "PC",
+      "icon": "🌍",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 692,
+      "name": "Age of Mythology: Retold",
+      "alias": [
+        "age of mythology retold",
+        "aom retold",
+        "神話世紀重述版"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "⚡",
+      "category": "即時戰略"
+    },
+    {
+      "auditIndex": 693,
+      "name": "Homeworld 3",
+      "alias": [
+        "homeworld 3",
+        "萬艦齊發3"
+      ],
+      "platform": "PC",
+      "icon": "🛰️",
+      "category": "即時戰略"
+    },
+    {
+      "auditIndex": 694,
+      "name": "Sins of a Solar Empire II",
+      "alias": [
+        "sins of a solar empire 2",
+        "太陽帝國的原罪2"
+      ],
+      "platform": "PC",
+      "icon": "🌌",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 695,
+      "name": "Total War: Pharaoh",
+      "alias": [
+        "total war pharaoh",
+        "全軍破敵法老"
+      ],
+      "platform": "PC",
+      "icon": "🏺",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 696,
+      "name": "Planet Coaster 2",
+      "alias": [
+        "planet coaster 2",
+        "雲霄飛車之星2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🎢",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 697,
+      "name": "Microsoft Flight Simulator 2024",
+      "alias": [
+        "flight simulator 2024",
+        "msfs 2024",
+        "微軟模擬飛行2024"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "✈️",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 698,
+      "name": "Farming Simulator 25",
+      "alias": [
+        "farming simulator 25",
+        "fs25",
+        "農場模擬器25"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🚜",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 699,
+      "name": "NBA 2K25",
+      "alias": [
+        "nba 2k25",
+        "2k25"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🏀",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 700,
+      "name": "EA Sports FC 25",
+      "alias": [
+        "fc 25",
+        "ea fc 25",
+        "fifa 25"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "⚽",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 701,
+      "name": "WWE 2K24",
+      "alias": [
+        "wwe 2k24",
+        "摔角2k24"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🤼",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 702,
+      "name": "TopSpin 2K25",
+      "alias": [
+        "topspin 2k25",
+        "網球2k25"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🎾",
+      "category": "運動"
+    },
+    {
+      "auditIndex": 703,
+      "name": "F1 24",
+      "alias": [
+        "f1 24",
+        "formula 1 24"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🏎️",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 704,
+      "name": "Test Drive Unlimited Solar Crown",
+      "alias": [
+        "test drive solar crown",
+        "tdusc",
+        "無限試駕太陽王冠"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🚘",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 705,
+      "name": "Assetto Corsa EVO",
+      "alias": [
+        "assetto corsa evo",
+        "神力科莎evo"
+      ],
+      "platform": "PC",
+      "icon": "🏁",
+      "category": "競速"
+    },
+    {
+      "auditIndex": 706,
+      "name": "Sonic X Shadow Generations",
+      "alias": [
+        "sonic shadow generations",
+        "索尼克x夏特世代重啟",
+        "shadow generations"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🦔",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 707,
+      "name": "Penny's Big Breakaway",
+      "alias": [
+        "pennys big breakaway",
+        "penny big breakaway"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🪀",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 708,
+      "name": "Nine Sols",
+      "alias": [
+        "nine sols",
+        "九日"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "☀️",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 709,
+      "name": "Prince of Persia: The Lost Crown",
+      "alias": [
+        "prince of persia lost crown",
+        "波斯王子失落王冠"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "👑",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 710,
+      "name": "Tales of Kenzera: ZAU",
+      "alias": [
+        "tales of kenzera zau",
+        "kenzera zau"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🪘",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 711,
+      "name": "Bo: Path of the Teal Lotus",
+      "alias": [
+        "bo path of the teal lotus",
+        "碧蓮之路",
+        "bō"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🪷",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 712,
+      "name": "Ultros",
+      "alias": [
+        "ultros"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🌀",
+      "category": "類銀河戰士惡魔城"
+    },
+    {
+      "auditIndex": 713,
+      "name": "Pepper Grinder",
+      "alias": [
+        "pepper grinder",
+        "胡椒研磨機"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🛠️",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 714,
+      "name": "Another Crab's Treasure",
+      "alias": [
+        "another crabs treasure",
+        "螃蟹寶藏"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🦀",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 715,
+      "name": "Crypt Custodian",
+      "alias": [
+        "crypt custodian",
+        "地穴清潔工"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🐈",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 716,
+      "name": "Minishoot' Adventures",
+      "alias": [
+        "minishoot adventures",
+        "迷你射擊冒險"
+      ],
+      "platform": "PC",
+      "icon": "🚀",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 717,
+      "name": "UFO 50",
+      "alias": [
+        "ufo 50",
+        "ufo50"
+      ],
+      "platform": "PC",
+      "icon": "🛸",
+      "category": "復古合集"
+    },
+    {
+      "auditIndex": 718,
+      "name": "Thank Goodness You're Here!",
+      "alias": [
+        "thank goodness youre here",
+        "幸好你來了"
+      ],
+      "platform": "PC/PS5/Switch",
+      "icon": "🍅",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 719,
+      "name": "Lorelei and the Laser Eyes",
+      "alias": [
+        "lorelei and the laser eyes",
+        "雷射眼羅蕾萊"
+      ],
+      "platform": "PC/Switch",
+      "icon": "👁️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 720,
+      "name": "The Rise of the Golden Idol",
+      "alias": [
+        "rise of the golden idol",
+        "黃金偶像崛起"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🗿",
+      "category": "推理"
+    },
+    {
+      "auditIndex": 721,
+      "name": "Duck Detective: The Secret Salami",
+      "alias": [
+        "duck detective",
+        "鴨鴨偵探",
+        "secret salami"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🦆",
+      "category": "推理"
+    },
+    {
+      "auditIndex": 722,
+      "name": "Botany Manor",
+      "alias": [
+        "botany manor",
+        "植物莊園"
+      ],
+      "platform": "PC/Xbox/Switch",
+      "icon": "🌷",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 723,
+      "name": "Open Roads",
+      "alias": [
+        "open roads",
+        "開放道路"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🚙",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 724,
+      "name": "Still Wakes the Deep",
+      "alias": [
+        "still wakes the deep",
+        "深海甦醒"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🌊",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 725,
+      "name": "Crow Country",
+      "alias": [
+        "crow country",
+        "烏鴉國度"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🐦‍⬛",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 726,
+      "name": "Silent Hill 2 Remake",
+      "alias": [
+        "silent hill 2 remake",
+        "沉默之丘2重製版",
+        "寂靜嶺2重製"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🌫️",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 727,
+      "name": "Until Dawn Remake",
+      "alias": [
+        "until dawn remake",
+        "直到黎明重製版"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🦋",
+      "category": "恐怖"
+    },
+    {
+      "auditIndex": 728,
+      "name": "Lollipop Chainsaw RePOP",
+      "alias": [
+        "lollipop chainsaw repop",
+        "電鋸甜心repop"
+      ],
+      "platform": "PC/PS5/PS4/Xbox/Switch",
+      "icon": "🍭",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 729,
+      "name": "Kunitsu-Gami: Path of the Goddess",
+      "alias": [
+        "kunitsu-gami",
+        "祇女神之路",
+        "path of the goddess"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "⛩️",
+      "category": "動作策略"
+    },
+    {
+      "auditIndex": 730,
+      "name": "Flintlock: The Siege of Dawn",
+      "alias": [
+        "flintlock siege of dawn",
+        "燧石槍黎明之圍"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🔫",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 731,
+      "name": "Deathbound",
+      "alias": [
+        "deathbound",
+        "死亡束縛"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "💀",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 732,
+      "name": "Dragon Quest III HD-2D Remake",
+      "alias": [
+        "dragon quest 3 hd-2d",
+        "勇者鬥惡龍3 hd2d",
+        "dq3 remake"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "🐉",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 733,
+      "name": "Dragon Quest I & II HD-2D Remake",
+      "alias": [
+        "dragon quest 1 2 hd-2d",
+        "勇者鬥惡龍1 2 hd2d",
+        "dq1 dq2 remake"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "👑",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 734,
+      "name": "Ys X: Nordics",
+      "alias": [
+        "ys x nordics",
+        "伊蘇10",
+        "伊蘇x"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "⚓",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 735,
+      "name": "The Legend of Heroes: Trails through Daybreak II",
+      "alias": [
+        "trails through daybreak 2",
+        "黎之軌跡2",
+        "英雄傳說黎之軌跡2"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🌃",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 736,
+      "name": "Tokyo Xanadu eX+",
+      "alias": [
+        "tokyo xanadu ex+",
+        "東京幻都"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🗼",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 737,
+      "name": "Fate/Samurai Remnant",
+      "alias": [
+        "fate samurai remnant",
+        "fate武士遺跡",
+        "samurai remnant"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🗡️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 738,
+      "name": "Sword Art Online Fractured Daydream",
+      "alias": [
+        "sao fractured daydream",
+        "刀劍神域碎夢邊境"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 739,
+      "name": "Gundam Breaker 4",
+      "alias": [
+        "gundam breaker 4",
+        "鋼彈創壞者4"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🤖",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 740,
+      "name": "Freedom Wars Remastered",
+      "alias": [
+        "freedom wars remastered",
+        "自由戰爭remastered"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "⛓️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 741,
+      "name": "SAND LAND",
+      "alias": [
+        "sand land",
+        "沙漠大冒險"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🏜️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 742,
+      "name": "Under Night In-Birth II Sys:Celes",
+      "alias": [
+        "under night 2",
+        "uniclr 2",
+        "夜下降生2"
+      ],
+      "platform": "PC/PS5/PS4/Switch",
+      "icon": "🌙",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 743,
+      "name": "MultiVersus",
+      "alias": [
+        "multiversus",
+        "華納大亂鬥"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🥊",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 744,
+      "name": "SVC Chaos: SNK vs. Capcom",
+      "alias": [
+        "svc chaos",
+        "snk vs capcom",
+        "snk對capcom"
+      ],
+      "platform": "PC/PS4/Switch",
+      "icon": "🔥",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 745,
+      "name": "Pocket Bravery",
+      "alias": [
+        "pocket bravery",
+        "口袋勇氣"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🥋",
+      "category": "格鬥"
+    },
+    {
+      "auditIndex": 746,
+      "name": "MechWarrior 5: Clans",
+      "alias": [
+        "mechwarrior 5 clans",
+        "機甲戰士5 clans"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🤖",
+      "category": "動作射擊"
+    },
+    {
+      "auditIndex": 747,
+      "name": "Earth Defense Force 6",
+      "alias": [
+        "earth defense force 6",
+        "edf6",
+        "地球防衛軍6"
+      ],
+      "platform": "PC/PS5/PS4",
+      "icon": "🐜",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 748,
+      "name": "Killing Floor 3",
+      "alias": [
+        "killing floor 3",
+        "殺戮空間3"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🧟",
+      "category": "FPS"
+    },
+    {
+      "auditIndex": 749,
+      "name": "Payday 3",
+      "alias": [
+        "payday 3",
+        "劫薪日3"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "💰",
+      "category": "合作射擊"
+    },
+    {
+      "auditIndex": 750,
+      "name": "Ready or Not",
+      "alias": [
+        "ready or not",
+        "嚴陣以待"
+      ],
+      "platform": "PC",
+      "icon": "🚔",
+      "category": "戰術射擊"
+    },
+    {
+      "auditIndex": 751,
+      "name": "Lethal Company",
+      "alias": [
+        "lethal company",
+        "致命公司"
+      ],
+      "platform": "PC",
+      "icon": "👽",
+      "category": "合作恐怖"
+    },
+    {
+      "auditIndex": 752,
+      "name": "Content Warning",
+      "alias": [
+        "content warning",
+        "內容警告"
+      ],
+      "platform": "PC",
+      "icon": "📹",
+      "category": "合作恐怖"
+    },
+    {
+      "auditIndex": 753,
+      "name": "Murky Divers",
+      "alias": [
+        "murky divers",
+        "渾水潛水員"
+      ],
+      "platform": "PC",
+      "icon": "🤿",
+      "category": "合作恐怖"
+    },
+    {
+      "auditIndex": 754,
+      "name": "Phasmophobia",
+      "alias": [
+        "phasmophobia",
+        "恐鬼症"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "👻",
+      "category": "合作恐怖"
+    },
+    {
+      "auditIndex": 755,
+      "name": "Abiotic Factor",
+      "alias": [
+        "abiotic factor",
+        "非生物因素"
+      ],
+      "platform": "PC",
+      "icon": "🧪",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 756,
+      "name": "Nightingale",
+      "alias": [
+        "nightingale",
+        "夜鶯傳說"
+      ],
+      "platform": "PC",
+      "icon": "🕯️",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 757,
+      "name": "V Rising",
+      "alias": [
+        "v rising",
+        "吸血鬼崛起"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🧛",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 758,
+      "name": "Bellwright",
+      "alias": [
+        "bellwright",
+        "鐘樓建設"
+      ],
+      "platform": "PC",
+      "icon": "🏹",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 759,
+      "name": "Soulmask",
+      "alias": [
+        "soulmask",
+        "靈魂面甲"
+      ],
+      "platform": "PC",
+      "icon": "🎭",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 760,
+      "name": "Lightyear Frontier",
+      "alias": [
+        "lightyear frontier",
+        "光年前線"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🚜",
+      "category": "農場模擬"
+    },
+    {
+      "auditIndex": 761,
+      "name": "Core Keeper",
+      "alias": [
+        "core keeper",
+        "核心守護者"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "⛏️",
+      "category": "沙盒"
+    },
+    {
+      "auditIndex": 762,
+      "name": "Dinkum",
+      "alias": [
+        "dinkum",
+        "澳洲農場"
+      ],
+      "platform": "PC",
+      "icon": "🦘",
+      "category": "生活模擬"
+    },
+    {
+      "auditIndex": 763,
+      "name": "Fields of Mistria",
+      "alias": [
+        "fields of mistria",
+        "mistria"
+      ],
+      "platform": "PC",
+      "icon": "🌾",
+      "category": "生活模擬"
+    },
+    {
+      "auditIndex": 764,
+      "name": "Moonstone Island",
+      "alias": [
+        "moonstone island",
+        "月光石島"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🌙",
+      "category": "生活模擬"
+    },
+    {
+      "auditIndex": 765,
+      "name": "Coral Island",
+      "alias": [
+        "coral island",
+        "珊瑚島"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏝️",
+      "category": "生活模擬"
+    },
+    {
+      "auditIndex": 766,
+      "name": "Palia",
+      "alias": [
+        "palia",
+        "帕利亞"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🏡",
+      "category": "生活模擬"
+    },
+    {
+      "auditIndex": 767,
+      "name": "My Time at Sandrock",
+      "alias": [
+        "my time at sandrock",
+        "沙石鎮時光"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🏜️",
+      "category": "生活模擬"
+    },
+    {
+      "auditIndex": 768,
+      "name": "House Flipper 2",
+      "alias": [
+        "house flipper 2",
+        "房產達人2"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏠",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 769,
+      "name": "PowerWash Simulator",
+      "alias": [
+        "powerwash simulator",
+        "高壓水槍模擬器"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "💦",
+      "category": "模擬"
+    },
+    {
+      "auditIndex": 770,
+      "name": "Chants of Sennaar",
+      "alias": [
+        "chants of sennaar",
+        "巴別塔聖歌"
+      ],
+      "platform": "PC/PS4/Xbox/Switch",
+      "icon": "🗣️",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 771,
+      "name": "Viewfinder",
+      "alias": [
+        "viewfinder",
+        "取景器"
+      ],
+      "platform": "PC/PS5",
+      "icon": "📷",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 772,
+      "name": "Cocoon",
+      "alias": [
+        "cocoon",
+        "繭中蠶"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🪐",
+      "category": "解謎"
+    },
+    {
+      "auditIndex": 773,
+      "name": "Venba",
+      "alias": [
+        "venba",
+        "文芭"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🍛",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 774,
+      "name": "Dordogne",
+      "alias": [
+        "dordogne",
+        "多爾多涅"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🎨",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 775,
+      "name": "Jusant",
+      "alias": [
+        "jusant",
+        "攀登者"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🧗",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 776,
+      "name": "Sea of Stars",
+      "alias": [
+        "sea of stars",
+        "星之海"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🌟",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 777,
+      "name": "Chained Echoes",
+      "alias": [
+        "chained echoes",
+        "鎖鏈迴聲"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "⛓️",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 778,
+      "name": "Cassette Beasts",
+      "alias": [
+        "cassette beasts",
+        "卡帶怪獸"
+      ],
+      "platform": "PC/Xbox/Switch",
+      "icon": "📼",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 779,
+      "name": "Wartales",
+      "alias": [
+        "wartales",
+        "戰爭傳說"
+      ],
+      "platform": "PC/Xbox/Switch",
+      "icon": "🗺️",
+      "category": "策略RPG"
+    },
+    {
+      "auditIndex": 780,
+      "name": "Against the Storm",
+      "alias": [
+        "against the storm",
+        "風暴之城"
+      ],
+      "platform": "PC",
+      "icon": "⛈️",
+      "category": "策略"
+    },
+    {
+      "auditIndex": 781,
+      "name": "Dredge",
+      "alias": [
+        "dredge",
+        "漁帆暗湧"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🎣",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 782,
+      "name": "Dave the Diver",
+      "alias": [
+        "dave the diver",
+        "潛水員戴夫"
+      ],
+      "platform": "PC/PS/Switch",
+      "icon": "🤿",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 783,
+      "name": "Pizza Tower",
+      "alias": [
+        "pizza tower",
+        "披薩塔"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🍕",
+      "category": "平台"
+    },
+    {
+      "auditIndex": 784,
+      "name": "Hi-Fi Rush",
+      "alias": [
+        "hi-fi rush",
+        "hifi rush",
+        "完美音浪"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🎸",
+      "category": "節奏動作"
+    },
+    {
+      "auditIndex": 785,
+      "name": "Bomb Rush Cyberfunk",
+      "alias": [
+        "bomb rush cyberfunk",
+        "炸彈衝刺賽博放克"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🛼",
+      "category": "動作"
+    },
+    {
+      "auditIndex": 786,
+      "name": "Grounded",
+      "alias": [
+        "grounded",
+        "禁閉求生"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🐜",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 787,
+      "name": "Pentiment",
+      "alias": [
+        "pentiment",
+        "隱跡漸現"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "📖",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 788,
+      "name": "As Dusk Falls",
+      "alias": [
+        "as dusk falls",
+        "黃昏降臨時"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🌆",
+      "category": "互動劇情"
+    },
+    {
+      "auditIndex": 789,
+      "name": "Citizen Sleeper",
+      "alias": [
+        "citizen sleeper",
+        "公民沉睡者"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🌌",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 790,
+      "name": "Norco",
+      "alias": [
+        "norco"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🏭",
+      "category": "冒險"
+    },
+    {
+      "auditIndex": 791,
+      "name": "Immortality",
+      "alias": [
+        "immortality",
+        "不朽"
+      ],
+      "platform": "PC/Xbox/Mobile",
+      "icon": "🎞️",
+      "category": "互動劇情"
+    },
+    {
+      "auditIndex": 792,
+      "name": "Tunic",
+      "alias": [
+        "tunic",
+        "小狐狸大冒險"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🦊",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 793,
+      "name": "Death's Door",
+      "alias": [
+        "deaths door",
+        "死亡之門"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🐦‍⬛",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 794,
+      "name": "Inscryption",
+      "alias": [
+        "inscryption",
+        "邪惡冥刻"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🃏",
+      "category": "卡牌Roguelike"
+    },
+    {
+      "auditIndex": 795,
+      "name": "Loop Hero",
+      "alias": [
+        "loop hero",
+        "迴圈英雄"
+      ],
+      "platform": "PC/Xbox/Switch/Mobile",
+      "icon": "🔁",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 796,
+      "name": "Brotato",
+      "alias": [
+        "brotato",
+        "土豆兄弟"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🥔",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 797,
+      "name": "20 Minutes Till Dawn",
+      "alias": [
+        "20 minutes till dawn",
+        "黎明前20分鐘"
+      ],
+      "platform": "PC/Switch/Mobile",
+      "icon": "🌅",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 798,
+      "name": "Risk of Rain Returns",
+      "alias": [
+        "risk of rain returns",
+        "雨中冒險回歸"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🌧️",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 799,
+      "name": "Risk of Rain 2",
+      "alias": [
+        "risk of rain 2",
+        "雨中冒險2"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🌧️",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 800,
+      "name": "Roboquest",
+      "alias": [
+        "roboquest",
+        "機器人任務"
+      ],
+      "platform": "PC/Xbox/PS5",
+      "icon": "🤖",
+      "category": "FPS Roguelike"
+    },
+    {
+      "auditIndex": 801,
+      "name": "Dead Cells: Return to Castlevania",
+      "alias": [
+        "dead cells castlevania",
+        "死亡細胞惡魔城",
+        "return to castlevania"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🏰",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 802,
+      "name": "The Rogue Prince of Persia",
+      "alias": [
+        "rogue prince of persia",
+        "波斯王子rogue"
+      ],
+      "platform": "PC",
+      "icon": "🗡️",
+      "category": "Roguelike"
+    },
+    {
+      "auditIndex": 803,
+      "name": "Duet Night Abyss",
+      "alias": [
+        "duet night abyss",
+        "二重螺旋"
+      ],
+      "platform": "PC/Mobile",
+      "icon": "🌗",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 804,
+      "name": "Limbus Company",
+      "alias": [
+        "limbus company",
+        "邊獄公司"
+      ],
+      "platform": "PC/Mobile",
+      "icon": "🚌",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 805,
+      "name": "Solo Leveling: Arise",
+      "alias": [
+        "solo leveling arise",
+        "我獨自升級arise",
+        "俺だけレベルアップ"
+      ],
+      "platform": "PC/Mobile",
+      "icon": "🗡️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 806,
+      "name": "The Seven Deadly Sins: Origin",
+      "alias": [
+        "seven deadly sins origin",
+        "七大罪origin"
+      ],
+      "platform": "PC/Console/Mobile",
+      "icon": "🐉",
+      "category": "開放世界RPG"
+    },
+    {
+      "auditIndex": 807,
+      "name": "Project Mugen",
+      "alias": [
+        "project mugen",
+        "無限大"
+      ],
+      "platform": "PC/PS5/Mobile",
+      "icon": "🏙️",
+      "category": "開放世界RPG"
+    },
+    {
+      "auditIndex": 808,
+      "name": "Tree of Savior: Neverland",
+      "alias": [
+        "tree of savior neverland",
+        "救世者之樹新世界"
+      ],
+      "platform": "Mobile/PC",
+      "icon": "🌳",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 809,
+      "name": "MapleStory Worlds",
+      "alias": [
+        "maplestory worlds",
+        "楓之谷worlds"
+      ],
+      "platform": "PC/Mobile",
+      "icon": "🍁",
+      "category": "沙盒"
+    },
+    {
+      "auditIndex": 810,
+      "name": "World of Warcraft: The War Within",
+      "alias": [
+        "wow the war within",
+        "地心之戰",
+        "魔獸世界地心之戰"
+      ],
+      "platform": "PC",
+      "icon": "🛡️",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 811,
+      "name": "Final Fantasy XIV: Dawntrail",
+      "alias": [
+        "ffxiv dawntrail",
+        "黃金的遺產",
+        "ff14 dawntrail"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🌅",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 812,
+      "name": "Guild Wars 2: Janthir Wilds",
+      "alias": [
+        "guild wars 2 janthir wilds",
+        "激戰2 janthir wilds"
+      ],
+      "platform": "PC",
+      "icon": "🐻",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 813,
+      "name": "The Elder Scrolls Online: Gold Road",
+      "alias": [
+        "eso gold road",
+        "上古卷軸online gold road"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "📜",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 814,
+      "name": "Destiny 2: The Final Shape",
+      "alias": [
+        "destiny 2 final shape",
+        "天命2最終形態"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🔺",
+      "category": "射擊RPG"
+    },
+    {
+      "auditIndex": 815,
+      "name": "Warframe: 1999",
+      "alias": [
+        "warframe 1999",
+        "星際戰甲1999"
+      ],
+      "platform": "PC/PS/Xbox/Switch/Mobile",
+      "icon": "🛰️",
+      "category": "射擊RPG"
+    },
+    {
+      "auditIndex": 816,
+      "name": "The First Descendant",
+      "alias": [
+        "the first descendant",
+        "第一繼承者"
+      ],
+      "platform": "PC/PS5/PS4/Xbox",
+      "icon": "🧬",
+      "category": "射擊RPG"
+    },
+    {
+      "auditIndex": 817,
+      "name": "Wayfinder",
+      "alias": [
+        "wayfinder",
+        "尋路者"
+      ],
+      "platform": "PC/PS/Xbox",
+      "icon": "🧭",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 818,
+      "name": "Blue Protocol",
+      "alias": [
+        "blue protocol",
+        "藍色協定"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "💙",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 819,
+      "name": "Throne and Liberty",
+      "alias": [
+        "throne and liberty",
+        "王權與自由",
+        "tl"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "👑",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 820,
+      "name": "Pax Dei",
+      "alias": [
+        "pax dei"
+      ],
+      "platform": "PC",
+      "icon": "⛪",
+      "category": "MMORPG"
+    },
+    {
+      "auditIndex": 821,
+      "name": "Dune: Awakening",
+      "alias": [
+        "dune awakening",
+        "沙丘覺醒"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏜️",
+      "category": "生存MMO"
+    },
+    {
+      "auditIndex": 822,
+      "name": "Light No Fire",
+      "alias": [
+        "light no fire",
+        "無火之光"
+      ],
+      "platform": "PC",
+      "icon": "🌍",
+      "category": "生存冒險"
+    },
+    {
+      "auditIndex": 823,
+      "name": "Crimson Desert",
+      "alias": [
+        "crimson desert",
+        "紅色沙漠"
+      ],
+      "platform": "PC/PS5/Xbox",
+      "icon": "🏜️",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 824,
+      "name": "Phantom Blade Zero",
+      "alias": [
+        "phantom blade zero",
+        "影之刃零"
+      ],
+      "platform": "PC/PS5",
+      "icon": "⚔️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 825,
+      "name": "Lost Soul Aside",
+      "alias": [
+        "lost soul aside",
+        "失落之魂"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🗡️",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 826,
+      "name": "Project: The Perceiver",
+      "alias": [
+        "project the perceiver",
+        "百面千相"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🎭",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 827,
+      "name": "AI Limit",
+      "alias": [
+        "ai limit",
+        "無限機兵"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🤖",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 828,
+      "name": "Ballad of Antara",
+      "alias": [
+        "ballad of antara",
+        "安塔拉之歌"
+      ],
+      "platform": "PC/PS5/Mobile",
+      "icon": "🎻",
+      "category": "動作RPG"
+    },
+    {
+      "auditIndex": 829,
+      "name": "Death Stranding 2: On the Beach",
+      "alias": [
+        "death stranding 2",
+        "死亡擱淺2",
+        "on the beach"
+      ],
+      "platform": "PS5",
+      "icon": "🌊",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 830,
+      "name": "Ghost of Yotei",
+      "alias": [
+        "ghost of yotei",
+        "羊蹄山戰鬼"
+      ],
+      "platform": "PS5",
+      "icon": "🍂",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 831,
+      "name": "Intergalactic: The Heretic Prophet",
+      "alias": [
+        "intergalactic",
+        "heretic prophet",
+        "星際異端先知"
+      ],
+      "platform": "PS5",
+      "icon": "🚀",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 832,
+      "name": "Fable",
+      "alias": [
+        "fable 2025",
+        "神鬼寓言"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🧚",
+      "category": "RPG"
+    },
+    {
+      "auditIndex": 833,
+      "name": "Perfect Dark",
+      "alias": [
+        "perfect dark",
+        "完美黑暗"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🕶️",
+      "category": "射擊"
+    },
+    {
+      "auditIndex": 834,
+      "name": "State of Decay 3",
+      "alias": [
+        "state of decay 3",
+        "腐朽之都3"
+      ],
+      "platform": "PC/Xbox",
+      "icon": "🧟",
+      "category": "生存"
+    },
+    {
+      "auditIndex": 835,
+      "name": "South Park: Snow Day!",
+      "alias": [
+        "south park snow day",
+        "南方四賤客snow day"
+      ],
+      "platform": "PC/PS5/Xbox/Switch",
+      "icon": "❄️",
+      "category": "合作"
+    },
+    {
+      "auditIndex": 836,
+      "name": "Mina the Hollower",
+      "alias": [
+        "mina the hollower",
+        "米娜洞窟者"
+      ],
+      "platform": "PC/PS/Xbox/Switch",
+      "icon": "🦇",
+      "category": "動作冒險"
+    },
+    {
+      "auditIndex": 837,
+      "name": "Haunted Chocolatier",
+      "alias": [
+        "haunted chocolatier",
+        "鬧鬼巧克力店"
+      ],
+      "platform": "PC",
+      "icon": "🍫",
+      "category": "生活模擬"
+    }
+  ]
+}

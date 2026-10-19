@@ -1,0 +1,15 @@
+{
+  "officialHosts": ["www.stardewvalley.net", "en.bandainamcoent.eu", "www.bandainamcoent.com", "www.nintendo.com", "store.steampowered.com", "www.playstation.com", "store.playstation.com", "www.xbox.com", "apps.apple.com", "play.google.com", "www.hoyoverse.com", "hsr.hoyoverse.com", "genshin.hoyoverse.com", "zenless.hoyoverse.com"],
+  "games": {
+    "星露谷物語": [
+      {"url":"https://wiki.stardewvalley.net/Copper_Ore", "title":"Stardew Valley Wiki：Copper Ore", "tier":"official-wiki", "scope":"官方維基（社群編輯），現行普通礦坑；舊版差異須另外確認", "match":"銅|礦|copper|min", "terms":"copper|floors|nodes"},
+      {"url":"https://wiki.stardewvalley.net/The_Mines", "title":"Stardew Valley Wiki：The Mines", "tier":"official-wiki", "scope":"官方維基（社群編輯），普通礦坑；不等同危險礦坑或骷髏洞穴", "match":"礦|電梯|copper|mine|elevator", "terms":"elevator|multiple of 5|copper|floor 2"}
+    ],
+    "艾爾登法環": [
+      {"url":"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game", "title":"Bandai Namco：ELDEN RING Starter Guide", "tier":"official", "scope":"2021 官方入門指南，早期版本；不能證明現行武器數值或 Boss 階段限制", "match":".", "terms":"summon|spirit|guard|two.hand|shield|rebirth"},
+      {"url":"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen", "title":"RPG Site：Margit 攻略", "tier":"secondary", "scope":"2022 編輯攻略，非官方；瑪爾基特本篇，不能套用其他 Boss 或 DLC。商店不可取得的斷言須與鈴珠道具資料交叉比對", "match":"瑪爾基特|惡兆妖鬼|Margit|束縛|骨灰|召喚", "terms":"shackle|phase|summon|jellyfish|attack|hammer"},
+      {"url":"https://eldenring.wiki.gg/wiki/Patches%27_Bell_Bearing", "title":"Eldenpedia：Patches' Bell Bearing", "tier":"secondary", "scope":"非官方社群維基，帕奇鈴珠的遊戲內道具描述", "match":"瑪爾基特|惡兆妖鬼|Margit|束縛|帕奇|Patches", "terms":"Patches|Husks|Shackle|perished"},
+      {"url":"https://www.gamerguides.com/elden-ring/database/items/bell-bearings/patches-bell-bearing", "title":"Gamer Guides：Patches Bell Bearing", "tier":"secondary", "scope":"非官方道具資料庫，鈴珠可解鎖的商店物品清單", "match":"瑪爾基特|惡兆妖鬼|Margit|束縛|帕奇|Patches", "terms":"Patches|Husks|Shackle"}
+    ]
+  }
+}

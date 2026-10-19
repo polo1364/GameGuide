@@ -1,0 +1,279 @@
+[
+  {
+    "reviewIndex": 4,
+    "auditIndex": 192,
+    "name": "魔力寶貝 懷舊版",
+    "status": "verified",
+    "platform": "PC",
+    "safePlatform": "PC",
+    "platformNote": "限定中國易玩通官方懷舊服務。官方安裝指南的原始截圖清楚顯示《魔力寶貝6.0》的Windows安裝介面與C:\\Program Files\\易玩通\\魔力宝贝6.0目錄；2011-06-30官方公告明說已安裝6.0客戶端者可直接進入懷舊大區，據此確認Windows平台。此為原廠圖像與客戶端共用公告的交叉證據，不僅由exe副檔名推測；不據介面樣式斷言今日最低Windows版本或台灣其他服務支援。",
+    "safePlatformNote": "限定中國易玩通官方懷舊服務。官方安裝指南的原始截圖清楚顯示《魔力寶貝6.0》的Windows安裝介面與C:\\Program Files\\易玩通\\魔力宝贝6.0目錄；2011-06-30官方公告明說已安裝6.0客戶端者可直接進入懷舊大區，據此確認Windows平台。此為原廠圖像與客戶端共用公告的交叉證據，不僅由exe副檔名推測；不據介面樣式斷言今日最低Windows版本或台灣其他服務支援。",
+    "sources": [
+      "https://www.crossgate.com.cn/news/20110621.html",
+      "https://www.crossgate.com.cn/news/20110630.html",
+      "https://www.polchina.com.cn/staticHtml/download.html",
+      "https://cg.originmood.com/NewsContent/zh_TW/mlbb_notice_4363.html",
+      "https://www.crossgate.com.cn/_private/setupgame.htm",
+      "https://www.crossgate.com.cn/images/playguide/gamesetup_004.jpg",
+      "https://www.crossgate.com.cn/images/playguide/gamesetup_002.jpg"
+    ],
+    "evidence": [
+      "2011-06-21易玩通公告將懷舊服原創元素明確限定為史克威爾艾尼克斯為中國玩家打造。",
+      "2011-06-30公告確認6.0客戶端可直接進入懷舊大區；現行官方下載區列懷舊完整版。",
+      "初心網絡官網公告的正式產品副標為永恆初心，不能把其系統需求當作易玩通懷舊服證據。",
+      "已實際查看官方gamesetup_004.jpg：標題魔力宝贝6.0、Windows視窗安裝程式、預設C:\\Program Files\\易玩通\\魔力宝贝6.0；gamesetup_002.jpg為同一安裝精靈。結合官方6.0客戶端可進懷舊大區公告，可確認此懷舊服務Windows發行。"
+    ],
+    "resolvedGap": "新增實際視讀官方Windows安裝截圖，與6.0客戶端共用公告交叉確認；中國易玩通懷舊服務身分與Windows平台缺口均已解決。",
+    "checkedAt": "2026-10-19",
+    "identityType": "specific-game",
+    "identityNote": "依官方直接使用的『魔力寶貝（懷舊）』產品名，查核範圍限定中國易玩通懷舊服務。新查2011-06-21原廠公告明說中國玩家專享、國服獨享元素；台灣另有正式副標『永恆初心』，不視作同一服務。",
+    "editionOptions": []
+  },
+  {
+    "reviewIndex": 9,
+    "auditIndex": 275,
+    "name": "武林群俠傳",
+    "status": "partial",
+    "platform": "電腦（作業系統待確認）",
+    "safePlatform": "電腦（作業系統待確認）",
+    "platformNote": "智冠官方歷史及單機IP新聞可確認原作品。新增追查Windows與系統需求時，實際讀到的官方技術FAQ屬中華網龍Online，內文有WX Online資料夾及台港伺服器；不能用來填原單機版OS。原版手冊／官方舊規格未找到可核對內容，仍只列電腦。",
+    "safePlatformNote": "智冠官方歷史及單機IP新聞可確認原作品。新增追查Windows與系統需求時，實際讀到的官方技術FAQ屬中華網龍Online，內文有WX Online資料夾及台港伺服器；不能用來填原單機版OS。原版手冊／官方舊規格未找到可核對內容，仍只列電腦。",
+    "sources": [
+      "https://www.soft-world.com/About/History?EKind=6",
+      "https://www.soft-world.com/News/NewsDetail?Sn=1163",
+      "https://wx.chinesegamer.net/index-16-1.asp"
+    ],
+    "evidence": [
+      "智冠歷史的2002年單機遊戲獲獎紀錄與原作身分相符。",
+      "本輪實際讀回的Windows相關官方FAQ標題為武林群俠傳online，安裝路徑為WX Online並談台港伺服器，排除作為原作系統證據。"
+    ],
+    "resolvedGap": "新查系統需求與說明書來源，辨別搜尋中最容易誤套的Online官方技術頁；尚無原版官方OS證據，沒有把別作Windows推回原作。",
+    "checkedAt": "2026-10-19",
+    "identityType": "specific-game",
+    "identityNote": "本條目以智冠早期單機《武林群俠傳》為範圍；不是中華網龍《武林群俠傳Online》，也不是《俠客風雲傳》。",
+    "editionOptions": [],
+    "remainingReason": "official-os-evidence-required"
+  },
+  {
+    "reviewIndex": 10,
+    "auditIndex": 295,
+    "name": "Fate/stay night",
+    "status": "verified",
+    "platform": "PC",
+    "safePlatform": "PC",
+    "platformNote": "限定2004原版及內容相同的2006 DVD版。官方產品資料直接列Windows98/Me/2000/XP，產品目錄明列Windows且已停售。後續Realta Nua及REMASTERED另列版本對照，不合併其主機或手機平台；歷史Windows支援不表示今日Windows版本都受支援。",
+    "safePlatformNote": "限定2004原版及內容相同的2006 DVD版。官方產品資料直接列Windows98/Me/2000/XP，產品目錄明列Windows且已停售。後續Realta Nua及REMASTERED另列版本對照，不合併其主機或手機平台；歷史Windows支援不表示今日Windows版本都受支援。",
+    "sources": [
+      "https://typemoon.com/contents/9ncnes/fate-stay-night",
+      "https://www.typemoon.com/products/fate/data/index.html"
+    ],
+    "evidence": [
+      "官方目錄標題Fate/stay night、對應OS Windows、2004/1/30 CD及2006/3/29 DVD，並記載目前已停售。",
+      "原版DATA頁明列Windows98/Me/2000/XP，且說明CD與DVD遊戲內容沒有差異。"
+    ],
+    "resolvedGap": "取得精確無副標原版產品頁及原始系統需求；版本身分和Windows平台均已確認。",
+    "checkedAt": "2026-10-19",
+    "identityType": "specific-game",
+    "identityNote": "TYPE-MOON官方產品目錄精確以無副標『Fate/stay night』標示2004年CD原版／2006年DVD版，另將Realta Nua獨立列頁。本條目據正式標題對應原版，並非依舊PC欄位反推。",
+    "editionOptions": [
+      {
+        "name": "Fate/stay night（2004 原版／2006 DVD版）",
+        "platform": "PC",
+        "sources": [
+          "https://typemoon.com/contents/9ncnes/fate-stay-night",
+          "https://www.typemoon.com/products/fate/data/index.html"
+        ],
+        "scopeNote": "本條目採用的精確官方無副標原作；目前已停售。"
+      },
+      {
+        "name": "Fate/stay night [Realta Nua]（2007 PS2版）",
+        "platform": "PS2",
+        "sources": [
+          "https://typemoon.com/contents/9ncnes/fate-stay-night-realta-nua"
+        ],
+        "scopeNote": "官方另列的2007全年齡主機版本，此選項只指PS2版，不概括同副標其餘移植。"
+      },
+      {
+        "name": "Fate/stay night REMASTERED",
+        "platform": "PC/Switch",
+        "sources": [
+          "https://www.aniplex.co.jp/lineup/fate-sn-game/"
+        ],
+        "scopeNote": "2024年8月8日推出，以2012 Vita版為基底；與2004原版分列。"
+      }
+    ]
+  },
+  {
+    "reviewIndex": 13,
+    "auditIndex": 318,
+    "name": "聲之形",
+    "status": "unresolved",
+    "platform": "未確認",
+    "safePlatform": "未確認",
+    "platformNote": "新增查核京都動畫製作方及電影官網，只能確認影視身分；Steam搜尋亦會出現把《聲之形》列作靈感的其他遊戲，不能據此當作本作遊戲。無可核實平台，維持未確認，不任意刪除或改名為Voice of Cards。",
+    "safePlatformNote": "新增查核京都動畫製作方及電影官網，只能確認影視身分；Steam搜尋亦會出現把《聲之形》列作靈感的其他遊戲，不能據此當作本作遊戲。無可核實平台，維持未確認，不任意刪除或改名為Voice of Cards。",
+    "sources": [
+      "https://www.kyotoanimation.co.jp/works/koeM/",
+      "https://koenokatachi-movie.com/sp/introduction/",
+      "https://store.steampowered.com/app/1675830/1000xRESIST/?l=tchinese"
+    ],
+    "evidence": [
+      "京都動畫自有作品頁列電影、動畫製作及配給資訊；電影介紹將原作列為漫畫。",
+      "1000xRESIST發行商商品文字把山田尚子的聲之形列為動畫靈感之一，並非聲之形改編遊戲。"
+    ],
+    "resolvedGap": "新追查權利方作品頁並排除遊戲搜尋的靈感引用誤命中；仍缺此條目的正式遊戲開發商、原文商品名或公告。",
+    "checkedAt": "2026-10-19",
+    "identityType": "unconfirmed-work",
+    "identityNote": "本輪京都動畫的作品頁與電影官網直接將《聲の形》辨識為大今良時原作的動畫電影。未找到能對應此中文名稱、卡牌RPG分類的官方電玩商品；先前誤置Voice of Cards別名已移除。",
+    "editionOptions": [],
+    "remainingReason": "identity-required"
+  },
+  {
+    "reviewIndex": 16,
+    "auditIndex": 338,
+    "name": "迷宮飯 千年國度的荒唐食譜",
+    "status": "unresolved",
+    "platform": "未確認",
+    "safePlatform": "未確認",
+    "platformNote": "本輪重新以完整中文副標及日文作品名搜尋，再查Arclight原始產品／發售企劃與動畫官方消息。確認Monster Eater為卡牌及實體配件桌遊，非Switch電玩；對本條目仍無平台可確認。未獲官方確認，非斷言永不存在。",
+    "safePlatformNote": "本輪重新以完整中文副標及日文作品名搜尋，再查Arclight原始產品／發售企劃與動畫官方消息。確認Monster Eater為卡牌及實體配件桌遊，非Switch電玩；對本條目仍無平台可確認。未獲官方確認，非斷言永不存在。",
+    "sources": [
+      "https://arclightgames.jp/product/682mtet/",
+      "https://arclightgames.jp/mtetcampaign/",
+      "https://delicious-in-dungeon.com/news.html"
+    ],
+    "evidence": [
+      "Arclight原始商品頁明列Monster Eater ～ダンジョン飯 ボードゲーム～，以Monster Maker卡牌系統改編。",
+      "動畫官方消息列2至5人、45分鐘、實體盒尺寸及2022年9月15日發售資訊；不支持電玩平台宣稱。"
+    ],
+    "resolvedGap": "補到桌遊發行商原始產品與發售企劃，排除將授權桌遊當作副標電玩的可能；仍需完整副標的正式電玩證據。",
+    "checkedAt": "2026-10-19",
+    "identityType": "unconfirmed-work",
+    "identityNote": "完整中文副標未找到官方電玩產品對應。可核實的《迷宮飯》遊戲是Arclight實體桌遊Monster Eater，標題與載體均不同，不能據此替換此條目。",
+    "editionOptions": [],
+    "remainingReason": "identity-required"
+  },
+  {
+    "reviewIndex": 20,
+    "auditIndex": 387,
+    "name": "夢幻西遊",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "新讀官方電腦版下載頁，明列Windows7以上、Mac OS High Sierra10.13以上與iOS/Android互通版；這是電腦版產品的客戶端體系。另一官方手遊商品同樣使用夢幻西遊名稱並列iOS/Android，仍需指定版本。",
+    "safePlatformNote": "新讀官方電腦版下載頁，明列Windows7以上、Mac OS High Sierra10.13以上與iOS/Android互通版；這是電腦版產品的客戶端體系。另一官方手遊商品同樣使用夢幻西遊名稱並列iOS/Android，仍需指定版本。",
+    "sources": [
+      "https://xyq.163.com/download/",
+      "https://www.taptap.cn/app/2315"
+    ],
+    "evidence": [
+      "官方下載頁原始HTML可讀到Windows最低配置、Mac適用系統與互通版iOS/Android。",
+      "網易官方入駐手遊商品明列iOS/Android；不是電腦版下載頁的同一商品。"
+    ],
+    "resolvedGap": "本輪直接讀回網易下載頁（web工具讀取失敗後以HTTP讀取），補齊具名電腦版本平台；剩餘僅條目版本選擇。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "名稱與別名同時涵蓋網易電腦原作及獨立同名手遊，沒有年份／手遊限定。已提供兩個具體官方版本選項，主欄不合併。",
+    "editionOptions": [
+      {
+        "name": "夢幻西遊電腦版",
+        "platform": "PC/Mac/iOS（互通版）/Android（互通版）",
+        "sources": [
+          "https://xyq.163.com/download/"
+        ],
+        "scopeNote": "網易電腦版下載頁列Windows、Mac及手機互通客戶端；互通版不是下列獨立手遊。"
+      },
+      {
+        "name": "夢幻西遊手遊",
+        "platform": "iOS/Android",
+        "sources": [
+          "https://www.taptap.cn/app/2315"
+        ],
+        "scopeNote": "網易官方入駐的獨立手遊商品；此處只列已確認的手機平台，不據TapTap全站PC按鈕推測原生桌面版。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 21,
+    "auditIndex": 388,
+    "name": "大話西遊",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "新讀《大話西遊2經典版》官方下載頁，明列Windows7以上配置；網易官方手遊商品明列iOS/Android。這兩個具名產品有不同客戶端與版本身分，現有泛稱無法唯一選擇，主欄維持依版本確認。",
+    "safePlatformNote": "新讀《大話西遊2經典版》官方下載頁，明列Windows7以上配置；網易官方手遊商品明列iOS/Android。這兩個具名產品有不同客戶端與版本身分，現有泛稱無法唯一選擇，主欄維持依版本確認。",
+    "sources": [
+      "https://xy2.163.com/download/",
+      "https://www.taptap.cn/app/2316"
+    ],
+    "evidence": [
+      "官方下載頁標題大話西遊2經典版，推薦與最低配置均明列Windows7以上。",
+      "網易官方入駐大話西遊頁以手遊自稱並列Android/iOS。"
+    ],
+    "resolvedGap": "取得前輪未讀到的大話2官方Windows配置，新增端遊／手遊具名對照；仍缺原條目所指版本。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "無代數名稱可指系列或同名手遊；本輪把官方《大話西遊2經典版》與《大話西遊》手遊明確分列，不能任選。",
+    "editionOptions": [
+      {
+        "name": "大話西遊2經典版（桌面客戶端）",
+        "platform": "PC",
+        "sources": [
+          "https://xy2.163.com/download/"
+        ],
+        "scopeNote": "只指經典版官方Windows桌面客戶端，不把口袋版或獨立手遊當作同一版。"
+      },
+      {
+        "name": "大話西遊手遊",
+        "platform": "iOS/Android",
+        "sources": [
+          "https://www.taptap.cn/app/2316"
+        ],
+        "scopeNote": "網易官方手機商品；與大話2經典版分開。"
+      }
+    ],
+    "remainingReason": "version-required"
+  },
+  {
+    "reviewIndex": 22,
+    "auditIndex": 392,
+    "name": "劍俠情緣",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "本輪直接讀西山居下載頁的技術FAQ，Windows桌面客戶端資訊明確；另讀騰訊與西山居官方入駐新劍俠情緣手遊，列iOS/Android。兩者不是同一版本，故維持依版本確認；Windows選項僅指所查桌面客戶端，不概括劍網3其他客戶端或版本。",
+    "safePlatformNote": "本輪直接讀西山居下載頁的技術FAQ，Windows桌面客戶端資訊明確；另讀騰訊與西山居官方入駐新劍俠情緣手遊，列iOS/Android。兩者不是同一版本，故維持依版本確認；Windows選項僅指所查桌面客戶端，不概括劍網3其他客戶端或版本。",
+    "sources": [
+      "https://jx3.xoyo.com/clouddown/",
+      "https://www.taptap.cn/app/7101"
+    ],
+    "evidence": [
+      "西山居下載頁技術FAQ明說其所述客戶端在Windows環境運行，並列64位系統、DirectX及JX3ClientX64.exe等說明。",
+      "騰訊官方入駐商品以新劍俠情緣手遊為題，列西山居開發及iOS/Android。"
+    ],
+    "resolvedGap": "本輪補齊一個具名端遊客戶端與一個具名手機版本的原始來源；仍需確定此泛稱要指哪一款。",
+    "checkedAt": "2026-10-19",
+    "identityType": "series",
+    "identityNote": "現有名稱與Swordsman Love別名未指定代作或手機版。新增劍俠情緣網絡版叁Windows客戶端及新劍俠情緣手遊兩項官方具名對照，主欄不合併。",
+    "editionOptions": [
+      {
+        "name": "劍俠情緣網絡版叁（Windows桌面客戶端）",
+        "platform": "PC",
+        "sources": [
+          "https://jx3.xoyo.com/clouddown/"
+        ],
+        "scopeNote": "限定所查官方Windows桌面客戶端；不將此舊技術FAQ當成全系列永遠不支援其他系統的證據。"
+      },
+      {
+        "name": "新劍俠情緣手遊（騰訊／西山居）",
+        "platform": "iOS/Android",
+        "sources": [
+          "https://www.taptap.cn/app/7101"
+        ],
+        "scopeNote": "中國騰訊發行手機版本，平台由官方入駐商品確認；不保證台港版本服務完全相同。"
+      }
+    ],
+    "remainingReason": "version-required"
+  }
+]

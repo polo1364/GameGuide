@@ -1,0 +1,318 @@
+[
+  {
+    "reviewIndex": 0,
+    "auditIndex": 60,
+    "name": "絕命暗殺令",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "既有 HITMAN／刺客任務別名只能確認系列，無法把「絕命暗殺令」唯一指派給某年作品；保留入口並列具名版本，不覆蓋既有2016及3代條目。",
+    "safePlatformNote": "既有 HITMAN／刺客任務別名只能確認系列，無法把「絕命暗殺令」唯一指派給某年作品；保留入口並列具名版本，不覆蓋既有2016及3代條目。",
+    "identityType": "ambiguous-title",
+    "identityNote": "既有 HITMAN／刺客任務別名只能確認系列，無法把「絕命暗殺令」唯一指派給某年作品；保留入口並列具名版本，不覆蓋既有2016及3代條目。",
+    "editionOptions": [
+      {
+        "name": "Hitman: Codename 47（2000 原作）",
+        "platform": "PC",
+        "sources": [
+          "https://store.steampowered.com/api/appdetails?appids=6900&l=english&cc=us",
+          "https://ioi.dk/en-us/about"
+        ],
+        "scopeNote": "Steam 官方規格列 Windows；2007 是 Steam 上架日期，非原作首發年。IOI 歷史將首作定位為2000年。"
+      },
+      {
+        "name": "HITMAN World of Assassination – Signature Edition",
+        "platform": "Switch 2",
+        "sources": [
+          "https://ioi.dk/hitman/news/2025/signature-edition-available-now"
+        ],
+        "scopeNote": "此具名版本為2025年 Switch 2 原生版；不等於 Switch 雲端版，也不代表全系列。"
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=6900&l=english&cc=us",
+      "https://ioi.dk/en-us/about",
+      "https://ioi.dk/hitman/news/2025/signature-edition-available-now"
+    ],
+    "evidence": [
+      "Hitman: Codename 47（2000 原作）：PC。Steam 官方規格列 Windows；2007 是 Steam 上架日期，非原作首發年。IOI 歷史將首作定位為2000年。",
+      "HITMAN World of Assassination – Signature Edition：Switch 2。此具名版本為2025年 Switch 2 原生版；不等於 Switch 雲端版，也不代表全系列。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 1,
+    "auditIndex": 75,
+    "name": "模擬城市",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "SimCity 無年份可能指同名原作、2013版或系列。新增已核對的2013版與4代豪華版產品識別，不能由單一英文別名選定年份。",
+    "safePlatformNote": "SimCity 無年份可能指同名原作、2013版或系列。新增已核對的2013版與4代豪華版產品識別，不能由單一英文別名選定年份。",
+    "identityType": "ambiguous-title",
+    "identityNote": "SimCity 無年份可能指同名原作、2013版或系列。新增已核對的2013版與4代豪華版產品識別，不能由單一英文別名選定年份。",
+    "editionOptions": [
+      {
+        "name": "SimCity（2013）",
+        "platform": "PC/macOS",
+        "sources": [
+          "https://www.ea.com/pl/games/simcity/simcity",
+          "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx",
+          "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Cities-of-Tomorrow-Expansion-Pack-Coming-November-12/default.aspx"
+        ],
+        "scopeNote": "EA 商品發售日識別2013版；2013-09-19 官方新聞確認本體 Mac／PC 已上市。Mac歷史發行不保證現代macOS相容。"
+      },
+      {
+        "name": "SimCity 4 Deluxe Edition",
+        "platform": "PC/macOS",
+        "sources": [
+          "https://store.steampowered.com/app/24780/",
+          "https://store.steampowered.com/api/appdetails?appids=24780&l=english&cc=us"
+        ],
+        "scopeNote": "EA／Aspyr 分別列 Windows、Mac 系統需求；這是4代加資料片的具名商品，不是2013版。"
+      }
+    ],
+    "sources": [
+      "https://www.ea.com/pl/games/simcity/simcity",
+      "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx",
+      "https://store.steampowered.com/app/24780/",
+      "https://store.steampowered.com/api/appdetails?appids=24780&l=english&cc=us",
+      "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Cities-of-Tomorrow-Expansion-Pack-Coming-November-12/default.aspx"
+    ],
+    "evidence": [
+      "SimCity（2013）：PC/macOS。EA 商品發售日識別2013版；Mac歷史發行不保證現代macOS相容。",
+      "SimCity 4 Deluxe Edition：PC/macOS。EA／Aspyr 分別列 Windows、Mac 系統需求；這是4代加資料片的具名商品，不是2013版。",
+      "EA 2013-09-19 官方新聞明說 SimCity 本體現已提供 Mac 與 PC，補足先前 June 11 預告不是實際上市證明的缺口。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 2,
+    "auditIndex": 77,
+    "name": "農場模擬器系列",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "名稱明示系列，不應釐清成某一代；本輪建立具名年度及版本對照，平台範圍只屬各個選項。",
+    "safePlatformNote": "名稱明示系列，不應釐清成某一代；本輪建立具名年度及版本對照，平台範圍只屬各個選項。",
+    "identityType": "series",
+    "identityNote": "名稱明示系列，不應釐清成某一代；本輪建立具名年度及版本對照，平台範圍只屬各個選項。",
+    "editionOptions": [
+      {
+        "name": "Farming Simulator 25（電腦版）",
+        "platform": "PC/macOS",
+        "sources": [
+          "https://store.steampowered.com/api/appdetails?appids=2300320&l=english&cc=us",
+          "https://www.farming-simulator.com/about.php?game=fs25&platform=pc"
+        ],
+        "scopeNote": "此選項僅列Windows／Mac版；不宣稱25代只有電腦。"
+      },
+      {
+        "name": "Farming Simulator 25（PS5版）",
+        "platform": "PS5",
+        "sources": [
+          "https://www.farming-simulator.com/about.php?country=ca&lang=en&platform=ps5"
+        ],
+        "scopeNote": "官方商品明列PlayStation 5；與電腦版分開列以免把系列的PS4誤套此版本。"
+      },
+      {
+        "name": "Farming Simulator 22（電腦版）",
+        "platform": "PC/macOS",
+        "sources": [
+          "https://store.steampowered.com/api/appdetails?appids=1248130&l=english&cc=us"
+        ],
+        "scopeNote": "限定Steam發行的Windows／Mac版；主機版另有獨立SKU，本對照不自稱完整系列平台清單。"
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=2300320&l=english&cc=us",
+      "https://www.farming-simulator.com/about.php?game=fs25&platform=pc",
+      "https://www.farming-simulator.com/about.php?country=ca&lang=en&platform=ps5",
+      "https://store.steampowered.com/api/appdetails?appids=1248130&l=english&cc=us"
+    ],
+    "evidence": [
+      "Farming Simulator 25（電腦版）：PC/macOS。此選項僅列Windows／Mac版；不宣稱25代只有電腦。",
+      "Farming Simulator 25（PS5版）：PS5。官方商品明列PlayStation 5；與電腦版分開列以免把系列的PS4誤套此版本。",
+      "Farming Simulator 22（電腦版）：PC/macOS。限定Steam發行的Windows／Mac版；主機版另有獨立SKU，本對照不自稱完整系列平台清單。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 3,
+    "auditIndex": 78,
+    "name": "微軟模擬飛行",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "MSFS是系列縮寫，沒有年份不足以區分2020與2024。已將兩款官方資訊頁的不同平台具名列出，PS5只歸2024版本。",
+    "safePlatformNote": "MSFS是系列縮寫，沒有年份不足以區分2020與2024。已將兩款官方資訊頁的不同平台具名列出，PS5只歸2024版本。",
+    "identityType": "ambiguous-title",
+    "identityNote": "MSFS是系列縮寫，沒有年份不足以區分2020與2024。已將兩款官方資訊頁的不同平台具名列出，PS5只歸2024版本。",
+    "editionOptions": [
+      {
+        "name": "Microsoft Flight Simulator（2020）",
+        "platform": "PC/Xbox Series X|S",
+        "sources": [
+          "https://www.flightsimulator.com/microsoft-flight-simulator-2020/"
+        ],
+        "scopeNote": "官方2020資訊頁列Windows PC及Xbox Series X|S；Xbox One雲端不列原生。"
+      },
+      {
+        "name": "Microsoft Flight Simulator 2024",
+        "platform": "PC/PS5/Xbox Series X|S",
+        "sources": [
+          "https://www.flightsimulator.com/microsoft-flight-simulator-2024/"
+        ],
+        "scopeNote": "官方資訊頁列Windows、Xbox Series及PS5；PS5 Pro為同平台硬體，不另外算移植。"
+      }
+    ],
+    "sources": [
+      "https://www.flightsimulator.com/microsoft-flight-simulator-2020/",
+      "https://www.flightsimulator.com/microsoft-flight-simulator-2024/"
+    ],
+    "evidence": [
+      "Microsoft Flight Simulator（2020）：PC/Xbox Series X|S。官方2020資訊頁列Windows PC及Xbox Series X|S；Xbox One雲端不列原生。",
+      "Microsoft Flight Simulator 2024：PC/PS5/Xbox Series X|S。官方資訊頁列Windows、Xbox Series及PS5；PS5 Pro為同平台硬體，不另外算移植。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 8,
+    "auditIndex": 273,
+    "name": "大富翁系列",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "明確是大富翁系列入口，不能改成大富翁4。新核對兩個商品ID與發行商公告，補出4代Steam版與11代的桌機、Switch差異。",
+    "safePlatformNote": "明確是大富翁系列入口，不能改成大富翁4。新核對兩個商品ID與發行商公告，補出4代Steam版與11代的桌機、Switch差異。",
+    "identityType": "series",
+    "identityNote": "明確是大富翁系列入口，不能改成大富翁4。新核對兩個商品ID與發行商公告，補出4代Steam版與11代的桌機、Switch差異。",
+    "editionOptions": [
+      {
+        "name": "大富翁4（2022 Steam 再發行）",
+        "platform": "PC",
+        "sources": [
+          "https://store.steampowered.com/app/2059810/"
+        ],
+        "scopeNote": "商品說明原作1998，Steam發售日2022；本選項僅是這次Windows再發行，不混入大富翁4 Fun手機版。"
+      },
+      {
+        "name": "大富翁11",
+        "platform": "PC/macOS/Switch",
+        "sources": [
+          "https://store.steampowered.com/app/2074800/",
+          "https://store.steampowered.com/api/appdetails?appids=2074800&l=english&cc=us",
+          "https://km.softstar.com.tw/list.aspx?cid=2&gc=ETC&gd=RICH"
+        ],
+        "scopeNote": "大宇2022上市公告明列Switch／Steam，Steam規格另確認Windows與macOS，不能把Steam當成只有Windows。"
+      }
+    ],
+    "sources": [
+      "https://store.steampowered.com/app/2059810/",
+      "https://store.steampowered.com/app/2074800/",
+      "https://store.steampowered.com/api/appdetails?appids=2074800&l=english&cc=us",
+      "https://km.softstar.com.tw/list.aspx?cid=2&gc=ETC&gd=RICH"
+    ],
+    "evidence": [
+      "大富翁4（2022 Steam 再發行）：PC。商品說明原作1998，Steam發售日2022；本選項僅是這次Windows再發行，不混入大富翁4 Fun手機版。",
+      "大富翁11：PC/macOS/Switch。大宇2022上市公告明列Switch／Steam，Steam規格另確認Windows與macOS，不能把Steam當成只有Windows。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 18,
+    "auditIndex": 361,
+    "name": "神鬼寓言",
+    "status": "unresolved",
+    "platform": "依版本確認",
+    "safePlatform": "依版本確認",
+    "platformNote": "微軟繁中公告確認神鬼寓言為Fable原作的中文名稱，但同名重啟作亦存在。未帶年份仍不指定其中一款；原作、紀念版分開對照，不合併Xbox世代。",
+    "safePlatformNote": "微軟繁中公告確認神鬼寓言為Fable原作的中文名稱，但同名重啟作亦存在。未帶年份仍不指定其中一款；原作、紀念版分開對照，不合併Xbox世代。",
+    "identityType": "ambiguous-title",
+    "identityNote": "微軟繁中公告確認神鬼寓言為Fable原作的中文名稱，但同名重啟作亦存在。未帶年份仍不指定其中一款；原作、紀念版分開對照，不合併Xbox世代。",
+    "editionOptions": [
+      {
+        "name": "Fable（Xbox 原作）",
+        "platform": "Xbox",
+        "sources": [
+          "https://news.xbox.com/en-us/2013/06/04/games-fable-anniversary-reveal/"
+        ],
+        "scopeNote": "Xbox Wire將Anniversary描述為原Xbox經典的重製；此選項指原始Xbox軟體，非Xbox One／Series原生版。"
+      },
+      {
+        "name": "Fable Anniversary（神鬼寓言：紀念版）",
+        "platform": "PC/Xbox 360",
+        "sources": [
+          "https://store.steampowered.com/api/appdetails?appids=288470&l=english&cc=us",
+          "https://news.xbox.com/en-us/2013/12/12/xbox-360-fable-anniversary-developer-interview/",
+          "https://news.microsoft.com/source/asia/2014/02/05/2014-02-06_xbox%E5%8D%81%E5%B9%B4%E7%B6%93%E5%85%B8%E6%AD%A3%E5%BC%8F%E9%87%8D%E7%8F%BE/?lang=zh-hant"
+        ],
+        "scopeNote": "2014紀念版，Steam為Windows；Xbox360由微軟繁中及開發者原始公告確認，後代相容不當成原生移植。"
+      }
+    ],
+    "sources": [
+      "https://news.xbox.com/en-us/2013/06/04/games-fable-anniversary-reveal/",
+      "https://store.steampowered.com/api/appdetails?appids=288470&l=english&cc=us",
+      "https://news.xbox.com/en-us/2013/12/12/xbox-360-fable-anniversary-developer-interview/",
+      "https://news.microsoft.com/source/asia/2014/02/05/2014-02-06_xbox%E5%8D%81%E5%B9%B4%E7%B6%93%E5%85%B8%E6%AD%A3%E5%BC%8F%E9%87%8D%E7%8F%BE/?lang=zh-hant"
+    ],
+    "evidence": [
+      "Fable（Xbox 原作）：Xbox。Xbox Wire將Anniversary描述為原Xbox經典的重製；此選項指原始Xbox軟體，非Xbox One／Series原生版。",
+      "Fable Anniversary（神鬼寓言：紀念版）：PC/Xbox 360。2014紀念版，Steam為Windows；Xbox360由微軟繁中及開發者原始公告確認，後代相容不當成原生移植。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  },
+  {
+    "reviewIndex": 23,
+    "auditIndex": 479,
+    "name": "MLB The Show",
+    "status": "unresolved",
+    "platform": "依年度確認",
+    "safePlatform": "依年度確認",
+    "platformNote": "MLB The Show是年度系列。新增24與26的明確對照：舊年度PS4不能套到26；手機衍生作也不是年度主機版。",
+    "safePlatformNote": "MLB The Show是年度系列。新增24與26的明確對照：舊年度PS4不能套到26；手機衍生作也不是年度主機版。",
+    "identityType": "series",
+    "identityNote": "MLB The Show是年度系列。新增24與26的明確對照：舊年度PS4不能套到26；手機衍生作也不是年度主機版。",
+    "editionOptions": [
+      {
+        "name": "MLB The Show 24（PlayStation版）",
+        "platform": "PS5/PS4",
+        "sources": [
+          "https://blog.playstation.com/2024/03/05/mlb-the-show-24-unveils-road-to-the-show-women-pave-their-way/"
+        ],
+        "scopeNote": "限定本公告明列的PlayStation版本，不據此否認另有Xbox／Switch商品。"
+      },
+      {
+        "name": "MLB The Show 26",
+        "platform": "PS5/Xbox Series X|S/Switch",
+        "sources": [
+          "https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/"
+        ],
+        "scopeNote": "官方支援頁2026-03-17上市平台表；PS4與Xbox One不在此26版清單。"
+      }
+    ],
+    "sources": [
+      "https://blog.playstation.com/2024/03/05/mlb-the-show-24-unveils-road-to-the-show-women-pave-their-way/",
+      "https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/"
+    ],
+    "evidence": [
+      "MLB The Show 24（PlayStation版）：PS5/PS4。限定本公告明列的PlayStation版本，不據此否認另有Xbox／Switch商品。",
+      "MLB The Show 26：PS5/Xbox Series X|S/Switch。官方支援頁2026-03-17上市平台表；PS4與Xbox One不在此26版清單。"
+    ],
+    "resolvedGap": "已把版本疑問拆成附官方來源的具名對照；仍需玩家選定實際年份／版本，本資料不任選，也不將選項平台合併。",
+    "remainingReason": "edition-selection-required",
+    "checkedAt": "2026-10-19"
+  }
+]

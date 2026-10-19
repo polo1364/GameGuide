@@ -1,0 +1,1370 @@
+{
+  "checkedAt": "2026-10-19",
+  "summary": {
+    "before": 977,
+    "added": 28,
+    "taiwanMobile": 15,
+    "indie": 13,
+    "total": 1002,
+    "duplicateRowsRemoved": 3,
+    "existingPreserved": 971,
+    "pendingPreserved": 6,
+    "historicalPreserved": 832,
+    "newPlatformPending": 1,
+    "newNameOrAliasCollisions": 0,
+    "newProductCollisions": 0
+  },
+  "normalization": "NFKC, lowercase, ignore spacing/punctuation but retain + and & to distinguish editions such as DQ III vs I & II",
+  "newItems": [
+    {
+      "name": "LINE Rangers 銀河特攻隊",
+      "alias": [
+        "line rangers",
+        "line rangers 銀河特攻隊"
+      ],
+      "productKeys": [
+        "apple:767265270",
+        "google:com.linecorp.LGRGS"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "LINE Rangers 銀河特攻隊",
+          "line rangers",
+          "line rangers 銀河特攻隊",
+          "767265270",
+          "com.linecorp.LGRGS"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "LINE 熊大農場",
+      "alias": [
+        "line brown farm",
+        "熊大農場"
+      ],
+      "productKeys": [
+        "apple:949344041",
+        "google:com.linecorp.LGFARM"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "LINE 熊大農場",
+          "line brown farm",
+          "熊大農場",
+          "949344041",
+          "com.linecorp.LGFARM"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "LINE Bubble 2",
+      "alias": [
+        "line bubble 2－泡泡射擊益智遊戲",
+        "line bubble2"
+      ],
+      "productKeys": [
+        "apple:895761422",
+        "google:com.linecorp.LGBB2"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "LINE Bubble 2",
+          "line bubble 2－泡泡射擊益智遊戲",
+          "line bubble2",
+          "895761422",
+          "com.linecorp.LGBB2"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "LINE 熊大上菜",
+      "alias": [
+        "line chef",
+        "熊大上菜"
+      ],
+      "productKeys": [
+        "apple:1456569943",
+        "google:com.linecorp.LGCHEF"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "LINE 熊大上菜",
+          "line chef",
+          "熊大上菜",
+          "1456569943",
+          "com.linecorp.LGCHEF"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "巔峰極速",
+      "alias": [
+        "racing master",
+        "巔峰極速台港澳"
+      ],
+      "productKeys": [
+        "apple:6450006659",
+        "google:com.longe.racehmt"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "巔峰極速",
+          "racing master",
+          "巔峰極速台港澳",
+          "6450006659",
+          "com.longe.racehmt"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "出發吧麥芬",
+      "alias": [
+        "gogo muffin",
+        "出發吧麥芬台港澳"
+      ],
+      "productKeys": [
+        "apple:6446155179",
+        "google:com.xd.muffin.tw"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "出發吧麥芬",
+          "gogo muffin",
+          "出發吧麥芬台港澳",
+          "6446155179",
+          "com.xd.muffin.tw"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "弓箭傳說",
+      "alias": [
+        "archero",
+        "弓箭傳說1"
+      ],
+      "productKeys": [
+        "apple:1453651052",
+        "google:com.habby.archero"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "弓箭傳說",
+          "archero",
+          "弓箭傳說1",
+          "1453651052",
+          "com.habby.archero"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "弓箭傳說2",
+      "alias": [
+        "archero 2",
+        "弓箭傳說 2"
+      ],
+      "productKeys": [
+        "apple:6502820653",
+        "google:com.xq.archeroii"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "弓箭傳說2",
+          "archero 2",
+          "弓箭傳說 2",
+          "6502820653",
+          "com.xq.archeroii"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "噠噠特攻",
+      "alias": [
+        "survivor.io",
+        "survivor io"
+      ],
+      "productKeys": [
+        "apple:1528941310",
+        "google:com.dxx.firenow"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "噠噠特攻",
+          "survivor.io",
+          "survivor io",
+          "1528941310",
+          "com.dxx.firenow"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "蛋仔派對",
+      "alias": [
+        "eggy party",
+        "蛋仔派對台港澳"
+      ],
+      "productKeys": [
+        "apple:1673675970",
+        "google:com.netease.eggypartyhmt"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "蛋仔派對",
+          "eggy party",
+          "蛋仔派對台港澳",
+          "1673675970",
+          "com.netease.eggypartyhmt"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "向殭屍開炮",
+      "alias": [
+        "向僵尸开炮"
+      ],
+      "productKeys": [
+        "apple:6480025909",
+        "google:com.zombiet.gpgl"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "向殭屍開炮",
+          "向僵尸开炮",
+          "6480025909",
+          "com.zombiet.gpgl"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "卡皮巴拉 Go!",
+      "alias": [
+        "capybara go",
+        "卡皮巴拉go"
+      ],
+      "productKeys": [
+        "apple:6596787726",
+        "google:com.habby.capybara"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "卡皮巴拉 Go!",
+          "capybara go",
+          "卡皮巴拉go",
+          "6596787726",
+          "com.habby.capybara"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "Pokémon Masters EX",
+      "alias": [
+        "pokemon masters ex",
+        "寶可夢大師ex"
+      ],
+      "productKeys": [
+        "apple:1442061397",
+        "google:com.dena.a12026418"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Pokémon Masters EX",
+          "pokemon masters ex",
+          "寶可夢大師ex",
+          "1442061397",
+          "com.dena.a12026418"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "Battle Cats Quest",
+      "alias": [
+        "battle cats quest"
+      ],
+      "productKeys": [
+        "apple:1583719180",
+        "google:jp.co.ponos.nyankoquest"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Battle Cats Quest",
+          "battle cats quest",
+          "1583719180",
+          "jp.co.ponos.nyankoquest"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "Meowdoku!",
+      "alias": [
+        "meowdoku",
+        "meowdoku: 腦力解謎遊戲"
+      ],
+      "productKeys": [
+        "apple:6761760135",
+        "google:com.oakever.meowdoku"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Meowdoku!",
+          "meowdoku",
+          "meowdoku: 腦力解謎遊戲",
+          "6761760135",
+          "com.oakever.meowdoku"
+        ],
+        "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+      }
+    },
+    {
+      "name": "Escape From Duckov",
+      "alias": [
+        "escape from duckov",
+        "逃離鴨科夫",
+        "逃离鸭科夫"
+      ],
+      "productKeys": [
+        "steam:3167020"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Escape From Duckov",
+          "escape from duckov",
+          "Steam App 3167020",
+          "逃離鴨科夫",
+          "逃离鸭科夫"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "RV There Yet?",
+      "alias": [
+        "rv there yet?",
+        "我們到了嗎？",
+        "我们到了吗？"
+      ],
+      "productKeys": [
+        "steam:3949040"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "RV There Yet?",
+          "rv there yet?",
+          "Steam App 3949040",
+          "我們到了嗎？",
+          "我们到了吗？"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "My Winter Car",
+      "alias": [
+        "my winter car"
+      ],
+      "productKeys": [
+        "steam:4164420"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "My Winter Car",
+          "my winter car",
+          "Steam App 4164420"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Buckshot Roulette",
+      "alias": [
+        "buckshot roulette",
+        "恶魔轮盘"
+      ],
+      "productKeys": [
+        "steam:2835570"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Buckshot Roulette",
+          "buckshot roulette",
+          "Steam App 2835570",
+          "恶魔轮盘"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Mouthwashing",
+      "alias": [
+        "mouthwashing",
+        "缄默祸运"
+      ],
+      "productKeys": [
+        "steam:2475490"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Mouthwashing",
+          "mouthwashing",
+          "Steam App 2475490",
+          "缄默祸运"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Look Outside",
+      "alias": [
+        "look outside"
+      ],
+      "productKeys": [
+        "steam:3373660"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Look Outside",
+          "look outside",
+          "Steam App 3373660"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "ULTRAKILL",
+      "alias": [
+        "ultrakill"
+      ],
+      "productKeys": [
+        "steam:1229490"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "ULTRAKILL",
+          "ultrakill",
+          "Steam App 1229490"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Elin",
+      "alias": [
+        "elin"
+      ],
+      "productKeys": [
+        "steam:2135150"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Elin",
+          "elin",
+          "Steam App 2135150"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Caves of Qud",
+      "alias": [
+        "caves of qud"
+      ],
+      "productKeys": [
+        "steam:333640"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Caves of Qud",
+          "caves of qud",
+          "Steam App 333640"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Stoneshard",
+      "alias": [
+        "stoneshard",
+        "紫色晶石"
+      ],
+      "productKeys": [
+        "steam:625960"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Stoneshard",
+          "stoneshard",
+          "Steam App 625960",
+          "紫色晶石"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Songs of Syx",
+      "alias": [
+        "songs of syx",
+        "希克斯之歌"
+      ],
+      "productKeys": [
+        "steam:1162750"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Songs of Syx",
+          "songs of syx",
+          "Steam App 1162750",
+          "希克斯之歌"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Bopl Battle",
+      "alias": [
+        "bopl battle"
+      ],
+      "productKeys": [
+        "steam:1686940"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Bopl Battle",
+          "bopl battle",
+          "Steam App 1686940"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    },
+    {
+      "name": "Mage Arena",
+      "alias": [
+        "mage arena"
+      ],
+      "productKeys": [
+        "steam:3716600"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Mage Arena",
+          "mage arena",
+          "Steam App 3716600"
+        ],
+        "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+      }
+    }
+  ],
+  "existingSharedTerms": [
+    {
+      "term": "zelda",
+      "names": [
+        "薩爾達傳說 王國之淚",
+        "薩爾達傳說 曠野之息",
+        "薩爾達傳說 織夢島"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mario",
+      "names": [
+        "超級瑪利歐兄弟 驚奇",
+        "超級瑪利歐 奧德賽"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "splatoon",
+      "names": [
+        "斯普拉遁3",
+        "漆彈大作戰"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "漆彈",
+      "names": [
+        "斯普拉遁3",
+        "漆彈大作戰"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "噴噴",
+      "names": [
+        "斯普拉遁3",
+        "漆彈大作戰"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "pokemon",
+      "names": [
+        "寶可夢 朱／紫",
+        "寶可夢傳說 阿爾宙斯",
+        "寶可夢 晶燦鑽石／明亮珍珠",
+        "寶可夢 劍／盾",
+        "寶可夢 Let's Go 皮卡丘/伊布"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "sv",
+      "names": [
+        "寶可夢 朱／紫",
+        "影之詩"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "xenoblade",
+      "names": [
+        "異度神劍3",
+        "異度神劍2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "異度神劍",
+      "names": [
+        "異度神劍3",
+        "異度神劍2",
+        "異度神劍"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "fireemblem",
+      "names": [
+        "火焰之紋章 Engage",
+        "火焰之紋章 風花雪月"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "hyrulewarriors",
+      "names": [
+        "薩爾達無雙 災厄啟示錄",
+        "薩爾達傳說 無雙"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "marioparty",
+      "names": [
+        "瑪利歐派對 超級巨星",
+        "超級瑪利歐派對"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "瑪派",
+      "names": [
+        "瑪利歐派對 超級巨星",
+        "超級瑪利歐派對"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "符文工房",
+      "names": [
+        "符文工廠5",
+        "符文工廠4 豪華版",
+        "符文工廠4（3DS原版）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "runefactory",
+      "names": [
+        "符文工廠5",
+        "符文工廠4 豪華版",
+        "符文工廠4（3DS原版）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "符文工廠",
+      "names": [
+        "符文工廠5",
+        "符文工廠4 豪華版",
+        "符文工廠4（3DS原版）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "monsterhunter",
+      "names": [
+        "魔物獵人 崛起",
+        "魔物獵人 崛起：破曉"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "破曉",
+      "names": [
+        "魔物獵人 崛起：破曉",
+        "破曉傳奇",
+        "惡名昭彰 破曉"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "octopath",
+      "names": [
+        "八方旅人",
+        "八方旅人2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "巫師",
+      "names": [
+        "巫師3：狂獵 完整版",
+        "巫師"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "overcooked",
+      "names": [
+        "胡鬧廚房 全都好吃",
+        "胡鬧廚房"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "胡鬧廚房",
+      "names": [
+        "胡鬧廚房 全都好吃",
+        "胡鬧廚房"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "煮過頭",
+      "names": [
+        "胡鬧廚房 全都好吃",
+        "胡鬧廚房"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "太鼓達人",
+      "names": [
+        "太鼓之達人 咚咔！二合一大冒險",
+        "太鼓之達人 咚咚雷音祭",
+        "Taiko no Tatsujin: Drum Session!"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "eldenring",
+      "names": [
+        "艾爾登法環",
+        "艾爾登法環 黃金樹幽影"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "荒野",
+      "names": [
+        "魔物獵人 荒野",
+        "荒野亂鬥"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "cs2",
+      "names": [
+        "絕對武力2",
+        "都市：天際線2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dota",
+      "names": [
+        "Dota 2",
+        "Dota"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "時之笛",
+      "names": [
+        "薩爾達傳說 時之笛",
+        "薩爾達傳說 時之笛3D"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "吃雞",
+      "names": [
+        "絕地求生",
+        "和平精英"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "天際線",
+      "names": [
+        "都市：天際線2",
+        "城市 天際線"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "bb",
+      "names": [
+        "血源詛咒",
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "仁王",
+      "names": [
+        "仁王",
+        "仁王3"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "方舟",
+      "names": [
+        "明日方舟",
+        "ARK 生存進化"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "ark",
+      "names": [
+        "明日方舟",
+        "ARK 生存進化"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "bd2",
+      "names": [
+        "棕色塵埃2",
+        "勇氣默示錄2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "poe2",
+      "names": [
+        "流亡黯道2",
+        "永恆之柱2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "codm",
+      "names": [
+        "決勝時刻 Mobile",
+        "使命召喚手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "wf",
+      "names": [
+        "星際戰甲",
+        "彈射世界"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "逆轉裁判系列",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "aceattorney",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "逆轉",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "逆轉裁判",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "p3",
+      "names": [
+        "女神異聞錄3 Reload",
+        "女神異聞錄3 攜帶版"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dd",
+      "names": [
+        "暗黑地牢",
+        "龍族教義"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "殺戮尖塔",
+      "names": [
+        "殺戮尖塔",
+        "殺戮尖塔2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "毀滅戰士",
+      "names": [
+        "毀滅戰士 永恆",
+        "毀滅戰士"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "絕命暗殺令",
+      "names": [
+        "刺客任務3",
+        "Hitman: Codename 47"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "hitman",
+      "names": [
+        "刺客任務3",
+        "Hitman: Codename 47"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "刺客任務",
+      "names": [
+        "刺客任務3",
+        "刺客任務",
+        "Hitman: Codename 47"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "tf2",
+      "names": [
+        "泰坦降臨2",
+        "Team Fortress 2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "monsterhunterstories",
+      "names": [
+        "魔物獵人 物語（原版）",
+        "魔物獵人 物語 重製版"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "農場模擬器系列",
+      "names": [
+        "農場模擬器22",
+        "Farming Simulator 25"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "farmingsimulator",
+      "names": [
+        "農場模擬器22",
+        "Farming Simulator 25"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "太鼓之達人",
+      "names": [
+        "太鼓之達人 咚咚雷音祭",
+        "Taiko no Tatsujin: Drum Session!"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "taikonotatsujin",
+      "names": [
+        "太鼓之達人 咚咚雷音祭",
+        "Taiko no Tatsujin: Drum Session!"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "微軟模擬飛行",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "microsoftflightsimulator",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "模擬飛行",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "msfs",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "神鬼寓言",
+      "names": [
+        "Fable（Playground Games 重啟版）",
+        "Fable（2004 Xbox原作）",
+        "Fable Anniversary"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "fable",
+      "names": [
+        "Fable（Playground Games 重啟版）",
+        "Fable（2004 Xbox原作）",
+        "Fable Anniversary"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "模擬城市",
+      "names": [
+        "SimCity（2013）",
+        "SimCity 4 Deluxe Edition"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "simcity",
+      "names": [
+        "SimCity（2013）",
+        "SimCity 4 Deluxe Edition"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "遊戲王worldchampionship",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "yugiohwc",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "yugiohworldchampionship",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "遊戲王世界冠軍大賽",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大富翁系列",
+      "names": [
+        "大富翁4（Steam版）",
+        "大富翁11"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "richman",
+      "names": [
+        "大富翁4（Steam版）",
+        "大富翁11"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大富翁",
+      "names": [
+        "大富翁4（Steam版）",
+        "大富翁11"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "極限脫出系列",
+      "names": [
+        "Zero Escape: Virtue's Last Reward",
+        "Zero Escape: The Nonary Games"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "zeroescape",
+      "names": [
+        "Zero Escape: Virtue's Last Reward",
+        "Zero Escape: The Nonary Games"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "極限脫出",
+      "names": [
+        "Zero Escape: Virtue's Last Reward",
+        "Zero Escape: The Nonary Games"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "蒼翼默示錄",
+      "names": [
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "blazblue",
+      "names": [
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "蒼翼",
+      "names": [
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "夢幻西遊",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "fantasywestwardjourney",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "夢幻",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mhxy",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大話西遊",
+      "names": [
+        "大話西遊2經典版",
+        "大話西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "westwardjourney",
+      "names": [
+        "大話西遊2經典版",
+        "大話西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大話",
+      "names": [
+        "大話西遊2經典版",
+        "大話西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "劍俠情緣",
+      "names": [
+        "劍俠情緣網絡版叁",
+        "新劍俠情緣手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "swordsmanlove",
+      "names": [
+        "劍俠情緣網絡版叁",
+        "新劍俠情緣手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "劍俠",
+      "names": [
+        "劍俠情緣網絡版叁",
+        "新劍俠情緣手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mlbtheshow",
+      "names": [
+        "MLB The Show 24",
+        "MLB The Show 26"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mlb",
+      "names": [
+        "MLB The Show 24",
+        "MLB The Show 26"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "腦鍛鍊",
+      "names": [
+        "Dr Kawashima's Brain Training: How Old Is Your Brain?",
+        "Dr Kawashima's Brain Training for Nintendo Switch"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "braintraining",
+      "names": [
+        "Dr Kawashima's Brain Training: How Old Is Your Brain?",
+        "Dr Kawashima's Brain Training for Nintendo Switch"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "腦鍛",
+      "names": [
+        "Dr Kawashima's Brain Training: How Old Is Your Brain?",
+        "Dr Kawashima's Brain Training for Nintendo Switch"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "勇者鬥惡龍怪物仙境",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dragonquestmonsters",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dqm",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "怪物仙境",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "perfectdark",
+      "names": [
+        "Perfect Dark（2000 原作）",
+        "Perfect Dark（2010 HD版）",
+        "Perfect Dark（The Initiative 重啟案）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "完美黑暗",
+      "names": [
+        "Perfect Dark（2000 原作）",
+        "Perfect Dark（2010 HD版）",
+        "Perfect Dark（The Initiative 重啟案）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+# 平台補證 A（2026-10-19）
+
+## 0. 絕命暗殺令 — unresolved
+
+依版本確認
+
+IOI 已確認 World of Assassination 與 Switch 2 Signature Edition 的身分；資料庫也另列 2016《刺客任務》及《刺客任務3》。此筆 HITMAN 泛稱不能由後作平台倒推，移除 PC／PS／Xbox 的未分代肯定清單；需年份或完整副標題。
+
+- [官方來源](https://ioi.dk/en-us/hitman/news/2023/hitman-3-to-become-world-of-assassination)
+- [官方來源](https://ioi.dk/hitman/patch-notes/2026/game-update-3-270)
+- [官方來源](https://ioi.dk/hitman/news/2025/signature-edition-available-now)
+
+## 1. 模擬城市 — unresolved
+
+依版本確認
+
+EA 正式 SimCity 商品以 2013 發售日區分 PC／Mac 版；不能把此平台表套給 1989 初代、其他代數或 BuildIt。舊單一 PC 改為版本待確認，待指定年份後才能選取平台。
+
+- [官方來源](https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx)
+- [官方來源](https://store.ea.com/commerce/app/products/simcity-digital-deluxe-upgrade-pack)
+- [官方來源](https://www.ea.com/de/games/simcity/simcity)
+- [官方來源](https://akamai.cdn.ea.com/eadownloads/u/f/manuals/GAME-SIMCITY/SimCity_2013.pdf)
+
+## 2. 農場模擬器系列 — unresolved
+
+依版本確認
+
+GIANTS 官方新聞分列 FS25（PC、Mac、PS5、Xbox Series）、FS26（Switch 與手機）及 Switch 2 Signature Edition。系列泛稱不能合成單作平台，移除未分代的 PC／PS／Xbox 清單，需年份或副標題。
+
+- [官方來源](https://farming-simulator.com/about.php?platform=pc)
+- [官方來源](https://press.giants-software.com/news/all)
+- [官方來源](https://www.giants-software.com/games.php)
+
+## 3. 微軟模擬飛行 — unresolved
+
+依版本確認
+
+官方獨立產品頁明列 2020 版 PC／Xbox Series X|S，2024 版另有 PS5；資料庫已保留獨立 2024 條目。泛稱 MSFS 仍需年份，原 Xbox 不當成所有世代，主欄改待確認而非混合兩作。
+
+- [官方來源](https://www.xbox.com/en-us/games/microsoft-flight-simulator-2024)
+- [官方來源](https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/)
+- [官方來源](https://www.flightsimulator.com/microsoft-flight-simulator-2020/)
+- [官方來源](https://www.flightsimulator.com/microsoft-flight-simulator-2024/)
+- [官方來源](https://www.flightsimulator.com/microsoft-flight-simulator-2024-faq/)
+
+## 6. 遊戲王 World Championship — unresolved
+
+依年度確認（GBA／Nintendo DS）
+
+KONAMI 商品頁再次核對：2006 為 GBA，2011 OVER THE NEXUS 為 Nintendo DS；3DS 相容不等於原生。保留有證據的年度範圍，未選定哪一屆；移除過於寬泛的 world championship／世界大賽別名，避免其他運動或賽事誤命中。
+
+別名：KONAMI 系列名稱帶遊戲王識別；World Championship／世界大賽本身不是此遊戲的唯一識別。
+
+- [官方來源](https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/)
+- [官方來源](https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/?m=8)
+- [官方來源](https://www.konami.com/games/jp/ja/products/yugioh_ex2006_set_gba/)
+
+## 11. 大富翁系列 — unresolved
+
+依版本確認
+
+大宇正式列表將大富翁11 標示為 Nintendo Switch／Steam，並把歷代作品分列。系列條目不等於大富翁4，刪除錯誤單作別名，原平台合併清單改為依版本確認。
+
+別名：大富翁4 是系列中的單一作品，不能作整個系列的同義別名。
+
+- [官方來源](https://store.steampowered.com/app/2027920?l=tchinese)
+- [官方來源](https://store.steampowered.com/app/2027920/?l=schinese)
+- [官方來源](https://www.softstar.com.tw/download/Download_game.aspx?gid=RICH4)
+- [官方來源](https://www.softstar.com.tw/download/download.aspx)
+- [官方來源](https://km.softstar.com.tw/list.aspx?cid=2&gc=ETC&gd=RICH)
+
+## 15. 極限脫出系列 — unresolved
+
+依版本確認
+
+Spike Chunsoft 明確區分 999 的 DS 原版、VLR 的 3DS／Vita 版及 Nonary Games 重製合輯（包含 Xbox One／Windows 10 發行）。本條為系列，不保留未獲證實的 Switch 主欄，也不將 999 當系列同義字；需要具體作品或合集名稱。
+
+別名：官方公告將 Nine Hours, Nine Persons, Nine Doors（999）定義為系列中的第一作，並非全系列別名。
+
+- [官方來源](https://www.spike-chunsoft.com/games/zero-escape-nonary-games/)
+- [官方來源](https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-available-now-for-xbox-one-and-windows-10/)
+- [官方來源](https://www.spike-chunsoft.com/news/zero-escape-the-nonary-games-price-reduced/)
+- [官方來源](https://www.spike-chunsoft.co.jp/playlicense/)
+
+## 16. 逆轉裁判系列 — unresolved
+
+依版本確認
+
+Capcom 明確區分 Phoenix Wright 123、Apollo Justice 456 與 Investigations 合集；456 的 PC／PS4／Xbox One／Switch 清單不能代表全部原作及手機移植。系列入口保留，但平台主欄改需指定作品。
+
+- [官方來源](https://us-store.captown.capcom.com/collections/ace-attorney)
+- [官方來源](https://store.captown.capcom.com/en/collections/ace-attorney)
+- [官方來源](https://us-store.captown.capcom.com/products/997892-us)
+- [官方來源](https://news.capcomusa.com/2024/01/25/take-that-apollo-justice-ace-attorney-trilogy-is-out-now/)
+- [官方來源](https://www.capcom-support.com/hc/en-us/articles/5742029257756-What-titles-are-included-in-Phoenix-Wright-Ace-Attorney-Trilogy)
+
+## 18. 太鼓之達人 — unresolved
+
+依版本確認
+
+Bandai Namco 官方將 Drum Session（PS4）及 Rhythm Festival（Switch、PS5、Xbox Series、PC）列為不同商品；原 PS4／Switch 串列不能代表單一太鼓遊戲，改為版本待確認。
+
+- [官方來源](https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-launching-on-new-gen-consoles-and-pc)
+- [官方來源](https://www.bandainamcoent.com/games/taiko-no-tatsujin-rhythm-festival)
+- [官方來源](https://www.bandainamcoent.com/news/taiko-no-tatsujin-rhythm-festival-free-dondon-update)
+- [官方來源](https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-session)
+
+## 19. 初音未來 Project DIVA — unresolved
+
+依版本確認
+
+SEGA 財報確認 2009 初代 Project DIVA 為 PSP；MEGA39s 為 Switch，Mega Mix+ 為 PC，Future Tone 為 PS4，不能將所有作品平台混用。保留系列名，但移除僅指角色的「初音／miku」寬泛別名。
+
+別名：初音／Miku 是角色與多款不同遊戲共用名稱，非 Project DIVA 的唯一識別。
+
+- [官方來源](https://asia.sega.com/mega39splus/en/)
+- [官方來源](https://miku.sega.com/divax/dlc.html)
+- [官方來源](https://miku.sega.com/divax/music_ps4.html)
+- [官方來源](https://miku.sega.com/futuretone/index.html)
+- [官方來源](https://asia.sega.com/mega39s/cht/)
+- [官方來源](https://www.segasammy.co.jp/cms/wp-content/uploads/pdf/ja/ir/201003_1q_pre-1.pdf)
+
+## 21. 符文工房 — unresolved
+
+依版本確認
+
+Marvelous 官方 DS 分類有初代 Rune Factory；Rune Factory 5 正式頁列 Switch／Windows PC，4 Special 另有主機移植。本筆未指定代數，不把先前 PC／Switch 欄位當作辨識版本的證據。
+
+- [官方來源](https://marvelousgames.com/games/rune-factory-4-special-2)
+- [官方來源](https://www.xseedgames.com/2021/12/07/xseed-games-releases-rune-factory-4-special-for-playstation-4-xbox-one-and-pc/)
+- [官方來源](https://www.xseedgames.com/2021/08/24/rune-factory-series-celebrates-15-years-of-farming-friendship-and-adventures/)
+- [官方來源](https://www.xseedgames.com/games/rune-factory-4-special/)
+- [官方來源](https://www.xseedgames.com/games/rune-factory-5/)
+- [官方來源](https://www.xseedgames.com/platform/nintendo-ds-2/)
+
+## 23. 神鬼寓言 — unresolved
+
+依版本確認
+
+Xbox 官方區分早期 Fable 與 Anniversary（Xbox 360 重製，包含 Lost Chapters），現行 Playground 重啟作又是另一款。原 PC／Xbox 未標作品世代，改依版本確認，不能將已公布重啟作當作舊遊戲已發售平台。
+
+- [官方來源](https://www.xbox.com/en-us/games/fable)
+- [官方來源](https://www.xbox.com/en-ca/games/fable)
+- [官方來源](https://www.xbox.com/en-CA/games/fable/)
+- [官方來源](https://www.fablethegame.com/en-US/news/fable-at-xbox-showcase-2026)
+- [官方來源](https://www.xbox.com/en-US/games/fable?wfExp=382CT)
+- [官方來源](https://news.xbox.com/en-us/2013/06/04/games-fable-anniversary-reveal/)
+- [官方來源](https://news.xbox.com/en-us/2013/12/12/xbox-360-fable-anniversary-developer-interview/amp/)
+
+## 24. 蒼翼默示錄 — unresolved
+
+依版本確認
+
+Arc 官方完整家用目錄明列 Calamity Trigger 的 PC／PS3／Xbox 360／PSP，以及 Centralfiction、Cross Tag Battle 的不同平台。未指定副標題時不能認證 PC／PS4／Switch 組合；改為依版本確認。
+
+- [官方來源](https://www.arcsystemworks.com/bbtag-open-beta-faq/)
+- [官方來源](https://www.blazblue.jp/cf/cs/switch/)
+- [官方來源](https://www.arcsystemworks.jp/portal/support/)
+- [官方來源](https://www.blazblue.jp/consumer.html)
+
+## 31. MLB The Show — unresolved
+
+依年度確認
+
+Sony 的 26 年支援頁與官方操作手冊只列 PS5、Xbox Series X|S、Switch；舊年份與獨立 Mobile 版另有平台。此系列條目未指定年份，移除原 PS4／泛稱 Xbox 等拼接清單，需先指定年度。
+
+- [官方來源](https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/)
+- [官方來源](https://theshowmobile.sonysandiegostudio.games/hc/en-us)
+- [官方來源](https://mlb26.manual.theshow.com/en/table-of-contents.html)
+
+## 33. 腦鍛鍊 — unresolved
+
+依版本確認
+
+Nintendo 正式 Switch 商品同時說明 DS 舊作歷史，兩者不是相同軟體。腦鍛鍊／Brain Training 泛稱缺副標題，不能僅憑原 Switch 欄猜是哪一版；移除非唯一識別的 bt 別名，保留查詢入口。
+
+別名：bt 是跨遊戲常見縮寫，不能唯一對應官方 Brain Training 作品。
+
+- [官方來源](https://www.nintendo.com/fr-be/Jeux/Jeux-Nintendo-Switch/Programme-d-entrainement-cerebral-du-Dr-Kawashima-pour-Nintendo-Switch-1656777.html)
+- [官方來源](https://www.nintendo.com/au/games/nintendo-switch/dr-kawashimas-brain-training-for-nintendo-switch/)
+- [官方來源](https://cdn02.nintendo-europe.com/media/downloads/games_8/emanuals/nintendo_ds_21/Manual_NintendoDS_DrKawashimasBrainTraining_EN.pdf)
+- [官方來源](https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch/Brain-Training-del-Dr-Kawashima-para-Nintendo-Switch-1656777.html)
+
+## 40. Dota — verified
+
+PC/macOS
+
+依 Dota1 別名核定為 Warcraft III 自訂地圖 Defense of the Ancients。Blizzard 官方回顧明載 DotA 的地圖起源，原版 Warcraft III FAQ 列 Windows 與 Mac；平台依宿主遊戲，並非獨立 Dota 2 或手機版。具體地圖與宿主修補版本仍需相容，現代 macOS 能否運行舊客戶端另計。
+
+別名：補正式地圖名稱與宿主識別；移除可指 Dota 2 或其他手機遊戲的「刀塔」泛稱。
+
+- [官方來源](https://news.blizzard.com/ko-kr/article/11543391/%EB%B8%94%EB%A6%AC%EC%A6%88%EC%BB%A8%2B%ED%9E%88%EC%96%B4%EB%A1%9C%EC%A6%88%2B%EC%98%A4%EB%B8%8C%2B%EB%8D%94%2B%EC%8A%A4%ED%86%B0%2B%ED%8C%A8%EB%84%90%2B%EC%9A%94%EC%95%BD)
+- [官方來源](https://classic.battle.net/war3/faq/features.shtml)
+
+## 42. 薩爾達傳說 無雙 — unresolved
+
+依版本確認
+
+Nintendo 官方核實 Hyrule Warriors 原作為 Wii U、Legends 為 3DS、Definitive Edition 為 Switch。此筆未指明版本且資料庫另有 Definitive 條目，改依版本確認，不再僅列 Switch。
+
+- [官方來源](https://www.nintendo.com/en-gb/Games/Wii-U-games/Hyrule-Warriors-891849.html)
+- [官方來源](https://www.nintendo.com/de-de/Spiele/Wii-U-Spiele/Hyrule-Warriors-891849.html)
+- [官方來源](https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html)
+- [官方來源](https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Hyrule-Warriors-Legends-1025970.html)
+
+## 43. 勇者鬥惡龍 怪物仙境 — unresolved
+
+依版本確認
+
+Square Enix 正式目錄分列 Terry RETRO（Switch／iOS／Android）、Terry SP（手機）與 The Dark Prince。Dragon Quest Monsters 是系列泛稱，舊 Switch 不能決定是哪一款，改需副標題。
+
+- [官方來源](https://dragonquest.square-enix-games.com/games/en-gb/dqmonsters/)
+- [官方來源](https://store.steampowered.com/api/storesearch/?term=dragon%20quest%20monsters&l=english&cc=us)
+- [官方來源](https://www.jp.square-enix.com/column/detail/107/)
+- [官方來源](https://www.jp.square-enix.com/game/?k=%E3%83%86%E3%83%AA%E3%83%BC%E3%81%AE%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89&s=1)
+
+## 44. 世界樹的迷宮 — unresolved
+
+依版本確認
+
+SEGA 正式原作頁明列 2007 年 Nintendo DS，Atlus 與 Nintendo 的 HD／Origins 商品另列 PC／Switch。本條未區分原版、HD 或系列，不能把 Switch 當成唯一平台；補足兩版本官方對照並改待選版本。
+
+- [官方來源](https://www.atlus.com/etrianorigins/index.html?lang=en)
+- [官方來源](https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/)
+- [官方來源](https://www.sega.jp/game/detail/atlus_sekaiju/)
+- [官方來源](https://www.nintendo.co.jp/ds/software/akyj/index.html)
+
+## 48. Perfect Dark — unresolved
+
+依版本確認
+
+Nintendo 官方確認 2000 年 N64 原作現可透過 Switch／Switch 2 的 NSO N64 套件遊玩；Xbox 另有舊版與重啟介紹，不能由同名將它們合成 PC／Xbox。此筆無年份，移除拼接清單，先確認原作、2010 重製或重啟作；NSO 不等於原生重製。
+
+- [官方來源](https://news.xbox.com/en-us/2024/06/09/perfect-dark-details-interview-xbox-games-showcase-2024/)
+- [官方來源](https://www.xbox.com/en-US/games/perfect-dark)
+- [官方來源](https://www.nintendo.com/au/games/nintendo-switch/nintendo-64-nintendo-classics-mature/)
+- [官方來源](https://www.youtube.com/watch?v=qbioF6bhKJc)

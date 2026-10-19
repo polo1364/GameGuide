@@ -1,0 +1,127 @@
+{
+  "characters": 2546,
+  "headings": [
+    "前置準備",
+    "Boss 打法",
+    "進場與召喚",
+    "第一階段",
+    "第二階段",
+    "注意事項"
+  ],
+  "html": "<div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：6 段附有可對應的來源引文，2 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:01:43.406Z。</div></div><p><strong>先講結論：</strong> 新手不要空裝硬打，先補等級與武器強化，再拿「<mark class=\"keyword-highlight\">瑪爾基特</mark>的束縛器」與骨灰。束縛器<strong>只在第一階段有效、該階段可用兩次</strong>；骨灰要在<strong>Boss 房內、畫面左側出現重生紀念碑圖示時</strong>才能召喚，霧門外那個金色記號是 NPC 羅傑爾，兩者不同。骨灰被打倒後能否在同一場戰鬥再召喚，本次來源沒有明說，<strong>待確認</strong>，別當成可以無限補召。</p><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><p>適用範圍：PC <mark class=\"keyword-highlight\">版本篇</mark>，不使用 DLC 裝備。按鍵以手把（Xbox 配置）說明，PC 鍵鼠配置本次未查核。</p><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：來源只提供手把按鍵，未查核 PC 鍵鼠配置；此為範圍說明而非可證事實。。</div></div><section class=\"guide-section focus-keep\" id=\"guide-section-0\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-0\">前置準備</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li><strong>先探索再挑戰。</strong> 寧姆格福本身就有大量洞窟與較好打的敵人，可累積盧恩升級、取得裝備；南邊跨過獻祭橋（Bridge of Sacrifice）後還有其他區域與摩恩城可先打。優先提升生命與主要攻擊屬性。</li><li><strong>解鎖骨灰召喚。</strong> 需要先取得招魂鈴（Spirit Calling Bell）才能使用骨灰；<strong>招魂鈴的取得流程本次未查核，待確認</strong>，請另外查證。</li><li><strong>選骨灰。</strong> 早期可用的有孤狼骨灰（多隻狼分攤仇恨）與水母骨灰（攻略站稱<mark class=\"keyword-highlight\">瑪爾基特</mark>弱毒，水母帶毒傷）。水母是與風暴山丘小屋的羅德莉卡反覆對話取得。</li><li><strong>買束縛器（關鍵，可錯過）。</strong> 位置在 Murkwater Cave（繁中譯名待確認）：從湖區往北沿峽谷找到洞口，洞口有強制入侵的紅靈 NPC，先擊敗他才能進入。洞內走右側岔路會遇到帕奇，<strong>不要殺他</strong>，把血量削到約一半以下讓他投降，戰鬥結束後就能在他的商店以 5000 盧恩購買<mark class=\"keyword-highlight\">瑪爾基特</mark>的束縛器。殺掉帕奇就買不到。</li><li>武器盡量強化到當時能取得的程度；具體建議等級與強化值本次來源未提供，不列數字。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p></div></section><section class=\"guide-section\" id=\"guide-section-1\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-1\">Boss 打法</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><h3 id=\"toc-heading-2\">進場與召喚</h3><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li>霧門外地上若有金色召喚記號，可召喚 <strong>NPC 魔法師羅傑爾</strong>；這是 NPC 召喚，不是骨灰。</li><li>進入 Boss 房後，靠近重生紀念碑、畫面左側出現紀念碑圖示時，才使用骨灰召喚靈體。一次只能召喚一種靈體，多人連線時不能召喚。</li><li>羅傑爾與骨灰可以同時存在，場上會有兩個以上幫手幫你分散注意力、爭取補血時間，也更容易打出架勢崩解。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><h3 id=\"toc-heading-3\">第一階段</h3><ul><li>進場後別急著輸出，先讓幫手拉住仇恨。</li><li><strong>束縛器在這一階段使用兩次</strong>，每次會把<mark class=\"keyword-highlight\">瑪爾基特</mark>壓制在地上數秒，而且能打斷他正在起手的攻擊。建議留一次給自己來不及閃的大招起手，另一次在幫手都到位時使用，趁壓制期間集中輸出。</li><li>有盾的話可以格擋後立刻按重攻擊（<code>RT</code>）打出<strong>防禦反擊</strong>，容易破壞架勢；跳躍攻擊（跳躍中 <code>RB</code>/<code>RT</code>）同樣容易破架勢。架勢崩解、敵人倒地或從背後時按 <code>RB</code> 可打出致命一擊。</li><li>單次格擋不一定能崩解架勢，不要為了反擊硬吃連續攻擊。</li></ul><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><h3 id=\"toc-heading-4\">第二階段</h3><ul><li>進入第二階段後，<strong>束縛器失效</strong>，別再按。此階段攻擊更難預測、格擋效果很差，攻略站建議放下盾牌、改為雙手握持武器（傷害更高、較易破防），以翻滾閃避為主。</li><li>策略是趁羅傑爾與骨灰還活著時快速把血打掉，避免拖到幫手全滅。水母的毒傷在這階段仍有持續輸出價值。</li><li>補血時機放在自己翻滾拉開距離之後，不要在他連段中間喝水。</li></ul><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p></div></section><section class=\"guide-section focus-keep\" id=\"guide-section-2\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-5\">注意事項</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">骨灰倒下後能否在同一場戰鬥再次召喚，來源只說明「HP 歸零、Boss 被擊敗、離紀念碑過遠、再次使用同一骨灰」時靈體會離場，並未說明同場重複召喚的次數與消耗限制，<strong>待確認</strong>。實戰請以「幫手只有一輪」為前提規劃輸出。</div></div><p>來源：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><ul><li>束縛器<mark class=\"keyword-highlight\">的階段限制</mark>（第一階段兩次、第二階段無效）出自 2022 年編輯攻略，屬非官方二手資訊，若後續版本調整請以遊戲內實測為準。</li><li>本次來源未逐招描述<mark class=\"keyword-highlight\">瑪爾基特</mark>的招式名稱與閃避幀數，具體每一招的辨識與時機<strong>待確認</strong>，建議搭配影片攻略交叉確認。</li><li>攻略站提到可用盧恩弧光（Rune Arc）取得暫時生命加成，但其生效前提本次來源未說明，待確認，新手不必為此卡關。</li></ul><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：束縛器階段限制僅有非官方二手來源；招式名稱與閃避幀數來源未描述；盧恩弧光生效前提來源未說明。。</div></div></div></section>\n                <div class=\"conversation-divider\">追問回答</div>\n                <div class=\"question-badge\">❓ 如果完全不召喚骨灰或 NPC，最需要調整哪三件事？只補充差異，不用重寫攻略。束縛器第二階段還能用嗎？</div>\n            <div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：6 段附有可對應的來源引文，0 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:02:47.102Z。</div></div><p><strong>結論：束縛器（<mark class=\"keyword-highlight\">瑪爾基特</mark>的束縛）只在第一階段有效，第二階段不能用</strong>；不召喚幫手時，最該補的是「等級與強化餘裕、雙手翻滾、毒與破架勢」這三件事。</p><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li><strong>把等級與武器強化留足。</strong> 沒有幫手分攤仇恨時，容錯率主要取決於血量與傷害；先在寧姆格福洞窟、獻祭橋南側與摩恩城累積盧恩，優先升生命與主攻擊屬性。具體建議等級與強化值，來源未給，待確認。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p><ol start=\"2\" style=\"counter-reset: step-counter 1\"><li><strong>第二階段放下盾牌、改雙手握持。</strong> 攻略站稱<mark class=\"keyword-highlight\">瑪爾基特</mark>第二階段「幾乎無法格擋」，建議以翻滾為主；官方入門指南說明雙手握持傷害更高、更容易破壞架勢。第一階段仍可用防禦反擊，但沒人拉仇恨時，硬吃連段代價較高。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><ol start=\"3\" style=\"counter-reset: step-counter 2\"><li><strong>主動上毒並累積架勢崩解。</strong> <mark class=\"keyword-highlight\">瑪爾基特</mark>弱毒，來源稱這會影響「武器與材料」的選擇，但未列具體道具，待確認；搭配跳躍攻擊、蓄力重擊打出架勢崩解後，按 <code>RB</code> 致命一擊。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><p>束縛器部分：攻略站明確寫「只在第一階段有效、該階段可用兩次」，第二階段按了無效，別浪費；沒有幫手時，兩次可分別留給自己來不及閃的大招起手，以及需要集中輸出的空檔。</p><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p><div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">上述階段限制與弱毒出自 2022 年非官方編輯攻略，屬舊版資訊；若後續版本調整，請以遊戲內實測為準。官方入門指南為 2021 早期版本，僅支持雙手握持與跳躍攻擊等基本操作，不能證明現行 Boss 階段限制。</div></div><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p>",
+  "links": [
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    }
+  ],
+  "steps": 11,
+  "tables": 0,
+  "text": "備註\n來源比對（AI）：6 段附有可對應的來源引文，2 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:01:43.406Z。\n\n先講結論： 新手不要空裝硬打，先補等級與武器強化，再拿「瑪爾基特的束縛器」與骨灰。束縛器只在第一階段有效、該階段可用兩次；骨灰要在Boss 房內、畫面左側出現重生紀念碑圖示時才能召喚，霧門外那個金色記號是 NPC 羅傑爾，兩者不同。骨灰被打倒後能否在同一場戰鬥再召喚，本次來源沒有明說，待確認，別當成可以無限補召。\n\n來源：S2 次級攻略、S1 官方\n\n適用範圍：PC 版本篇，不使用 DLC 裝備。按鍵以手把（Xbox 配置）說明，PC 鍵鼠配置本次未查核。\n\n注意事項\n待確認：來源只提供手把按鍵，未查核 PC 鍵鼠配置；此為範圍說明而非可證事實。。\n前置準備\n⌄\n先探索再挑戰。 寧姆格福本身就有大量洞窟與較好打的敵人，可累積盧恩升級、取得裝備；南邊跨過獻祭橋（Bridge of Sacrifice）後還有其他區域與摩恩城可先打。優先提升生命與主要攻擊屬性。\n解鎖骨灰召喚。 需要先取得招魂鈴（Spirit Calling Bell）才能使用骨灰；招魂鈴的取得流程本次未查核，待確認，請另外查證。\n選骨灰。 早期可用的有孤狼骨灰（多隻狼分攤仇恨）與水母骨灰（攻略站稱瑪爾基特弱毒，水母帶毒傷）。水母是與風暴山丘小屋的羅德莉卡反覆對話取得。\n買束縛器（關鍵，可錯過）。 位置在 Murkwater Cave（繁中譯名待確認）：從湖區往北沿峽谷找到洞口，洞口有強制入侵的紅靈 NPC，先擊敗他才能進入。洞內走右側岔路會遇到帕奇，不要殺他，把血量削到約一半以下讓他投降，戰鬥結束後就能在他的商店以 5000 盧恩購買瑪爾基特的束縛器。殺掉帕奇就買不到。\n武器盡量強化到當時能取得的程度；具體建議等級與強化值本次來源未提供，不列數字。\n\n來源：S2 次級攻略\n\nBoss 打法\n⌄\n進場與召喚\n霧門外地上若有金色召喚記號，可召喚 NPC 魔法師羅傑爾；這是 NPC 召喚，不是骨灰。\n進入 Boss 房後，靠近重生紀念碑、畫面左側出現紀念碑圖示時，才使用骨灰召喚靈體。一次只能召喚一種靈體，多人連線時不能召喚。\n羅傑爾與骨灰可以同時存在，場上會有兩個以上幫手幫你分散注意力、爭取補血時間，也更容易打出架勢崩解。\n\n來源：S2 次級攻略、S1 官方\n\n第一階段\n進場後別急著輸出，先讓幫手拉住仇恨。\n束縛器在這一階段使用兩次，每次會把瑪爾基特壓制在地上數秒，而且能打斷他正在起手的攻擊。建議留一次給自己來不及閃的大招起手，另一次在幫手都到位時使用，趁壓制期間集中輸出。\n有盾的話可以格擋後立刻按重攻擊（RT）打出防禦反擊，容易破壞架勢；跳躍攻擊（跳躍中 RB/RT）同樣容易破架勢。架勢崩解、敵人倒地或從背後時按 RB 可打出致命一擊。\n單次格擋不一定能崩解架勢，不要為了反擊硬吃連續攻擊。\n\n來源：S2 次級攻略、S1 官方\n\n第二階段\n進入第二階段後，束縛器失效，別再按。此階段攻擊更難預測、格擋效果很差，攻略站建議放下盾牌、改為雙手握持武器（傷害更高、較易破防），以翻滾閃避為主。\n策略是趁羅傑爾與骨灰還活著時快速把血打掉，避免拖到幫手全滅。水母的毒傷在這階段仍有持續輸出價值。\n補血時機放在自己翻滾拉開距離之後，不要在他連段中間喝水。\n\n來源：S2 次級攻略\n\n注意事項\n⌄\n注意事項\n骨灰倒下後能否在同一場戰鬥再次召喚，來源只說明「HP 歸零、Boss 被擊敗、離紀念碑過遠、再次使用同一骨灰」時靈體會離場，並未說明同場重複召喚的次數與消耗限制，待確認。實戰請以「幫手只有一輪」為前提規劃輸出。\n\n來源：S1 官方\n\n束縛器的階段限制（第一階段兩次、第二階段無效）出自 2022 年編輯攻略，屬非官方二手資訊，若後續版本調整請以遊戲內實測為準。\n本次來源未逐招描述瑪爾基特的招式名稱與閃避幀數，具體每一招的辨識與時機待確認，建議搭配影片攻略交叉確認。\n攻略站提到可用盧恩弧光（Rune Arc）取得暫時生命加成，但其生效前提本次來源未說明，待確認，新手不必為此卡關。\n注意事項\n待確認：束縛器階段限制僅有非官方二手來源；招式名稱與閃避幀數來源未描述；盧恩弧光生效前提來源未說明。。\n追問回答\n❓ 如果完全不召喚骨灰或 NPC，最需要調整哪三件事？只補充差異，不用重寫攻略。束縛器第二階段還能用嗎？\n備註\n來源比對（AI）：6 段附有可對應的來源引文，0 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:02:47.102Z。\n\n結論：束縛器（瑪爾基特的束縛）只在第一階段有效，第二階段不能用；不召喚幫手時，最該補的是「等級與強化餘裕、雙手翻滾、毒與破架勢」這三件事。\n\n來源：S2 次級攻略\n\n把等級與武器強化留足。 沒有幫手分攤仇恨時，容錯率主要取決於血量與傷害；先在寧姆格福洞窟、獻祭橋南側與摩恩城累積盧恩，優先升生命與主攻擊屬性。具體建議等級與強化值，來源未給，待確認。\n\n來源：S2 次級攻略\n\n第二階段放下盾牌、改雙手握持。 攻略站稱瑪爾基特第二階段「幾乎無法格擋」，建議以翻滾為主；官方入門指南說明雙手握持傷害更高、更容易破壞架勢。第一階段仍可用防禦反擊，但沒人拉仇恨時，硬吃連段代價較高。\n\n來源：S2 次級攻略、S1 官方\n\n主動上毒並累積架勢崩解。 瑪爾基特弱毒，來源稱這會影響「武器與材料」的選擇，但未列具體道具，待確認；搭配跳躍攻擊、蓄力重擊打出架勢崩解後，按 RB 致命一擊。\n\n來源：S2 次級攻略、S1 官方\n\n束縛器部分：攻略站明確寫「只在第一階段有效、該階段可用兩次」，第二階段按了無效，別浪費；沒有幫手時，兩次可分別留給自己來不及閃的大招起手，以及需要集中輸出的空檔。\n\n來源：S2 次級攻略\n\n備註\n上述階段限制與弱毒出自 2022 年非官方編輯攻略，屬舊版資訊；若後續版本調整，請以遊戲內實測為準。官方入門指南為 2021 早期版本，僅支持雙手握持與跳躍攻擊等基本操作，不能證明現行 Boss 階段限制。\n\n來源：S2 次級攻略、S1 官方",
+  "id": "followup-before-final",
+  "capturedAt": "2026-10-19T15:05:02.294Z"
+}

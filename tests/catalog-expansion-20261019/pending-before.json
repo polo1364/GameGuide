@@ -1,0 +1,215 @@
+[
+  {
+    "auditIndex": 223,
+    "name": "流亡黯道 手機版",
+    "status": "partial",
+    "before": "iOS/Android",
+    "after": "行動裝置（系統未公布）",
+    "changed": true,
+    "note": "GGG 官方回顧與 ExileCon 公告確認 Path of Exile Mobile 專案及展場試玩；另取得官方手機頁的 2026-04-11 網頁存檔，原文描述實驗性手機專案，但未列 iOS／Android 或發售日。存檔日期不是新公告日期，也不能證明目前仍在開發。現行頁存取失敗不代表取消；具體系統與近期推出計畫仍待官方確認，發行狀態保持未知。",
+    "sources": [
+      "https://www.pathofexile.com/forum/view-thread/3396409",
+      "https://www.pathofexile.com/forum/view-thread/2722003",
+      "https://web.archive.org/web/20260411052935/https://www.pathofexile.com/mobile"
+    ],
+    "checkedAt": "2026-10-19",
+    "resolvedGap": "新增可讀官方原始手機頁存檔，確認實驗性獨立手機專案的描述；未找到足以補足作業系統與當前發行時程的第一方證據。",
+    "identityType": "specific-game",
+    "identityNote": "官方具名 Path of Exile Mobile 展示專案，不是 Path of Exile 或 Path of Exile 2 的行動串流。",
+    "editionOptions": [
+      {
+        "name": "Path of Exile Mobile（GGG 手機專案）",
+        "platform": "行動裝置（系統未公布）",
+        "sources": [
+          "https://www.pathofexile.com/forum/view-thread/3396409",
+          "https://web.archive.org/web/20260411052935/https://www.pathofexile.com/mobile"
+        ],
+        "scopeNote": "歷史公告與官方原頁存檔可確認手機專案及試玩；存檔日期不證明當前開發狀態，具體 OS／上市計畫仍待確認。"
+      }
+    ],
+    "remainingReason": "mobile-os-and-current-release-plan-unannounced",
+    "remainingDetails": "需要 GGG 明確指名 Path of Exile Mobile 的 iOS／Android 支援公告、正式商店商品或近期發行說明。歷史展場試玩、官網共用頁首平台與 2026 存檔時間均不能取代這些資訊。"
+  },
+  {
+    "auditIndex": 237,
+    "name": "巫師 重製版",
+    "status": "partial",
+    "before": "PC/PS5",
+    "after": "未公布",
+    "changed": true,
+    "note": "限定初代完整重製 The Witcher Remake／Canis Majoris。Fool’s Theory 現行產品頁及 CDPR 2026-08-25 新聞稿的工作室介紹仍提及本案；取得的官方資料未列本案平台。該新聞稿中的 PC／PS5／Xbox Series／Switch 2 清單屬於《巫師 3》重製更新及資料片，不能移植到初代 Remake。平台保持未公布，並非斷言未來不推出。",
+    "sources": [
+      "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development",
+      "https://www.cdprojekt.com/en/wp-content/uploads-en/2026/06/fact-sheet-june-2026.pdf",
+      "https://www.foolstheory.com/games/the-witcher/",
+      "https://press.cdprojektred.com/en/news/1105/the-original-witcher-game-is-being-remade-from-the-ground-up",
+      "https://press.cdprojektred.com/en/news/1839/the-witcher-3-wild-hunt-remastered-announced-songs-of-the-past-gets-first-look"
+    ],
+    "checkedAt": "2026-10-19",
+    "resolvedGap": "補到較新的 CDPR 官方工作室介紹並與 Fool’s Theory 專屬產品頁交叉核對，身分確定；排除同篇新聞稿另一作品的平台，具體平台仍缺第一方公告。",
+    "identityType": "specific-game",
+    "identityNote": "The Witcher Remake／Canis Majoris；不是 2007 原版或 Enhanced Edition，也不是 The Witcher 3 次世代更新。",
+    "editionOptions": [
+      {
+        "name": "The Witcher Remake（Canis Majoris）",
+        "platform": "未公布",
+        "sources": [
+          "https://www.thewitcher.com/us/en/news/46225/the-witcher-remake-is-in-development",
+          "https://www.cdprojekt.com/en/wp-content/uploads-en/2026/06/fact-sheet-june-2026.pdf",
+          "https://www.foolstheory.com/games/the-witcher/",
+          "https://press.cdprojektred.com/en/news/1839/the-witcher-3-wild-hunt-remastered-announced-songs-of-the-past-gets-first-look"
+        ],
+        "scopeNote": "初代重製專案身分確認；2026 官方介紹仍有提及，但同篇《巫師 3》的平台不能套用，本案具體發行平台尚待確認。"
+      }
+    ],
+    "remainingReason": "official-platforms-unannounced",
+    "remainingDetails": "需要 CDPR 或 Fool’s Theory 明確指名 The Witcher Remake／Canis Majoris 的平台公告或正式商品頁。原版／Enhanced Edition、《巫師 3》Remastered／Songs of the Past 與《巫師 4》的平台不能轉用；零售商分類與媒體推測不足以解除。"
+  },
+  {
+    "auditIndex": 275,
+    "name": "武林群俠傳",
+    "status": "partial",
+    "before": "PC",
+    "after": "電腦（作業系統待確認）",
+    "changed": true,
+    "note": "智冠官方可確認早期電腦單機《武林群俠傳》；本輪追查原始產品頁存檔、原廠手冊與盒裝規格線索，仍未取得能核對原作 Windows 支援的官方文字或清晰原廠圖片。未獲官方確認，非斷言 Windows 版本不存在；不套用 Online 或俠客風雲傳的規格。",
+    "sources": [
+      "https://www.soft-world.com/News/NewsDetail?Sn=1163",
+      "https://www.soft-world.com/About/History?EKind=6"
+    ],
+    "checkedAt": "2026-10-19",
+    "aliasCorrection": {
+      "before": [
+        "tale of wuxia",
+        "武林"
+      ],
+      "after": [
+        "武林群俠傳",
+        "武林"
+      ],
+      "reason": "Tale of Wuxia 的發行商商品名稱為俠客風雲傳，不能拿來作武林群俠傳別名。"
+    },
+    "resolvedGap": "已實際重讀智冠官方資料，並新增追查舊官網存檔索引、盒裝封面庫及手冊線索；沒有足以把電腦進一步核定為 Windows 的新增一手證據。",
+    "remainingReason": "original-os-evidence-required",
+    "identityType": "specific-game",
+    "identityNote": "限定智冠早期單機原作。官方 2002 年獎項紀錄及 2015 年電腦單機 IP 回顧互相對照；作品身分已明確，剩餘的是作業系統證據，不改現有名稱或別名。",
+    "editionOptions": [],
+    "remainingDetails": "需取得可辨識原版《武林群俠傳》題名與智冠出版身分的官方產品頁存檔、原廠手冊安裝章節或清晰盒裝系統需求圖；其中明列 Windows 或展示可確定為 Windows 的原廠安裝流程即可解除。此次封面庫回傳 HTTP 403，舊官網 CDX 索引 20 秒逾時；二手文字、遊戲重包賣場與其他作品規格不能取代此證據。"
+  },
+  {
+    "auditIndex": 318,
+    "name": "聲之形",
+    "status": "unresolved",
+    "before": "PC/PS4/Switch",
+    "after": "未確認",
+    "changed": true,
+    "note": "本輪以「聲之形／聲の形／A Silent Voice」重新查權利方與平台商品結果，仍未取得能識別本條目的官方電子遊戲商品與平台表。已確認的同名第一方資料為漫畫及動畫電影；Voice of Cards 與引用電影作為靈感的 1000xRESIST 都是其他作品，不能轉用其 PC／PS／Switch 平台。這是證據未足，不是斷言不存在相關遊戲。",
+    "sources": [
+      "https://cstation.kodansha.co.jp/mangaip/database/0000019055",
+      "https://www.kyotoanimation.co.jp/works/koeM/",
+      "https://voiceofcards.square-enix-games.com/en_US/theisledragonroars",
+      "https://store.steampowered.com/app/1675830/1000xRESIST/?l=tchinese"
+    ],
+    "checkedAt": "2026-10-19",
+    "resolvedGap": "新增講談社 IP 資料並重新讀京都動畫、Square Enix 與 Steam 商品說明，排除漫畫／電影、錯置 Voice of Cards 與靈感引用命中；尚未解決原始電玩指向。",
+    "unresolvedCorrection": true,
+    "aliasCorrection": {
+      "before": [
+        "voice of cards",
+        "聲之卡牌"
+      ],
+      "after": [
+        "聲之形"
+      ],
+      "reason": "采昌官方對應京都動畫作品；Square Enix 的 Voice of Cards 是另一卡牌遊戲系列，移除錯置的英文與聲之卡牌別名，不據此斷言沒有任何改編遊戲。"
+    },
+    "remainingReason": "unconfirmed-work",
+    "identityType": "unconfirmed-work",
+    "identityNote": "保留「聲之形」名稱與現有自身別名，電玩身分未明。講談社漫畫、京都動畫電影和 Square Enix 的 Voice of Cards 已可區分，尚無官方資料將此目錄條目映射至一款具名電子遊戲。",
+    "editionOptions": [],
+    "remainingDetails": "需要可與此條目對應的官方遊戲完整原文名稱，加上開發商／發行商或 Steam AppID、Nintendo 商品編號、PlayStation 商品頁等識別；若為尚未上市專案，需權利方或開發發行方的具名遊戲公告及平台段落。僅有電影名、卡牌RPG分類或先前平台欄不足以確認。"
+  },
+  {
+    "auditIndex": 338,
+    "name": "迷宮飯 千年國度的荒唐食譜",
+    "status": "unresolved",
+    "before": "Switch",
+    "after": "未確認",
+    "changed": true,
+    "note": "本輪重新搜尋完整中文題名、日文 IP 名稱及相關副標關鍵字，並讀取官方動畫、Arclight 桌遊與 KADOKAWA 活動頁，仍未取得此完整題名的官方電子遊戲商品或平台公告。桌遊的卡牌、骰子與實體活動均不能作 Switch／PC 平台證明；保留未確認，不否認未來或其他相關遊戲可能存在。",
+    "sources": [
+      "https://arclightgames.jp/product/682mtet/",
+      "https://delicious-in-dungeon.com/",
+      "https://event-info.kadokawa.co.jp/dun_meshi_asobuild/"
+    ],
+    "checkedAt": "2026-10-19",
+    "resolvedGap": "以完整題名及權利方／平台官方網域重查，重新確認可命中的桌遊、動畫與實體解謎活動型態，明確排除替代作品；副標的電子遊戲身分仍未確認。",
+    "unresolvedCorrection": true,
+    "remainingReason": "unconfirmed-work",
+    "identityType": "unconfirmed-work",
+    "identityNote": "「千年國度的荒唐食譜」尚無可對應的官方原文遊戲名或商品識別。保留完整中文名稱與自身別名，不以《モンスターイーター ～ダンジョン飯 ボードゲーム～》、動畫或相似料理遊戲替換。",
+    "editionOptions": [],
+    "remainingDetails": "需要「千年國度的荒唐食譜」的官方原文完整題名與開發／發行商、正式商品連結或平台商品 ID；若中文為暫譯，需能把該暫譯連到官方原文作品的公告。只有《迷宮飯》IP 名稱、動畫頁、桌遊或單獨 Switch 標籤無法辨識此作。"
+  },
+  {
+    "auditIndex": 720,
+    "name": "The Rise of the Golden Idol",
+    "status": "partial",
+    "before": "PC/PS/Xbox/Switch/Mobile",
+    "after": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "changed": true,
+    "note": "限定 2024 年獨立續作 The Rise of the Golden Idol，保留已核實的平台。本輪新增 Team Idol 2024-10-10 官方發售日公告，列 PlayStation 5；現行 PS Store Concept 10010047 的實際商品與結構資料也僅列 PS5（PPSA25812）。PS4 仍只有歷史預告，未取得正式 SKU 或明確上市證據，因此不加入已上市平台；未查到不是取消證據。Netflix 行動服務版本已撤下，Playstack 獨立 iOS／Android 版本已重新提供；Switch 2 相容 Switch 版不等於原生版本。",
+    "sources": [
+      "https://store.playstation.com/en-us/concept/10010047",
+      "https://store.steampowered.com/news/posts/?enddate=1728579631&feed=steam_community_announcements",
+      "https://www.playstation.com/en-us/games/the-rise-of-the-golden-idol/",
+      "https://store.steampowered.com/app/2716400/",
+      "https://www.xbox.com/fr-FR/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/The-Rise-of-the-Golden-Idol-2696296.html",
+      "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+      "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665",
+      "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix"
+    ],
+    "checkedAt": "2026-10-19",
+    "resolvedGap": "新增臨近發售日的官方跨平台公告與 PS Store Concept／商品結構資料比對，排除媒體誤連前作與 PlayStation 泛稱可充當 PS4 上市證據；PS4 正式上市缺口仍未解，其他已核實平台保留。",
+    "identityType": "specific-game",
+    "identityNote": "Color Gray Games／Playstack 的 2024 年獨立續作，與 The Case of the Golden Idol（2022）分開。",
+    "editionOptions": [
+      {
+        "name": "The Rise of the Golden Idol（2024 桌機與主機版）",
+        "platform": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch",
+        "sources": [
+          "https://store.playstation.com/en-us/concept/10010047",
+          "https://store.steampowered.com/news/posts/?enddate=1728579631&feed=steam_community_announcements",
+          "https://www.playstation.com/en-us/games/the-rise-of-the-golden-idol/",
+          "https://store.steampowered.com/app/2716400/",
+          "https://www.xbox.com/fr-FR/games/store/the-rise-of-the-golden-idol/9nhqgsh0598d",
+          "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/The-Rise-of-the-Golden-Idol-2696296.html"
+        ],
+        "scopeNote": "已確認上市版本；PS4 僅另有歷史公告，尚缺正式上市證據，不列於此已上市清單。"
+      },
+      {
+        "name": "The Rise of the Golden Idol（PS4 歷史預告）",
+        "platform": "PS4（歷史預告，上市未確認）",
+        "sources": [
+          "https://www.playstation.com/en-us/games/the-rise-of-the-golden-idol/",
+          "https://store.playstation.com/en-us/concept/10010047",
+          "https://store.steampowered.com/news/posts/?enddate=1728579631&feed=steam_community_announcements"
+        ],
+        "scopeNote": "2023 Sony 官方公告影片曾列 PS4；2024-10-10 Team Idol 的正式發售日公告明列 PlayStation 5，2026-10-19 可讀 PS Store Concept 10010047／PPSA25812 商品仍為 PS5。未取得 PS4 正式 SKU 或明確上市公告；不能將歷史預告當成已上市，也不因缺頁判定取消或永不推出。"
+      },
+      {
+        "name": "The Rise of the Golden Idol（Playstack 獨立行動版）",
+        "platform": "iOS/Android",
+        "sources": [
+          "https://play.google.com/store/apps/details?hl=en_US&id=com.playstack.TheRiseOfTheGoldenIdol",
+          "https://apps.apple.com/us/app/the-rise-of-the-golden-idol/id6473898665",
+          "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix"
+        ],
+        "scopeNote": "2026 年重新提供的 Playstack 商品；先前 Netflix 服務版本已撤下，兩種發行方式分開。"
+      }
+    ],
+    "remainingReason": "ps4-announced-but-release-sku-unconfirmed",
+    "remainingDetails": "仍缺 The Rise of the Golden Idol 的 PS4 正式商品（CUSA／PS4 SKU）或發行商明確說明 PS4 已上市的原始公告；目前可讀官方近上市公告與現售商品均只明列 PS5。這不構成 PS4 被取消或從未／永不推出的判斷。"
+  }
+]

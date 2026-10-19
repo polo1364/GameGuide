@@ -1,0 +1,3169 @@
+[
+  {
+    "auditIndex": 0,
+    "name": "薩爾達傳說 王國之淚",
+    "status": "verified",
+    "platform": "Switch/Switch 2",
+    "platformNote": "補上獨立的 Nintendo Switch 2 Edition，與原版 Switch 區別。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/the-legend-of-zelda-tears-of-the-kingdom-nintendo-switch-2-edition-switch-2/",
+      "https://zelda.nintendo.com/tears-of-the-kingdom/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "補上獨立的 Nintendo Switch 2 Edition，與原版 Switch 區別。"
+    ]
+  },
+  {
+    "auditIndex": 1,
+    "name": "薩爾達傳說 曠野之息",
+    "status": "verified",
+    "platform": "Switch/Switch 2/Wii U",
+    "platformNote": "補上 Wii U 原版與 2025-06-05 上市的 Switch 2 Edition。",
+    "sources": [
+      "https://zelda.nintendo.com/buy-now/",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/The-Legend-of-Zelda-Breath-of-the-Wild-Nintendo-Switch-2-Edition-2787250.html"
+    ],
+    "evidence": [
+      "補上 Wii U 原版與 2025-06-05 上市的 Switch 2 Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 2,
+    "name": "超級瑪利歐兄弟 驚奇",
+    "status": "verified",
+    "platform": "Switch/Switch 2",
+    "platformNote": "Switch 2 Edition + Meetup in Bellabel Park 已發售；不是僅向下相容。",
+    "sources": [
+      "https://www.nintendo.com/us/whatsnew/get-ready-for-some-wondrous-new-content-for-super-mario-bros-wonder-exclusive-to-nintendo-switch-2/%3Fsrsltid%3DAfmBOop96_sKGx7Tk5Dnz-lVSSBCvKCsjMuvM1oyn9U-n3uDe9li8k5W",
+      "https://www.nintendo.com/us/store/products/super-mario-bros-wonder-nintendo-switch-2-edition-plus-meetup-in-bellabel-park-upgrade-pack-switch-2/%3Fsrsltid%3DAfmBOoqi4VDQkIgnaGTr4__7GiXGrT9S-Um6Yb9DY82qxwVd4US0QRxg"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "Switch 2 Edition + Meetup in Bellabel Park 已發售；不是僅向下相容。"
+    ]
+  },
+  {
+    "auditIndex": 3,
+    "name": "超級瑪利歐 奧德賽",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/super-mario-odyssey-switch/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 4,
+    "name": "斯普拉遁3",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://splatoon.nintendo.com/en/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 5,
+    "name": "集合啦！動物森友會",
+    "status": "verified",
+    "platform": "Switch/Switch 2",
+    "platformNote": "官方商品頁分列 Switch 與 Switch 2 Edition。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-nintendo-switch-2-edition-switch-2/",
+      "https://www.nintendo.com/us/store/products/animal-crossing-new-horizons-nintendo-switch-2-edition-121591/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "官方商品頁分列 Switch 與 Switch 2 Edition。"
+    ]
+  },
+  {
+    "auditIndex": 6,
+    "name": "寶可夢 朱／紫",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pokemon-scarlet-114549/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 7,
+    "name": "寶可夢傳說 阿爾宙斯",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pokemon-legends-arceus-switch/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 8,
+    "name": "寶可夢 晶燦鑽石／明亮珍珠",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Switch 版，Switch 2 屬相容遊玩。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pokemon-shining-pearl-us-114377/"
+    ],
+    "evidence": [
+      "官方商品為 Switch 版，Switch 2 屬相容遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 9,
+    "name": "寶可夢 劍／盾",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Switch 版，Switch 2 屬相容遊玩。",
+    "sources": [
+      "https://www.nintendo.com/store/products/pokemon-shield-110457/"
+    ],
+    "evidence": [
+      "官方商品為 Switch 版，Switch 2 屬相容遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 10,
+    "name": "寶可夢 Let's Go 皮卡丘/伊布",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Switch 版，Switch 2 屬相容遊玩。",
+    "sources": [
+      "https://www.nintendo.com/store/products/pokemon-lets-go-eevee-switch/"
+    ],
+    "evidence": [
+      "官方商品為 Switch 版，Switch 2 屬相容遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 11,
+    "name": "瑪利歐賽車8 豪華版",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://mariokart8deluxe.nintendo.com/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 12,
+    "name": "任天堂明星大亂鬥 特別版",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/super-smash-bros-ultimate-us/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 13,
+    "name": "異度神劍3",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Switch 2 Edition 官方預定 2026-12-03，尚未上市，不列為目前平台。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/xenoblade-chronicles-3-nintendo-switch-2-edition-125685/"
+    ],
+    "evidence": [
+      "Switch 2 Edition 官方預定 2026-12-03，尚未上市，不列為目前平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 14,
+    "name": "異度神劍2",
+    "status": "verified",
+    "platform": "Switch/Switch 2",
+    "platformNote": "補上 2026-07-30 上市的 Switch 2 Edition。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/xenoblade-chronicles-2-nintendo-switch-2-edition-switch-2/",
+      "https://www.nintendo.com/en-ca/whatsnew/enhance-your-xenoblade-chronicles-2-journey-exclusively-on-nintendo-switch-2/"
+    ],
+    "evidence": [
+      "補上 2026-07-30 上市的 Switch 2 Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 15,
+    "name": "火焰之紋章 Engage",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/fire-emblem-engage-114548/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 16,
+    "name": "火焰之紋章 風花雪月",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/fire-emblem-three-houses-us/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 17,
+    "name": "星之卡比 探索發現",
+    "status": "verified",
+    "platform": "Switch/Switch 2",
+    "platformNote": "Switch 2 Edition 含 Star-Crossed World；原版 Switch 仍保留。",
+    "sources": [
+      "https://www.nintendo.com/store/products/kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2/",
+      "https://www.nintendo.com/us/store/products/nintendo-switch-2-kirby-and-the-forgotten-land-nintendo-switch-2-edition-star-crossed-world-121526/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "Switch 2 Edition 含 Star-Crossed World；原版 Switch 仍保留。"
+    ]
+  },
+  {
+    "auditIndex": 18,
+    "name": "皮克敏4",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pikmin-4-switch/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 19,
+    "name": "薩爾達傳說 織夢島",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "此條目為 2019 年 Switch 重製版，非 Game Boy 原版。",
+    "sources": [
+      "https://zelda.nintendo.com/links-awakening/buy/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 20,
+    "name": "路易吉洋樓3",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://luigismansion3.nintendo.com/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 21,
+    "name": "健身環大冒險",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Switch 原生版；Switch 2 相容遊玩仍需要原版 Joy-Con 與健身環配件。",
+    "sources": [
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/47747/p/988/c/950"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 22,
+    "name": "薩爾達無雙 災厄啟示錄",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/hyrule-warriors-age-of-calamity-110729/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 23,
+    "name": "瑪利歐派對 超級巨星",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://play.nintendo.com/news-tips/game-releases/mario-party-superstars-game-announcement/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 24,
+    "name": "超級瑪利歐創作家2",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品為 Nintendo Switch 版；Switch 2 的向下相容不另列原生版本。",
+    "sources": [
+      "https://www.nintendo.com/store/products/super-mario-maker-2-switch/"
+    ],
+    "evidence": [
+      "官方產品／支援頁確認 Nintendo Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 25,
+    "name": "奇幻生活i：轉圈圈的龍和偷取時間的少女",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Switch/Switch 2",
+    "platformNote": "官方商品資訊列出六個已發行主機及 Steam 平台；手機版另待發售狀態確認。",
+    "sources": [
+      "https://www.fantasylife.jp/fli/en/product/",
+      "https://www.fantasylife.jp/fli/product/?product=dwl"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "官方商品資訊列出六個已發行主機及 Steam 平台；手機版另待發售狀態確認。"
+    ],
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Switch/Switch 2",
+    "safePlatformNote": "官方商品資訊列出六個已發行主機及 Steam 平台；手機版另待發售狀態確認。"
+  },
+  {
+    "auditIndex": 26,
+    "name": "牧場物語 Welcome！美麗人生",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "官方產品頁列 Steam、PS5、Xbox Series X|S 與 Switch。",
+    "sources": [
+      "https://www.storyofseasons.com/awl/products/"
+    ],
+    "evidence": [
+      "官方產品頁列 Steam、PS5、Xbox Series X|S 與 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 27,
+    "name": "符文工廠5",
+    "status": "verified",
+    "platform": "PC/Switch",
+    "platformNote": "官方產品頁列 Steam 與 Switch。",
+    "sources": [
+      "https://runefactory.com/rf5/"
+    ],
+    "evidence": [
+      "官方產品頁列 Steam 與 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 28,
+    "name": "天穗之咲稻姬",
+    "status": "verified",
+    "platform": "PC/PS4/Switch",
+    "platformNote": "補上官方頁商標與購買連結所列 PS4、Steam 版。",
+    "sources": [
+      "https://sakunaofriceandruin.com/?trk=public_profile_project-title"
+    ],
+    "evidence": [
+      "補上官方頁商標與購買連結所列 PS4、Steam 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 29,
+    "name": "魔物獵人 崛起",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "補上已發行的 PC、PS5、PS4、Xbox Series 與 Xbox One 版。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/monster-hunter-rise-switch/",
+      "https://www.capcom-support.com/hc/en-us/articles/8700981521948-Capcom-News-Blogs-Monster-Hunter-Rise"
+    ],
+    "evidence": [
+      "補上已發行的 PC、PS5、PS4、Xbox Series 與 Xbox One 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 30,
+    "name": "魔物獵人 崛起：破曉",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "Sunbreak 為需本篇的擴充內容；補上 2023 年推出的其他平台版。",
+    "sources": [
+      "https://www.capcomfrance.fr/mhrsxbps/"
+    ],
+    "evidence": [
+      "Sunbreak 為需本篇的擴充內容；補上 2023 年推出的其他平台版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 31,
+    "name": "勇者鬥惡龍XI S",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch/Switch 2",
+    "platformNote": "補上 PS4、Xbox One、PC 與 2026-09-24 上市的 Switch 2 版。",
+    "sources": [
+      "https://www.square-enix-games.com/en_US/home/dragon-quest-xi-s-now-available-on-playstation-4-xbox-one-steam-and-epic-game-store",
+      "https://www.dq11.jp/s/pf/faq/en.html",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/DRAGON-QUEST-XI-S-Echoes-of-an-Elusive-Age-Definitive-Edition-3108411.html"
+    ],
+    "evidence": [
+      "補上 PS4、Xbox One、PC 與 2026-09-24 上市的 Switch 2 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 32,
+    "name": "八方旅人",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox One/Switch",
+    "platformNote": "補上 Xbox One 版；Xbox Series 為相容執行。",
+    "sources": [
+      "https://www.xbox.com/en-us/games/store/octopath-traveler/9N9606CC950J",
+      "https://www.square-enix.com/asia/newsportal/en/topics/octopathii/post09.html"
+    ],
+    "evidence": [
+      "補上 Xbox One 版；Xbox Series 為相容執行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 33,
+    "name": "八方旅人2",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "補上 Xbox 版本與 2026-10-01 發售的 Switch 2 版。",
+    "sources": [
+      "https://www.square-enix-games.com/en_US/games/octopath-traveler-ii",
+      "https://www.square-enix.com/asia/newsportal/en/topics/octopathii/post09.html",
+      "https://www.nintendo.com/us/store/products/octopath-traveler-ii-switch-2/"
+    ],
+    "evidence": [
+      "補上 Xbox 版本與 2026-10-01 發售的 Switch 2 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 34,
+    "name": "巫師3：狂獵 完整版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "Complete Edition 除 Switch 外亦有 PC、PlayStation、Xbox；2026 Remastered 包含本篇與兩部擴充並登陸 Switch 2。",
+    "sources": [
+      "https://www.thewitcher.com/us/en/witcher3",
+      "https://press.cdprojektred.com/en/news/1130/the-witcher-3-wild-hunt-complete-edition-slays-its-way-onto-next-gen",
+      "https://press.cdprojektred.com/en/news/1839/the-witcher-3-wild-hunt-remastered-announced-songs-of-the-past-gets-first-look"
+    ],
+    "evidence": [
+      "Complete Edition 除 Switch 外亦有 PC、PlayStation、Xbox；2026 Remastered 包含本篇與兩部擴充並登陸 Switch 2。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 35,
+    "name": "黑暗靈魂 重製版",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "補上官方所列 PC、PS4、Xbox One；不將相容執行列為 PS5 原生版。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/dark-souls-remastered/media/4166"
+    ],
+    "evidence": [
+      "補上官方所列 PC、PS4、Xbox One；不將相容執行列為 PS5 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 36,
+    "name": "胡鬧廚房 全都好吃",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "補齊 Team17 所列六個原生平台；Netflix TV／瀏覽器屬雲端服務另計。",
+    "sources": [
+      "https://team17.helpshift.com/hc/en/4-overcooked-franchise/faq/420-where-can-i-get-overcooked-all-you-can-eat/?p=web",
+      "https://help.netflix.com/en/node/563944108339812"
+    ],
+    "evidence": [
+      "補齊 Team17 所列六個原生平台；Netflix TV／瀏覽器屬雲端服務另計。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 37,
+    "name": "馬力歐+瘋狂兔子 希望之星",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "任天堂官方頁確認 Switch 版，Switch 2 為相容遊玩。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/mario-plus-rabbids-sparks-of-hope-switch/"
+    ],
+    "evidence": [
+      "任天堂官方頁確認 Switch 版，Switch 2 為相容遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 38,
+    "name": "薄暮傳說 Remastered",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "Definitive Edition 官方發售公告列四個平台，補 Xbox One。",
+    "sources": [
+      "https://www.bandainamcoent.com/news/tales-of-vesperia-definitive-edition-now-avaialble"
+    ],
+    "evidence": [
+      "Definitive Edition 官方發售公告列四個平台，補 Xbox One。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 39,
+    "name": "超級機器人大戰30",
+    "status": "verified",
+    "platform": "PC、PS4、Switch",
+    "platformNote": "官方規格列 Steam、PS4 與 Switch；PS5 執行 PS4 版屬相容。",
+    "sources": [
+      "https://srw30-thirty.suparobo.jp/spec/"
+    ],
+    "evidence": [
+      "官方規格列 Steam、PS4 與 Switch；PS5 執行 PS4 版屬相容。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 40,
+    "name": "賽伯利亞之謎",
+    "status": "partial",
+    "platform": "PC/macOS/PS2/PS3/Xbox/Xbox 360/Nintendo DS/Switch/iOS/Android/Windows Mobile",
+    "platformNote": "依 Microids 產品頁補齊曾發行平台；舊手機商店可購買狀態另依地區確認，非 2025 Remastered。",
+    "sources": [
+      "https://www.microids.com/game-syberia/"
+    ],
+    "evidence": [
+      "依 Microids 產品頁補齊曾發行平台；舊手機商店可購買狀態另依地區確認，非 2025 Remastered。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/macOS/PS2/PS3/Xbox/Xbox 360/Nintendo DS/Switch/iOS/Android/Windows Mobile",
+    "safePlatformNote": "依 Microids 產品頁補齊曾發行平台；舊手機商店可購買狀態另依地區確認，非 2025 Remastered。"
+  },
+  {
+    "auditIndex": 41,
+    "name": "Minecraft",
+    "status": "partial",
+    "platform": "PC/macOS/Linux/PS5/PS4/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "platformNote": "Java 適用 Windows/macOS/Linux，Bedrock 適用主機及行動平台；兩版內容與連線需區分。",
+    "sources": [
+      "https://www.minecraft.net/en-us/article/java-or-bedrock-edition"
+    ],
+    "evidence": [
+      "Java 適用 Windows/macOS/Linux，Bedrock 適用主機及行動平台；兩版內容與連線需區分。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/macOS/Linux/PS5/PS4/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "safePlatformNote": "Java 適用 Windows/macOS/Linux，Bedrock 適用主機及行動平台；兩版內容與連線需區分。"
+  },
+  {
+    "auditIndex": 42,
+    "name": "太鼓之達人 咚咔！二合一大冒險",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "此為 Rhythmic Adventure Pack 合輯，不是跨平台的 Rhythm Festival。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/taiko-no-tatsujin-rhythmic-adventure-pack"
+    ],
+    "evidence": [
+      "此為 Rhythmic Adventure Pack 合輯，不是跨平台的 Rhythm Festival。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 43,
+    "name": "艾爾登法環",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "補上已上市的 Switch 2 Tarnished Edition；Xbox 世代明確化。",
+    "sources": [
+      "https://www.bandainamcoent.com/news/elden-ring-tarnished-edition-now-available-on-nintendo-switch-2",
+      "https://www.bandainamcoent.com/games/elden-ring?pubDate=20250303"
+    ],
+    "evidence": [
+      "補上已上市的 Switch 2 Tarnished Edition；Xbox 世代明確化。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 44,
+    "name": "艾爾登法環 黃金樹幽影",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "擴充需本篇；Switch 2 的 Tarnished Edition 已包含 Shadow of the Erdtree。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/elden-ring/shadow-of-the-erdtree",
+      "https://www.bandainamcoent.com/news/elden-ring-shadow-of-the-erdtree-available-now",
+      "https://www.bandainamcoent.com/news/elden-ring-tarnished-edition-now-available-on-nintendo-switch-2"
+    ],
+    "evidence": [
+      "擴充需本篇；Switch 2 的 Tarnished Edition 已包含 Shadow of the Erdtree。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 45,
+    "name": "黑神話：悟空",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Xbox 版為 Series X|S，不是 Xbox One。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/store/black-myth-wukong/9nwq1q1fr0c9"
+    ],
+    "evidence": [
+      "Xbox 版為 Series X|S，不是 Xbox One。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S",
+    "safePlatformNote": "Xbox 版為 Series X|S，不是 Xbox One。"
+  },
+  {
+    "auditIndex": 46,
+    "name": "博德之門3",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/Xbox Series X|S",
+    "platformNote": "官方 FAQ 列 PC、Mac、PS5、Xbox；GeForce NOW 為雲端，不另當原生版本。",
+    "sources": [
+      "https://baldursgate3.game/?trk=article-ssr-frontend-pulse_little-text-block",
+      "https://forums.larian.com/ubbthreads.php?Number=874803&ubb=showflat"
+    ],
+    "evidence": [
+      "官方 FAQ 列 PC、Mac、PS5、Xbox；GeForce NOW 為雲端，不另當原生版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 47,
+    "name": "隻狼：暗影雙死",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "官方平台選單列 PS4、Xbox One 與 PC；新主機相容不另列原生版。",
+    "sources": [
+      "https://www.sekirothegame.com/home"
+    ],
+    "evidence": [
+      "官方平台選單列 PS4、Xbox One 與 PC；新主機相容不另列原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 48,
+    "name": "黑暗靈魂3",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "官方產品頁列 PS4、Xbox One、PC。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/dark-souls-iii?pStoreID=Http%3A%2FWww.Google.Com"
+    ],
+    "evidence": [
+      "官方產品頁列 PS4、Xbox One、PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 49,
+    "name": "電馭叛客2077",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "補上 Mac、Switch 2 與舊主機；PS4／Xbox One 不支援 Phantom Liberty 與新版完整內容。",
+    "sources": [
+      "https://www.cyberpunk.net/gm/en/cyberpunk-2077",
+      "https://www.cyberpunk.net/gb/en/next-gen"
+    ],
+    "evidence": [
+      "補上 Mac、Switch 2 與舊主機；PS4／Xbox One 不支援 Phantom Liberty 與新版完整內容。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 50,
+    "name": "巫師3：狂獵",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "原版、Complete Edition 與 2026 Remastered 內容／效能不同；現行新主機與 Switch 2 版須按版本辨識。",
+    "sources": [
+      "https://www.thewitcher.com/us/en/witcher3",
+      "https://press.cdprojektred.com/en/news/1130/the-witcher-3-wild-hunt-complete-edition-slays-its-way-onto-next-gen",
+      "https://press.cdprojektred.com/en/news/1839/the-witcher-3-wild-hunt-remastered-announced-songs-of-the-past-gets-first-look"
+    ],
+    "evidence": [
+      "原版、Complete Edition 與 2026 Remastered 內容／效能不同；現行新主機與 Switch 2 版須按版本辨識。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 51,
+    "name": "上古卷軸5：無界天際",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "Special／Anniversary Edition 有新主機版；2025-12-09 發售 Switch 2 版。原始 2011 年 PS3/Xbox 360 版另依版本區分。",
+    "sources": [
+      "https://bethesda.net/en-US/news/the-elder-scrolls-v-skyrim-anniversary-edition-out-now-on-nintendo-switch-2",
+      "https://bethesda.net/en-US/news/skyrim-anniversary-edition-faq"
+    ],
+    "evidence": [
+      "Special／Anniversary Edition 有新主機版；2025-12-09 發售 Switch 2 版。原始 2011 年 PS3/Xbox 360 版另依版本區分。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "safePlatformNote": "Special／Anniversary Edition 有新主機版；2025-12-09 發售 Switch 2 版。原始 2011 年 PS3/Xbox 360 版另依版本區分。"
+  },
+  {
+    "auditIndex": 52,
+    "name": "魔物獵人 世界",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "官方支援頁列 PC、PS4、Xbox One；無跨平台連線／存檔。",
+    "sources": [
+      "https://www.capcom-support.com/hc/en-us/articles/5730174974620-Does-Monster-Hunter-World-support-Cross-Play-and-or-Cross-Progression"
+    ],
+    "evidence": [
+      "官方支援頁列 PC、PS4、Xbox One；無跨平台連線／存檔。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 53,
+    "name": "魔物獵人 荒野",
+    "status": "verified",
+    "platform": "PC、PS5、Xbox Series X|S",
+    "platformNote": "Capcom 官方兌換說明列 Steam、PS5、Xbox Series X|S。",
+    "sources": [
+      "https://mobile.capcom.com/mhpuzzle/en/topic/cp_20250731_01.html"
+    ],
+    "evidence": [
+      "Capcom 官方兌換說明列 Steam、PS5、Xbox Series X|S。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 54,
+    "name": "死亡擱淺",
+    "status": "partial",
+    "platform": "PC/PS4",
+    "platformNote": "此條目指原版；PS5 原生版為資料庫另外收錄的 Director's Cut，不混入本篇原版。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/death-stranding/",
+      "https://store.playstation.com/en-us/product/UP9000-CUSA11260_00-DEATHSTRAND00001"
+    ],
+    "evidence": [
+      "此條目指原版；PS5 原生版為資料庫另外收錄的 Director's Cut，不混入本篇原版。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4",
+    "safePlatformNote": "此條目指原版；PS5 原生版為資料庫另外收錄的 Director's Cut，不混入本篇原版。"
+  },
+  {
+    "auditIndex": 55,
+    "name": "對馬戰鬼",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "PC 與 PS5 為 Director's Cut，PS4 有原版及導演版；官方確認 PC／PS4／PS5 版 Legends 連線。",
+    "sources": [
+      "https://blog.playstation.com/2024/04/17/ghost-of-tsushima-directors-cut-pc-cross-play-and-system-requirements-revealed/"
+    ],
+    "evidence": [
+      "PC 與 PS5 為 Director's Cut，PS4 有原版及導演版；官方確認 PC／PS4／PS5 版 Legends 連線。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 56,
+    "name": "最後生還者 Part I",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "Part I 為 PS5／PC 重製版，不是 PS3 原版或 PS4 Remastered。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/the-last-of-us-part-i"
+    ],
+    "evidence": [
+      "Part I 為 PS5／PC 重製版，不是 PS3 原版或 PS4 Remastered。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 57,
+    "name": "地平線 零之曙光",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "原版／Complete Edition 為 PS4、PC；Remastered 為 PS5、PC，依所選版本區分。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/horizon-zero-dawn/?sf275174405=1"
+    ],
+    "evidence": [
+      "原版／Complete Edition 為 PS4、PC；Remastered 為 PS5、PC，依所選版本區分。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 58,
+    "name": "戰神",
+    "status": "verified",
+    "platform": "PC/PS4",
+    "platformNote": "2018 年本作原生版本為 PS4、PC；PS5 以相容方式執行 PS4 版。",
+    "sources": [
+      "https://www.playstation.com/en-us/god-of-war",
+      "https://www.playstation.com/en-us/games/god-of-war/?pdpr=1&smcid=pdc%3Ape-es%3Aweb-pdc-ps-plus-games%3Atextblock-god-of-war"
+    ],
+    "evidence": [
+      "2018 年本作原生版本為 PS4、PC；PS5 以相容方式執行 PS4 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 59,
+    "name": "漫威蜘蛛人",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "PS4 是原版；PS5／PC 為 Remastered，保留版本差異。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/marvels-spider-man-remastered/pc/",
+      "https://www.playstation.com/en-us/games/marvels-spider-man-remastered/"
+    ],
+    "evidence": [
+      "PS4 是原版；PS5／PC 為 Remastered，保留版本差異。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 60,
+    "name": "絕命暗殺令",
+    "status": "unresolved",
+    "platform": "PC/PS/Xbox",
+    "platformNote": "名稱與 hitman 別名未指定年份；系列含多部作品，不能用 World of Assassination 的平台套用所有舊作。須先辨識版本。",
+    "sources": [
+      "https://ioi.dk/en-us/hitman/news/2023/hitman-3-to-become-world-of-assassination"
+    ],
+    "evidence": [
+      "名稱與 hitman 別名未指定年份；系列含多部作品，不能用 World of Assassination 的平台套用所有舊作。須先辨識版本。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox",
+    "safePlatformNote": "名稱與 hitman 別名未指定年份；系列含多部作品，不能用 World of Assassination 的平台套用所有舊作。須先辨識版本。"
+  },
+  {
+    "auditIndex": 61,
+    "name": "極地戰嚎6",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方列 PC、PS5、PS4、Xbox Series、Xbox One；Luna 與已結束的 Stadia 不視為原生版。",
+    "sources": [
+      "https://www.ubisoft.com/en-gb/game/far-cry/far-cry-6",
+      "https://news.ubisoft.com/en-us/article/66L79lBUba6BaMeejt5kW7/far-cry-6-out-now"
+    ],
+    "evidence": [
+      "官方列 PC、PS5、PS4、Xbox Series、Xbox One；Luna 與已結束的 Stadia 不視為原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 62,
+    "name": "虹彩六號：圍攻行動",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方服務狀態頁分列五平台；將籠統 PS／Xbox 明確化。",
+    "sources": [
+      "https://www.ubisoft.com/en-us/game/rainbow-six/siege/status"
+    ],
+    "evidence": [
+      "官方服務狀態頁分列五平台；將籠統 PS／Xbox 明確化。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 63,
+    "name": "絕對武力2",
+    "status": "verified",
+    "platform": "PC/Linux",
+    "platformNote": "Steam 系統需求列 Windows 及 SteamOS/Linux；不以舊 CS:GO 的 Mac 支援推定 CS2。",
+    "sources": [
+      "https://store.steampowered.com/app/730/CounterStrike2/"
+    ],
+    "evidence": [
+      "Steam 系統需求列 Windows 及 SteamOS/Linux；不以舊 CS:GO 的 Mac 支援推定 CS2。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 64,
+    "name": "特戰英豪",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "補上已發行主機版；主機與 PC 配對及地區服務須依 Riot 規則。",
+    "sources": [
+      "https://playvalorant.com/en-us/console/",
+      "https://playvalorant.com/en-au/news/announcements/valorant-coming-to-console-in-australia--new-zealand/"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "補上已發行主機版；主機與 PC 配對及地區服務須依 Riot 規則。"
+    ]
+  },
+  {
+    "auditIndex": 65,
+    "name": "英雄聯盟",
+    "status": "verified",
+    "platform": "PC/macOS",
+    "platformNote": "Riot 支援頁確認 Windows 與 macOS；手機 Wild Rift 是另一款遊戲。",
+    "sources": [
+      "https://support.riotgames.com/en-us/league-of-legends/performance/minimum-and-recommended-system-requirements-league-of-legends"
+    ],
+    "evidence": [
+      "Riot 支援頁確認 Windows 與 macOS；手機 Wild Rift 是另一款遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 66,
+    "name": "Dota 2",
+    "status": "verified",
+    "platform": "PC/macOS/Linux",
+    "platformNote": "Steam 官方系統需求有 Windows、macOS、SteamOS/Linux。",
+    "sources": [
+      "https://store.steampowered.com/app/570/Dota_2/?curator_clanid=3871642&l=english"
+    ],
+    "evidence": [
+      "Steam 官方系統需求有 Windows、macOS、SteamOS/Linux。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 67,
+    "name": "暗黑破壞神4",
+    "status": "verified",
+    "platform": "PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch 2",
+    "platformNote": "官方本體與商店確認 PC、兩代 PS／Xbox；Switch 2 的 Age of Hatred Collection 已於 2026-09-16 推出。",
+    "sources": [
+      "https://news.blizzard.com/en-us/article/23189677/diablo-iv-feature-overview",
+      "https://diablo4.blizzard.com/en-us/?blzcmp=app&form=MY01SV",
+      "https://www.xbox.com/en-US/games/store/diablo-iv/9NQRCD3W41L3/",
+      "https://www.nintendo.com/us/whatsnew/diablo-iv-arrives-on-nintendo-switch-2/"
+    ],
+    "evidence": [
+      "官方本體與商店確認 PC、兩代 PS／Xbox；Switch 2 的 Age of Hatred Collection 已於 2026-09-16 推出。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 68,
+    "name": "流亡黯道",
+    "status": "partial",
+    "platform": "PC、macOS、PS5、PS4、Xbox One",
+    "platformNote": "已確認一代 Windows／Mac、PS4／PS5 與 Xbox One；Xbox Series 原生版與相容執行界線尚待補證，不沿用二代平台。",
+    "sources": [
+      "https://www.pathofexile.com/forum/view-thread/3148915/filter-account-type/staff",
+      "https://www.pathofexile.com/support",
+      "https://www.playstation.com/en-us/games/path-of-exile/",
+      "https://www.xbox.com/en-US/games/store/path-of-exile/bwc95bzpfbs7"
+    ],
+    "evidence": [
+      "已確認一代 Windows／Mac、PS4／PS5 與 Xbox One；Xbox Series 原生版與相容執行界線尚待補證，不沿用二代平台。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、macOS、PS5、PS4、Xbox One",
+    "safePlatformNote": "已確認一代 Windows／Mac、PS4／PS5 與 Xbox One；Xbox Series 原生版與相容執行界線尚待補證，不沿用二代平台。"
+  },
+  {
+    "auditIndex": 69,
+    "name": "薩爾達傳說 時之笛",
+    "status": "verified",
+    "platform": "Nintendo 64",
+    "platformNote": "此為 N64 原版；Wii／Wii U Virtual Console 屬復刻模擬發行，3DS 的 Ocarina of Time 3D 已另列條目。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-64/The-Legend-of-Zelda-Ocarina-of-Time-269536.html",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/The-Legend-of-Zelda-Ocarina-of-Time-3D-275007.html"
+    ],
+    "evidence": [
+      "此為 N64 原版；Wii／Wii U Virtual Console 屬復刻模擬發行，3DS 的 Ocarina of Time 3D 已另列條目。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 70,
+    "name": "要塞英雄",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2/iOS/Android",
+    "platformNote": "Epic 官方支援頁確認以上平台；iPhone／iPad 原生下載有地區限制，雲端遊玩另計。",
+    "sources": [
+      "https://www.epicgames.com/help/c-34254770/c-38015632/a22202510",
+      "https://www.fortnite.com/mobile?lang=en-US&selectDevice=true"
+    ],
+    "evidence": [
+      "Epic 官方支援頁確認以上平台；iPhone／iPad 原生下載有地區限制，雲端遊玩另計。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 71,
+    "name": "決勝時刻：戰域",
+    "status": "partial",
+    "platform": "PC、PS5、PS4、Xbox Series X|S、Xbox One",
+    "platformNote": "戰域現行版本；PS4／Xbox One 已停止新下載與商店服務，既有玩家可玩至 Black Ops 7 第六賽季結束；不把未來整合版當成已推出。",
+    "sources": [
+      "https://support.activision.com/warzone-2/articles/warzone-platform-update",
+      "https://www.callofduty.com/warzone",
+      "https://www.xbox.com/en-US/games/store/call-of-duty-warzone/9NNFG8BQRCXL/0010/9PS597QSZ6V2"
+    ],
+    "evidence": [
+      "戰域現行版本；PS4／Xbox One 已停止新下載與商店服務，既有玩家可玩至 Black Ops 7 第六賽季結束；不把未來整合版當成已推出。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、PS5、PS4、Xbox Series X|S、Xbox One",
+    "safePlatformNote": "戰域現行版本；PS4／Xbox One 已停止新下載與商店服務，既有玩家可玩至 Black Ops 7 第六賽季結束；不把未來整合版當成已推出。"
+  },
+  {
+    "auditIndex": 72,
+    "name": "鬥陣特攻2",
+    "status": "partial",
+    "platform": "PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch、Switch 2",
+    "platformNote": "已確認跨進度支援的平台家族及 2026-04-14 推出的 Switch 2 版；舊世代各地區服務狀態仍需補證。",
+    "sources": [
+      "https://overwatch.blizzard.com/en-us/news/23824001/cross-progression-is-coming-to-overwatch-2-account-merge-faq/",
+      "https://www.playstation.com/en-us/games/overwatch/",
+      "https://www.nintendo.com/us/store/products/overwatch-switch-2/"
+    ],
+    "evidence": [
+      "已確認跨進度支援的平台家族及 2026-04-14 推出的 Switch 2 版；舊世代各地區服務狀態仍需補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch、Switch 2",
+    "safePlatformNote": "已確認跨進度支援的平台家族及 2026-04-14 推出的 Switch 2 版；舊世代各地區服務狀態仍需補證。"
+  },
+  {
+    "auditIndex": 73,
+    "name": "世紀帝國4",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Xbox One",
+    "platformNote": "補上 2025-11-04 上市的 PS5 版；Xbox 原生版有 Series 及 One。",
+    "sources": [
+      "https://support.ageofempires.com/hc/en-us/articles/40269858647060-Age-of-Empires-IV-on-PlayStation-5-FAQ",
+      "https://www.ageofempires.com/news/age-of-empires-iv-now-on-xbox-consoles/"
+    ],
+    "evidence": [
+      "補上 2025-11-04 上市的 PS5 版；Xbox 原生版有 Series 及 One。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 74,
+    "name": "文明帝國6",
+    "status": "verified",
+    "platform": "PC、macOS、Linux、PS4、Xbox One、Switch、iOS、Android",
+    "platformNote": "Aspyr 電腦版規格與購買入口列 Mac／Linux、主機；行動版另列 iOS 與 Google Play，版本與 DLC 內容依商店而異。",
+    "sources": [
+      "https://www.aspyr.com/games/sid-meier-s-civilization-vi",
+      "https://www.aspyr.com/games/civilization-vi-mobile",
+      "https://support.aspyr.com/hc/en-us/articles/360047236092-Civilization-VI-Android-FAQ"
+    ],
+    "evidence": [
+      "Aspyr 電腦版規格與購買入口列 Mac／Linux、主機；行動版另列 iOS 與 Google Play，版本與 DLC 內容依商店而異。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 75,
+    "name": "模擬城市",
+    "status": "unresolved",
+    "platform": "PC",
+    "platformNote": "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。",
+    "sources": [
+      "https://news.ea.com/press-releases/press-releases-details/2013/SimCity-Comes-to-Mac-June-11-Players-Receive-Both-Mac-and-PC-with-One-Purchase/default.aspx",
+      "https://store.ea.com/commerce/app/products/simcity-digital-deluxe-upgrade-pack"
+    ],
+    "evidence": [
+      "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "泛稱 SimCity 未寫年份；EA 2013 版有 Mac 不代表此條目所指版本。保留原 PC 資料待辨識，不能混入 BuildIt 或其他代數。"
+  },
+  {
+    "auditIndex": 76,
+    "name": "都市：天際線2",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方主機頁仍標示 wishlist，PS5／Xbox Series 不列為已可玩的版本。",
+    "sources": [
+      "https://www.paradoxinteractive.com/games/cities-skylines-ii/console-news",
+      "https://www.paradoxinteractive.com/games/cities-skylines-ii/news/console-development-status"
+    ],
+    "checkedAt": "2026-10-18",
+    "evidence": [
+      "官方主機頁仍標示 wishlist，PS5／Xbox Series 不列為已可玩的版本。"
+    ]
+  },
+  {
+    "auditIndex": 77,
+    "name": "農場模擬器系列",
+    "status": "unresolved",
+    "platform": "PC/PS/Xbox",
+    "platformNote": "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。",
+    "sources": [
+      "https://farming-simulator.com/about.php?platform=pc"
+    ],
+    "evidence": [
+      "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox",
+    "safePlatformNote": "系列條目未指定年份；FS22、FS25 與手機／Switch 支線的支援平台不同，需選定作品後判定。"
+  },
+  {
+    "auditIndex": 78,
+    "name": "微軟模擬飛行",
+    "status": "unresolved",
+    "platform": "PC/Xbox",
+    "platformNote": "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。",
+    "sources": [
+      "https://www.xbox.com/en-us/games/microsoft-flight-simulator-2024",
+      "https://www.flightsimulator.com/microsoft-flight-simulator-2024-early-access-for-sony-playstation-is-now-live/"
+    ],
+    "evidence": [
+      "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox",
+    "safePlatformNote": "未指明 2020 或 2024 版；2024 已有 PS5，但不能回推 2020 版。需先選擇年份。"
+  },
+  {
+    "auditIndex": 79,
+    "name": "歐洲卡車模擬2",
+    "status": "verified",
+    "platform": "PC/macOS/Linux",
+    "platformNote": "官方支援與下載頁確認 Windows、Mac、Linux；不將模擬器或雲端列為原生主機版。",
+    "sources": [
+      "https://eurotrucksimulator2.com/support.php",
+      "https://eurotrucksimulator2.com/download.php"
+    ],
+    "evidence": [
+      "官方支援與下載頁確認 Windows、Mac、Linux；不將模擬器或雲端列為原生主機版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 80,
+    "name": "極限競速 地平線5",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Xbox One",
+    "platformNote": "補上 2025-04-29 上市的 PS5 版，Xbox 世代細分。",
+    "sources": [
+      "https://forza.net/news/forza-horizon-5-ps5-out-now",
+      "https://forza.net/news/forza-horizon-5-ps5-faq"
+    ],
+    "evidence": [
+      "補上 2025-04-29 上市的 PS5 版，Xbox 世代細分。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S/Xbox One",
+    "safePlatformNote": "補上 2025-04-29 上市的 PS5 版，Xbox 世代細分。"
+  },
+  {
+    "auditIndex": 81,
+    "name": "跑車浪漫旅7",
+    "status": "verified",
+    "platform": "PS5/PS4",
+    "platformNote": "官方商品同時列 PS4、PS5；PSVR2 需 PS5 版本。",
+    "sources": [
+      "https://store.playstation.com/en-us/product/UP9000-PPSA01317_00-GT7STD0000000PS5"
+    ],
+    "evidence": [
+      "官方商品同時列 PS4、PS5；PSVR2 需 PS5 版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 82,
+    "name": "Final Fantasy XVI",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "補上已上市 Xbox Series X|S；官方購買頁列 PlayStation、Xbox 與 PC 商店。",
+    "sources": [
+      "https://news.xbox.com/en-us/2025/06/08/final-fantasy-16-xbox-games-showcase/",
+      "https://na.finalfantasyxvi.com/buy?ttclid=E_C_P_CtcBnsh316B7FMZuauyhtpENM0NE2bF0mLXSpBo_x984DGxSglM3XKkJhODDpcmEWY9JXJtwDa7eEdFP4nM1MTXo0D71bXnUQa8OPVfFa6uFAraLDbY_ZIZUE7Qi-AAqUJ_Cd3HpBbSjQSJXXQfd8gqEoPnSRmd1hqBBGhYzusfxq6QA7dlpg5UgMtlKERlpabRs3QWwUYYExOvwGXDQ9tlPiPq0gcIMX5GLmIUyHLQWtZL9fK1U2drKMw3FkKS-tE0q5yl2OytQfp2-9g0S1DANQ6oO40GRQpgSBHYyLjA"
+    ],
+    "evidence": [
+      "補上已上市 Xbox Series X|S；官方購買頁列 PlayStation、Xbox 與 PC 商店。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 83,
+    "name": "Final Fantasy VII 重生",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "補上官方公布於 2026-06-03 發售的 Xbox Series 與 Switch 2 版。",
+    "sources": [
+      "https://www.square-enix.com/asia/newsportal/en/topics/ffvii-rebirth/post25.html",
+      "https://na.store.square-enix-games.com/final-fantasy-vii-rebirth---switch-2"
+    ],
+    "evidence": [
+      "補上官方公布於 2026-06-03 發售的 Xbox Series 與 Switch 2 版。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "safePlatformNote": "補上官方公布於 2026-06-03 發售的 Xbox Series 與 Switch 2 版。"
+  },
+  {
+    "auditIndex": 84,
+    "name": "Final Fantasy VII 重製版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Switch 2",
+    "platformNote": "PS4 為 Remake；PS5、PC、Xbox Series 及 Switch 2 為 Intergrade，尤菲篇不支援 PS4。",
+    "sources": [
+      "https://www.square-enix.com/ffvii/en-us/games/remake-intergrade/",
+      "https://www.square-enix.com/ffvii/en-us/games/remake-intergrade/buy/"
+    ],
+    "evidence": [
+      "PS4 為 Remake；PS5、PC、Xbox Series 及 Switch 2 為 Intergrade，尤菲篇不支援 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 85,
+    "name": "戰神 諸神黃昏",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "PS4、PS5 與 PC 均有發行，與戰神 2018 年版分開。",
+    "sources": [
+      "https://www.playstation.com/en-us/god-of-war"
+    ],
+    "evidence": [
+      "PS4、PS5 與 PC 均有發行，與戰神 2018 年版分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 86,
+    "name": "地平線 西方禁地",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "本篇支援 PS4；Burning Shores／Complete Edition 僅 PS5 與 PC。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/horizon-forbidden-west/"
+    ],
+    "evidence": [
+      "本篇支援 PS4；Burning Shores／Complete Edition 僅 PS5 與 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 87,
+    "name": "漫威蜘蛛人2",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "補上 2025-01-30 發售 PC 版。",
+    "sources": [
+      "https://www.playstation.com/en-ca/games/marvels-spider-man-2/marvels-spider-man-2-pc/",
+      "https://blog.playstation.com/2024/10/18/marvels-spider-man-2-arrives-on-pc-january-2025/"
+    ],
+    "evidence": [
+      "補上 2025-01-30 發售 PC 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 88,
+    "name": "最後生還者 Part II",
+    "status": "verified",
+    "platform": "PC、PS5、PS4",
+    "platformNote": "原版為 PS4；PS5 與 PC 是 Part II Remastered，官方頁面說明 PS4 升級與重製版差異。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/the-last-of-us-part-ii-remastered/the-last-of-us-part-ii-remastered-pc/",
+      "https://www.playstation.com/en-gb/games/the-last-of-us-part-ii-remastered/"
+    ],
+    "evidence": [
+      "原版為 PS4；PS5 與 PC 是 Part II Remastered，官方頁面說明 PS4 升級與重製版差異。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 89,
+    "name": "血源詛咒",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方商品為 PS4 原生版；PS5 為相容執行，不列 PC 或 PS5 原生版。",
+    "sources": [
+      "https://store.playstation.com/en-us/product/UP9000-CUSA00900_00-BLOODBORNE000000"
+    ],
+    "evidence": [
+      "官方商品為 PS4 原生版；PS5 為相容執行，不列 PC 或 PS5 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 90,
+    "name": "惡魔靈魂",
+    "status": "verified",
+    "platform": "PS5",
+    "platformNote": "本條目為 Bluepoint 2020 重製版，與 2009 PS3 原版區分。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/demons-souls/"
+    ],
+    "evidence": [
+      "本條目為 Bluepoint 2020 重製版，與 2009 PS3 原版區分。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 91,
+    "name": "Stellar Blade",
+    "status": "verified",
+    "platform": "PC、PS5",
+    "platformNote": "官方 PC 版已推出；PlayStation 官方商店列 PS5 原生版。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/stellar-blade/pc/",
+      "https://store.playstation.com/en-us/product/UP9000-PPSA13196_00-STELLARBLADE0000/"
+    ],
+    "evidence": [
+      "官方 PC 版已推出；PlayStation 官方商店列 PS5 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 92,
+    "name": "浪人崛起",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "Team Ninja 官方頁確認原 PS5 版及已上市 Steam 版。",
+    "sources": [
+      "https://teamninja-studio.com/ronin/us/?ac=tgt-products"
+    ],
+    "evidence": [
+      "Team Ninja 官方頁確認原 PS5 版及已上市 Steam 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 93,
+    "name": "人中之龍8",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "SEGA 官方支援頁分列 PS4／PS5、Xbox One／Series 與 Windows／Steam。",
+    "sources": [
+      "https://segacustomer.zendesk.com/hc/en-us/articles/28023784165145--PlayStation-5-Like-a-Dragon-Infinite-Wealth-Can-I-play-the-online-mode-of-Dondoko-Farm-with-players-on-other-platforms-or-the-PC-version"
+    ],
+    "evidence": [
+      "SEGA 官方支援頁分列 PS4／PS5、Xbox One／Series 與 Windows／Steam。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 94,
+    "name": "人中之龍0 誓言之地",
+    "status": "partial",
+    "platform": "PC、PS4、PS5、Xbox One、Xbox Series X|S、Switch 2",
+    "platformNote": "已確認 Director’s Cut 的 PC／PS5／Xbox Series／Switch 2；原版舊平台清單仍待完整歷史補證，兩版內容不同。",
+    "sources": [
+      "https://ryu-ga-gotoku.com/zero-directorscut/asia_en/",
+      "https://games.sega.com/yakuza0/purchase.html"
+    ],
+    "evidence": [
+      "已確認 Director’s Cut 的 PC／PS5／Xbox Series／Switch 2；原版舊平台清單仍待完整歷史補證，兩版內容不同。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、PS4、PS5、Xbox One、Xbox Series X|S、Switch 2",
+    "safePlatformNote": "已確認 Director’s Cut 的 PC／PS5／Xbox Series／Switch 2；原版舊平台清單仍待完整歷史補證，兩版內容不同。"
+  },
+  {
+    "auditIndex": 95,
+    "name": "人中之龍 極",
+    "status": "partial",
+    "platform": "PC、PS4、PS5、Xbox One、Xbox Series X|S、Switch、Switch 2",
+    "platformNote": "官方確認新版 PC／PS5／Xbox Series／Switch 2，另有 Switch 版；舊版各區發行與 PS3 日版歷史待補證。",
+    "sources": [
+      "https://support.sega.com/hc/en-gb/articles/41790063559057-OVERVIEW",
+      "https://games.sega.com/kiwami/index.html?pubDate=20250306"
+    ],
+    "evidence": [
+      "官方確認新版 PC／PS5／Xbox Series／Switch 2，另有 Switch 版；舊版各區發行與 PS3 日版歷史待補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、PS4、PS5、Xbox One、Xbox Series X|S、Switch、Switch 2",
+    "safePlatformNote": "官方確認新版 PC／PS5／Xbox Series／Switch 2，另有 Switch 版；舊版各區發行與 PS3 日版歷史待補證。"
+  },
+  {
+    "auditIndex": 96,
+    "name": "仁王2",
+    "status": "verified",
+    "platform": "PC、PS5、PS4",
+    "platformNote": "PC 為 Complete Edition；PS4 原版可升級 PS5 Remastered，並非僅相容執行。",
+    "sources": [
+      "https://teamninja-studio.com/nioh2/",
+      "https://www.playstation.com/en-us/games/nioh-2/"
+    ],
+    "evidence": [
+      "PC 為 Complete Edition；PS4 原版可升級 PS5 Remastered，並非僅相容執行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 97,
+    "name": "仁王",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "原版 PS4／PC；PS5 為 Nioh Remastered – The Complete Edition。",
+    "sources": [
+      "https://teamninja-studio.com/nioh/us/top.html",
+      "https://teamninja-studio.com/nioh/index.html"
+    ],
+    "evidence": [
+      "原版 PS4／PC；PS5 為 Nioh Remastered – The Complete Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 98,
+    "name": "臥龍：蒼天隕落",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "官方確認 2026-09-03 已推出 Switch 2 版，並列原五平台。",
+    "sources": [
+      "https://teamninja-studio.com/wolong/us/",
+      "https://teamninja-studio.com/wolong/sch/"
+    ],
+    "evidence": [
+      "官方確認 2026-09-03 已推出 Switch 2 版，並列原五平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 99,
+    "name": "Lies of P",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "官方支援 FAQ 明列七類平台，補 Mac、Switch 2 並細分 Xbox。",
+    "sources": [
+      "https://www.liesofp.com/en-us/support"
+    ],
+    "evidence": [
+      "官方支援 FAQ 明列七類平台，補 Mac、Switch 2 並細分 Xbox。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 100,
+    "name": "尼爾：自動人形",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "Switch 為 The End of YoRHa Edition，其他平台版本與附加內容不同。",
+    "sources": [
+      "https://amp.square-enix-games.com/en_US/news/nier-automata-switch-out-now"
+    ],
+    "evidence": [
+      "Switch 為 The End of YoRHa Edition，其他平台版本與附加內容不同。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox One/Switch",
+    "safePlatformNote": "Switch 為 The End of YoRHa Edition，其他平台版本與附加內容不同。"
+  },
+  {
+    "auditIndex": 101,
+    "name": "尼爾 人工生命 ver.1.22474487139...",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "官方上市公告確認三平台；不是 2010 年原版 NieR。",
+    "sources": [
+      "https://www.square-enix-games.com/en_GB/home/nier-replicant-ver-1-22474487139-out-now"
+    ],
+    "evidence": [
+      "官方上市公告確認三平台；不是 2010 年原版 NieR。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 102,
+    "name": "破曉傳奇",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "補上 2026-05-22 上市的 Switch 2 Beyond the Dawn Edition。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/tales-of-arise",
+      "https://www.bandainamcoent.com/news/tales-of-arise-beyond-the-dawn-edition-out-now-for-nintendo-switch-2"
+    ],
+    "evidence": [
+      "補上 2026-05-22 上市的 Switch 2 Beyond the Dawn Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 103,
+    "name": "緋紅結繫",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方產品頁明列五平台。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/scarlet-nexus/media/7021"
+    ],
+    "evidence": [
+      "官方產品頁明列五平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 104,
+    "name": "審判之逝：湮滅的記憶",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "補 Steam PC 版，依 SEGA 規格表細分 Xbox。",
+    "sources": [
+      "https://judgment.sega.com/index.html"
+    ],
+    "evidence": [
+      "補 Steam PC 版，依 SEGA 規格表細分 Xbox。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 105,
+    "name": "碧藍幻想 Relink",
+    "status": "partial",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "已確認原版三平台；官方支援頁另有 Switch 2 資訊，需辨識是否屬 Endless Ragnarok 擴充版。",
+    "sources": [
+      "https://relink.granbluefantasy.jp/en/",
+      "https://relink.granbluefantasy.jp/usersupport"
+    ],
+    "evidence": [
+      "已確認原版三平台；官方支援頁另有 Switch 2 資訊，需辨識是否屬 Endless Ragnarok 擴充版。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4",
+    "safePlatformNote": "已確認原版三平台；官方支援頁另有 Switch 2 資訊，需辨識是否屬 Endless Ragnarok 擴充版。"
+  },
+  {
+    "auditIndex": 106,
+    "name": "王國之心3",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "2026 合輯公告列新主機原生版；Switch 2 官方商店已列 2026-10-08 發售，PS5／Xbox Series 上市狀態仍待補證。舊 Switch 僅 Cloud Version。",
+    "sources": [
+      "https://www.square-enix.com/kingdomhearts/collection/en-us/",
+      "https://www.jp.square-enix.com/kingdom/kh3/products/index.html",
+      "https://www.nintendo.com/us/store/products/kingdom-hearts-iii-plus-re-mind-dlc-switch-2/"
+    ],
+    "evidence": [
+      "PC／PS4／Xbox One 原版及 2026-10-08 上市的 Switch 2 + Re Mind 已有官方商品證據；PS5／Xbox Series 合輯公告仍待補上市證據，暫不列入。Switch 一代僅雲端版。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox One/Switch 2",
+    "safePlatformNote": "PC／PS4／Xbox One 原版及 2026-10-08 上市的 Switch 2 + Re Mind 已有官方商品證據；PS5／Xbox Series 合輯公告仍待補上市證據，暫不列入。Switch 一代僅雲端版。"
+  },
+  {
+    "auditIndex": 107,
+    "name": "鐵拳8",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "官方明列 PS5、Xbox Series X|S、PC，沒有舊世代主機版。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/tekken-8"
+    ],
+    "evidence": [
+      "官方明列 PS5、Xbox Series X|S、PC，沒有舊世代主機版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 108,
+    "name": "真人快打1",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "官方 FAQ 明列四平台；不是 1992 年同名作品。",
+    "sources": [
+      "https://www.mortalkombat.com/en-us/faq?s=09"
+    ],
+    "evidence": [
+      "官方 FAQ 明列四平台；不是 1992 年同名作品。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 109,
+    "name": "七龍珠FighterZ",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "官方平台列含 PS5、Xbox Series X|S 原生版，補齊。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/dragon-ball-fighterz/media/7901"
+    ],
+    "evidence": [
+      "官方平台列含 PS5、Xbox Series X|S 原生版，補齊。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 110,
+    "name": "機戰傭兵6 境界天火",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方產品頁明列五平台。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/armored-core-vi-fires-of-rubicon"
+    ],
+    "evidence": [
+      "官方產品頁明列五平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 111,
+    "name": "霍格華茲的傳承",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "官方 FAQ 確認既有六平台；Switch 2 官方商品確認 2025-06-05 發售的原生加強版。",
+    "sources": [
+      "https://www.hogwartslegacy.com/en-ca/faq",
+      "https://www.nintendo.com/us/store/products/hogwarts-legacy-switch-2/"
+    ],
+    "evidence": [
+      "官方 FAQ 確認既有六平台；Switch 2 官方商品確認 2025-06-05 發售的原生加強版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 112,
+    "name": "潛龍諜影V 幻痛",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360",
+    "platformNote": "Konami 產品表確認五平台；PS3／Xbox 360 的線上服務與本篇離線遊玩需分開。",
+    "sources": [
+      "https://www.konami.com/games/asia/en/products/mgsv_tpp/"
+    ],
+    "evidence": [
+      "Konami 產品表確認五平台；PS3／Xbox 360 的線上服務與本篇離線遊玩需分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 113,
+    "name": "死亡循環",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Bethesda 現行產品頁確認三平台，無 Xbox One 原生版。",
+    "sources": [
+      "https://bethesda.net/en/game/deathloop",
+      "https://bethesda.net/en-EU/news/what-is-deathloop"
+    ],
+    "evidence": [
+      "Bethesda 現行產品頁確認三平台，無 Xbox One 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 114,
+    "name": "死亡回歸",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "PlayStation 官網確認 PC 與 PS5。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/returnal/"
+    ],
+    "evidence": [
+      "PlayStation 官網確認 PC 與 PS5。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 115,
+    "name": "崩壞：星穹鐵道",
+    "status": "verified",
+    "platform": "PC/PS5/iOS/Android",
+    "platformNote": "HoYoverse PS5 官方 FAQ 明列 PC、Android、iOS、PS5 跨進度平台，同帳號不同伺服器不互通。",
+    "sources": [
+      "https://support.hoyoverse.com/hc/en-us/articles/49686152994457-How-to-synchronize-game-data-across-platforms",
+      "https://hsr.hoyoverse.com/en-us/news/113017?type=news_all"
+    ],
+    "evidence": [
+      "HoYoverse PS5 官方 FAQ 明列 PC、Android、iOS、PS5 跨進度平台，同帳號不同伺服器不互通。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 116,
+    "name": "崩壞3rd",
+    "status": "verified",
+    "platform": "PC/iOS/Android",
+    "platformNote": "miHoYo 官方公告列 iOS／Android／PC；Apple Silicon 執行 iPad App 不視為獨立 Mac 原生版。",
+    "sources": [
+      "https://prtimes.jp/main/html/rd/p/000000156.000048345.html",
+      "https://apps.apple.com/cn/app/%E5%B4%A9%E5%9D%8F3/id1143402987?platform=mac"
+    ],
+    "evidence": [
+      "miHoYo 官方公告列 iOS／Android／PC；Apple Silicon 執行 iPad App 不視為獨立 Mac 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 117,
+    "name": "FGO",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "官方系統需求列 iOS 與 Android；各區服帳號及進度不能互套。",
+    "sources": [
+      "https://www.fate-go.jp/"
+    ],
+    "evidence": [
+      "官方系統需求列 iOS 與 Android；各區服帳號及進度不能互套。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 118,
+    "name": "賽馬娘",
+    "status": "verified",
+    "platform": "PC/iOS/Android",
+    "platformNote": "Cygames 官方英文版有 Steam、iOS、Android；繁中／日文／英文營運版本分開，PC 可用性依區服。",
+    "sources": [
+      "https://www.cygames.co.jp/en/news/id-24452"
+    ],
+    "evidence": [
+      "Cygames 官方英文版有 Steam、iOS、Android；繁中／日文／英文營運版本分開，PC 可用性依區服。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 119,
+    "name": "藍色檔案",
+    "status": "verified",
+    "platform": "PC/iOS/Android",
+    "platformNote": "Nexon 官方產品清單及 Steam 帳號設定頁確認 Windows PC 版，補 PC。",
+    "sources": [
+      "https://bluearchive.nexon.com/user/platform",
+      "https://www.nexon.com/main/en?type=193",
+      "https://store.steampowered.com/app/3557620/Blue_Archive/"
+    ],
+    "evidence": [
+      "Nexon 官方產品清單及 Steam 帳號設定頁確認 Windows PC 版，補 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 120,
+    "name": "公主連結",
+    "status": "verified",
+    "platform": "PC/iOS/Android",
+    "platformNote": "日版官方支援 Windows DMM GAMES，補 PC；台灣營運版可用管道不可直接套用日版。",
+    "sources": [
+      "https://priconne-redive.jp/device/",
+      "https://dmg.priconne-redive.jp/datalink/"
+    ],
+    "evidence": [
+      "日版官方支援 Windows DMM GAMES，補 PC；台灣營運版可用管道不可直接套用日版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 121,
+    "name": "碧藍航線",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "Yostar 官方維護公告確認 Android 與 iOS；Crosswave 是另款主機／PC 遊戲。",
+    "sources": [
+      "https://azurlane.yo-star.com/news/2025/05/07/maintenance-notice-5-8-12-a-m-utc-7/",
+      "https://apps.apple.com/us/app/azur-lane/id1411126549?ls=1"
+    ],
+    "evidence": [
+      "Yostar 官方維護公告確認 Android 與 iOS；Crosswave 是另款主機／PC 遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 122,
+    "name": "少女前線",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "台灣 App Store／Google Play 同一營運版皆可查得；勿混入少女前線2。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E5%B0%91%E5%A5%B3%E5%89%8D%E7%B7%9A-girls-frontline/id1181727699",
+      "https://play.google.com/store/apps/details?hl=zh-TW&id=tw.txwy.and.snqx"
+    ],
+    "evidence": [
+      "台灣 App Store／Google Play 同一營運版皆可查得；勿混入少女前線2。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 123,
+    "name": "王者榮耀",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "官方發行商在 App Store 與 Google Play 發行國際版；中國版與國際版服務分開。",
+    "sources": [
+      "https://apps.apple.com/us/app/honor-of-kings/id1619254071?platform=ipad",
+      "https://play.google.com/store/apps/details?id=com.levelinfinite.sgameGlobal"
+    ],
+    "evidence": [
+      "官方發行商在 App Store 與 Google Play 發行國際版；中國版與國際版服務分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 124,
+    "name": "傳說對決",
+    "status": "verified",
+    "platform": "iOS、Android",
+    "platformNote": "以台灣 Garena 傳說對決為準，App Store 與 Google Play 均有官方遊戲；不混入傳說對決助手或海外 Switch 產品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/garena-%E5%82%B3%E8%AA%AA%E5%B0%8D%E6%B1%BA-%E5%86%A5%E5%AE%9A%E7%8E%8B%E7%89%8C%E7%89%88%E6%9C%AC/id1089079153",
+      "https://play.google.com/store/apps/details?hl=zh&id=com.garena.game.kgtw"
+    ],
+    "evidence": [
+      "以台灣 Garena 傳說對決為準，App Store 與 Google Play 均有官方遊戲；不混入傳說對決助手或海外 Switch 產品。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 125,
+    "name": "荒野行動",
+    "status": "partial",
+    "platform": "PC、iOS、Android、PS4、Switch",
+    "platformNote": "官方 PC 更新與日本 PS4／Switch 商品確認主機移植；PS5 為 PS4 相容。各地區手機商店與主機服務存續仍待補證。",
+    "sources": [
+      "https://knivesout.jp/",
+      "https://store.playstation.com/ja-jp/product/JP5188-CUSA17546_00-MAPPINGFIL000002/",
+      "https://www.nintendo.com/jp/topics/article/8e9479a2-be35-11e9-b641-063b7ac45a6d"
+    ],
+    "evidence": [
+      "官方 PC 更新與日本 PS4／Switch 商品確認主機移植；PS5 為 PS4 相容。各地區手機商店與主機服務存續仍待補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、iOS、Android、PS4、Switch",
+    "safePlatformNote": "官方 PC 更新與日本 PS4／Switch 商品確認主機移植；PS5 為 PS4 相容。各地區手機商店與主機服務存續仍待補證。"
+  },
+  {
+    "auditIndex": 126,
+    "name": "和平精英",
+    "status": "partial",
+    "platform": "iOS、Android",
+    "platformNote": "已確認中國 App Store 的和平精英 iOS 版；Android 官方下載與獨立 PC 客戶端尚未取得足夠證據，保留舊平台，勿以模擬器推定原生 PC。",
+    "sources": [
+      "https://apps.apple.com/cn/app/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1/id1321803705"
+    ],
+    "evidence": [
+      "已確認中國 App Store 的和平精英 iOS 版；Android 官方下載與獨立 PC 客戶端尚未取得足夠證據，保留舊平台，勿以模擬器推定原生 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "iOS、Android",
+    "safePlatformNote": "已確認中國 App Store 的和平精英 iOS 版；Android 官方下載與獨立 PC 客戶端尚未取得足夠證據，保留舊平台，勿以模擬器推定原生 PC。"
+  },
+  {
+    "auditIndex": 127,
+    "name": "Candy Crush Saga",
+    "status": "verified",
+    "platform": "PC、iOS、Android",
+    "platformNote": "官方手機商店與 Microsoft Store 的 Windows 產品確認 iOS／Android／PC；瀏覽器玩法另受網站與帳號支援限制。",
+    "sources": [
+      "https://apps.microsoft.com/detail/9nblggh18846?gl=US&hl=en-us",
+      "https://play.google.com/store/apps/details?hl=en_US&id=com.king.candycrushsaga",
+      "https://apps.apple.com/us/app/candy-crush-saga/id553834731"
+    ],
+    "evidence": [
+      "官方手機商店與 Microsoft Store 的 Windows 產品確認 iOS／Android／PC；瀏覽器玩法另受網站與帳號支援限制。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 128,
+    "name": "部落衝突",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "另可透過官方 Google Play Games 在 Windows 執行 Android 版；不誤列為獨立 Windows 原生版。",
+    "sources": [
+      "https://supercell.com/en/news/clash-games-live-on-pc/",
+      "https://support.supercell.com/clash-royale/en/articles/clash-of-clans-clash-royale-now-on-pc-with-google-play-games.html"
+    ],
+    "evidence": [
+      "另可透過官方 Google Play Games 在 Windows 執行 Android 版；不誤列為獨立 Windows 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 129,
+    "name": "皇室戰爭",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "另可透過官方 Google Play Games 在 Windows 執行 Android 版；不誤列為獨立 Windows 原生版。",
+    "sources": [
+      "https://supercell.com/en/news/clash-games-live-on-pc/",
+      "https://support.supercell.com/clash-royale/en/articles/clash-of-clans-clash-royale-now-on-pc-with-google-play-games.html"
+    ],
+    "evidence": [
+      "另可透過官方 Google Play Games 在 Windows 執行 Android 版；不誤列為獨立 Windows 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 130,
+    "name": "寶可夢大集結",
+    "status": "verified",
+    "platform": "Switch/iOS/Android",
+    "platformNote": "官方確認 Switch 與手機版跨平台遊玩；不含主系列寶可夢遊戲。",
+    "sources": [
+      "https://unite.pokemon.com/en-us/?mobile-app=true&theme=false",
+      "https://unite.pokemon.com/en-us/overview/"
+    ],
+    "evidence": [
+      "官方確認 Switch 與手機版跨平台遊玩；不含主系列寶可夢遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 131,
+    "name": "寶可夢GO",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "官方下載管道為 App Store／Google Play，需行動裝置定位，無原生 PC 版。",
+    "sources": [
+      "https://pokemongo.com/en?+hl=en",
+      "https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345?ct=Tap10291"
+    ],
+    "evidence": [
+      "官方下載管道為 App Store／Google Play，需行動裝置定位，無原生 PC 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 132,
+    "name": "寶可夢Sleep",
+    "status": "verified",
+    "platform": "iOS/Android",
+    "platformNote": "官方規格表列 iOS／Android；穿戴裝置配合手機 App，不是獨立遊戲平台。",
+    "sources": [
+      "https://www.pokemonsleep.net/en/"
+    ],
+    "evidence": [
+      "官方規格表列 iOS／Android；穿戴裝置配合手機 App，不是獨立遊戲平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 133,
+    "name": "最後一戰 無限",
+    "status": "verified",
+    "platform": "PC/Xbox Series X|S/Xbox One",
+    "platformNote": "Halo 官方安裝指南明列 PC、Xbox One、Xbox Series X|S。",
+    "sources": [
+      "https://support.halowaypoint.com/hc/en-us/articles/4407648901396-How-to-Install-Halo-Infinite-on-PC-and-Xbox-Consoles"
+    ],
+    "evidence": [
+      "Halo 官方安裝指南明列 PC、Xbox One、Xbox Series X|S。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 134,
+    "name": "戰爭機器5",
+    "status": "verified",
+    "platform": "PC、Xbox Series X|S、Xbox One",
+    "platformNote": "Xbox 官方 GOTY 發售公告確認 Windows 10、Xbox One 與 Xbox Series X|S。",
+    "sources": [
+      "https://news.xbox.com/en-us/2020/12/15/gears-5-game-of-the-year-edition-is-now-available-for-xbox-one-xbox-series-xs-and-windows-10-xbox-play-anywhere/amp/"
+    ],
+    "evidence": [
+      "Xbox 官方 GOTY 發售公告確認 Windows 10、Xbox One 與 Xbox Series X|S。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 135,
+    "name": "極限競速",
+    "status": "verified",
+    "platform": "PC/Xbox Series X|S",
+    "platformNote": "此為 2023 年重啟版，官方僅列 PC／Xbox Series，Xbox One 透過雲端不算原生。",
+    "sources": [
+      "https://forza.net/news/forza-motorsport-now-available"
+    ],
+    "evidence": [
+      "此為 2023 年重啟版，官方僅列 PC／Xbox Series，Xbox One 透過雲端不算原生。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 136,
+    "name": "盜賊之海",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Xbox One",
+    "platformNote": "官方確認 PS5 版及 PC/Xbox 跨進度；Xbox One 現行服務需進一步核實。",
+    "sources": [
+      "https://www.seaofthieves.com/news/ps5-faq",
+      "https://support.seaofthieves.com/articles/17618801544978-Will-my-progress-carry-between-PC-Xbox-and-PlayStation-platforms"
+    ],
+    "evidence": [
+      "官方確認 PS5 版及 PC/Xbox 跨進度；Xbox One 現行服務需進一步核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S/Xbox One",
+    "safePlatformNote": "官方確認 PS5 版及 PC/Xbox 跨進度；Xbox One 現行服務需進一步核實。"
+  },
+  {
+    "auditIndex": 137,
+    "name": "星空",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "補上 Bethesda 宣布已於 2026-04-07 上市的 PS5 版；原 Xbox 世代需 Series。",
+    "sources": [
+      "https://bethesda.net/en-US/news/starfield-is-available-now-on-playstation-5"
+    ],
+    "evidence": [
+      "補上 Bethesda 宣布已於 2026-04-07 上市的 PS5 版；原 Xbox 世代需 Series。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S",
+    "safePlatformNote": "補上 Bethesda 宣布已於 2026-04-07 上市的 PS5 版；原 Xbox 世代需 Series。"
+  },
+  {
+    "auditIndex": 138,
+    "name": "異塵餘生4",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "Bethesda 上市公告完整列六平台，補上 Switch 2 Anniversary Edition。",
+    "sources": [
+      "https://bethesda.net/en-US/news/fallout-4-anniversary-edition-nintendo-switch-2-launch"
+    ],
+    "evidence": [
+      "Bethesda 上市公告完整列六平台，補上 Switch 2 Anniversary Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 139,
+    "name": "Minecraft Dungeons",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "官方上市頁列四平台；Xbox Series 優化是否獨立版本需再核實。",
+    "sources": [
+      "https://www.minecraft.net/en-us/article/minecraft-dungeons-launching-may-26"
+    ],
+    "evidence": [
+      "官方上市頁列四平台；Xbox Series 優化是否獨立版本需再核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox One/Switch",
+    "safePlatformNote": "官方上市頁列四平台；Xbox Series 優化是否獨立版本需再核實。"
+  },
+  {
+    "auditIndex": 140,
+    "name": "超級瑪利歐3D樂園",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "任天堂官方頁確認 3DS；eShop 已停止新購，不等於實體／既有遊戲不能遊玩。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/SUPER-MARIO-3D-LAND-274908.html"
+    ],
+    "evidence": [
+      "任天堂官方頁確認 3DS；eShop 已停止新購，不等於實體／既有遊戲不能遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 141,
+    "name": "路易吉洋樓2",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "此為 3DS 原版；Switch 的 Luigi’s Mansion 2 HD 已另列。",
+    "sources": [
+      "https://play.nintendo.com/news-tips/game-releases/luigis-mansion-2-hd-available-now/",
+      "https://www.nintendo.com/en-gb/News/2013/March/Enter-Luigi-s-Mansion-2-today-and-embrace-the-first-title-in-the-Year-of-Luigi--741271.html"
+    ],
+    "evidence": [
+      "此為 3DS 原版；Switch 的 Luigi’s Mansion 2 HD 已另列。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 142,
+    "name": "魔物獵人4G",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "Capcom 官方手冊列 Nintendo 3DS／New Nintendo 3DS。",
+    "sources": [
+      "https://game.capcom.com/manual/MH4U/en/spec.html"
+    ],
+    "evidence": [
+      "Capcom 官方手冊列 Nintendo 3DS／New Nintendo 3DS。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 143,
+    "name": "魔物獵人XX",
+    "status": "verified",
+    "platform": "Nintendo 3DS/Switch",
+    "platformNote": "Capcom 分別提供 MHXX 3DS 與 Switch 版手冊。",
+    "sources": [
+      "https://game.capcom.com/manual/MHXX/spec",
+      "https://game.capcom.com/manual/MHXXS/spec"
+    ],
+    "evidence": [
+      "Capcom 分別提供 MHXX 3DS 與 Switch 版手冊。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 144,
+    "name": "勇者鬥惡龍VIII",
+    "status": "verified",
+    "platform": "PS2、3DS、iOS、Android",
+    "platformNote": "Square Enix 產品資料列 PS2、3DS 與 iOS／Android 發行版本。",
+    "sources": [
+      "https://www.jp.square-enix.com/game/detail/dq8/"
+    ],
+    "evidence": [
+      "Square Enix 產品資料列 PS2、3DS 與 iOS／Android 發行版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 145,
+    "name": "勇者鬥惡龍VII",
+    "status": "partial",
+    "platform": "3DS、iOS、Android",
+    "platformNote": "官方支援頁確認行動版，保留既有 3DS；PS 原版歷史與另作 Reimagined 的版本界線尚待完整補證。",
+    "sources": [
+      "https://support.jp.square-enix.com/faqarticle.php?c=0&id=13061&kid=73821&la=0&page=0&pv=10&ret=faq&sc=0&so=0"
+    ],
+    "evidence": [
+      "官方支援頁確認行動版，保留既有 3DS；PS 原版歷史與另作 Reimagined 的版本界線尚待完整補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "3DS、iOS、Android",
+    "safePlatformNote": "官方支援頁確認行動版，保留既有 3DS；PS 原版歷史與另作 Reimagined 的版本界線尚待完整補證。"
+  },
+  {
+    "auditIndex": 146,
+    "name": "精靈寶可夢 太陽/月亮",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "官方新聞確認 Nintendo 3DS 獨占；Sun/Moon 與 Ultra 版分開。",
+    "sources": [
+      "https://press.pokemon.com/en/releases/NEW-POKEMON-REVEALED-FOR-POKEMON-SUN-AND-POKEMON-MOON-84523"
+    ],
+    "evidence": [
+      "官方新聞確認 Nintendo 3DS 獨占；Sun/Moon 與 Ultra 版分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 147,
+    "name": "精靈寶可夢 終極紅寶石/始源藍寶石",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "官方介紹確認 3DS 重製版，不是 GBA Ruby/Sapphire 原版。",
+    "sources": [
+      "https://www.pokemon.com/us/pokemon-video-games/pokemon-omega-ruby-and-pokemon-alpha-sapphire"
+    ],
+    "evidence": [
+      "官方介紹確認 3DS 重製版，不是 GBA Ruby/Sapphire 原版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 148,
+    "name": "精靈寶可夢 X/Y",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "Nintendo 支援頁確認 3DS；線上功能自 2024-04-08 結束，離線本篇另計。",
+    "sources": [
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/2267/~/looking-for-information-or-help-with-pok%C3%A9mon-x-%26-pok%C3%A9mon-y",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Pokemon-X-766699.html"
+    ],
+    "evidence": [
+      "Nintendo 支援頁確認 3DS；線上功能自 2024-04-08 結束，離線本篇另計。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 149,
+    "name": "火焰之紋章 覺醒",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "任天堂官方電子手冊確認 3DS 遊戲卡。",
+    "sources": [
+      "https://csassets.nintendo.com/noaext/image/private/t_KA_PDF/3DS_Fire_Emblem_Awakenings_single_sheet_en?_a=DATAg1AAZAA0"
+    ],
+    "evidence": [
+      "任天堂官方電子手冊確認 3DS 遊戲卡。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 150,
+    "name": "火焰之紋章if",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "官方確認 3DS；DLC 只能重下載既有購買內容，不能再新購。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/News/2016/May/Fire-Emblem-Fates-Birthright-or-Conquest-1106193.html",
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/17249/p/172/c/950"
+    ],
+    "evidence": [
+      "官方確認 3DS；DLC 只能重下載既有購買內容，不能再新購。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 151,
+    "name": "薩爾達傳說 眾神的三角之力2",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "官方商品頁確認 3DS；與 A Link to the Past 區分。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/The-Legend-of-Zelda-A-Link-Between-Worlds-765381.html"
+    ],
+    "evidence": [
+      "官方商品頁確認 3DS；與 A Link to the Past 區分。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 152,
+    "name": "薩爾達傳說 時之笛3D",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "此為 Ocarina of Time 3D 重製版，不混入 N64 原版。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/The-Legend-of-Zelda-Ocarina-of-Time-3D-275007.html"
+    ],
+    "evidence": [
+      "此為 Ocarina of Time 3D 重製版，不混入 N64 原版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 153,
+    "name": "薩爾達傳說 穆修拉的面具3D",
+    "status": "verified",
+    "platform": "3DS",
+    "platformNote": "任天堂明列 Majora’s Mask 3D 為 Nintendo 3DS 遊戲，與 N64 原版分開。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/The-Legend-of-Zelda-Majora-s-Mask-3D-941070.html"
+    ],
+    "evidence": [
+      "任天堂明列 Majora’s Mask 3D 為 Nintendo 3DS 遊戲，與 N64 原版分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 154,
+    "name": "勇氣默示錄",
+    "status": "verified",
+    "platform": "PC、Xbox Series X|S、Switch 2、3DS",
+    "platformNote": "原版為 3DS；HD Remaster 為 Switch 2，官方更新產品規格另列 2026-03-13 推出的 Steam、Xbox Series 與 Windows 版。",
+    "sources": [
+      "https://www.square-enix.com/asia/newsportal/en/topics/bdffhd/post05.html",
+      "https://www.square-enix.com/asia/newsportal/en/topics/bdffhd/post08.html"
+    ],
+    "evidence": [
+      "原版為 3DS；HD Remaster 為 Switch 2，官方更新產品規格另列 2026-03-13 推出的 Steam、Xbox Series 與 Windows 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 155,
+    "name": "洛克人EXE 合集",
+    "status": "verified",
+    "platform": "PC、PS4、Switch",
+    "platformNote": "Capcom 發售公告明列 Steam、PS4、Switch；合集不是 GBA 原作，沒有 Xbox 版。",
+    "sources": [
+      "https://news.capcomusa.com/2023/04/14/mega-man-battle-network-legacy-collection-is-available-now/"
+    ],
+    "evidence": [
+      "Capcom 發售公告明列 Steam、PS4、Switch；合集不是 GBA 原作，沒有 Xbox 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 156,
+    "name": "洛克人Zero/ZX 合集",
+    "status": "verified",
+    "platform": "PC、PS4、Xbox One、Switch",
+    "platformNote": "Capcom 發售公告明列 Steam、PS4、Xbox One、Switch。",
+    "sources": [
+      "https://news.capcomusa.com/lets/browse/mission-start-mega-man-zero-zx-legacy-collection-is-out-now"
+    ],
+    "evidence": [
+      "Capcom 發售公告明列 Steam、PS4、Xbox One、Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 157,
+    "name": "洛克人 經典合集",
+    "status": "verified",
+    "platform": "PC、PS4、Xbox One、Switch、3DS",
+    "platformNote": "Capcom 公告確認初代 Legacy Collection 的 3DS、PC、PS4、Xbox One；Switch 合集頁亦確認第一集。",
+    "sources": [
+      "https://news.capcomusa.com/lets/browse/mega-man-legacy-collection-jumps-and-shoots-on-to-3ds-today",
+      "https://megaman.capcom.com/smmlc.html"
+    ],
+    "evidence": [
+      "Capcom 公告確認初代 Legacy Collection 的 3DS、PC、PS4、Xbox One；Switch 合集頁亦確認第一集。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 158,
+    "name": "洛克人X 合集",
+    "status": "verified",
+    "platform": "PC、PS4、Xbox One、Switch",
+    "platformNote": "Capcom 合集產品頁明列 Steam PC、PS4、Xbox One、Switch；原作硬體不等於合集平台。",
+    "sources": [
+      "https://megaman.capcom.com/mmxlc.html"
+    ],
+    "evidence": [
+      "Capcom 合集產品頁明列 Steam PC、PS4、Xbox One、Switch；原作硬體不等於合集平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 159,
+    "name": "超級炸彈超人R 2",
+    "status": "verified",
+    "platform": "PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch",
+    "platformNote": "Konami 官方商品頁分列 Steam、PS5／PS4、Xbox Series／One 與 Switch。",
+    "sources": [
+      "https://www.konami.com/games/bomberman/r2/us/en/products/"
+    ],
+    "evidence": [
+      "Konami 官方商品頁分列 Steam、PS5／PS4、Xbox Series／One 與 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 160,
+    "name": "軒轅劍柒",
+    "status": "verified",
+    "platform": "PC、PS4、Xbox One、Switch",
+    "platformNote": "大宇資料確認 PC；主機發行商列 PS4、Xbox One、Switch，PS5 執行 PS4 版不算原生版。",
+    "sources": [
+      "https://group.softstar.com.tw/uploads/news/6111-20211020.pdf",
+      "https://www.eastasiasoft.com/games/Xuan-Yuan-Sword-7"
+    ],
+    "evidence": [
+      "大宇資料確認 PC；主機發行商列 PS4、Xbox One、Switch，PS5 執行 PS4 版不算原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 161,
+    "name": "軒轅劍外傳 穹之扉",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox One",
+    "platformNote": "PC／PS4 舊版、Xbox One 已由官方確認；PS5 為 Eastasiasoft 於 2024-12-13 推出的原生加強移植，不是 PS4 相容。",
+    "sources": [
+      "https://www.softstar.com.tw/download/Download_game.aspx?gid=SWD6A",
+      "https://km.softstar.com.tw/topic.aspx?tid=712",
+      "https://www.xbox.com/pt-BR/games/store/xuan-yuan-sword-the-gate-of-firmament/bz014x1jtnw1",
+      "https://www.eastasiasoft.com/games/Xuan-Yuan-Sword-The-Gate-of-Firmament"
+    ],
+    "evidence": [
+      "PC／PS4 舊版、Xbox One 已由官方確認；PS5 為 Eastasiasoft 於 2024-12-13 推出的原生加強移植，不是 PS4 相容。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 162,
+    "name": "軒轅劍陸 鳳凌長空千載雲",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "大宇官方 SWD6 更新下載確認電腦版；歷史版本的現代 Windows 相容性仍依實際安裝環境。",
+    "sources": [
+      "https://www.softstar.com.tw/download/Download_game.aspx?gid=SWD6"
+    ],
+    "evidence": [
+      "大宇官方 SWD6 更新下載確認電腦版；歷史版本的現代 Windows 相容性仍依實際安裝環境。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 163,
+    "name": "軒轅劍外傳 雲之遙",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方發行商 Steam 商品確認雲之遙電腦版。",
+    "sources": [
+      "https://store.steampowered.com/app/1870150/?l=tchinese"
+    ],
+    "evidence": [
+      "官方發行商 Steam 商品確認雲之遙電腦版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 164,
+    "name": "軒轅劍外傳 漢之雲",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方發行商 Steam 商品確認漢之雲電腦版。",
+    "sources": [
+      "https://store.steampowered.com/app/1870140/?l=tchinese"
+    ],
+    "evidence": [
+      "官方發行商 Steam 商品確認漢之雲電腦版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 165,
+    "name": "軒轅劍伍 一劍凌雲山海情",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方發行商 Steam 商品與大宇更新下載確認軒轅劍伍電腦版。",
+    "sources": [
+      "https://store.steampowered.com/app/1728520/?l=tchinese",
+      "https://www.softstar.com.tw/download/Download_game.aspx?gid=SWD5"
+    ],
+    "evidence": [
+      "官方發行商 Steam 商品與大宇更新下載確認軒轅劍伍電腦版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 166,
+    "name": "軒轅劍外傳 蒼之濤",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "大宇蒼之濤官方更新下載為電腦版；不據此保證舊版在所有現代 Windows 可直接執行。",
+    "sources": [
+      "https://www.softstar.com.tw/download/Download_game.aspx?gid=SWDMD"
+    ],
+    "evidence": [
+      "大宇蒼之濤官方更新下載為電腦版；不據此保證舊版在所有現代 Windows 可直接執行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 167,
+    "name": "軒轅劍肆 黑龍舞兮雲飛揚",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "大宇軒轅劍肆官方更新下載為電腦版；不混入其他代數的手機移植。",
+    "sources": [
+      "https://www.softstar.com.tw/download/Download_game.aspx?gid=SWD4"
+    ],
+    "evidence": [
+      "大宇軒轅劍肆官方更新下載為電腦版；不混入其他代數的手機移植。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 168,
+    "name": "軒轅劍參外傳 天之痕",
+    "status": "verified",
+    "platform": "PC、iOS",
+    "platformNote": "官方 Steam 商品與台灣 App Store 確認 PC／iOS；同名手機改編作不自動算成此單機移植版。",
+    "sources": [
+      "https://store.steampowered.com/app/1638220/XuanYuan_Sword_The_Scar_of_Sky/?l=tchinese",
+      "https://apps.apple.com/tw/app/%E8%BB%92%E8%BD%85%E5%8A%8D%E5%8F%83%E5%A4%96%E5%82%B3-%E5%A4%A9%E4%B9%8B%E7%97%95/id784373321"
+    ],
+    "evidence": [
+      "官方 Steam 商品與台灣 App Store 確認 PC／iOS；同名手機改編作不自動算成此單機移植版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 169,
+    "name": "軒轅劍參 雲和山的彼端",
+    "status": "verified",
+    "platform": "PC、Switch、iOS",
+    "platformNote": "發行商確認 PC／Switch；大宇歷史公告另有 iOS 版。Xbox 網站所列此作僅 PC，不能因商店品牌加列 Xbox 主機。",
+    "sources": [
+      "https://www.eastasiasoft.com/games/Xuan-Yuan-Sword-Mists-Beyond-the-Mountains",
+      "https://km.softstar.com.tw/topic.aspx?tid=712",
+      "https://www.xbox.com/en-US/games/store/xuan-yuan-sword-mists-beyond-the-mountains/9PKBHWR1RC6H"
+    ],
+    "evidence": [
+      "發行商確認 PC／Switch；大宇歷史公告另有 iOS 版。Xbox 網站所列此作僅 PC，不能因商店品牌加列 Xbox 主機。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 170,
+    "name": "軒轅劍外傳 楓之舞",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "Steam 官方發行商商品確認楓之舞電腦版；早期 DOS 遊戲透過再發行包提供。",
+    "sources": [
+      "https://store.steampowered.com/app/1508750/_/?l=tchinese"
+    ],
+    "evidence": [
+      "Steam 官方發行商商品確認楓之舞電腦版；早期 DOS 遊戲透過再發行包提供。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 171,
+    "name": "軒轅劍貳",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "Steam 軒轅劍貳商品收錄電腦版；早期 DOS 原作與目前 Steam 包版本有別。",
+    "sources": [
+      "https://store.steampowered.com/app/1508740/_/?l=tchinese"
+    ],
+    "evidence": [
+      "Steam 軒轅劍貳商品收錄電腦版；早期 DOS 原作與目前 Steam 包版本有別。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 172,
+    "name": "軒轅劍壹",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "Steam 軒轅劍貳商品介紹明列包含軒轅劍一代與二代，作為電腦再發行包提供。",
+    "sources": [
+      "https://store.steampowered.com/app/1508740/XuanYuan_Sword_2/?l=tchinese"
+    ],
+    "evidence": [
+      "Steam 軒轅劍貳商品介紹明列包含軒轅劍一代與二代，作為電腦再發行包提供。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 173,
+    "name": "惡靈古堡7 生化危機",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "platformNote": "Switch 原列應移至雲端備註，不列原生；Switch 2 Gold Edition 於 2026-02-27 發行。Apple 版只支援官方列出的裝置。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://www.capcom.co.jp/ir/english/news/html/e250916.html"
+    ],
+    "evidence": [
+      "Capcom 產品表逐列 PC、PS4、PS5、Xbox One、Series、Switch 2、iPhone/iPad/Mac 與發行日期，另以註2指定 Switch 是雲端版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 174,
+    "name": "惡靈古堡3 重製版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "platformNote": "RE3 重製版；Switch 2 已於 2026-10-16 發行。普通 Switch 只有 Cloud，不列原生。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://www.nintendo.com/de-de/Spiele/Nintendo-Switch-2-Spiele/Resident-Evil-3-3183647.html",
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://apps.apple.com/gb/app/resident-evil-3/id1640630077?platform=mac",
+      "https://news.capcomusa.com/2022/06/13/resident-evil-exoprimal-monster-hunter-and-more-take-center-stage-in-the-capcom-showcase/",
+      "https://news.capcomusa.com/2022/10/20/everything-you-need-to-know-from-the-resident-evil-showcase/"
+    ],
+    "evidence": [
+      "Nintendo 商品頁列 Switch 2 發行日 2026-10-16；Capcom lineup HTML 的 RE3 平台區列 PS5、PS4、Series、One、Steam、Windows、Mac/iOS。",
+      "Apple 官方商品列 Mac、iPad、iPhone；Capcom 2022 公告確認 PS5／Series 升級已推出，Switch 版本明稱 Cloud。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 175,
+    "name": "惡靈古堡 HD 重製版",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "限定 HD Remaster；不把較早 GameCube／Wii 版本混列為 HD Remaster。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/brelston/blog/2014/08/05/enhanced-resident-evil-remake-coming-to-current-and-next-gen-platforms",
+      "https://news.capcomusa.com/tag/25th-anniversary/page/108"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 176,
+    "name": "惡靈古堡0 HD 重製版",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "限定 HD Remaster；不把較早 GameCube／Wii 版本混列為 HD Remaster。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/lets/browse/resident-evil-0-is-now-available"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 177,
+    "name": "惡靈古堡5",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "包含原始主機版與 PS4／Xbox One／Switch 移植版；後續主機相容不當成獨立原生版。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 178,
+    "name": "惡靈古堡6",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "包含原始主機版與 PS4／Xbox One／Switch 移植版；後續主機相容不當成獨立原生版。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 179,
+    "name": "惡靈古堡 啟示錄",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch/Wii U/3DS",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch/Wii U/3DS",
+    "platformNote": "3DS 原作與其後 HD 移植版分開；未把其他主機相容列原生。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://www.nintendo.com/au/games/nintendo-3ds/resident-evil-revelations/"
+    ],
+    "evidence": [
+      "Capcom lineup 同名項目平台區列 PS4、PS3、Xbox One、Xbox 360、Switch、Wii U、Steam；Nintendo 3DS 商品列發行日期 2012-02-02。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 180,
+    "name": "惡靈古堡 啟示錄2",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/PS Vita/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/PS Vita/Xbox One/Xbox 360/Switch",
+    "platformNote": "包含完整章節與各原生移植版；未把後續主機相容當原生。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://blog.playstation.com/2015/07/23/resident-evil-revelations-2-coming-to-ps-vita-august-18th/"
+    ],
+    "evidence": [
+      "Capcom lineup 同名平台區逐列 PS4、PS3、PS Vita、Xbox One、Xbox 360、Switch、Steam；PlayStation 公告 Vita 數位版於 2015-08-18 發行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 181,
+    "name": "惡靈古堡 聖女密碼 X",
+    "status": "partial",
+    "platform": "PS2/PS3/Xbox 360/GameCube/Dreamcast/PS4（PS2版）",
+    "safePlatform": "PS2/PS3/Xbox 360/GameCube/Dreamcast/PS4（PS2版）",
+    "platformNote": "以 Capcom 已確認的歷史發行與 Sony 再發行商品為準；PC 未找到此舊作的官方商品佐證，移出平台宣稱並保留原值於查核紀錄。PS4 為 PS2 再發行版，不是原生重製；2027 年另作重製版的平台不套用本作。",
+    "safePlatformNote": "只列能對應官方商品的主機版；PC 不列入已支持的平台，跨年代完整版與地區差異仍列 partial。",
+    "sources": [
+      "https://www.capcom.co.jp/ir/data/pdf/fy2002a.pdf",
+      "https://news.capcomusa.com/lets/browse/resident-evil-4-and-resident-evil-code-veronica-x-coming-in-hd-this-fall",
+      "https://www.xbox.com/en-US/games/store/resident-evil-code-veronica-x/bqw8j8xm62jw",
+      "https://blog.playstation.com/?p=190905",
+      "https://www.capcom.co.jp/ir/english/news/pdf/e260608.pdf",
+      "https://www.capcom.co.jp/support/faq/platform_general_cs_general_038233.html",
+      "https://www.capcom.co.jp/ir/data/pdf/23stockinfo1.pdf"
+    ],
+    "evidence": [
+      "以 Capcom 已確認的歷史發行與 Sony 再發行商品為準；PC 未找到此舊作的官方商品佐證，移出平台宣稱並保留原值於查核紀錄。PS4 為 PS2 再發行版，不是原生重製；2027 年另作重製版的平台不套用本作。",
+      "Capcom 年報列 Code Veronica X 為 PS2；HD 發行公告列 PS3／Xbox 360；Xbox 現行商品標 2011 發行，One／Series 是相容目標。",
+      "PlayStation 2017 新作公告明稱 Code Veronica X (PS2) 上架 PS4；2027 新 remake 的 PC 平台不能轉給 X。",
+      "Capcom 舊 CERO 支援表同名完全版列 GC 與 PS2；Capcom 第23期中間報告明列完全版 PS2／Dreamcast 兩機種。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 182,
+    "name": "惡靈古堡 村莊 黃金版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "Gold Edition 官方商品為 PC、PS4／PS5、Xbox One／Series、Switch 2；Apple 的本篇加購 Winters’ Expansion 屬另外的商品組合，已由村莊本篇條目處理，這裡不混列為 Gold SKU。Switch 一代雲端版另依服務與地區。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/lets/browse/re-village-gold-edition-la",
+      "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch-2/Resident-Evil-Village-Gold-Edition-2950809.html",
+      "https://apps.apple.com/us/app/resident-evil-village/id6450980545?platform=mac",
+      "https://apps.apple.com/us/app/resident-evil-village-for-mac/id1640627334?mt=12"
+    ],
+    "evidence": [
+      "Gold Edition 官方商品為 PC、PS4／PS5、Xbox One／Series、Switch 2；Apple 的本篇加購 Winters’ Expansion 屬另外的商品組合，已由村莊本篇條目處理，這裡不混列為 Gold SKU。Switch 一代雲端版另依服務與地區。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 183,
+    "name": "惡靈古堡 抵抗計畫",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "safePlatform": "PC/PS4/Xbox One",
+    "platformNote": "Resistance 與 RE3 本篇獨立；不把 RE3 的 PS5／Series／Apple／Switch 移植自動套給 Resistance。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/2020/04/03/resident-evil-3-ja-disponivel/"
+    ],
+    "evidence": [
+      "Capcom 上市公告明列 Resistance 隨 RE3 提供於 PS4、Xbox One、PC Steam；lineup 個別 Resistance 平台區亦僅三者。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 184,
+    "name": "惡靈古堡 Re:Verse",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One",
+    "safePlatform": "PC/PS4/Xbox One",
+    "platformNote": "歷史原生平台為 PC、PS4、Xbox One；原 PS5 是相容遊玩，不能因 Village PS5 贈送資格而誤列。Capcom 日文公告確認 2025-03 停止配信，2025-06 結束服務；本次原停服詳細頁404，精確日未重新核實。",
+    "safePlatformNote": "僅套用直接官方證據；未解部分明列於 platformNote。",
+    "sources": [
+      "https://news.capcomusa.com/lets/browse/re-village-gold-edition-la",
+      "https://game.capcom.com/residentevil/ja/news-4384.html",
+      "https://game.capcom.com/residentevil/uk/news-4387.html"
+    ],
+    "evidence": [
+      "Capcom 上市文只列 Re:Verse PS4、Xbox One、Steam；贈送資格的 Village 平台包含新世代，不能等同 Re:Verse 原生平台。",
+      "Capcom 2025-03-14 日文停服公告明列 2025-03 停止應用發行及DLC販售、2025-06 結束服務。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "discontinued"
+  },
+  {
+    "auditIndex": 185,
+    "name": "仙境傳說 Online",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "台灣 RO 官方下載與配備表列 Windows 電腦版。",
+    "sources": [
+      "https://ro.gnjoy.com.tw/Download/System_requirements",
+      "https://ro.gnjoy.com.tw/Download"
+    ],
+    "evidence": [
+      "台灣 RO 官方下載與配備表列 Windows 電腦版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 186,
+    "name": "RO仙境傳說：愛如初見",
+    "status": "partial",
+    "platform": "PC、iOS、Android",
+    "platformNote": "已確認台灣原版愛如初見的手機商店與官方 PC 網站；不與 Classic 或其他 RO 手遊混用。",
+    "sources": [
+      "https://play.google.com/store/apps/details?hl=zh&id=com.gravity.roo.tw",
+      "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E6%84%9B%E5%A6%82%E5%88%9D%E8%A6%8B/id1618358912",
+      "https://roo.gnjoy.com.tw/pc-site/official/home"
+    ],
+    "evidence": [
+      "已確認台灣原版愛如初見的手機商店與官方 PC 網站；不與 Classic 或其他 RO 手遊混用。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC、iOS、Android",
+    "safePlatformNote": "已確認台灣原版愛如初見的手機商店與官方 PC 網站；不與 Classic 或其他 RO 手遊混用。"
+  },
+  {
+    "auditIndex": 187,
+    "name": "仙境傳說2",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "Ragnarok Online 2 官方國際站與 Steam 確認 Windows 電腦版；不以國際站下載頁推定台灣仍有營運。",
+    "sources": [
+      "https://playragnarok2.com/Download/clientdownload",
+      "https://store.steampowered.com/app/231060/Ragnarok_Online_2/?cc=uk&l=english"
+    ],
+    "evidence": [
+      "Ragnarok Online 2 官方國際站與 Steam 確認 Windows 電腦版；不以國際站下載頁推定台灣仍有營運。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 188,
+    "name": "仙境傳說 復興",
+    "status": "unresolved",
+    "platform": "PC",
+    "platformNote": "名稱「仙境傳說復興」與 alias「ragnarok renewal」身分衝突；Renewal 官方站是 RO 版本，不能直接視為獨立同名遊戲。原平台暫存，未認證。",
+    "sources": [
+      "https://renewal.playragnarok.com/"
+    ],
+    "evidence": [
+      "名稱「仙境傳說復興」與 alias「ragnarok renewal」身分衝突；Renewal 官方站是 RO 版本，不能直接視為獨立同名遊戲。原平台暫存，未認證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "名稱「仙境傳說復興」與 alias「ragnarok renewal」身分衝突；Renewal 官方站是 RO 版本，不能直接視為獨立同名遊戲。原平台暫存，未認證。"
+  },
+  {
+    "auditIndex": 189,
+    "name": "魔力寶貝",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "大宇魔力寶貝官網提供電腦主程式，歷史系統需求明列 Windows；不混入手機衍生作。",
+    "sources": [
+      "https://cg.softstar.com.tw/Guide/install.aspx",
+      "https://cg.softstar.com.tw/"
+    ],
+    "evidence": [
+      "大宇魔力寶貝官網提供電腦主程式，歷史系統需求明列 Windows；不混入手機衍生作。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 190,
+    "name": "魔力寶貝2",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "確認宇峻奧汀代理版於 2012-04-17 停止營運；現存其他地區版本及完整系統規格仍待補證，PC 為歷史資料。",
+    "sources": [
+      "https://www.uj.com.tw/uj/News/NewsContent.aspx?n=1245&p=0"
+    ],
+    "evidence": [
+      "確認宇峻奧汀代理版於 2012-04-17 停止營運；現存其他地區版本及完整系統規格仍待補證，PC 為歷史資料。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "確認宇峻奧汀代理版於 2012-04-17 停止營運；現存其他地區版本及完整系統規格仍待補證，PC 為歷史資料。"
+  },
+  {
+    "auditIndex": 191,
+    "name": "魔力寶貝 歸來",
+    "status": "verified",
+    "platform": "iOS、Android",
+    "platformNote": "台灣官方 App Store／Google Play 商品確認為手機遊戲；移除把端遊原作平台誤套為 PC 的資料。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E9%AD%94%E5%8A%9B%E5%AF%B6%E8%B2%9D-%E6%AD%B8%E4%BE%86/id1585953074",
+      "https://play.google.com/store/apps/details?hl=zh_TW&id=com.mlbb.gatAndroid"
+    ],
+    "evidence": [
+      "台灣官方 App Store／Google Play 商品確認為手機遊戲；移除把端遊原作平台誤套為 PC 的資料。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 192,
+    "name": "魔力寶貝 懷舊版",
+    "status": "unresolved",
+    "platform": "PC",
+    "platformNote": "「懷舊版」未註明營運商／地區，搜尋同時命中原作、其他手遊與非官方伺服器；不能選其中一款冒充驗證。",
+    "sources": [
+      "https://cg.softstar.com.tw/"
+    ],
+    "evidence": [
+      "「懷舊版」未註明營運商／地區，搜尋同時命中原作、其他手遊與非官方伺服器；不能選其中一款冒充驗證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "「懷舊版」未註明營運商／地區，搜尋同時命中原作、其他手遊與非官方伺服器；不能選其中一款冒充驗證。"
+  },
+  {
+    "auditIndex": 193,
+    "name": "魔力寶貝M",
+    "status": "partial",
+    "platform": "iOS、Android",
+    "platformNote": "遊戲橘子歷史維護公告確認魔力寶貝M屬手機遊戲；目前官方商店與停運時點未完整確認，保留平台但不保證仍可下載。",
+    "sources": [
+      "https://tw.hicdn.beanfun.com/beanfun/beanfun/20210901_bfMaintain/02_c.htm"
+    ],
+    "evidence": [
+      "遊戲橘子歷史維護公告確認魔力寶貝M屬手機遊戲；目前官方商店與停運時點未完整確認，保留平台但不保證仍可下載。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "iOS、Android",
+    "safePlatformNote": "遊戲橘子歷史維護公告確認魔力寶貝M屬手機遊戲；目前官方商店與停運時點未完整確認，保留平台但不保證仍可下載。"
+  },
+  {
+    "auditIndex": 194,
+    "name": "魔力寶貝 旅人",
+    "status": "verified",
+    "platform": "iOS、Android",
+    "platformNote": "中國區旅人 App Store 與發行方 TapTap 頁列 iOS／Android；不同於台灣另名「新世界」，不借用其 PC 平台。",
+    "sources": [
+      "https://apps.apple.com/cn/app/%E9%AD%94%E5%8A%9B%E5%AE%9D%E8%B4%9D-%E6%97%85%E4%BA%BA/id1567498847",
+      "https://www.taptap.cn/app/213737"
+    ],
+    "evidence": [
+      "中國區旅人 App Store 與發行方 TapTap 頁列 iOS／Android；不同於台灣另名「新世界」，不借用其 PC 平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 195,
+    "name": "魔力寶貝:重返法蘭",
+    "status": "verified",
+    "platform": "iOS、Android",
+    "platformNote": "台灣官方手機商店列 iOS／Android；Google Play Games 電腦版執行 Android 遊戲不另算原生 PC 版。",
+    "sources": [
+      "https://play.google.com/store/apps/details?hl=zh_TW&id=com.chuangg.cga.tw.gp2",
+      "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.chuangg.cga.tw.gp2",
+      "https://apps.apple.com/tw/app/%E9%AD%94%E5%8A%9B%E5%AF%B6%E8%B2%9D-%E9%87%8D%E8%BF%94%E6%B3%95%E8%98%AD/id6754377666?platform=ipad"
+    ],
+    "evidence": [
+      "台灣官方手機商店列 iOS／Android；Google Play Games 電腦版執行 Android 遊戲不另算原生 PC 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 196,
+    "name": "遊戲王 Master Duel",
+    "status": "verified",
+    "platform": "PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch、iOS、Android",
+    "platformNote": "Konami Master Duel 官方網站列完整平台，補上 Xbox 世代。",
+    "sources": [
+      "https://www.konami.com/games/us/en/products/yugioh_masterduel/"
+    ],
+    "evidence": [
+      "Konami Master Duel 官方網站列完整平台，補上 Xbox 世代。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 197,
+    "name": "遊戲王 Duel Links",
+    "status": "verified",
+    "platform": "PC、iOS、Android",
+    "platformNote": "Konami 官方產品頁列 Steam、iOS 與 Android。",
+    "sources": [
+      "https://www.konami.com/games/ca/en/products/yugioh_duel_links/"
+    ],
+    "evidence": [
+      "Konami 官方產品頁列 Steam、iOS 與 Android。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 198,
+    "name": "遊戲王 Cross Duel",
+    "status": "verified",
+    "platform": "iOS、Android",
+    "platformNote": "Konami 確認 Cross Duel 已於 2023-09-04 05:00 UTC 停服；平台為歷史發行資料，不能提供現行連線遊玩建議。",
+    "sources": [
+      "https://www.konami.com/yugioh/crossduel/en/mode.php"
+    ],
+    "evidence": [
+      "Konami 確認 Cross Duel 已於 2023-09-04 05:00 UTC 停服；平台為歷史發行資料，不能提供現行連線遊玩建議。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "retired"
+  },
+  {
+    "auditIndex": 199,
+    "name": "遊戲王 Rush Duel 最強大亂鬥!!",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Konami 發售公告確認 Dawn of the Battle Royale 為 Switch 遊戲。",
+    "sources": [
+      "https://www.konami.com/games/us/en/topics/1857/"
+    ],
+    "evidence": [
+      "Konami 發售公告確認 Dawn of the Battle Royale 為 Switch 遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 200,
+    "name": "遊戲王 Legacy of the Duelist: Link Evolution",
+    "status": "verified",
+    "platform": "PC、PS4、Xbox One、Switch",
+    "platformNote": "Konami Link Evolution 商品頁明列 PC、PS4、Xbox One 與 Switch，補遺漏 Xbox One。",
+    "sources": [
+      "https://www.konami.com/games/eu/en/products/yugioh_legacy_of_the_duelist_link_evolution/"
+    ],
+    "evidence": [
+      "Konami Link Evolution 商品頁明列 PC、PS4、Xbox One 與 Switch，補遺漏 Xbox One。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 201,
+    "name": "遊戲王 怪獸之決鬥",
+    "status": "unresolved",
+    "platform": "GBA/DS",
+    "platformNote": "名稱未區分怪獸之決鬥初代或後續系列；官方 Early Days 收錄多款不同作品，不能從泛稱確定 GBA／DS。原平台暫存未認證。",
+    "sources": [
+      "https://www.konami.com/games/us/en/products/yugioh_earlydayscollection/"
+    ],
+    "evidence": [
+      "名稱未區分怪獸之決鬥初代或後續系列；官方 Early Days 收錄多款不同作品，不能從泛稱確定 GBA／DS。原平台暫存未認證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "GBA/DS",
+    "safePlatformNote": "名稱未區分怪獸之決鬥初代或後續系列；官方 Early Days 收錄多款不同作品，不能從泛稱確定 GBA／DS。原平台暫存未認證。"
+  },
+  {
+    "auditIndex": 202,
+    "name": "遊戲王 Tag Force",
+    "status": "verified",
+    "platform": "PSP",
+    "platformNote": "Konami 初代 TAG FORCE 產品頁確認 PSP；不混入預計 2027 年推出的 TAG FORCE GX 重製版。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_tf_psp/"
+    ],
+    "evidence": [
+      "Konami 初代 TAG FORCE 產品頁確認 PSP；不混入預計 2027 年推出的 TAG FORCE GX 重製版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 203,
+    "name": "遊戲王 Tag Force Special",
+    "status": "verified",
+    "platform": "PSP",
+    "platformNote": "官方 PSP 遊戲亦可於 PS Vita 相容執行；2022-05-31 停止新購，已購帳號可重新下載。與 ARC-V TAG FORCE SPECIAL 為同一產品。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_tfsp_psp/"
+    ],
+    "evidence": [
+      "官方 PSP 遊戲亦可於 PS Vita 相容執行；2022-05-31 停止新購，已購帳號可重新下載。與 ARC-V TAG FORCE SPECIAL 為同一產品。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 204,
+    "name": "遊戲王 World Championship",
+    "status": "unresolved",
+    "platform": "DS/3DS",
+    "platformNote": "World Championship 缺年份：官方 2011 版明列 DS，但不足以判定這個泛稱是該版或其他年度；原 DS／3DS 欄位暫存未認證。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_wcs2011_ds/"
+    ],
+    "evidence": [
+      "World Championship 缺年份：官方 2011 版明列 DS，但不足以判定這個泛稱是該版或其他年度；原 DS／3DS 欄位暫存未認證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "DS/3DS",
+    "safePlatformNote": "World Championship 缺年份：官方 2011 版明列 DS，但不足以判定這個泛稱是該版或其他年度；原 DS／3DS 欄位暫存未認證。"
+  },
+  {
+    "auditIndex": 205,
+    "name": "遊戲王 ARC-V Tag Force Special",
+    "status": "verified",
+    "platform": "PSP",
+    "platformNote": "ARC-V TAG FORCE SPECIAL 是官方 PSP 產品；PS Vita 為相容遊玩，2022-05-31 停止新購，已購可重下。與簡稱 TAG FORCE SPECIAL 重複。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_tfsp_psp/"
+    ],
+    "evidence": [
+      "ARC-V TAG FORCE SPECIAL 是官方 PSP 產品；PS Vita 為相容遊玩，2022-05-31 停止新購，已購可重下。與簡稱 TAG FORCE SPECIAL 重複。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 206,
+    "name": "遊戲王 5D's Wheelie Breakers",
+    "status": "verified",
+    "platform": "Wii",
+    "platformNote": "Konami Wheelie Breakers 產品頁明列 Wii。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_wb_wii/"
+    ],
+    "evidence": [
+      "Konami Wheelie Breakers 產品頁明列 Wii。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 207,
+    "name": "遊戲王 怪獸膠囊",
+    "status": "verified",
+    "platform": "PS2",
+    "platformNote": "Konami Capsule Monster Coliseum 產品頁明列 PlayStation 2。",
+    "sources": [
+      "https://www.konami.com/games/jp/ja/products/yugioh_cmc_ps2/"
+    ],
+    "evidence": [
+      "Konami Capsule Monster Coliseum 產品頁明列 PlayStation 2。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 208,
+    "name": "遊戲王 早期之日",
+    "status": "verified",
+    "platform": "PC、Switch",
+    "platformNote": "Konami Early Days Collection 官方產品頁明列 Steam／Switch；移除誤列 iOS、Android。",
+    "sources": [
+      "https://www.konami.com/games/us/en/products/yugioh_earlydayscollection/"
+    ],
+    "evidence": [
+      "Konami Early Days Collection 官方產品頁明列 Steam／Switch；移除誤列 iOS、Android。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 209,
+    "name": "心動小鎮",
+    "status": "verified",
+    "platform": "PC、iOS、Android",
+    "platformNote": "XD 官方 Steam／Google Play 與 App Store 確認電腦及手機平台；跨區帳號／伺服器仍須依發行區選擇。",
+    "sources": [
+      "https://store.steampowered.com/app/4025700",
+      "https://play.google.com/store/apps/details?hl=en-US&id=com.xd.xdtglobal.gp",
+      "https://apps.apple.com/us/app/heartopia/id6746151928?at=s"
+    ],
+    "evidence": [
+      "XD 官方 Steam／Google Play 與 App Store 確認電腦及手機平台；跨區帳號／伺服器仍須依發行區選擇。"
+    ],
+    "checkedAt": "2026-10-18"
+  }
+]

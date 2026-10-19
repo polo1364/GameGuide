@@ -1,0 +1,78 @@
+{
+  "characters": 2219,
+  "headings": [
+    "前置準備（PC、近戰新手、無 DLC）",
+    "進場與骨灰召喚",
+    "第一階段：Shackle 與反擊步驟",
+    "第二階段",
+    "結論"
+  ],
+  "html": "<div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：4 段附有可對應的來源引文，2 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:09:46.571Z。</div></div><section class=\"guide-section focus-keep\" id=\"guide-section-0\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-0\">前置準備（PC、近戰新手、無 DLC）</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li>先探索 Limgrave 與 Bridge of Sacrifice 以南地區（含 Castle Morne、地牢）累積盧恩與裝備，再回頭挑戰。</li><li>先取得 Spirit Calling Bell 解鎖骨灰；早期可考慮 Lone Wolf Ashes（多隻 AI 隊友分擔注意力），或由 Roderika（Stormhill Shack）取得的 Spirit Jellyfish（毒傷）。</li><li>到 Murkwater Cave 找 Patches：洞窟在 Limgrave 中央湖泊北側峽谷；進洞前有強制 NPC 入侵，需先擊敗。遇到 Patches 不要殺死他，將血量壓到 just under 50% 讓他投降，戰鬥結束後可在商店以 5,000 盧恩購買 Margit's Shackle。</li><li>若 Patches 死亡，Patches' Bell Bearing 交給 Roundtable Hold 的 Twin Maiden Husks 也能解鎖購買 Margit's Shackle（5,000）。</li><li>進場前可選擇使用 Rune Arc 取得暫時 HP buff；效果持續到死亡，屬消耗品。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://eldenring.wiki.gg/wiki/Patches%27_Bell_Bearing\" target=\"_blank\" rel=\"noopener noreferrer\">S3 次級攻略</a></p></div></section><section class=\"guide-section\" id=\"guide-section-1\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-1\">進場與骨灰召喚</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ul><li>骨灰不是隨時可放：當重生紀念碑（rebirth monument）在附近、畫面左側出現紀念碑圖示時，才能用 ashes 召喚 spirit；一次只能召喚一種，多人連線時不能召喚。</li><li>召喚靈會在 HP 歸零、Boss 被擊敗、離紀念碑太遠，或再次使用同一骨灰時離場。</li><li>門口金色記號可召喚 NPC Rodgier（來源拼寫；不是 Roderika）；攻略來源說可同時召喚 Rodgier 與骨灰靈，讓 Margit 分心。</li></ul><p>來源：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a>、<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：S1 只支持『召喚靈 HP 歸零時會離場』，沒有說可復活、不可復活，或只能等下一次進場；草稿的『不能復活／只能重新進場再召喚』無來源支持。S1 另說『再次使用同一骨灰時離場』，但也未明示可同場重召，因此不判定。</div></div><p>參考來源（不足以確認此段全部內容）：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p></div></section><section class=\"guide-section\" id=\"guide-section-2\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-2\">第一階段：Shackle 與反擊步驟</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li>進場前可在門口金色記號召喚 Rodgier；骨灰則等左側重生紀念碑圖示出現再使用。</li><li>Margit's Shackle 只在第一階段有效，最多用兩次；每次可讓 Margit 倒地數秒，並能打斷他正在蓄力的攻擊。建議等隊友能一起輸出時再用。</li><li>官方入門指南的通用反擊：防禦反擊（guard 後立刻按 strong attack）與跳躍攻擊都容易破架勢；實際對 Margit 的逐招判定未細分。</li><li>致命一擊時機：parry 後、從敵人背後，或對倒地敵人按輕攻擊；部分敵人不能 parry，部分敵人即使從背後也不能 critical。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a>、<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p></div></section><section class=\"guide-section\" id=\"guide-section-3\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-3\">第二階段</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li>Margit's Shackle 失效，別在第二階段浪費。</li><li>攻略來源說第二階段更難預測、幾乎無法格擋，聖屬性巨槌會打穿防禦；建議放下盾、改雙手持武（有傷害加成），以翻滾閃避為主。</li><li>進第二階段前盡量讓友好角色存活；轉階段後靠人數優勢快速削血，避免戰線拖長。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：來源未提供 Margit 各招精確傷害、推薦等級、武器數值或逐招判定；草稿的『保持中距離繞側』等操作偏好也無來源支持，不能當確定指示。</div></div></div></section>\n                <div class=\"conversation-divider\">追問回答</div>\n                <div class=\"question-badge\">❓ 如果完全不召喚骨灰或 NPC，最需要調整哪三件事？只補充差異，不用重寫攻略。束縛器第二階段還能用嗎？</div>\n            <div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：1 段附有可對應的來源引文，1 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:11:51.865Z。</div></div><section class=\"guide-section\" id=\"guide-section-4\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-4\">結論</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><p><strong>束縛器（Margit's Shackle）第二階段不能用；它只在第一階段有效，第一階段最多用兩次。</strong> 來源明確寫「only works during Phase 1」，每次使用會讓 Margit 倒地數秒，並可打斷蓄力攻擊。</p><p>不召喚骨灰或 NPC 時，來源可直接支持的是以下調整方向（不是優先排序）：<br></p><ol start=\"1\" style=\"counter-reset: step-counter 0\"><li>把 Margit's Shackle 留到第一階段，倒地期間集中輸出；來源明列召喚物能分散注意力、爭取補血時間，不召喚時就沒有這項效益。</li><li>第二階段以翻滾閃避為主；來源稱 Margit 更難預測、幾乎無法格擋，holy hammer 會打穿防禦，可考慮放下盾、雙手持武取得少許傷害加成。</li><li>進場前探索 Limgrave 與 Bridge of Sacrifice 以南（含 Castle Morne、地牢）累積盧恩與裝備；必要時可用 Rune Arc 取得暫時 HP buff（死亡即失效、消耗品）。</li></ol><p>來源：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：來源未專門列出不召喚骨灰或 NPC 時最需要調整的三件事，也沒有三項優先排序；S2 只說經驗玩家可嘗試不使用 AI 協助，但攻略仍建議使用所有工具。草稿的三項是編輯歸納，不能當成確定答案。</div></div><p>參考來源（不足以確認此段全部內容）：<a href=\"https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen\" target=\"_blank\" rel=\"noopener noreferrer\">S2 次級攻略</a></p></div></section>",
+  "links": [
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://eldenring.wiki.gg/wiki/Patches%27_Bell_Bearing",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S3 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    },
+    {
+      "href": "https://www.rpgsite.net/feature/12445-elden-ring-how-to-beat-margit-the-fell-omen",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S2 次級攻略"
+    }
+  ],
+  "steps": 15,
+  "tables": 0,
+  "text": "備註\n來源比對（AI）：4 段附有可對應的來源引文，2 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:09:46.571Z。\n前置準備（PC、近戰新手、無 DLC）\n⌄\n先探索 Limgrave 與 Bridge of Sacrifice 以南地區（含 Castle Morne、地牢）累積盧恩與裝備，再回頭挑戰。\n先取得 Spirit Calling Bell 解鎖骨灰；早期可考慮 Lone Wolf Ashes（多隻 AI 隊友分擔注意力），或由 Roderika（Stormhill Shack）取得的 Spirit Jellyfish（毒傷）。\n到 Murkwater Cave 找 Patches：洞窟在 Limgrave 中央湖泊北側峽谷；進洞前有強制 NPC 入侵，需先擊敗。遇到 Patches 不要殺死他，將血量壓到 just under 50% 讓他投降，戰鬥結束後可在商店以 5,000 盧恩購買 Margit's Shackle。\n若 Patches 死亡，Patches' Bell Bearing 交給 Roundtable Hold 的 Twin Maiden Husks 也能解鎖購買 Margit's Shackle（5,000）。\n進場前可選擇使用 Rune Arc 取得暫時 HP buff；效果持續到死亡，屬消耗品。\n\n來源：S2 次級攻略、S3 次級攻略\n\n進場與骨灰召喚\n⌄\n骨灰不是隨時可放：當重生紀念碑（rebirth monument）在附近、畫面左側出現紀念碑圖示時，才能用 ashes 召喚 spirit；一次只能召喚一種，多人連線時不能召喚。\n召喚靈會在 HP 歸零、Boss 被擊敗、離紀念碑太遠，或再次使用同一骨灰時離場。\n門口金色記號可召喚 NPC Rodgier（來源拼寫；不是 Roderika）；攻略來源說可同時召喚 Rodgier 與骨灰靈，讓 Margit 分心。\n\n來源：S1 官方、S2 次級攻略\n\n注意事項\n待確認：S1 只支持『召喚靈 HP 歸零時會離場』，沒有說可復活、不可復活，或只能等下一次進場；草稿的『不能復活／只能重新進場再召喚』無來源支持。S1 另說『再次使用同一骨灰時離場』，但也未明示可同場重召，因此不判定。\n\n參考來源（不足以確認此段全部內容）：S1 官方\n\n第一階段：Shackle 與反擊步驟\n⌄\n進場前可在門口金色記號召喚 Rodgier；骨灰則等左側重生紀念碑圖示出現再使用。\nMargit's Shackle 只在第一階段有效，最多用兩次；每次可讓 Margit 倒地數秒，並能打斷他正在蓄力的攻擊。建議等隊友能一起輸出時再用。\n官方入門指南的通用反擊：防禦反擊（guard 後立刻按 strong attack）與跳躍攻擊都容易破架勢；實際對 Margit 的逐招判定未細分。\n致命一擊時機：parry 後、從敵人背後，或對倒地敵人按輕攻擊；部分敵人不能 parry，部分敵人即使從背後也不能 critical。\n\n來源：S2 次級攻略、S1 官方\n\n第二階段\n⌄\nMargit's Shackle 失效，別在第二階段浪費。\n攻略來源說第二階段更難預測、幾乎無法格擋，聖屬性巨槌會打穿防禦；建議放下盾、改雙手持武（有傷害加成），以翻滾閃避為主。\n進第二階段前盡量讓友好角色存活；轉階段後靠人數優勢快速削血，避免戰線拖長。\n\n來源：S2 次級攻略\n\n注意事項\n待確認：來源未提供 Margit 各招精確傷害、推薦等級、武器數值或逐招判定；草稿的『保持中距離繞側』等操作偏好也無來源支持，不能當確定指示。\n追問回答\n❓ 如果完全不召喚骨灰或 NPC，最需要調整哪三件事？只補充差異，不用重寫攻略。束縛器第二階段還能用嗎？\n備註\n來源比對（AI）：1 段附有可對應的來源引文，1 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:11:51.865Z。\n結論\n⌄\n\n束縛器（Margit's Shackle）第二階段不能用；它只在第一階段有效，第一階段最多用兩次。 來源明確寫「only works during Phase 1」，每次使用會讓 Margit 倒地數秒，並可打斷蓄力攻擊。\n\n不召喚骨灰或 NPC 時，來源可直接支持的是以下調整方向（不是優先排序）：\n\n\n把 Margit's Shackle 留到第一階段，倒地期間集中輸出；來源明列召喚物能分散注意力、爭取補血時間，不召喚時就沒有這項效益。\n第二階段以翻滾閃避為主；來源稱 Margit 更難預測、幾乎無法格擋，holy hammer 會打穿防禦，可考慮放下盾、雙手持武取得少許傷害加成。\n進場前探索 Limgrave 與 Bridge of Sacrifice 以南（含 Castle Morne、地牢）累積盧恩與裝備；必要時可用 Rune Arc 取得暫時 HP buff（死亡即失效、消耗品）。\n\n來源：S2 次級攻略\n\n注意事項\n待確認：來源未專門列出不召喚骨灰或 NPC 時最需要調整的三件事，也沒有三項優先排序；S2 只說經驗玩家可嘗試不使用 AI 協助，但攻略仍建議使用所有工具。草稿的三項是編輯歸納，不能當成確定答案。\n\n參考來源（不足以確認此段全部內容）：S2 次級攻略",
+  "id": "followup-final",
+  "capturedAt": "2026-10-19T15:12:48.676Z"
+}

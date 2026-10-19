@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-19",
+  "appVersion": "4.15.1",
+  "serviceWorkerVersion": "27",
+  "model": "deepseek-flash",
+  "realRequests": 9,
+  "method": "Real UI requests using the existing fetchDeepSeekChat function and a user-entered API key; no API mocking in these nine samples. Regression tests use mocks separately. Saved samples contain rendered guide DOM only.",
+  "formatStatus": "PASS",
+  "factualAccuracyStatus": "NOT_VERIFIED_KNOWN_ISSUES",
+  "regression": "50/50 passed",
+  "samples": [
+    {
+      "id": "simple-before",
+      "file": "simple-before.json",
+      "capturedAt": "2026-10-19T12:47:06.123Z",
+      "displayCharacters": 558,
+      "headingCount": 0,
+      "steps": 0,
+      "tables": 0,
+      "links": [
+        {
+          "href": "https://stardewvalleywiki.com/Copper_Ore",
+          "rel": "noopener noreferrer",
+          "target": "_blank",
+          "text": "Stardew Valley Wiki－Copper Ore"
+        },
+        {
+          "href": "https://stardewvalleywiki.com/The_Mines",
+          "rel": "noopener noreferrer",
+          "target": "_blank",
+          "text": "Stardew Valley Wiki－The Mines"
+        }
+      ],
+      "unparsedLinks": false
+    },
+    {
+      "id": "boss-before",
+      "file": "boss-before.json",
+      "capturedAt": "2026-10-19T12:48:02.813Z",
+      "displayCharacters": 1738,
+      "headingCount": 12,
+      "steps": 3,
+      "tables": 2,
+      "links": [
+        {
+          "href": "https://www.bandainamcoent.com/games/elden-ring",
+          "rel": "noopener noreferrer",
+          "target": "_blank",
+          "text": "Bandai Namco 官方頁面"
+        }
+      ],
+      "unparsedLinks": false
+    },
+    {
+      "id": "followup-before",
+      "file": "followup-before.json",
+      "capturedAt": "2026-10-19T12:48:38.567Z",
+      "displayCharacters": 636,
+      "headingCount": 13,
+      "steps": 6,
+      "tables": 2,
+      "links": [
+        {
+          "href": "https://www.bandainamcoent.com/games/elden-ring",
+          "rel": "noopener noreferrer",
+          "target": "_blank",
+          "text": "Bandai Namco 官方頁面"
+        }
+      ],
+      "unparsedLinks": false
+    },
+    {
+      "id": "comparison-before",
+      "file": "comparison-before.json",
+      "capturedAt": "2026-10-19T12:49:58.408Z",
+      "displayCharacters": 1554,
+      "headingCount": 8,
+      "steps": 8,
+      "tables": 1,
+      "links": [],
+      "unparsedLinks": false
+    },
+    {
+      "id": "simple-after",
+      "file": "simple-after.json",
+      "capturedAt": "2026-10-19T12:50:41.338Z",
+      "displayCharacters": 300,
+      "headingCount": 0,
+      "steps": 0,
+      "tables": 0,
+      "links": [
+        {
+          "href": "https://stardewvalleywiki.com/Copper_Node",
+          "rel": "noopener noreferrer",
+          "target": "_blank",
+          "text": "Stardew Valley Wiki－Copper Node"
+        }
+      ],
+      "unparsedLinks": false
+    },
+    {
+      "id": "boss-after",
+      "file": "boss-after.json",
+      "capturedAt": "2026-10-19T12:51:49.649Z",
+      "displayCharacters": 1192,
+      "headingCount": 6,
+      "steps": 6,
+      "tables": 0,
+      "links": [],
+      "unparsedLinks": false
+    },
+    {
+      "id": "followup-after",
+      "file": "followup-after.json",
+      "capturedAt": "2026-10-19T12:53:23.667Z",
+      "displayCharacters": 287,
+      "headingCount": 6,
+      "steps": 9,
+      "tables": 0,
+      "links": [],
+      "unparsedLinks": false
+    },
+    {
+      "id": "comparison-after",
+      "file": "comparison-after.json",
+      "capturedAt": "2026-10-19T12:54:33.384Z",
+      "displayCharacters": 1009,
+      "headingCount": 3,
+      "steps": 0,
+      "tables": 1,
+      "links": [],
+      "unparsedLinks": false
+    },
+    {
+      "id": "simple-grounded-final",
+      "file": "simple-grounded-final.json",
+      "capturedAt": "2026-10-19T12:55:12.984Z",
+      "displayCharacters": 220,
+      "headingCount": 0,
+      "steps": 0,
+      "tables": 0,
+      "links": [
+        {
+          "href": "https://stardewvalleywiki.com/Copper_Ore",
+          "rel": "noopener noreferrer",
+          "target": "_blank",
+          "text": "Stardew Valley Wiki－Copper Ore"
+        }
+      ],
+      "unparsedLinks": false
+    }
+  ],
+  "comparisons": [
+    {
+      "type": "simple",
+      "before": 558,
+      "after": 300
+    },
+    {
+      "type": "boss",
+      "before": 1738,
+      "after": 1192
+    },
+    {
+      "type": "comparison",
+      "before": 1554,
+      "after": 1009
+    },
+    {
+      "type": "followup",
+      "before": 636,
+      "after": 287
+    }
+  ],
+  "sourceCheck": {
+    "rejectedGeneratedUrl": "https://stardewvalleywiki.com/Copper_Node",
+    "reason": "Opened page explicitly reports no text/page does not exist.",
+    "suppliedUrl": "https://stardewvalleywiki.com/Copper_Ore",
+    "validPageTitle": "Copper Ore - Stardew Valley Wiki",
+    "finalSample": "simple-grounded-final",
+    "note": "Final supplied-source case adds a verified fact excerpt and URL to the question; it is not an identical-input length comparison. The app does not automatically fetch or verify the page."
+  },
+  "fixes": [
+    "Short-answer and follow-up length guidance; avoid repeated and unrelated material.",
+    "Mobile title/actions stacked to prevent cramped titles.",
+    "Unordered lists use one dot instead of a square glyph over a dot.",
+    "Generated Markdown source links are retained only when their URL was supplied in system/user input; assistant-only and invented URLs become pending text."
+  ],
+  "mobileChecks": [
+    {
+      "contentOverflow": false,
+      "headings": 3,
+      "orderedLists": 2,
+      "pageOverflow": false,
+      "steps": 9,
+      "width": 390
+    },
+    {
+      "contentOverflow": false,
+      "headings": 3,
+      "orderedLists": 2,
+      "pageOverflow": false,
+      "steps": 9,
+      "width": 320
+    },
+    {
+      "contentOverflow": false,
+      "headings": 3,
+      "orderedLists": 2,
+      "pageOverflow": false,
+      "steps": 9,
+      "width": 1440
+    },
+    {
+      "contentOverflow": false,
+      "hiddenHeaders": false,
+      "pageOverflow": false,
+      "tableCards": 1,
+      "tables": 1,
+      "width": 1440
+    },
+    {
+      "contentOverflow": false,
+      "hiddenHeaders": true,
+      "pageOverflow": false,
+      "tableCards": 1,
+      "tables": 1,
+      "width": 390
+    },
+    {
+      "contentOverflow": false,
+      "hiddenHeaders": true,
+      "pageOverflow": false,
+      "tableCards": 1,
+      "tables": 1,
+      "width": 320
+    }
+  ],
+  "chapterCheck": {
+    "collapsedAfterCollapseAll": 3,
+    "collapsedAfterJumpFirst": 2,
+    "expandAllOperated": true
+  },
+  "knownContentIssues": [
+    {
+      "sample": "simple-before",
+      "finding": "Model said copper starts on floor 1; source describes higher copper concentration on floors 2-39.",
+      "source": "https://stardewvalleywiki.com/Copper_Ore"
+    },
+    {
+      "sample": "simple-grounded-final",
+      "finding": "Even with a supplied source, model says elevator can reach any floor in the range. Elevator stops are previously visited multiples of 5, not every floor.",
+      "source": "https://stardewvalleywiki.com/The_Mines",
+      "correction": "Use an unlocked elevator stop at a multiple of 5, then descend by ladder into the desired range."
+    },
+    {
+      "sample": "followup-after",
+      "finding": "Shackle timing conflicts with the first boss draft: first-phase-only became second-phase use. Gameplay advice is not certified by formatting tests.",
+      "status": "Requires gameplay fact verification"
+    }
+  ],
+  "limitations": [
+    "No physical phone test; browser viewport checks only.",
+    "No general web-retrieval/grounding pipeline added. Prompt improvements do not guarantee factual accuracy.",
+    "Length targets are guidance; comparison remains longer than its suggested target.",
+    "User API key was not printed or written to test artifacts."
+  ],
+  "hashes": {
+    "index.html": "c792dba4fe46d40c9979f6f52f715aa96bf6779fbc2dfaa05a817aaabb440590",
+    "sw.js": "f2a0654074bbce9e0234c520b0cf10d248ccf38b9e02114dd02b63383f1faed2",
+    "tests/regression.cjs": "587327e13d3ecdc24532180a365db33ae71f1451ed7dcb28e62f130a4228fc20"
+  }
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "auditIndex": 173,
+    "name": "惡靈古堡7 生化危機",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "platformNote": "Switch 原列應移至雲端備註，不列原生；Switch 2 Gold Edition 於 2026-02-27 發行。Apple 版只支援官方列出的裝置。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://www.capcom.co.jp/ir/english/news/html/e250916.html"
+    ],
+    "evidence": [
+      "Capcom 產品表逐列 PC、PS4、PS5、Xbox One、Series、Switch 2、iPhone/iPad/Mac 與發行日期，另以註2指定 Switch 是雲端版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 174,
+    "name": "惡靈古堡3 重製版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "platformNote": "RE3 重製版；Switch 2 已於 2026-10-16 發行。普通 Switch 只有 Cloud，不列原生。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://www.nintendo.com/de-de/Spiele/Nintendo-Switch-2-Spiele/Resident-Evil-3-3183647.html",
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://apps.apple.com/gb/app/resident-evil-3/id1640630077?platform=mac",
+      "https://news.capcomusa.com/2022/06/13/resident-evil-exoprimal-monster-hunter-and-more-take-center-stage-in-the-capcom-showcase/",
+      "https://news.capcomusa.com/2022/10/20/everything-you-need-to-know-from-the-resident-evil-showcase/"
+    ],
+    "evidence": [
+      "Nintendo 商品頁列 Switch 2 發行日 2026-10-16；Capcom lineup HTML 的 RE3 平台區列 PS5、PS4、Series、One、Steam、Windows、Mac/iOS。",
+      "Apple 官方商品列 Mac、iPad、iPhone；Capcom 2022 公告確認 PS5／Series 升級已推出，Switch 版本明稱 Cloud。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 175,
+    "name": "惡靈古堡 HD 重製版",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "限定 HD Remaster；不把較早 GameCube／Wii 版本混列為 HD Remaster。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/brelston/blog/2014/08/05/enhanced-resident-evil-remake-coming-to-current-and-next-gen-platforms",
+      "https://news.capcomusa.com/tag/25th-anniversary/page/108"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 176,
+    "name": "惡靈古堡0 HD 重製版",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "限定 HD Remaster；不把較早 GameCube／Wii 版本混列為 HD Remaster。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/lets/browse/resident-evil-0-is-now-available"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 177,
+    "name": "惡靈古堡5",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "包含原始主機版與 PS4／Xbox One／Switch 移植版；後續主機相容不當成獨立原生版。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 178,
+    "name": "惡靈古堡6",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch",
+    "platformNote": "包含原始主機版與 PS4／Xbox One／Switch 移植版；後續主機相容不當成獨立原生版。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html"
+    ],
+    "evidence": [
+      "已直接擷取 Capcom lineup HTML，將作品 h2 與同一 OFFICIAL SITE & PLATFORM 區的 ps4／ps3／xone／x360／switch／steam 對應；HD Remaster 的 x360 另由 Capcom 歷史公告與已售促銷表補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 179,
+    "name": "惡靈古堡 啟示錄",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch/Wii U/3DS",
+    "safePlatform": "PC/PS4/PS3/Xbox One/Xbox 360/Switch/Wii U/3DS",
+    "platformNote": "3DS 原作與其後 HD 移植版分開；未把其他主機相容列原生。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://www.nintendo.com/au/games/nintendo-3ds/resident-evil-revelations/"
+    ],
+    "evidence": [
+      "Capcom lineup 同名項目平台區列 PS4、PS3、Xbox One、Xbox 360、Switch、Wii U、Steam；Nintendo 3DS 商品列發行日期 2012-02-02。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 180,
+    "name": "惡靈古堡 啟示錄2",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/PS Vita/Xbox One/Xbox 360/Switch",
+    "safePlatform": "PC/PS4/PS3/PS Vita/Xbox One/Xbox 360/Switch",
+    "platformNote": "包含完整章節與各原生移植版；未把後續主機相容當原生。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://blog.playstation.com/2015/07/23/resident-evil-revelations-2-coming-to-ps-vita-august-18th/"
+    ],
+    "evidence": [
+      "Capcom lineup 同名平台區逐列 PS4、PS3、PS Vita、Xbox One、Xbox 360、Switch、Steam；PlayStation 公告 Vita 數位版於 2015-08-18 發行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 181,
+    "name": "惡靈古堡 聖女密碼 X",
+    "status": "partial",
+    "platform": "PS2/PS3/Xbox 360/GameCube/Dreamcast/PS4（PS2版）",
+    "safePlatform": "PC/PS2/PS3/Xbox 360/GameCube/Dreamcast/PS4（PS2版）",
+    "platformNote": "Code Veronica X／日版完全版已確認 PS2、GameCube、Dreamcast；HD 版為 PS3／Xbox 360。PS4 是官方 PS2 版再發行，不是原生 PS4 重製；Xbox One／Series 為相容。PC 刪除為待確認候選，尚未找到官方全歷代平台清單或首次 PC 聲明；2027 新 remake 不屬本筆。",
+    "safePlatformNote": "新增各有官方證據的歷史主機，PS4改標PS2版以保留可玩資訊；PC暫保留未驗證，交由整合者補證後決定刪除。",
+    "sources": [
+      "https://www.capcom.co.jp/ir/data/pdf/fy2002a.pdf",
+      "https://news.capcomusa.com/lets/browse/resident-evil-4-and-resident-evil-code-veronica-x-coming-in-hd-this-fall",
+      "https://www.xbox.com/en-US/games/store/resident-evil-code-veronica-x/bqw8j8xm62jw",
+      "https://blog.playstation.com/?p=190905",
+      "https://www.capcom.co.jp/ir/english/news/pdf/e260608.pdf",
+      "https://www.capcom.co.jp/support/faq/platform_general_cs_general_038233.html",
+      "https://www.capcom.co.jp/ir/data/pdf/23stockinfo1.pdf"
+    ],
+    "evidence": [
+      "Capcom 年報列 Code Veronica X 為 PS2；HD 發行公告列 PS3／Xbox 360；Xbox 現行商品標 2011 發行，One／Series 是相容目標。",
+      "PlayStation 2017 新作公告明稱 Code Veronica X (PS2) 上架 PS4；2027 新 remake 的 PC 平台不能轉給 X。",
+      "Capcom 舊 CERO 支援表同名完全版列 GC 與 PS2；Capcom 第23期中間報告明列完全版 PS2／Dreamcast 兩機種。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 182,
+    "name": "惡靈古堡 村莊 黃金版",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS/iPadOS",
+    "platformNote": "Gold Edition 名稱可確認 PC、PS4/5、Xbox One/Series、Switch 2；Apple 是 Village 本篇加購 Winters’ Expansion，內容可對應黃金版但商店不是 Gold Edition 商品名，需保留版本區分。Switch 雲端版另記，不列原生。",
+    "safePlatformNote": "可新增有官方 Gold Edition 證據的 Xbox One／Series／Switch 2；Mac/iOS/iPadOS 僅以本篇加購擴充方式對應，必須連同版本備註套用，不能宣稱同一 Gold 商品或跨平台購買。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/lets/browse/re-village-gold-edition-la",
+      "https://www.nintendo.com/es-es/Juegos/Juegos-de-Nintendo-Switch-2/Resident-Evil-Village-Gold-Edition-2950809.html",
+      "https://apps.apple.com/us/app/resident-evil-village/id6450980545?platform=mac",
+      "https://apps.apple.com/us/app/resident-evil-village-for-mac/id1640627334?mt=12"
+    ],
+    "evidence": [
+      "Capcom 上市公告列 Gold Edition 的五個 PC／主機平台；Nintendo 列 Gold Edition Switch 2 於 2026-02-27 發行。",
+      "Apple 的 iPhone/iPad 與 Mac 商品都明列本篇、Trauma Pack、Winters’ Expansion（含 Shadows of Rose）；Apple 是分購商品，不冒稱單一 Gold SKU。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 183,
+    "name": "惡靈古堡 抵抗計畫",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "safePlatform": "PC/PS4/Xbox One",
+    "platformNote": "Resistance 與 RE3 本篇獨立；不把 RE3 的 PS5／Series／Apple／Switch 移植自動套給 Resistance。",
+    "safePlatformNote": "原生已發行平台依官方資料；雲端／模擬另註。",
+    "sources": [
+      "https://game.capcom.com/residentevil/en/lineup.html",
+      "https://news.capcomusa.com/2020/04/03/resident-evil-3-ja-disponivel/"
+    ],
+    "evidence": [
+      "Capcom 上市公告明列 Resistance 隨 RE3 提供於 PS4、Xbox One、PC Steam；lineup 個別 Resistance 平台區亦僅三者。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 184,
+    "name": "惡靈古堡 Re:Verse",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One",
+    "safePlatform": "PC/PS4/Xbox One",
+    "platformNote": "歷史原生平台為 PC、PS4、Xbox One；原 PS5 是相容遊玩，不能因 Village PS5 贈送資格而誤列。Capcom 日文公告確認 2025-03 停止配信，2025-06 結束服務；本次原停服詳細頁404，精確日未重新核實。",
+    "safePlatformNote": "僅套用直接官方證據；未解部分明列於 platformNote。",
+    "sources": [
+      "https://news.capcomusa.com/lets/browse/re-village-gold-edition-la",
+      "https://game.capcom.com/residentevil/ja/news-4384.html",
+      "https://game.capcom.com/residentevil/uk/news-4387.html"
+    ],
+    "evidence": [
+      "Capcom 上市文只列 Re:Verse PS4、Xbox One、Steam；贈送資格的 Village 平台包含新世代，不能等同 Re:Verse 原生平台。",
+      "Capcom 2025-03-14 日文停服公告明列 2025-03 停止應用發行及DLC販售、2025-06 結束服務。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "discontinued"
+  }
+]

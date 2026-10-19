@@ -1,0 +1,20 @@
+{
+  "asOf": "2026-10-19",
+  "replayUnchanged": true,
+  "catalogDriftRejected": true,
+  "historicalAuditDriftRejected": true,
+  "nonTargetHistoricalRecordsPreserved": 807,
+  "sha256": {
+    "games.json": "cadc4c3b156247ae1742d07105d06671d66b179c22e7c0c19873d943237ef01c",
+    "tests/platform-audit/audit-838.json": "82eb0a892c0a8f4f34a5ed2355797d8783f7eb2b002ee9579df67414a1ee882a",
+    "tests/platform-audit/pending.json": "e572147515ecab7e71fe65df533a6f75c392d98c6ec2d7eab57e2dd60ee80cd1",
+    "tests/platform-audit/README.md": "7cda0de152b45858289990644a5de779c96b95fc289495d330602a78840dfb3c",
+    "tests/platform-audit/recheck-31/audit-31.json": "34b3f365345b9bbdb44811c7d6ba69ec9987edd88dbdfb118f3b30cb418cec93",
+    "tests/platform-audit/recheck-31/pending.json": "0f9519e66efaf83258c8696267bc77524398b9a3bb17cb59fd5c4bc16df6a367",
+    "tests/platform-audit/recheck-31/README.md": "e6d1a3c7817eb31443c0deca70e02d05dfa9e949feb6fb0ff1e17719e74e6d7a",
+    "index.html": "e33700b99002ce8c83b6f8437af9ed163b5748eeff023c4b5a3ff259ed43b883",
+    "sw.js": "8c7f584d17a5a77f9e82f020482171185c97ba57cb6cccb6306668914ce4fb41",
+    "tests/regression.cjs": "bb81c21c11d4e9427ff6608375974e7f666faa8214b788541ad234088b0410ab",
+    "tests/platform-audit/recheck-31/apply-review.cjs": "7d4ad980d08f3721655ddee27a25a7b2d930cb87864f959e5c76d22844555cf9"
+  }
+}

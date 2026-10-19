@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-19",
+  "url": "https://store.steampowered.com/api/appdetails?appids=250900&l=english&cc=us",
+  "name": "The Binding of Isaac: Rebirth",
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "requirements": {
+    "pc": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> XP<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Discreet video card<br></li><li><strong>Storage:</strong> 449 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+      "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 8 / 7 / Vista / XP<br></li><li><strong>Processor:</strong> 2.4 GHz Quad Core 2.0 (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up<br></li><li><strong>Storage:</strong> 449 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "mac": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.8<br></li><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Discreet video card<br></li><li><strong>Storage:</strong> 449 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+      "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.9<br></li><li><strong>Processor:</strong> 2.4 GHz Dual Core 2.0 (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 and higher, ATI Radeon HD-Series 4650 and higher, Nvidia GeForce 2xx-Series and up.<br></li><li><strong>Storage:</strong> 449 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    },
+    "linux": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> Core 2 Duo<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Discreet video card<br></li><li><strong>Storage:</strong> 449 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>",
+      "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>Processor:</strong> 2.4 GHz Dual Core 2.0 (or higher)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Discreet video card<br></li><li><strong>Storage:</strong> 449 MB available space<br></li><li><strong>Sound Card:</strong> Yes</li></ul>"
+    }
+  }
+}

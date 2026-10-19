@@ -1,0 +1,3263 @@
+[
+  {
+    "auditIndex": 420,
+    "name": "量子裂痕",
+    "status": "verified",
+    "platform": "PC/Xbox One",
+    "platformNote": "官方首發平台 Windows PC 與 Xbox One；新 Xbox 主機相容不另算原生版。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=474960&l=english&cc=us",
+      "https://news.xbox.com/en-us/2016/03/01/quantum-break-crosses-time-and-platforms/"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Quantum Break，類型 game，已發行；原生作業系統 PC。",
+      "官方首發平台 Windows PC 與 Xbox One；新 Xbox 主機相容不另算原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 421,
+    "name": "心靈殺手",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Xbox 360/Switch",
+    "platformNote": "原作為 PC/Xbox 360；PS4/PS5/Xbox One/Series/Switch 對應 Alan Wake Remastered。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=108710&l=english&cc=us",
+      "https://www.alanwake.com/story/faq/"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Alan Wake，類型 game，已發行；原生作業系統 PC。",
+      "原作為 PC/Xbox 360；PS4/PS5/Xbox One/Series/Switch 對應 Alan Wake Remastered。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 422,
+    "name": "心靈殺手2",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "PC 版由 Epic Games Store 發行。",
+    "sources": [
+      "https://www.alanwake.com/story/alan-wake-2-faq/"
+    ],
+    "evidence": [
+      "官方 FAQ 列 PC、PlayStation 5 與 Xbox Series X|S。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 423,
+    "name": "馬克思佩恩",
+    "status": "partial",
+    "platform": "PC/PS2/Xbox/iOS/Android/Game Boy Advance",
+    "platformNote": "Xbox 為初代；PS4 所販售版本涉及 PS2 模擬，不視為原生移植。原列 PS3 未獲原生版證據；官方列出的 GBA、手機版與家機版玩法不同。",
+    "sources": [
+      "https://www.rockstargames.com/games/maxpayne"
+    ],
+    "evidence": [
+      "Xbox 為初代；PS4 所販售版本涉及 PS2 模擬，不視為原生移植。原列 PS3 未獲原生版證據；官方列出的 GBA、手機版與家機版玩法不同。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox/PS2/iOS/Android/Game Boy Advance",
+    "safePlatformNote": "保留未證實的原列 PS3；新增 Rockstar 明列的 PS2、iOS、Android、GBA。PS4 模擬版不新增。"
+  },
+  {
+    "auditIndex": 424,
+    "name": "毀滅戰士 永恆",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "官方更新公告列 Xbox One、PS4、PC、Switch 並有 PS5/Xbox Series 原生升級。",
+    "sources": [
+      "https://slayersclub.bethesda.net/en-US/news/doom-eternal-next-gen-update-6-release-notes",
+      "https://store.steampowered.com/api/appdetails?appids=782330&l=english&cc=us"
+    ],
+    "evidence": [
+      "官方更新公告列 Xbox One、PS4、PC、Switch 並有 PS5/Xbox Series 原生升級。",
+      "Steam 官方 appdetails：DOOM Eternal，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 425,
+    "name": "毀滅戰士",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "依 doom2016 alias 鎖定 2016 作品；Nintendo 確認 Switch 版，其餘平台待補發行商完整證據。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/DOOM-1276066.html"
+    ],
+    "evidence": [
+      "依 doom2016 alias 鎖定 2016 作品；Nintendo 確認 Switch 版，其餘平台待補發行商完整證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 426,
+    "name": "德軍總部 新血脈",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "官方上市公告列 PC、PS4、Xbox One、Switch。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1056960&l=english&cc=us",
+      "https://bethesda.net/en-US/news/wolfenstein-youngblood-and-cyberpilot-now-available"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Wolfenstein: Youngblood，類型 game，已發行；原生作業系統 PC。",
+      "官方上市公告列 PC、PS4、Xbox One、Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 427,
+    "name": "德軍總部 新巨像",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "官方首發公告列 PC、PS4、Xbox One；語系支援頁另列 Switch。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=612880&l=english&cc=us",
+      "https://bethesda.net/en-US/news/wolfenstein-ii-the-new-colossus-revealed",
+      "https://hilfe.bethesda.net/app/answers/detail/a_id/40198/~/welche-sprachen-werden-von-wolfenstein-ii%253A-the-new-colossus-unterst%25C3%25BCtzt%253F"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Wolfenstein II: The New Colossus，類型 game，已發行；原生作業系統 PC。",
+      "官方首發公告列 PC、PS4、Xbox One；語系支援頁另列 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 428,
+    "name": "古墓奇兵 暗影",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=750920&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Shadow of the Tomb Raider: Definitive Edition，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 429,
+    "name": "古墓奇兵 崛起",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=391220&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Rise of the Tomb Raider™，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 430,
+    "name": "古墓奇兵",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Switch 2",
+    "platformNote": "alias 指 2013 重啟作；已確認 Definitive Edition 的 Switch/Switch 2 已發行。既有 PC/PS4/Xbox 還混有原版與 Definitive Edition，主機世代待補完整官方證據。",
+    "sources": [
+      "https://www.tombraider.com/news/video-games/tomb-raider-definitive-edition-available-now-on-nintendo-switch-tm-and"
+    ],
+    "evidence": [
+      "alias 指 2013 重啟作；已確認 Definitive Edition 的 Switch/Switch 2 已發行。既有 PC/PS4/Xbox 還混有原版與 Definitive Edition，主機世代待補完整官方證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Switch 2",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 431,
+    "name": "古墓奇兵 重啟三部曲",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "官方存在 Definitive Survivor Trilogy 合輯；僅確認 Xbox One 商品，原 PC 欄是否指三作個別 PC 版而非同一合輯尚不清楚，暫保留不直接認證。",
+    "sources": [
+      "https://news.xbox.com/en-us/2021/03/17/tomb-raider-definitive-survivor-trilogy-is-now-available-for-xbox-one-and-xbox-series-xs/"
+    ],
+    "evidence": [
+      "官方存在 Definitive Survivor Trilogy 合輯；僅確認 Xbox One 商品，原 PC 欄是否指三作個別 PC 版而非同一合輯尚不清楚，暫保留不直接認證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 432,
+    "name": "正當防衛4",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=517630&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Just Cause 4 Reloaded，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 433,
+    "name": "正當防衛3",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=225540&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Just Cause™ 3，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 434,
+    "name": "瘋狂麥斯",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=234140&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Mad Max，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 435,
+    "name": "黑道聖徒 重啟版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "2022 重啟版；官方發表清楚列這五個平台，實際發行日期不使用已延期的初次公告日期。",
+    "sources": [
+      "https://saintsrow.com/news/welcome-to-santo-ileso"
+    ],
+    "evidence": [
+      "2022 重啟版；官方發表清楚列這五個平台，實際發行日期不使用已延期的初次公告日期。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 436,
+    "name": "看門狗 自由軍團",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=2239550&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Watch Dogs®: Legion，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 437,
+    "name": "看門狗2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=447040&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Watch_Dogs® 2，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 438,
+    "name": "看門狗",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=243470&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Watch_Dogs™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 439,
+    "name": "極地戰嚎5",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "官方發行公告指 PC、PS4、Xbox One，PS4 Pro/One X 為同代機型。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=552520&l=english&cc=us",
+      "https://news.ubisoft.com/en-us/article/4LWnSyXtFmpiPljoXRrAMl/an-update-on-far-cry-5-and-the-crew-2"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Far Cry® 5，類型 game，已發行；原生作業系統 PC。",
+      "官方發行公告指 PC、PS4、Xbox One，PS4 Pro/One X 為同代機型。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 440,
+    "name": "極地戰嚎 野蠻紀元",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "官方商店標題明列 PS4、Xbox One、PC。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=371660&l=english&cc=us",
+      "https://store.ubisoft.com/us/far-cry-primal/56c4947a88a7e300458b45e8.html?lang=en_US"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Far Cry® Primal，類型 game，已發行；原生作業系統 PC。",
+      "官方商店標題明列 PS4、Xbox One、PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 441,
+    "name": "刺客任務3",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2/Mac/iOS",
+    "platformNote": "HITMAN 3 現整合為 World of Assassination；Switch 為雲端版，排除原生平台欄，Switch 2 為獨立版本。",
+    "sources": [
+      "https://ioi.dk/hitman/patch-notes/2026/game-update-3-280"
+    ],
+    "evidence": [
+      "HITMAN 3 現整合為 World of Assassination；Switch 為雲端版，排除原生平台欄，Switch 2 為獨立版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 442,
+    "name": "刺客任務2",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "鎖定 2018 年 HITMAN 2，Warner 官方產品頁列 PC、PS4、Xbox One；非 2002 Silent Assassin。",
+    "sources": [
+      "https://www.warnerbros.it/gioco/genere-avventura/hitman-2/"
+    ],
+    "evidence": [
+      "鎖定 2018 年 HITMAN 2，Warner 官方產品頁列 PC、PS4、Xbox One；非 2002 Silent Assassin。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 443,
+    "name": "刺客任務",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "依 alias 鎖定 2016 HITMAN；Square Enix 官方公告證實 Windows/PS4/Xbox One。Mac/Linux 的獨立移植證據尚未完整擷取，不宣稱全平台已完成。",
+    "sources": [
+      "https://www.jp.square-enix.com/company/ja/news/2017/html/9455b8f68208ccc243b2105d9dba6ad7.html"
+    ],
+    "evidence": [
+      "依 alias 鎖定 2016 HITMAN；Square Enix 官方公告證實 Windows/PS4/Xbox One。Mac/Linux 的獨立移植證據尚未完整擷取，不宣稱全平台已完成。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox One",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 444,
+    "name": "冤罪殺機2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=403640&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Dishonored 2，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 445,
+    "name": "冤罪殺機",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=205100&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Dishonored，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 446,
+    "name": "掠食",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=480490&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Prey，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 447,
+    "name": "異塵餘生 新維加斯",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=22380&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Fallout: New Vegas，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 448,
+    "name": "異塵餘生3",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=22300&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Fallout 3，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 449,
+    "name": "異塵餘生 戰略版",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=38420&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Fallout Tactics: Brotherhood of Steel，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 450,
+    "name": "上古卷軸4 遺忘之都",
+    "status": "unresolved",
+    "platform": "PC/PS3/Xbox",
+    "platformNote": "原作與 Oblivion Remastered 不同；本次 Steam 精確查詢優先返回 Remastered，未以重製版平台覆寫原作。PS3/Xbox 世代仍須原作官方產品頁補證。",
+    "sources": [
+      "https://store.steampowered.com/api/storesearch/?term=elder%20scrolls%204%20oblivion&l=english&cc=us"
+    ],
+    "evidence": [
+      "原作與 Oblivion Remastered 不同；本次 Steam 精確查詢優先返回 Remastered，未以重製版平台覆寫原作。PS3/Xbox 世代仍須原作官方產品頁補證。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 451,
+    "name": "上古卷軸3 晨風",
+    "status": "partial",
+    "platform": "PC/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=22320&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：The Elder Scrolls III: Morrowind® Game of the Year Edition，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 452,
+    "name": "上古卷軸 Online 高島",
+    "status": "partial",
+    "platform": "PC/Mac/PS5/PS4/Xbox",
+    "platformNote": "High Isle 為 ESO 章節；官方確認 PC/Mac 及 Xbox、PlayStation，但本來源未拆出主機世代，維持部分核對。Stadia 已不列原生平台。",
+    "sources": [
+      "https://help.elderscrollsonline.com/app/answers/detail/a_id/54924/~/when-does-the-elder-scrolls-online%3A-high-isle-chapter-release%3F"
+    ],
+    "evidence": [
+      "High Isle 為 ESO 章節；官方確認 PC/Mac 及 Xbox、PlayStation，但本來源未拆出主機世代，維持部分核對。Stadia 已不列原生平台。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mac/PS5/PS4/Xbox",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 453,
+    "name": "無主之地2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=49520&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Borderlands 2，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 454,
+    "name": "無主之地 前傳",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=261640&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Borderlands: The Pre-Sequel，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 455,
+    "name": "小緹娜的奇幻之地",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1286680&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Tiny Tina's Wonderlands，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 456,
+    "name": "戰神3 重製版",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "III Remastered 官方平台為 PS4。",
+    "sources": [
+      "https://www.playstation.com/es-es/games/god-of-war-iii-remastered/"
+    ],
+    "evidence": [
+      "III Remastered 官方平台為 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 457,
+    "name": "戰神 升天",
+    "status": "verified",
+    "platform": "PS3",
+    "platformNote": "Ascension 為 PS3 作品；不以串流服務當成 PS4/PS5 原生版。",
+    "sources": [
+      "https://blog.playstation.com/2012/06/04/e3-2012-god-of-war-ascension-unleashes-on-ps3-next-march/"
+    ],
+    "evidence": [
+      "Ascension 為 PS3 作品；不以串流服務當成 PS4/PS5 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 458,
+    "name": "地平線 山之呼喚",
+    "status": "verified",
+    "platform": "PS5",
+    "platformNote": "PS5 版必須搭配 PS VR2；不是普通螢幕遊戲。",
+    "sources": [
+      "https://www.playstation.com/en-gb/games/horizon-call-of-the-mountain/"
+    ],
+    "evidence": [
+      "PS5 版必須搭配 PS VR2；不是普通螢幕遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 459,
+    "name": "最後生還者 重製版",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "依 Remastered alias 指 2014 PS4 版，勿混入 PS5/PC 的 Part I。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/the-last-of-us-remastered/"
+    ],
+    "evidence": [
+      "依 Remastered alias 指 2014 PS4 版，勿混入 PS5/PC 的 Part I。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 460,
+    "name": "秘境探險 奈森德瑞克合輯",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "奈森德瑞克合輯為 PS4 版；勿與 PC 的盜賊傳奇合輯混淆。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection/"
+    ],
+    "evidence": [
+      "官方商品頁標示 PS4，合輯內容為系列前三作。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 461,
+    "name": "漫威金鋼狼",
+    "status": "verified",
+    "platform": "PS5",
+    "platformNote": "官方公布 PS5 版發行日為 2026-09-15。",
+    "sources": [
+      "https://blog.playstation.com/2026/06/02/marvels-wolverine-new-gameplay-story-details-from-state-of-play/"
+    ],
+    "evidence": [
+      "官方公布 PS5 版發行日為 2026-09-15。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "released",
+    "releaseDate": "2026-09-15"
+  },
+  {
+    "auditIndex": 462,
+    "name": "死亡擱淺 導演剪輯版",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Mac/iOS/iPadOS",
+    "platformNote": "Apple 版需符合官方裝置需求；導演剪輯版不含原版 PS4。",
+    "sources": [
+      "https://www.kojimaproductions.jp/en/death-stranding-dc",
+      "https://store.steampowered.com/api/appdetails?appids=1850570&l=english&cc=us"
+    ],
+    "evidence": [
+      "官方產品頁列 PS5、PC、iPhone、iPad、Mac 與 Xbox Series X|S。",
+      "Steam 官方 appdetails：DEATH STRANDING DIRECTOR'S CUT，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 463,
+    "name": "對馬戰鬼 導演剪輯版",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "導演剪輯版同時有 PS4、PS5 與 Windows PC 版本。",
+    "sources": [
+      "https://blog.playstation.com/2024/04/17/ghost-of-tsushima-directors-cut-pc-cross-play-and-system-requirements-revealed/",
+      "https://blog.playstation.com/2021/07/01/ghost-of-tsushima-directors-cut-arrives-on-ps5-and-ps4-consoles-on-august-20/comment-page-2/",
+      "https://store.steampowered.com/api/appdetails?appids=2215430&l=english&cc=us"
+    ],
+    "evidence": [
+      "PlayStation 公布 PS4/PS5 導演剪輯版，並公布 Windows PC 版。",
+      "Steam 官方 appdetails：Ghost of Tsushima DIRECTOR'S CUT，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 464,
+    "name": "血源詛咒 老獵人",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "The Old Hunters 為 PS4 Bloodborne 的擴充內容，需要本篇。",
+    "sources": [
+      "https://store.playstation.com/en-us/product/UP9000-CUSA00900_00-SPEXPANSIONDLC03"
+    ],
+    "evidence": [
+      "The Old Hunters 為 PS4 Bloodborne 的擴充內容，需要本篇。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 465,
+    "name": "往日不再",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "PS4/PC 為原版；PS5 為 2025-04-25 發行的 Days Gone Remastered。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1259420&l=english&cc=us",
+      "https://www.playstation.com/en-us/games/days-gone/",
+      "https://blog.playstation.com/?p=401371"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Days Gone，類型 game，已發行；原生作業系統 PC。",
+      "PS4/PC 為原版；PS5 為 2025-04-25 發行的 Days Gone Remastered。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 466,
+    "name": "直到黎明",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "PS4 為 2015 原版；PS5/PC 為 2024 重製版，兩者區分。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/until-dawn/",
+      "https://store.steampowered.com/api/appdetails?appids=2172010&l=english&cc=us"
+    ],
+    "evidence": [
+      "PS4 為 2015 原版；PS5/PC 為 2024 重製版，兩者區分。",
+      "Steam 官方 appdetails：Until Dawn™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 467,
+    "name": "底特律 變人",
+    "status": "verified",
+    "platform": "PC/PS4",
+    "platformNote": "PS4 原生版及 Steam Windows 版；PS5 向下相容不另列。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/detroit-become-human/",
+      "https://store.steampowered.com/app/1222140/",
+      "https://store.steampowered.com/api/appdetails?appids=1222140&l=english&cc=us"
+    ],
+    "evidence": [
+      "PS4 原生版及 Steam Windows 版；PS5 向下相容不另列。",
+      "Steam 官方 appdetails：Detroit: Become Human，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 468,
+    "name": "暴雨殺機",
+    "status": "verified",
+    "platform": "PC/PS4/PS3",
+    "platformNote": "PS3 原作、PS4 移植和 Steam Windows 版。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=960910&l=english&cc=us",
+      "https://blog.playstation.com/2016/03/01/heavy-rain-joins-beyond-two-souls-on-ps4-today/"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Heavy Rain，類型 game，已發行；原生作業系統 PC。",
+      "PS3 原作、PS4 移植和 Steam Windows 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 469,
+    "name": "超能殺機 兩個靈魂",
+    "status": "partial",
+    "platform": "PC/PS4",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=960990&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Beyond: Two Souls，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 470,
+    "name": "重力異想世界",
+    "status": "verified",
+    "platform": "PS Vita/PS4",
+    "platformNote": "原版為 PS Vita；PS4 為 Gravity Rush Remastered。",
+    "sources": [
+      "https://blog.playstation.com/2015/09/15/gravity-rush-remastered-coming-to-ps4-on-february-9th-2016/"
+    ],
+    "evidence": [
+      "原版為 PS Vita；PS4 為 Gravity Rush Remastered。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 471,
+    "name": "重力異想世界完結篇",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方 Gravity Rush 2 商品頁為 PS4。",
+    "sources": [
+      "https://www.playstation.com/en-nz/games/gravity-rush-2/"
+    ],
+    "evidence": [
+      "官方 Gravity Rush 2 商品頁為 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 472,
+    "name": "Knack",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方商店 Platform 為 PS4。",
+    "sources": [
+      "https://store.playstation.com/de-de/product/EP9000-CUSA00006_00-KNACK00000000000/"
+    ],
+    "evidence": [
+      "官方商店 Platform 為 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 473,
+    "name": "Knack 2",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方商品頁為 PS4，PS5 為相容遊玩。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/knack-2/"
+    ],
+    "evidence": [
+      "官方商品頁為 PS4，PS5 為相容遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 474,
+    "name": "拉捷特與克拉克 時空裂縫",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "官方 PS5 商品頁及 Steam Windows 版。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/",
+      "https://store.steampowered.com/app/1895880/",
+      "https://store.steampowered.com/api/appdetails?appids=1895880&l=english&cc=us"
+    ],
+    "evidence": [
+      "官方 PS5 商品頁及 Steam Windows 版。",
+      "Steam 官方 appdetails：Ratchet & Clank: Rift Apart，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 475,
+    "name": "拉捷特與克拉克",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "依 alias 鎖定 2016 年重啟版；PS5 以向下相容執行，非 PC 版。",
+    "sources": [
+      "https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000"
+    ],
+    "evidence": [
+      "官方商店平台欄為 PS4，2016-04-12 發行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 476,
+    "name": "小小大星球3",
+    "status": "verified",
+    "platform": "PS4/PS3",
+    "platformNote": "官方上市公告確認 PS3、PS4 兩版；原清單漏列 PS3。",
+    "sources": [
+      "https://blog.playstation.com/2014/11/17/littlebigplanet-3-out-now-on-ps4-and-ps3/comment-page-2/"
+    ],
+    "evidence": [
+      "官方上市公告確認 PS3、PS4 兩版；原清單漏列 PS3。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 477,
+    "name": "夢境",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方 Available on 明列 PS4。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/dreams/"
+    ],
+    "evidence": [
+      "官方 Available on 明列 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 478,
+    "name": "GT Sport",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方稱 PS4 專屬；線上服務於 2024-01-31 結束。",
+    "sources": [
+      "https://www.playstation.com/en-au/legal/gameservers/"
+    ],
+    "evidence": [
+      "官方稱 PS4 專屬；線上服務於 2024-01-31 結束。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 479,
+    "name": "MLB The Show",
+    "status": "unresolved",
+    "platform": "PS5/PS4/Xbox/Switch",
+    "platformNote": "條目僅為系列名稱，無年份。官方 MLB The Show 26 為 PS5/Series/Switch，不能把 26 代平台套到跨年度系列或舊作。",
+    "sources": [
+      "https://www.playstation.com/en-us/support/games/mlb-the-show-26-support/"
+    ],
+    "evidence": [
+      "條目僅為系列名稱，無年份。官方 MLB The Show 26 為 PS5/Series/Switch，不能把 26 代平台套到跨年度系列或舊作。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 480,
+    "name": "惡名昭彰 次子",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方商品頁明列 PS4。",
+    "sources": [
+      "https://www.playstation.com/en-gb/games/infamous-second-son/"
+    ],
+    "evidence": [
+      "官方商品頁明列 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 481,
+    "name": "惡名昭彰 破曉",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方發表為 PS4 版。",
+    "sources": [
+      "https://blog.playstation.com/2014/06/09/infamous-first-light-coming-to-ps4-this-august/"
+    ],
+    "evidence": [
+      "官方發表為 PS4 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 482,
+    "name": "教團1886",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方商品頁明列 PS4。",
+    "sources": [
+      "https://www.playstation.com/en-gb/games/the-order-1886/"
+    ],
+    "evidence": [
+      "官方商品頁明列 PS4。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 483,
+    "name": "殺戮地帶 闇影墮落",
+    "status": "verified",
+    "platform": "PS4",
+    "platformNote": "官方商店明列 PS4；線上伺服器於 2022-08-12 關閉。",
+    "sources": [
+      "https://store.playstation.com/fr-fr/concept/202335"
+    ],
+    "evidence": [
+      "官方商店明列 PS4；線上伺服器於 2022-08-12 關閉。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 484,
+    "name": "超級瑪利歐 3D世界 + 狂怒世界",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方網站為 Switch 的 3D世界＋狂怒世界。",
+    "sources": [
+      "https://supermario3dworld.nintendo.com/"
+    ],
+    "evidence": [
+      "官方網站為 Switch 的 3D世界＋狂怒世界。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 485,
+    "name": "超級瑪利歐派對",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方產品頁標示 Nintendo Switch；Switch Lite 需另外連接 Joy-Con。",
+    "sources": [
+      "https://www.nintendo.com/ph/switch/adfj/index.html"
+    ],
+    "evidence": [
+      "官方產品頁標示 Nintendo Switch；Switch Lite 需另外連接 Joy-Con。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 486,
+    "name": "超級瑪利歐網球 王牌高手",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方產品頁 System: Nintendo Switch。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Mario-Tennis-Aces-1325791.html"
+    ],
+    "evidence": [
+      "官方產品頁 System: Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 487,
+    "name": "超級瑪利歐高爾夫 超級衝衝衝",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方產品頁為 Nintendo Switch。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Mario-Golf-Super-Rush-1923515.html"
+    ],
+    "evidence": [
+      "官方產品頁為 Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 488,
+    "name": "瑪利歐 + 瘋狂兔子 王國之戰",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Ubisoft 官方商品頁指定 Nintendo Switch。",
+    "sources": [
+      "https://www.ubisoft.com/en-us/game/mario-rabbids/kingdom-battle"
+    ],
+    "evidence": [
+      "Ubisoft 官方商品頁指定 Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 489,
+    "name": "密特羅德 生存恐懼",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方網站列 Nintendo Switch 專用。",
+    "sources": [
+      "https://metroid.nintendo.com/dread/"
+    ],
+    "evidence": [
+      "官方網站列 Nintendo Switch 專用。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 490,
+    "name": "密特羅德 Prime 重製版",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方 System 為 Nintendo Switch。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Metroid-Prime-Remastered-2341668.html"
+    ],
+    "evidence": [
+      "官方 System 為 Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 491,
+    "name": "密特羅德 Prime 4",
+    "status": "verified",
+    "platform": "Switch/Switch 2",
+    "platformNote": "Nintendo 公告兩版均於 2025-12-04 發行；Switch 2 Edition 為原生版本。",
+    "sources": [
+      "https://www.nintendo.com/sg/news/article/5cO1ScZizXa224ZCA5J9Yg"
+    ],
+    "evidence": [
+      "Nintendo 公告兩版均於 2025-12-04 發行；Switch 2 Edition 為原生版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 492,
+    "name": "大金剛 熱帶急凍",
+    "status": "verified",
+    "platform": "Switch/Wii U",
+    "platformNote": "官方 Switch 商品頁與 Wii U 手冊確認兩版；Switch 2 僅向下相容。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/donkey-kong-country-tropical-freeze-us/",
+      "https://www.nintendo.com/eu/media/downloads/games_8/emanuals/wii_u_6/donkey_kong_country__tropical_freeze/ElectronicManual_WiiU_DonkeyKongCountryTropicalFreeze_ES.pdf"
+    ],
+    "evidence": [
+      "官方 Switch 商品頁與 Wii U 手冊確認兩版；Switch 2 僅向下相容。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 493,
+    "name": "蓓優妮塔3",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方 System 為 Nintendo Switch。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Bayonetta-3-2045649.html"
+    ],
+    "evidence": [
+      "官方 System 為 Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 494,
+    "name": "蓓優妮塔2",
+    "status": "verified",
+    "platform": "Switch/Wii U",
+    "platformNote": "官方保留 Wii U 與 Switch 各版頁面；Wii U 數位版已停售。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Bayonetta-2-1313750.html",
+      "https://www.nintendo.com/de-de/Spiele/Wii-U-Spiele/Bayonetta-2-765382.html"
+    ],
+    "evidence": [
+      "官方保留 Wii U 與 Switch 各版頁面；Wii U 數位版已停售。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 495,
+    "name": "蓓優妮塔",
+    "status": "partial",
+    "platform": "Switch/PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Switch、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=460790&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Bayonetta，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Switch/PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 496,
+    "name": "異界鎖鏈",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Nintendo 官方產品頁為 Switch 版 ASTRAL CHAIN。",
+    "sources": [
+      "https://www.nintendo.com/jp/switch/ab48a/index.html"
+    ],
+    "evidence": [
+      "Nintendo 官方產品頁為 Switch 版 ASTRAL CHAIN。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 497,
+    "name": "魔兵驚天錄",
+    "status": "unresolved",
+    "platform": "Switch/PC/PS4",
+    "platformNote": "中文名稱「魔兵驚天錄」與 alias「the wonderful 101」指向衝突；Steam 查到 The Wonderful 101: Remastered，不能據此認證此中文條目。",
+    "sources": [
+      "https://store.steampowered.com/api/storesearch/?term=the%20wonderful%20101&l=english&cc=us"
+    ],
+    "evidence": [
+      "中文名稱「魔兵驚天錄」與 alias「the wonderful 101」指向衝突；Steam 查到 The Wonderful 101: Remastered，不能據此認證此中文條目。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 498,
+    "name": "神奇101 重製版",
+    "status": "partial",
+    "platform": "Switch/PC/PS4",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Switch、PS4 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1190400&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：The Wonderful 101: Remastered，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Switch/PC/PS4",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 499,
+    "name": "漆彈大作戰",
+    "status": "verified",
+    "platform": "Wii U",
+    "platformNote": "依未帶數字的 Splatoon 原作核對為 Wii U；官方網路遊玩已於 2024-04-08 結束。",
+    "sources": [
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/15322/~/splatoon-splatnet-overview"
+    ],
+    "evidence": [
+      "依未帶數字的 Splatoon 原作核對為 Wii U；官方網路遊玩已於 2024-04-08 結束。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 500,
+    "name": "1-2-Switch",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品頁標為 Nintendo Switch 軟體。",
+    "sources": [
+      "https://www.nintendo.com/jp/switch/aacca/products/soft.html"
+    ],
+    "evidence": [
+      "官方商品頁標為 Nintendo Switch 軟體。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 501,
+    "name": "Nintendo Switch Sports",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方網站標示 Nintendo Switch；Switch 2 相容不當成獨立原生版本。",
+    "sources": [
+      "https://nintendoswitchsports.nintendo.com/en/"
+    ],
+    "evidence": [
+      "官方網站標示 Nintendo Switch；Switch 2 相容不當成獨立原生版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 502,
+    "name": "腦鍛鍊",
+    "status": "partial",
+    "platform": "Switch",
+    "platformNote": "已核對 Dr Kawashima 的 Switch 版；原條目名稱只寫腦鍛鍊，無法排除系列或 DS 作品，保留平台待確定版本。",
+    "sources": [
+      "https://www.nintendo.com/fr-be/Jeux/Jeux-Nintendo-Switch/Programme-d-entrainement-cerebral-du-Dr-Kawashima-pour-Nintendo-Switch-1656777.html"
+    ],
+    "evidence": [
+      "已核對 Dr Kawashima 的 Switch 版；原條目名稱只寫腦鍛鍊，無法排除系列或 DS 作品，保留平台待確定版本。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 503,
+    "name": "巫師2 王國刺客",
+    "status": "partial",
+    "platform": "PC/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=20920&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：The Witcher 2: Assassins of Kings Enhanced Edition，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 504,
+    "name": "巫師",
+    "status": "verified",
+    "platform": "PC/Mac",
+    "platformNote": "原作 Enhanced Edition Windows 版及 Mac 版；不是另行開發的重製作品。",
+    "sources": [
+      "https://store.steampowered.com/app/20900/_/?cc=pl&l=english",
+      "https://www.thewitcher.com/us/en/news/49279/the-witcher-enhanced-edition-and-the-witcher-2-assassins-of-kings-mac-system-requirements-update"
+    ],
+    "evidence": [
+      "原作 Enhanced Edition Windows 版及 Mac 版；不是另行開發的重製作品。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 505,
+    "name": "中土世界 戰爭之影",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=356190&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Middle-earth™: Shadow of War™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 506,
+    "name": "中土世界 魔多之影",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=241930&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Middle-earth™: Shadow of Mordor™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 507,
+    "name": "樂高 指環王",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=214510&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：LEGO® The Lord of the Rings™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 508,
+    "name": "蝙蝠俠 阿卡漢騎士",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=208650&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Batman™: Arkham Knight，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 509,
+    "name": "蝙蝠俠 阿卡漢城市",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=200260&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Batman: Arkham City - Game of the Year Edition，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 510,
+    "name": "蝙蝠俠 阿卡漢瘋人院",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=35140&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Batman: Arkham Asylum Game of the Year Edition，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 511,
+    "name": "蝙蝠俠 阿卡漢起源",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=209000&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Batman™: Arkham Origins，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 512,
+    "name": "漫威復仇者聯盟",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方平台 FAQ 確認五種版本；官方支援於 2023-09-30 結束，停售與版本曾發行分開。",
+    "sources": [
+      "https://support.crystald.com/zh-CN/support/solutions/articles/10000010412-platform",
+      "https://support.crystald.com/ja-JP/support/solutions/articles/10000010409-final-update-on-the-future-of-marvel-s-avengers"
+    ],
+    "evidence": [
+      "官方平台 FAQ 確認五種版本；官方支援於 2023-09-30 結束，停售與版本曾發行分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 513,
+    "name": "漫威星際異攻隊",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1088850&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Marvel's Guardians of the Galaxy，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 514,
+    "name": "鋼鐵人VR",
+    "status": "verified",
+    "platform": "PS4/Meta Quest",
+    "platformNote": "PS4 必須 PS VR；Meta Quest 版支援 Quest 2/Pro/3/3S，為獨立 VR 版本。",
+    "sources": [
+      "https://developers.meta.com/horizon/blog/gdc-2023-meta-quest-vr-mr/",
+      "https://www.meta.com/tr-tr/experiences/marvels-iron-man-vr/5017327094985781/"
+    ],
+    "evidence": [
+      "PS4 必須 PS VR；Meta Quest 版支援 Quest 2/Pro/3/3S，為獨立 VR 版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 515,
+    "name": "星際大戰 絕地組織殞落",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1172380&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：STAR WARS Jedi: Fallen Order™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 516,
+    "name": "星際大戰 絕地倖存者",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1774580&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：STAR WARS Jedi: Survivor™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 517,
+    "name": "星際大戰 戰場前線2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1237950&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：STAR WARS™ Battlefront™ II，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 518,
+    "name": "星際大戰 戰場前線",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1237980&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：STAR WARS™ Battlefront，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 519,
+    "name": "戰地風雲1",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1238840&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Battlefield™ 1，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 520,
+    "name": "戰地風雲5",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1238810&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Battlefield™ V，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 521,
+    "name": "戰地風雲 硬仗",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1238880&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Battlefield™ Hardline，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 522,
+    "name": "戰地風雲4",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1238860&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Battlefield 4™，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 523,
+    "name": "泰坦降臨2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1237970&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Titanfall® 2，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 524,
+    "name": "泰坦降臨",
+    "status": "verified",
+    "platform": "PC/Xbox One/Xbox 360",
+    "platformNote": "官方指原作僅有 PC、Xbox One、Xbox 360；已停售不等於從未發行。",
+    "sources": [
+      "https://news.xbox.com/en-us/2013/10/29/titanfall-is-exclusive-to-xbox-one-xbox-360-and-pc/"
+    ],
+    "evidence": [
+      "官方指原作僅有 PC、Xbox One、Xbox 360；已停售不等於從未發行。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 525,
+    "name": "惡魔獵人5",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=601150&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Devil May Cry 5，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 526,
+    "name": "惡魔獵人 HD合輯",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=631510&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Devil May Cry HD Collection，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 527,
+    "name": "惡魔獵人4",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "本次 Steam app 329050 證據僅為 Devil May Cry 4 Special Edition 的 Windows 版；2008 原版與 Special Edition 是不同版本。原列 PS4／Xbox 的版本與世代未完成官方核對，暫保留，不能將 SE 商品當成原作全平台認證。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=329050&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Devil May Cry 4 Special Edition，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；PC 證據指 Special Edition，原版與主機版本尚待補證。"
+  },
+  {
+    "auditIndex": 528,
+    "name": "DmC 惡魔獵人",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=220440&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：DmC: Devil May Cry，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 529,
+    "name": "魔物獵人 物語2",
+    "status": "partial",
+    "platform": "PC/Switch/PS4/Xbox One",
+    "platformNote": "已確認 2025-11-14 新增 Xbox One 版；Xbox Series 新聞有相容遊玩措辭，未逕認證獨立 Series 原生版。Switch/PS4 商品證據仍待補。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1277400&l=english&cc=us",
+      "https://www.capcom-support.com/hc/en-us/articles/23497253676828-Monster-Hunter-Stories-2-Wings-of-Ruin-Frequently-Asked-Questions-XBOX-One",
+      "https://www.youtube.com/watch?v=X1fPU2xM6d4"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Monster Hunter Stories 2: Wings of Ruin，類型 game，已發行；原生作業系統 PC。",
+      "已確認 2025-11-14 新增 Xbox One 版；Xbox Series 新聞有相容遊玩措辭，未逕認證獨立 Series 原生版。Switch/PS4 商品證據仍待補。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch/PS4/Xbox One",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 530,
+    "name": "龍族教義",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "已確認 Dark Arisen 有 PS3、Xbox 360 手冊與 PC 商店，但條目名稱未寫 Dark Arisen，原版與增強版平台混在一起，先保留主欄待完整版本釐清。",
+    "sources": [
+      "https://www.capcom.com/manuals/ddda/",
+      "https://us-store.captown.capcom.com/products/1063125-us"
+    ],
+    "evidence": [
+      "已確認 Dark Arisen 有 PS3、Xbox 360 手冊與 PC 商店，但條目名稱未寫 Dark Arisen，原版與增強版平台混在一起，先保留主欄待完整版本釐清。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 531,
+    "name": "龍族教義2",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Switch 2 版為 2026-10-09 發行的 Dragon's Dogma 2: Dark Arisen（含本篇與擴充）；其餘三版同時獲擴充。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=2054970&l=english&cc=us",
+      "https://captown.capcom.com/en/theaters/dragonsdogma/57",
+      "https://us-store.captown.capcom.com/blogs/news/0000036"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Dragon's Dogma 2，類型 game，已發行；原生作業系統 PC。",
+      "Switch 2 版為 2026-10-09 發行的 Dragon's Dogma 2: Dark Arisen（含本篇與擴充）；其餘三版同時獲擴充。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 532,
+    "name": "快打旋風5",
+    "status": "partial",
+    "platform": "PC/PS4",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=310950&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Street Fighter V，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 533,
+    "name": "快打旋風4",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=21660&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Street Fighter® IV，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 534,
+    "name": "鐵拳7",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=389730&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：TEKKEN 7，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 535,
+    "name": "鐵拳6",
+    "status": "partial",
+    "platform": "PS3/Xbox/PSP",
+    "platformNote": "已由 PlayStation 官方確認 PSP 原作；PS4/PS5 商品是帶回溯、快存的 PSP 模擬版本，不列為原生。PS3 與 Xbox 的原生版本待補官方世代證據。",
+    "sources": [
+      "https://store.playstation.com/de-de/product/EP0700-PPSA07708_00-TEKKEN6000000000"
+    ],
+    "evidence": [
+      "已由 PlayStation 官方確認 PSP 原作；PS4/PS5 商品是帶回溯、快存的 PSP 模擬版本，不列為原生。PS3 與 Xbox 的原生版本待補官方世代證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PS3/Xbox/PSP",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 536,
+    "name": "真人快打11",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=976310&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Mortal Kombat 11，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 537,
+    "name": "真人快打X",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=307780&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Mortal Kombat X，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 538,
+    "name": "我的世界 傳奇",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1928870&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Minecraft Legends，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 539,
+    "name": "模擬市民3",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=47890&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：The Sims™ 3，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 540,
+    "name": "城市 天際線",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=255710&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Cities: Skylines，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 541,
+    "name": "動物園之星",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "PC 版之外，官方確認 Console Edition 已在 PS5 與 Xbox Series X|S 上市。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=703080&l=english&cc=us",
+      "https://www.planetzoogame.com/help-centre/player-guides/staff-and-guests"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Planet Zoo，類型 game，已發行；原生作業系統 PC。",
+      "PC 版之外，官方確認 Console Edition 已在 PS5 與 Xbox Series X|S 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 542,
+    "name": "過山車之星",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=493340&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Planet Coaster，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 543,
+    "name": "侏羅紀世界 進化",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "IP 權利方 Universal 公告確認 PC、PS4、Xbox One；Switch 為 Complete Edition。",
+    "sources": [
+      "https://www.universalproductsexperiences.com/news/life-finds-a-way-to-nintendo-switch-this-november-with-jurassic-world-evolution-complete-edition"
+    ],
+    "evidence": [
+      "IP 權利方 Universal 公告確認 PC、PS4、Xbox One；Switch 為 Complete Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 544,
+    "name": "侏羅紀世界 進化2",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "Frontier 確認 PC 與兩世代主機；Switch 2 的 Complete Edition 於 2026-07-30 發行，並非 Switch 初代版。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1244460&l=english&cc=us",
+      "https://customersupport.frontier.co.uk/hc/en-us/articles/25620115701660-Game-Purchasing-Redemption",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Jurassic-World-Evolution-2-Complete-Edition-3151510.html"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Jurassic World Evolution 2，類型 game，已發行；原生作業系統 PC。",
+      "Frontier 支援文件明確區分 PC、PS5/Series 及 PS4/One。",
+      "Frontier 確認 PC 與兩世代主機；Switch 2 的 Complete Edition 於 2026-07-30 發行，並非 Switch 初代版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 545,
+    "name": "美國卡車模擬",
+    "status": "partial",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=270880&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：American Truck Simulator，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 546,
+    "name": "農場模擬器19",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=787860&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Farming Simulator 19，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 547,
+    "name": "雙人成行",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1426210&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：It Takes Two，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 548,
+    "name": "逃出生天",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1222700&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：A Way Out，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 549,
+    "name": "胡鬧廚房2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=728880&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Overcooked! 2，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 550,
+    "name": "胡鬧廚房",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=448510&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Overcooked，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 551,
+    "name": "胡鬧搬家",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=996770&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Moving Out，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 552,
+    "name": "胡鬧搬家2",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1641700&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Moving Out 2，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 553,
+    "name": "Fall Guys",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch/iOS/Android",
+    "platformNote": "官方確認 PC、PS4/PS5、Xbox、Switch 與行動版；iOS 發行有地區限制，不能承諾所有地區皆可安裝。Xbox 精確世代尚待平台商補證。",
+    "sources": [
+      "https://www.fallguys.com/seasons/season-1",
+      "https://www.fallguys.com/news/fall-guys-mobile?lang=en-US"
+    ],
+    "evidence": [
+      "官方確認 PC、PS4/PS5、Xbox、Switch 與行動版；iOS 發行有地區限制，不能承諾所有地區皆可安裝。Xbox 精確世代尚待平台商補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch/iOS/Android",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 554,
+    "name": "Among Us",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "platformNote": "Innersloth 官方發售公告列 PS4/PS5、Xbox One/Series，另有原版行動端、PC 與 Switch；不混入 Among Us 3D/VR。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=945360&l=english&cc=us",
+      "https://www.innersloth.com/among-us-is-out-now-on-xbox-and-playstation/",
+      "https://www.innersloth.com/pc-and-online-released/",
+      "https://www.innersloth.com/the-upcoming-airship-map-consoles-and-whats-next-%F0%9F%8E%88/"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Among Us，類型 game，已發行；原生作業系統 PC。",
+      "Innersloth 官方發售公告列 PS4/PS5、Xbox One/Series，另有原版行動端、PC 與 Switch；不混入 Among Us 3D/VR。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 555,
+    "name": "人類一敗塗地",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/iOS/Android/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch、iOS、Android 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=477160&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Human Fall Flat，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/iOS/Android/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 556,
+    "name": "Gang Beasts",
+    "status": "partial",
+    "platform": "PC/Mac/Linux/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "開發商現行 FAQ 列 PC/Mac/Linux、PS4/PS5、Xbox Series 與 Switch；Xbox One 舊版是否仍營運、PS5/Series 是否獨立原生版待補商店證據。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=285900&l=english&cc=us",
+      "https://gangbeasts.game/faq",
+      "https://gangbeasts.game/press-pack"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Gang Beasts，類型 game，已發行；原生作業系統 PC、Mac、Linux。",
+      "開發商現行 FAQ 列 PC/Mac/Linux、PS4/PS5、Xbox Series 與 Switch；Xbox One 舊版是否仍營運、PS5/Series 是否獨立原生版待補商店證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux/Switch",
+    "safePlatformNote": "只新增官方確認的 Mac、Linux、Switch；保留原列 Xbox，PS5／Series 的獨立原生版與 Xbox One 世代此次證據不足，不套用。"
+  },
+  {
+    "auditIndex": 557,
+    "name": "糖豆人 終極淘汰賽",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch/iOS/Android",
+    "platformNote": "官方確認 PC、PS4/PS5、Xbox、Switch 與行動版；iOS 發行有地區限制，不能承諾所有地區皆可安裝。Xbox 精確世代尚待平台商補證。",
+    "sources": [
+      "https://www.fallguys.com/seasons/season-1",
+      "https://www.fallguys.com/news/fall-guys-mobile?lang=en-US"
+    ],
+    "evidence": [
+      "官方確認 PC、PS4/PS5、Xbox、Switch 與行動版；iOS 發行有地區限制，不能承諾所有地區皆可安裝。Xbox 精確世代尚待平台商補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch/iOS/Android",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 558,
+    "name": "Pummel Party",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One",
+    "platformNote": "已確認 Steam PC、PS4 原生及 Xbox 商店發行，Xbox Series 相容是否獨立版仍待完整資料。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=880940&l=english&cc=us",
+      "https://store.playstation.com/en-us/concept/10000367",
+      "https://www.xbox.com/es-ES/games/store/pummel-party/9p1v4fpr7nbl"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Pummel Party，類型 game，已發行；原生作業系統 PC。",
+      "已確認 Steam PC、PS4 原生及 Xbox 商店發行，Xbox Series 相容是否獨立版仍待完整資料。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4",
+    "safePlatformNote": "新增已確認 PS4；Xbox 商品存在已確認，但擷取內容未明確顯示原生主機世代，暫不新增 Xbox One。"
+  },
+  {
+    "auditIndex": 559,
+    "name": "Pico Park",
+    "status": "partial",
+    "platform": "PC/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1509960&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：PICO PARK，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 560,
+    "name": "茶杯頭",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=268910&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Cuphead，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 561,
+    "name": "茶杯頭 最後的美食",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1117850&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Cuphead - The Delicious Last Course，類型 dlc，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 562,
+    "name": "小小夢魘",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=424840&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Little Nightmares，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 563,
+    "name": "小小夢魘2",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=860510&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Little Nightmares II，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 564,
+    "name": "Inside",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/iOS",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch、iOS 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=304430&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：INSIDE，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/iOS",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 565,
+    "name": "Limbo",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/iOS/Android/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch、iOS、Android 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=48000&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：LIMBO，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/iOS/Android/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 566,
+    "name": "地獄之刃 賽奴雅的獻祭",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=414340&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Hellblade: Senua's Sacrifice，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 567,
+    "name": "地獄之刃2",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Enhanced 更新及 PS5 版於 2025-08-12 發行。",
+    "sources": [
+      "https://news.xbox.com/en-us/2025/06/25/senuas-saga-hellblade-ii-enhanced-update/",
+      "https://store.steampowered.com/api/appdetails?appids=2461850&l=english&cc=us"
+    ],
+    "evidence": [
+      "Xbox Wire 列 Xbox Series X|S、PC/Steam 與首次登陸 PS5。",
+      "Steam 官方 appdetails：Hellblade II: Senua’s Saga，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 568,
+    "name": "瘟疫傳說 安魂曲",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Switch 是 Cloud Version，需串流，不列原生平台；官方列 PS5、Series、PC。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1182900&l=english&cc=us",
+      "https://www.focus-entmt.com/en/news/a-plague-tale-requiem-releases-october-18-and-unveils-10-minutes-of-new-gameplay"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：A Plague Tale: Requiem，類型 game，已發行；原生作業系統 PC。",
+      "Switch 是 Cloud Version，需串流，不列原生平台；官方列 PS5、Series、PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 569,
+    "name": "地鐵 離鄉",
+    "status": "partial",
+    "platform": "PC/Mac/Linux/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方確認 Xbox One/Series 與 PS5 Complete Edition，Steam 明列 Windows/Mac/Linux；未找到 Switch 原生已發行證據，避免混入 Metro Redux 的 Switch 版。PS4 舊版補證待完成。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=412020&l=english&cc=us",
+      "https://www.metrothegame.com/news/metro-exodus-out-now-on-xbox-series-xs-and-playstation-5"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Metro Exodus，類型 game，已發行；原生作業系統 PC、Mac、Linux。",
+      "官方確認 Xbox One/Series 與 PS5 Complete Edition，Steam 明列 Windows/Mac/Linux；未找到 Switch 原生已發行證據，避免混入 Metro Redux 的 Switch 版。PS4 舊版補證待完成。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Mac/Linux",
+    "safePlatformNote": "保留尚未證實的原列 Switch、PS4；新增 Mac/Linux，並依官方發行公告細分 Xbox One／Series。未取得 Switch 證據不能作為刪除依據。"
+  },
+  {
+    "auditIndex": 570,
+    "name": "地鐵 最後的曙光",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=287390&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Metro: Last Light Redux，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。 Mac/Linux 證據對應 Redux 版，不能當成原始發行版證據。"
+  },
+  {
+    "auditIndex": 571,
+    "name": "地鐵2033",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=286690&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Metro 2033 Redux，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。 Mac/Linux 證據對應 Redux 版，不能當成原始發行版證據。"
+  },
+  {
+    "auditIndex": 572,
+    "name": "生化奇兵 無限",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=8870&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：BioShock Infinite，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 573,
+    "name": "生化奇兵2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=8850&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：BioShock® 2，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 574,
+    "name": "生化奇兵 重製版",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=409710&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：BioShock™ Remastered，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 575,
+    "name": "生化奇兵 合集",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "2K 官方合輯頁確認 Xbox One 與內容包含三作；其他平台官方商品頁尚未逐一擷取，保留為部分核對。",
+    "sources": [
+      "https://store.2k.com/game/buy-bioshock-collection?drm=Xbox"
+    ],
+    "evidence": [
+      "2K 官方合輯頁確認 Xbox One 與內容包含三作；其他平台官方商品頁尚未逐一擷取，保留為部分核對。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox One/Switch",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 576,
+    "name": "傳送門2",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox/Switch/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=620&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Portal 2，類型 game，已發行；原生作業系統 PC、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox/Switch/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 577,
+    "name": "傳送門",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=400&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Portal，類型 game，已發行；原生作業系統 PC、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 578,
+    "name": "傳送門 同伴合集",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方頁說明合集包含 Portal 與 Portal 2，Switch 為此合輯的原生平台。",
+    "sources": [
+      "https://www.nintendo.com/pt-pt/Jogos/Aplicacoes-de-download-da-Nintendo-Switch/Portal-Colecao-de-Companhia-2168991.html"
+    ],
+    "evidence": [
+      "官方頁說明合集包含 Portal 與 Portal 2，Switch 為此合輯的原生平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 579,
+    "name": "半條命 愛莉克斯",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=546560&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Half-Life: Alyx，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 580,
+    "name": "半條命2",
+    "status": "partial",
+    "platform": "PC/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=220&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Half-Life 2，類型 game，已發行；原生作業系統 PC、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 581,
+    "name": "半條命",
+    "status": "partial",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Half-Life，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 582,
+    "name": "戰慄時空",
+    "status": "unresolved",
+    "platform": "PC",
+    "platformNote": "中文戰慄時空是 Half-Life，但 alias 指 Counter-Strike；已確認 Steam 存在兩個不同作品，不以其中任一平台資料冒充身分核對。",
+    "sources": [
+      "https://store.steampowered.com/api/storesearch/?term=counter%20strike&l=english&cc=us",
+      "https://store.steampowered.com/api/appdetails?appids=70&l=english&cc=us"
+    ],
+    "evidence": [
+      "中文戰慄時空是 Half-Life，但 alias 指 Counter-Strike；已確認 Steam 存在兩個不同作品，不以其中任一平台資料冒充身分核對。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 583,
+    "name": "絕對武力 全球攻勢",
+    "status": "partial",
+    "platform": "PC/Mac/Linux/PS3/Xbox 360",
+    "platformNote": "Valve 歷史官方 FAQ 列五種原生平台；本條是 CS:GO，不能以已改名 CS2 的 Steam app730 取代。停止支援和現在可用的功能需另核，故非完整現況認證。",
+    "sources": [
+      "https://blog.counter-strike.net/pt-br/fatos-do-csgo/"
+    ],
+    "evidence": [
+      "Valve 歷史官方 FAQ 列五種原生平台；本條是 CS:GO，不能以已改名 CS2 的 Steam app730 取代。停止支援和現在可用的功能需另核，故非完整現況認證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mac/Linux/PS3/Xbox 360",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 584,
+    "name": "Left 4 Dead 2",
+    "status": "partial",
+    "platform": "PC/Xbox/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=550&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Left 4 Dead 2，類型 game，已發行；原生作業系統 PC、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 585,
+    "name": "Left 4 Dead",
+    "status": "partial",
+    "platform": "PC/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=500&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Left 4 Dead，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 586,
+    "name": "Team Fortress 2",
+    "status": "partial",
+    "platform": "PC/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=440&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Team Fortress 2，類型 game，已發行；原生作業系統 PC、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 587,
+    "name": "Dota",
+    "status": "unresolved",
+    "platform": "PC",
+    "platformNote": "alias 指 Dota1，但 Steam 官方結果為 Dota2/Underlords；Dota1 屬 Warcraft III 自訂地圖，尚缺指明版本及維護者的第一方來源。",
+    "sources": [
+      "https://store.steampowered.com/api/storesearch/?term=dota&l=english&cc=us"
+    ],
+    "evidence": [
+      "alias 指 Dota1，但 Steam 官方結果為 Dota2/Underlords；Dota1 屬 Warcraft III 自訂地圖，尚缺指明版本及維護者的第一方來源。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 588,
+    "name": "文明帝國5",
+    "status": "verified",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=8930&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Sid Meier's Civilization® V，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 589,
+    "name": "文明帝國4",
+    "status": "verified",
+    "platform": "PC/Mac",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=3900&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Sid Meier's Civilization® IV，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 590,
+    "name": "文明帝國3",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=3910&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Sid Meier's Civilization® III Complete，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 591,
+    "name": "全軍破敵 三國",
+    "status": "verified",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=779340&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Total War: THREE KINGDOMS，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 592,
+    "name": "全軍破敵 羅馬2",
+    "status": "verified",
+    "platform": "PC/Mac",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=214950&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Total War: ROME II - Emperor Edition，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 593,
+    "name": "全軍破敵 幕府將軍2",
+    "status": "verified",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=201270&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Total War: SHOGUN 2，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 594,
+    "name": "全軍破敵 拿破崙",
+    "status": "verified",
+    "platform": "PC/Mac",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=34030&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Total War: NAPOLEON – Definitive Edition，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 595,
+    "name": "全軍破敵 中世紀2",
+    "status": "partial",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；尚未取得可排除其他移植版本的完整發行商平台清單，保留 partial。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=4700&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Total War: MEDIEVAL II – Definitive Edition，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 596,
+    "name": "XCOM 2",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/iOS/Android/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox、Switch、iOS、Android 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=268500&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：XCOM® 2，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/iOS/Android/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 597,
+    "name": "XCOM 未知敵人",
+    "status": "partial",
+    "platform": "PC/PS3/Xbox/iOS/Android/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS3、Xbox、iOS、Android 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=200510&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：XCOM: Enemy Unknown，類型 game，已發行；原生作業系統 PC、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS3/Xbox/iOS/Android/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 598,
+    "name": "XCOM 奇美拉小隊",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=882100&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：XCOM®: Chimera Squad，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 599,
+    "name": "全面戰爭模擬器",
+    "status": "partial",
+    "platform": "PC/Xbox/Switch/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Xbox、Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=508440&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Totally Accurate Battle Simulator，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox/Switch/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 600,
+    "name": "Kerbal Space Program",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=220200&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Kerbal Space Program，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 601,
+    "name": "Kerbal Space Program 2",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "已發行為 PC 搶先體驗；官方主機版本說明仍屬未完成計畫，不列作已發行平台。",
+    "sources": [
+      "https://store.steampowered.com/app/954850/",
+      "https://forum.kerbalspaceprogram.com/topic/210187-kerbal-space-program-2-release-into-early-access-feb-24th/",
+      "https://store.steampowered.com/api/appdetails?appids=954850&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 顯示 2023-02-24 搶先體驗；官方主機 FAQ 表示 PS5/Xbox Series 需待 PC 搶先體驗完成。",
+      "Steam 官方 appdetails：Kerbal Space Program 2，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 602,
+    "name": "Factorio",
+    "status": "partial",
+    "platform": "PC/Switch/Mac/Linux",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 Switch 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=427520&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Factorio，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch/Mac/Linux",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 603,
+    "name": "Satisfactory",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "官方商店確認 PC、PS5 與 2025-11-04 發行的 Xbox Series X|S 原生版。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=526870&l=english&cc=us",
+      "https://www.playstation.com/en-us/games/satisfactory/",
+      "https://www.xbox.com/en-US/games/store/satisfactory/9NPR2CG6S95Q"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Satisfactory，類型 game，已發行；原生作業系統 PC。",
+      "PlayStation 商品平台為 PS5；Xbox 商品平台為 Xbox Series X|S，發行日 2025-11-04。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 604,
+    "name": "Dyson Sphere Program",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=1366540&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Dyson Sphere Program，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 605,
+    "name": "缺氧",
+    "status": "verified",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=457140&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Oxygen Not Included，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 606,
+    "name": "綠色地獄",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "官方確認 2024-08-14 加入 PS5/Series；舊 PS4/One 與新世代內容進度不同，Switch 版本仍待獨立官方商品頁補證。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=815370&l=english&cc=us",
+      "https://greenhell-game.com/1268/",
+      "https://greenhell-game.com/609/"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Green Hell，類型 game，已發行；原生作業系統 PC。",
+      "官方確認 2024-08-14 加入 PS5/Series；舊 PS4/One 與新世代內容進度不同，Switch 版本仍待獨立官方商品頁補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 607,
+    "name": "森林",
+    "status": "partial",
+    "platform": "PC/PS4",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=242760&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：The Forest，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 608,
+    "name": "森林之子",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "已確認 Windows 發行；沒有在本次官方查核中找到 PS5 已發行證據。",
+    "sources": [
+      "https://store.steampowered.com/app/1326470/Sons_of_The_Forest/",
+      "https://store.steampowered.com/api/appdetails?appids=1326470&l=english&cc=us"
+    ],
+    "evidence": [
+      "開發商 Steam 頁列 Windows 系統需求與 2024-02-22 發行。",
+      "Steam 官方 appdetails：Sons Of The Forest，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5",
+    "safePlatformNote": "此次只確認 PC，保留未證實的原列 PS5；不能因沒有找到證據就刪除原平台，本筆不套用平台變更。"
+  },
+  {
+    "auditIndex": 609,
+    "name": "Valheim",
+    "status": "verified",
+    "platform": "PC/Mac/Linux/PS5/Xbox Series X|S/Xbox One/Switch 2",
+    "platformNote": "官方現行 FAQ 明列全部七種平台；1.0 於 2026-09-09 加入 PS5/Switch 2。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=892970&l=english&cc=us",
+      "https://valheim.com/faq/",
+      "https://www.valheim.com/news/valheim-has-a-release-date-/"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Valheim，類型 game，已發行；原生作業系統 PC、Mac、Linux。",
+      "官方現行 FAQ 明列全部七種平台；1.0 於 2026-09-09 加入 PS5/Switch 2。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 610,
+    "name": "ARK 生存進化",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch/iOS/Android/Mac",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS5、PS4、Xbox、Switch、iOS、Android 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=346110&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：ARK: Survival Evolved，類型 game，已發行；原生作業系統 PC、Mac。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch/iOS/Android/Mac",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。"
+  },
+  {
+    "auditIndex": 611,
+    "name": "Conan Exiles",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=440900&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Conan Exiles Enhanced，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 612,
+    "name": "7 Days to Die",
+    "status": "partial",
+    "platform": "PC/Mac/Linux/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "新 Console Edition 已確認 PS5/Series 原生版；舊 PS4/Xbox One 為獨立舊版本，內容不與新版等同；舊版主機資料仍待完整補證。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=251570&l=english&cc=us",
+      "https://store.playstation.com/en-us/concept/10008451/",
+      "https://www.xbox.com/es-ES/games/store/7-days-to-die-console-edition-game-preview/9P6DWL7R6NTL"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：7 Days to Die，類型 game，已發行；原生作業系統 PC、Mac、Linux。",
+      "新 Console Edition 已確認 PS5/Series 原生版；舊 PS4/Xbox One 為獨立舊版本，內容不與新版等同；舊版主機資料仍待完整補證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Mac/Linux/PS5/Xbox Series X|S",
+    "safePlatformNote": "新增 Steam 明列 Mac/Linux 與新 Console Edition 的 PS5／Series；保留未完整補證的原列 PS4／Xbox，不把舊 Xbox 逕改 Xbox One。"
+  },
+  {
+    "auditIndex": 613,
+    "name": "Rust",
+    "status": "partial",
+    "platform": "PC/Mac/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "PC 與 Console Edition 分開；官方已推出 PS5/Series 原生版。PS4/Xbox One 為舊主機版，線上服務狀態尚待進一步核對。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=252490&l=english&cc=us",
+      "https://rust.double11.com/faq",
+      "https://rust.double11.com/eula",
+      "https://rust.double11.com/news/dev-blog-38"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Rust，類型 game，已發行；原生作業系統 PC、Mac。",
+      "PC 與 Console Edition 分開；官方已推出 PS5/Series 原生版。PS4/Xbox One 為舊主機版，線上服務狀態尚待進一步核對。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mac/PS5/PS4/Xbox Series X|S/Xbox One",
+    "safePlatformNote": "僅套用來源支持的新增／世代細分；其餘原列平台保留，partial 不代表完整平台認證。 PS4/Xbox One 是歷史原生版，現況服務尚未認證；官方 FAQ 與原生新版開發公告共同支持 PS5/Series。"
+  },
+  {
+    "auditIndex": 614,
+    "name": "DayZ",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox",
+    "platformNote": "Steam 證據已確認本次所列桌面作業系統；原列 PS4、Xbox 尚未逐項補齊官方版本證據，予以保留，不認證全平台。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=221100&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：DayZ，類型 game，已發行；原生作業系統 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox",
+    "safePlatformNote": "維持原平台；partial 不代表原列每個平台均已證實。"
+  },
+  {
+    "auditIndex": 615,
+    "name": "Project Zomboid",
+    "status": "verified",
+    "platform": "PC/Mac/Linux",
+    "platformNote": "官方商店確認已發行的桌面原生版本。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=108600&l=english&cc=us"
+    ],
+    "evidence": [
+      "Steam 官方 appdetails：Project Zomboid，類型 game，已發行；原生作業系統 PC、Mac、Linux。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 616,
+    "name": "瑪利歐激戰前鋒 戰鬥聯賽",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品資訊標 Nintendo Switch 軟體。",
+    "sources": [
+      "https://www.nintendo.com/jp/switch/awn6a/products/soft.html"
+    ],
+    "evidence": [
+      "官方商品資訊標 Nintendo Switch 軟體。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 617,
+    "name": "薩爾達無雙 海拉魯全明星",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "依 definitive alias 為 Switch Definitive Edition，非 Wii U 原版或 3DS Legends。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/hyrule-warriors-definitive-edition-switch/"
+    ],
+    "evidence": [
+      "依 definitive alias 為 Switch Definitive Edition，非 Wii U 原版或 3DS Legends。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 618,
+    "name": "薩爾達傳說 無雙",
+    "status": "unresolved",
+    "platform": "Switch",
+    "platformNote": "未標版本：Hyrule Warriors 原作 Wii U、Legends 3DS、Definitive Edition Switch 為不同版本；且另有明確 Definitive 條目，不能將本條直接當 Switch 版。",
+    "sources": [
+      "https://www.nintendo.com/de-de/Spiele/Wii-U-Spiele/Hyrule-Warriors-891849.html",
+      "https://www.nintendo.com/fr-fr/Jeux/Jeux-Nintendo-Switch/Hyrule-Warriors-Definitive-Edition-1325999.html"
+    ],
+    "evidence": [
+      "未標版本：Hyrule Warriors 原作 Wii U、Legends 3DS、Definitive Edition Switch 為不同版本；且另有明確 Definitive 條目，不能將本條直接當 Switch 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 619,
+    "name": "星之卡比 新星同盟",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方頁明示 Nintendo Switch 專用。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-Star-Allies-1233956.html"
+    ],
+    "evidence": [
+      "官方頁明示 Nintendo Switch 專用。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 620,
+    "name": "星之卡比 Wii 豪華版",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Deluxe 是 Switch 版，名稱中的 Wii 不代表本版本平台。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Kirby-s-Return-to-Dream-Land-Deluxe-2267334.html"
+    ],
+    "evidence": [
+      "Deluxe 是 Switch 版，名稱中的 Wii 不代表本版本平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 621,
+    "name": "星之卡比 機械星球",
+    "status": "verified",
+    "platform": "Nintendo 3DS",
+    "platformNote": "機械星球為 Nintendo 3DS 遊戲，非 Switch 版。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-3DS-games/Kirby-Planet-Robobot-1091342.html"
+    ],
+    "evidence": [
+      "Nintendo 明列 System: Nintendo 3DS。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 622,
+    "name": "新超級瑪利歐兄弟U 豪華版",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方商品頁為 Nintendo Switch 的 U Deluxe。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/new-super-mario-bros-u-deluxe-us/"
+    ],
+    "evidence": [
+      "官方商品頁為 Nintendo Switch 的 U Deluxe。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 623,
+    "name": "世界遊戲大全51",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方產品頁指 Nintendo Switch 的 51 款桌上遊戲。",
+    "sources": [
+      "https://www.nintendo.com/ph/switch/as7t/index.html"
+    ],
+    "evidence": [
+      "官方產品頁指 Nintendo Switch 的 51 款桌上遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 624,
+    "name": "寶可夢 隨樂拍",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方網站明示 New Pokémon Snap for Nintendo Switch。",
+    "sources": [
+      "https://newpokemonsnap.pokemon.com/en-us/"
+    ],
+    "evidence": [
+      "官方網站明示 New Pokémon Snap for Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 625,
+    "name": "寶可夢 探險尋寶",
+    "status": "verified",
+    "platform": "Switch/iOS/Android",
+    "platformNote": "官方 FAQ 明列 Nintendo Switch、iOS、Android。",
+    "sources": [
+      "https://support.pokemon.com/hc/en-us/articles/18698646239124-Pok%C3%A9mon-Quest-Frequently-Asked-Questions"
+    ],
+    "evidence": [
+      "官方 FAQ 明列 Nintendo Switch、iOS、Android。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 626,
+    "name": "寶可夢 不可思議迷宮 救援隊DX",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方網站將 Rescue Team DX 明確列為 Switch 重製版。",
+    "sources": [
+      "https://mysterydungeon.pokemon.com/en-gb/"
+    ],
+    "evidence": [
+      "官方網站將 Rescue Team DX 明確列為 Switch 重製版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 627,
+    "name": "聖火降魔錄 無雙 風花雪月",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方產品頁明列 Three Hopes 為 Switch 作品。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Fire-Emblem-Warriors-Three-Hopes-2169456.html"
+    ],
+    "evidence": [
+      "官方產品頁明列 Three Hopes 為 Switch 作品。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 628,
+    "name": "聖火降魔錄 無雙",
+    "status": "verified",
+    "platform": "Switch/New Nintendo 3DS",
+    "platformNote": "官方支援頁分別識別 Switch 和 New Nintendo 3DS 版；不是所有舊 3DS 型號都支援。",
+    "sources": [
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/27737/p/50",
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/27735/p/172/c/950"
+    ],
+    "evidence": [
+      "官方支援頁分別識別 Switch 和 New Nintendo 3DS 版；不是所有舊 3DS 型號都支援。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 629,
+    "name": "勇者鬥惡龍 怪物仙境",
+    "status": "unresolved",
+    "platform": "Switch",
+    "platformNote": "名稱與 alias 只有 Dragon Quest Monsters 系列，缺少副標題；官方商店已有不同作品，不能將 The Dark Prince 或 The Withered World 平台套到系列。",
+    "sources": [
+      "https://store.steampowered.com/api/storesearch/?term=dragon%20quest%20monsters&l=english&cc=us"
+    ],
+    "evidence": [
+      "名稱與 alias 只有 Dragon Quest Monsters 系列，缺少副標題；官方商店已有不同作品，不能將 The Dark Prince 或 The Withered World 平台套到系列。"
+    ],
+    "checkedAt": "2026-10-18"
+  }
+]

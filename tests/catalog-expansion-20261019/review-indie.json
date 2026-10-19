@@ -1,0 +1,857 @@
+[
+  {
+    "game": {
+      "name": "Escape From Duckov",
+      "alias": [
+        "escape from duckov",
+        "逃離鴨科夫",
+        "逃离鸭科夫"
+      ],
+      "platform": "PC/macOS",
+      "icon": "🦆",
+      "category": "撤離射擊RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 104,918 則，正評 84.5%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 16 Oct, 2025 發售本篇。",
+      "sources": [
+        "https://store.steampowered.com/app/3167020/",
+        "https://store.steampowered.com/api/appdetails?appids=3167020&l=english",
+        "https://store.steampowered.com/appreviews/3167020?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://www.duckov.com/news/?language=en-US&news_id=181751016426554216",
+        "https://store.steampowered.com/api/appdetails?appids=3167020&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=3167020&l=schinese"
+      ],
+      "platformNote": "已確認 Windows PC、macOS 原生版本；Mac App Store 是 Mac 版，不等同 iOS/iPadOS。",
+      "platformSources": [
+        "https://store.steampowered.com/app/3167020/",
+        "https://store.steampowered.com/api/appdetails?appids=3167020&l=english",
+        "https://www.duckov.com/news/?language=en-US&news_id=181751016426554216",
+        "https://store.steampowered.com/api/appdetails?appids=3167020&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=3167020&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Team Soda 開發、bilibili 發行的本篇撤離射擊遊戲，非同名攻略 App。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3167020&l=english",
+        "finding": "Steam 正式商品 3167020：Escape From Duckov；開發者 Team Soda；發行商 bilibili；已發售；原生桌機平台 Windows、macOS；未標 Early Access。"
+      },
+      {
+        "source": "https://www.duckov.com/news/?language=en-US&news_id=181751016426554216",
+        "finding": "官方平台公告列 Windows、macOS；發行商店為 Steam、WeGame、Epic、Mac App Store。現行 Steam 商品資料確認 Windows/macOS 已發售。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3167020&l=tchinese",
+        "finding": "同一 Steam 商品 3167020 的官方 繁中商品名為「逃離鴨科夫」，並沿用同一商品平台資料；作精確中文別名。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3167020&l=schinese",
+        "finding": "同一 Steam 商品 3167020 的官方 簡中商品名為「逃离鸭科夫」，並沿用同一商品平台資料；作精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/3167020?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=104918，total_positive=88665，total_negative=16253；計算正評率 84.5%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Escape From Duckov",
+        "escape from duckov",
+        "Steam App 3167020",
+        "逃離鴨科夫",
+        "逃离鸭科夫"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "RV There Yet?",
+      "alias": [
+        "rv there yet?",
+        "我們到了嗎？",
+        "我们到了吗？"
+      ],
+      "platform": "PC/Xbox Series X|S",
+      "icon": "🚐",
+      "category": "多人合作冒險",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 89,665 則，正評 90.1%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 21 Oct, 2025 發售本篇。",
+      "sources": [
+        "https://store.steampowered.com/app/3949040/",
+        "https://store.steampowered.com/api/appdetails?appids=3949040&l=english",
+        "https://store.steampowered.com/appreviews/3949040?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://www.xbox.com/en-ca/games/store/rv-there-yet/9mw79bjvf3qx",
+        "https://store.steampowered.com/api/appdetails?appids=3949040&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=3949040&l=schinese"
+      ],
+      "platformNote": "Windows PC 與 Xbox Series X|S 已發售；Xbox Cloud Gaming 是串流服務，不另計原生平台；未把 Xbox One 算入。",
+      "platformSources": [
+        "https://store.steampowered.com/app/3949040/",
+        "https://store.steampowered.com/api/appdetails?appids=3949040&l=english",
+        "https://www.xbox.com/en-ca/games/store/rv-there-yet/9mw79bjvf3qx",
+        "https://store.steampowered.com/api/appdetails?appids=3949040&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=3949040&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Nuggets Entertainment 的合作露營車遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3949040&l=english",
+        "finding": "Steam 正式商品 3949040：RV There Yet?；開發者 Nuggets Entertainment；發行商 Nuggets Entertainment；已發售；原生桌機平台 Windows；未標 Early Access。"
+      },
+      {
+        "source": "https://www.xbox.com/en-ca/games/store/rv-there-yet/9mw79bjvf3qx",
+        "finding": "Nuggets Entertainment 官方 Xbox 商品列 2026-06-30 發售、Series X|S 最佳化、PC 及購買價格。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3949040&l=tchinese",
+        "finding": "同一 Steam 商品 3949040 的官方 繁中商品名為「我們到了嗎？」，並沿用同一商品平台資料；作精確中文別名。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3949040&l=schinese",
+        "finding": "同一 Steam 商品 3949040 的官方 簡中商品名為「我们到了吗？」，並沿用同一商品平台資料；作精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/3949040?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=89665，total_positive=80814，total_negative=8851；計算正評率 90.1%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "RV There Yet?",
+        "rv there yet?",
+        "Steam App 3949040",
+        "我們到了嗎？",
+        "我们到了吗？"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "My Winter Car",
+      "alias": [
+        "my winter car"
+      ],
+      "platform": "PC",
+      "icon": "🚗",
+      "category": "汽車模擬生存",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 19,581 則，正評 94.1%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 29 Dec, 2025 開始搶先體驗，可購買遊玩，尚非 1.0。",
+      "sources": [
+        "https://store.steampowered.com/app/4164420/",
+        "https://store.steampowered.com/api/appdetails?appids=4164420&l=english",
+        "https://store.steampowered.com/appreviews/4164420?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://www.amistech.com/mwc/"
+      ],
+      "platformNote": "現行 Steam 正式支援 Windows PC；搶先體驗可購買遊玩，未把 Proton 或串流算為原生 Linux/macOS。",
+      "platformSources": [
+        "https://store.steampowered.com/app/4164420/",
+        "https://store.steampowered.com/api/appdetails?appids=4164420&l=english",
+        "https://www.amistech.com/mwc/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Amistech Games 開發的 My Summer Car 續作，獨立商品，非前作模組。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=4164420&l=english",
+        "finding": "Steam 正式商品 4164420：My Winter Car；開發者 Amistech Games；發行商 Amistech Games；已發售；原生桌機平台 Windows；仍標 Early Access。"
+      },
+      {
+        "source": "https://www.amistech.com/mwc/",
+        "finding": "Amistech 官方頁確認這是 My Summer Car 的冬季續作，與同名非官方攻略站區別。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/4164420?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=19581，total_positive=18428，total_negative=1153；計算正評率 94.1%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "My Winter Car",
+        "my winter car",
+        "Steam App 4164420"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Buckshot Roulette",
+      "alias": [
+        "buckshot roulette",
+        "恶魔轮盘"
+      ],
+      "platform": "PC/Linux/Xbox One/Xbox Series X|S",
+      "icon": "🎲",
+      "category": "心理恐怖策略",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 127,628 則，正評 95.1%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 4 Apr, 2024 發售本篇。 移植上市範圍另見平台說明。",
+      "sources": [
+        "https://store.steampowered.com/app/2835570/",
+        "https://store.steampowered.com/api/appdetails?appids=2835570&l=english",
+        "https://store.steampowered.com/appreviews/2835570?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://news.xbox.com/en-us/2026/07/08/buckshot-roulette-xbox-game-pass/",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815562176",
+        "https://store.steampowered.com/api/appdetails?appids=2835570&l=schinese",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365564"
+      ],
+      "platformNote": "Windows PC、Linux、Xbox One、Xbox Series X|S 已確認已發售。PlayStation 與 Nintendo Switch 於 2026-04 官方公告仍在移植認證，但 7 月後續公告只確認 Xbox 上市；缺少截至本輪可判定 PS/Switch 現行上市狀態的第一方證據，故平台整體保留 partial。雲端不算原生移植。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2835570/",
+        "https://store.steampowered.com/api/appdetails?appids=2835570&l=english",
+        "https://news.xbox.com/en-us/2026/07/08/buckshot-roulette-xbox-game-pass/",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815562176",
+        "https://store.steampowered.com/api/appdetails?appids=2835570&l=schinese",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365564"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "partial",
+      "identityType": "specific-game",
+      "identityNote": "Mike Klubnika 開發、CRITICAL REFLEX 發行的 Buckshot Roulette 本篇，排除名稱相似的仿作。"
+    },
+    "remainingReason": "announced-console-release-unconfirmed",
+    "remainingDetails": "PlayStation 與 Nintendo Switch 已於 2026-04 正式公布移植，但後續 2026-07 官方公告只確認 Xbox 上市；仍需 PS/Switch 正式上市公告或可辨識平台、發售狀態的官方商店 SKU，才能確認截至 2026-10-19 的完整平台範圍。查無上市頁面不代表取消。",
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2835570&l=english",
+        "finding": "Steam 正式商品 2835570：Buckshot Roulette；開發者 Mike Klubnika；發行商 CRITICAL REFLEX；已發售；原生桌機平台 Windows、Linux；未標 Early Access。"
+      },
+      {
+        "source": "https://news.xbox.com/en-us/2026/07/08/buckshot-roulette-xbox-game-pass/",
+        "finding": "由開發者與 CRITICAL REFLEX 署名的 Xbox Wire 公告確認 2026-07-08 首次登上主機，Xbox One/Series、Windows 與雲端同步推出。"
+      },
+      {
+        "source": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1828894815562176",
+        "finding": "2026-04-04 官方公告曾預告 PlayStation、Nintendo Switch、Xbox 移植；後續已上市證據確認 Xbox，未將預告的 PS/Switch 誤列已發售。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2835570&l=schinese",
+        "finding": "同一 Steam 商品 2835570 的官方 簡中商品名為「恶魔轮盘」，並沿用同一商品平台資料；作精確中文別名。"
+      },
+      {
+        "source": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1837955055365564",
+        "finding": "重讀 2026-07-14 最新可回讀官方公告，僅明確 Xbox（含 Game Pass）已推出；沒有解答 PS/Switch 截至本輪的上市狀態。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2835570?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=127628，total_positive=121353，total_negative=6275；計算正評率 95.1%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Buckshot Roulette",
+        "buckshot roulette",
+        "Steam App 2835570",
+        "恶魔轮盘"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Mouthwashing",
+      "alias": [
+        "mouthwashing",
+        "缄默祸运"
+      ],
+      "platform": "PC",
+      "icon": "🚀",
+      "category": "劇情心理恐怖",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 39,123 則，正評 95.2%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 26 Sep, 2024 發售本篇。 移植上市範圍另見平台說明。",
+      "sources": [
+        "https://store.steampowered.com/app/2475490/",
+        "https://store.steampowered.com/api/appdetails?appids=2475490&l=english",
+        "https://store.steampowered.com/appreviews/2475490?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466509022",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365096741",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199563028",
+        "https://store.steampowered.com/api/appdetails?appids=2475490&l=schinese"
+      ],
+      "platformNote": "已發售主欄限 Windows PC。PS4、PS5、Xbox Series X|S、Nintendo Switch 為已公布移植；原 2025 時程延後，最新可回讀公告仍在進行，未冒充已上市。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2475490/",
+        "https://store.steampowered.com/api/appdetails?appids=2475490&l=english",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466509022",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365096741",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199563028",
+        "https://store.steampowered.com/api/appdetails?appids=2475490&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Wrong Organ 開發、CRITICAL REFLEX 發行的 2024 年心理恐怖本篇，非免費附加內容 Work In Progress。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2475490&l=english",
+        "finding": "Steam 正式商品 2475490：Mouthwashing；開發者 Wrong Organ；發行商 CRITICAL REFLEX；已發售；原生桌機平台 Windows；未標 Early Access。"
+      },
+      {
+        "source": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466509022",
+        "finding": "2026-02-10 Wrong Organ/CRITICAL REFLEX 公告說 PS5、Switch 實體版與移植仍在進行。"
+      },
+      {
+        "source": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365096741",
+        "finding": "2025-12-19 官方公告明確撤回原定 2025 主機上市窗口，日期尚待確定。"
+      },
+      {
+        "source": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199563028",
+        "finding": "2025-06-10 官方公告列 PS5、Switch，另確認 PS4、Xbox Series X|S 數位移植計畫。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2475490&l=schinese",
+        "finding": "同一 Steam 商品 2475490 的官方 簡中商品名為「缄默祸运」，並沿用同一商品平台資料；作精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2475490?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=39123，total_positive=37239，total_negative=1884；計算正評率 95.2%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Mouthwashing",
+        "mouthwashing",
+        "Steam App 2475490",
+        "缄默祸运"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Look Outside",
+      "alias": [
+        "look outside"
+      ],
+      "platform": "PC",
+      "icon": "👁️",
+      "category": "生存恐怖RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 15,255 則，正評 98.2%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 21 Mar, 2025 發售本篇。",
+      "sources": [
+        "https://store.steampowered.com/app/3373660/",
+        "https://store.steampowered.com/api/appdetails?appids=3373660&l=english",
+        "https://store.steampowered.com/appreviews/3373660?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://influencers.devolverdigital.com/look-outside"
+      ],
+      "platformNote": "發行商平台表及 Steam 均確認 Windows PC 原生版；此紀錄不包含同名研究論文或其他作品。",
+      "platformSources": [
+        "https://store.steampowered.com/app/3373660/",
+        "https://store.steampowered.com/api/appdetails?appids=3373660&l=english",
+        "https://influencers.devolverdigital.com/look-outside"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Francis Coulombe 開發、Devolver Digital 發行的公寓生存恐怖 RPG。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3373660&l=english",
+        "finding": "Steam 正式商品 3373660：Look Outside；開發者 Francis Coulombe；發行商 Devolver Digital；已發售；原生桌機平台 Windows；未標 Early Access。"
+      },
+      {
+        "source": "https://influencers.devolverdigital.com/look-outside",
+        "finding": "發行商 Creator Resources 明列平台 Windows PC、開發者 Francis Coulombe、發售日 2025-03-21。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/3373660?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=15255，total_positive=14985，total_negative=270；計算正評率 98.2%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Look Outside",
+        "look outside",
+        "Steam App 3373660"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "ULTRAKILL",
+      "alias": [
+        "ultrakill"
+      ],
+      "platform": "PC",
+      "icon": "⚡",
+      "category": "高速動作FPS",
+      "catalogPriority": 3,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 247,187 則，正評 97.3%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 3 Sep, 2020 開始搶先體驗，可購買遊玩，尚非 1.0。",
+      "sources": [
+        "https://store.steampowered.com/app/1229490/",
+        "https://store.steampowered.com/api/appdetails?appids=1229490&l=english",
+        "https://store.steampowered.com/appreviews/1229490?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "已確認 Windows PC 搶先體驗版；控制器相容、Steam Deck/Proton 或雲端遊玩不視為額外原生主機或 Linux 版本。",
+      "platformSources": [
+        "https://store.steampowered.com/app/1229490/",
+        "https://store.steampowered.com/api/appdetails?appids=1229490&l=english"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Arsi Hakita Patala 開發、New Blood Interactive 發行的 ULTRAKILL 本篇，非免費 Prelude Demo。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1229490&l=english",
+        "finding": "Steam 正式商品 1229490：ULTRAKILL；開發者 Arsi \"Hakita\" Patala；發行商 New Blood Interactive；已發售；原生桌機平台 Windows；仍標 Early Access。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/1229490?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=247187，total_positive=240627，total_negative=6560；計算正評率 97.3%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "ULTRAKILL",
+        "ultrakill",
+        "Steam App 1229490"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Elin",
+      "alias": [
+        "elin"
+      ],
+      "platform": "PC",
+      "icon": "🌱",
+      "category": "沙盒Roguelike",
+      "catalogPriority": 1,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 9,313 則，正評 93.3%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 1 Nov, 2024 開始搶先體驗，可購買遊玩，尚非 1.0。",
+      "sources": [
+        "https://store.steampowered.com/app/2135150/",
+        "https://store.steampowered.com/api/appdetails?appids=2135150&l=english",
+        "https://store.steampowered.com/appreviews/2135150?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://ylvania.org/elin_dev_e.html"
+      ],
+      "platformNote": "Windows PC 搶先體驗；官方明言未正式支援 Mac 與 ARM Windows，虛擬機 workaround 不作平台證據。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2135150/",
+        "https://store.steampowered.com/api/appdetails?appids=2135150&l=english",
+        "https://ylvania.org/elin_dev_e.html"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Lafrontier 開發的 Elin，是 Elona 後繼作品；不與 Elona 或名稱含 Relink 的遊戲合併。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2135150&l=english",
+        "finding": "Steam 正式商品 2135150：Elin；開發者 Lafrontier；發行商 Lafrontier；已發售；原生桌機平台 Windows；仍標 Early Access。"
+      },
+      {
+        "source": "https://ylvania.org/elin_dev_e.html",
+        "finding": "Lafrontier 官方疑難排解明言 Mac 與 ARM Windows 目前非正式支援；Mac Parallels 的 workaround 不等同原生 Mac 發行。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2135150?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=9313，total_positive=8689，total_negative=624；計算正評率 93.3%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Elin",
+        "elin",
+        "Steam App 2135150"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Caves of Qud",
+      "alias": [
+        "caves of qud"
+      ],
+      "platform": "PC/macOS/Linux/Switch",
+      "icon": "🧬",
+      "category": "科幻RoguelikeRPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 12,754 則，正評 95.0%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 5 Dec, 2024 發售本篇。 移植上市範圍另見平台說明。",
+      "sources": [
+        "https://store.steampowered.com/app/333640/",
+        "https://store.steampowered.com/api/appdetails?appids=333640&l=english",
+        "https://store.steampowered.com/appreviews/333640?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://www.cavesofqud.com/",
+        "https://www.nintendo.com/us/store/products/caves-of-qud-switch/",
+        "https://kitfoxgames.notion.site/Caves-of-Qud-Press-Kit-4d504c02bb4d4791a837c43f6bb0b976",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677829"
+      ],
+      "platformNote": "Windows PC、macOS、Linux 與 Switch 本篇已發售；Switch 2 原生版日期仍未定，Switch 版相容不算原生 Switch 2；手機移植仍開發中。",
+      "platformSources": [
+        "https://store.steampowered.com/app/333640/",
+        "https://store.steampowered.com/api/appdetails?appids=333640&l=english",
+        "https://www.cavesofqud.com/",
+        "https://www.nintendo.com/us/store/products/caves-of-qud-switch/",
+        "https://kitfoxgames.notion.site/Caves-of-Qud-Press-Kit-4d504c02bb4d4791a837c43f6bb0b976",
+        "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677829"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Freehold Games 開發、Kitfox Games 發行的 Caves of Qud 本篇；不把 Diaspora 擴充包當另一款本篇。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=333640&l=english",
+        "finding": "Steam 正式商品 333640：Caves of Qud；開發者 Freehold Games；發行商 Kitfox Games；已發售；原生桌機平台 Windows、macOS、Linux；未標 Early Access。"
+      },
+      {
+        "source": "https://www.cavesofqud.com/",
+        "finding": "遊戲官網列 PC、Linux、Mac 並連結 Nintendo Switch 正式商店。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/caves-of-qud-switch/",
+        "finding": "Nintendo 本篇正式商品頁，對應 Kitfox Games 發行的 Switch 遊戲。"
+      },
+      {
+        "source": "https://kitfoxgames.notion.site/Caves-of-Qud-Press-Kit-4d504c02bb4d4791a837c43f6bb0b976",
+        "finding": "Kitfox 官方 press kit 明列桌機 1.0 於 2024-12-05、Switch 於 2026-02-16，Switch 2 日期仍為問號。"
+      },
+      {
+        "source": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706677829",
+        "finding": "2026-10-15 官方公告再次確認手機移植仍在獨立開發時程，未稱已發售。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/333640?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=12754，total_positive=12120，total_negative=634；計算正評率 95.0%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Caves of Qud",
+        "caves of qud",
+        "Steam App 333640"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Stoneshard",
+      "alias": [
+        "stoneshard",
+        "紫色晶石"
+      ],
+      "platform": "PC/Linux",
+      "icon": "⚔️",
+      "category": "回合制RoguelikeRPG",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 35,913 則，正評 74.7%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 6 Feb, 2020 開始搶先體驗，可購買遊玩，尚非 1.0。",
+      "sources": [
+        "https://store.steampowered.com/app/625960/",
+        "https://store.steampowered.com/api/appdetails?appids=625960&l=english",
+        "https://store.steampowered.com/appreviews/625960?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://stoneshard.com/presskit/sheet.php?p=stoneshard",
+        "https://store.steampowered.com/api/appdetails?appids=625960&l=tchinese"
+      ],
+      "platformNote": "Windows PC、Linux 搶先體驗已可遊玩；以現行官方 PC/Linux 平台表為準，未把歷史主機目標當作已上市，亦非免費 Prologue。",
+      "platformSources": [
+        "https://store.steampowered.com/app/625960/",
+        "https://store.steampowered.com/api/appdetails?appids=625960&l=english",
+        "https://stoneshard.com/presskit/sheet.php?p=stoneshard",
+        "https://store.steampowered.com/api/appdetails?appids=625960&l=tchinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Ink Stains Games 的 Stoneshard 付費本篇，非 Stoneshard: Prologue。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=625960&l=english",
+        "finding": "Steam 正式商品 625960：Stoneshard；開發者 Ink Stains Games；發行商 HypeTrain Digital；已發售；原生桌機平台 Windows、Linux；仍標 Early Access。"
+      },
+      {
+        "source": "https://stoneshard.com/presskit/sheet.php?p=stoneshard",
+        "finding": "Ink Stains Games 官方 factsheet 的 Platforms 僅列 PC/Linux，日期為 2020-02-06；現行 Steam 同列 Windows、Linux 與搶先體驗。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=625960&l=tchinese",
+        "finding": "同一 Steam 商品 625960 的官方 繁中商品名為「紫色晶石」，並沿用同一商品平台資料；作精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/625960?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=35913，total_positive=26825，total_negative=9088；計算正評率 74.7%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Stoneshard",
+        "stoneshard",
+        "Steam App 625960",
+        "紫色晶石"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Songs of Syx",
+      "alias": [
+        "songs of syx",
+        "希克斯之歌"
+      ],
+      "platform": "PC/macOS/Linux",
+      "icon": "🏰",
+      "category": "城市建造策略",
+      "catalogPriority": 1,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 9,451 則，正評 94.2%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 21 Sep, 2020 開始搶先體驗，可購買遊玩，尚非 1.0。",
+      "sources": [
+        "https://store.steampowered.com/app/1162750/",
+        "https://store.steampowered.com/api/appdetails?appids=1162750&l=english",
+        "https://store.steampowered.com/appreviews/1162750?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://songsofsyx.itch.io/songs-of-syx",
+        "https://www.songsofsyx.com/",
+        "https://store.steampowered.com/api/appdetails?appids=1162750&l=schinese"
+      ],
+      "platformNote": "Windows PC、macOS、Linux 原生搶先體驗版；付費版本與落後數月的免費 demo 區分。",
+      "platformSources": [
+        "https://store.steampowered.com/app/1162750/",
+        "https://store.steampowered.com/api/appdetails?appids=1162750&l=english",
+        "https://songsofsyx.itch.io/songs-of-syx",
+        "https://www.songsofsyx.com/",
+        "https://store.steampowered.com/api/appdetails?appids=1162750&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Gamatron 的 Songs of Syx 城邦模擬本篇，非原聲帶或免費 demo 商品。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1162750&l=english",
+        "finding": "Steam 正式商品 1162750：Songs of Syx；開發者 Gamatron AB；發行商 Gamatron AB；已發售；原生桌機平台 Windows、macOS、Linux；仍標 Early Access。"
+      },
+      {
+        "source": "https://songsofsyx.itch.io/songs-of-syx",
+        "finding": "作者官方商店列 Windows、macOS、Linux，並提供三種系統完整付費下載檔；明確標為開發中。"
+      },
+      {
+        "source": "https://www.songsofsyx.com/",
+        "finding": "官方網站連結 Steam、GOG 與作者 itch.io，確認來源為同一作品；免費版本是落後數月的 demo。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1162750&l=schinese",
+        "finding": "同一 Steam 商品 1162750 的官方 簡中商品名為「希克斯之歌」，並沿用同一商品平台資料；作精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/1162750?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=9451，total_positive=8901，total_negative=550；計算正評率 94.2%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Songs of Syx",
+        "songs of syx",
+        "Steam App 1162750",
+        "希克斯之歌"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Bopl Battle",
+      "alias": [
+        "bopl battle"
+      ],
+      "platform": "PC",
+      "icon": "🟢",
+      "category": "多人派對格鬥",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 26,114 則，正評 97.2%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 16 Nov, 2023 發售本篇。 移植上市範圍另見平台說明。",
+      "sources": [
+        "https://store.steampowered.com/app/1686940/",
+        "https://store.steampowered.com/api/appdetails?appids=1686940&l=english",
+        "https://store.steampowered.com/appreviews/1686940?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "https://zapraygames.com/"
+      ],
+      "platformNote": "目前可由官方商品確認的已發售原生版為 Windows PC；Remote Play Together、控制器支援不當作額外主機或手機移植。",
+      "platformSources": [
+        "https://store.steampowered.com/app/1686940/",
+        "https://store.steampowered.com/api/appdetails?appids=1686940&l=english",
+        "https://zapraygames.com/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Johan Grönvall / Zapray Games 的黏液多人格鬥本篇，非 Bopl Battle Demo。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1686940&l=english",
+        "finding": "Steam 正式商品 1686940：Bopl Battle；開發者 Johan Grönvall；發行商 Zapray Games；已發售；原生桌機平台 Windows；未標 Early Access。"
+      },
+      {
+        "source": "https://zapraygames.com/",
+        "finding": "開發者官網以 Bopl Battle 為正式作品並連往 Steam；Steam 商品由 Johan Grönvall 開發、Zapray Games 發行。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/1686940?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=26114，total_positive=25372，total_negative=742；計算正評率 97.2%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Bopl Battle",
+        "bopl battle",
+        "Steam App 1686940"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  },
+  {
+    "game": {
+      "name": "Mage Arena",
+      "alias": [
+        "mage arena"
+      ],
+      "platform": "PC",
+      "icon": "🪄",
+      "category": "語音施法多人對戰",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 20,477 則，正評 90.8%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 24 Jul, 2025 開始搶先體驗，可購買遊玩，尚非 1.0。 移植上市範圍另見平台說明。",
+      "sources": [
+        "https://store.steampowered.com/app/3716600/",
+        "https://store.steampowered.com/api/appdetails?appids=3716600&l=english",
+        "https://store.steampowered.com/appreviews/3716600?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "Windows PC 搶先體驗；語音施法與連線遊玩是遊戲功能，未將同名手機 App、雲端或控制器支援誤列為原生移植。",
+      "platformSources": [
+        "https://store.steampowered.com/app/3716600/",
+        "https://store.steampowered.com/api/appdetails?appids=3716600&l=english"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "jrsjams 開發發行、Steam App 3716600 的 Mage Arena，非 Magic: The Gathering Arena、Mages Arena 或 Tactics Mage Arena。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3716600&l=english",
+        "finding": "Steam 正式商品 3716600：Mage Arena；開發者 jrsjams；發行商 jrsjams；已發售；原生桌機平台 Windows；仍標 Early Access。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/3716600?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=20477，total_positive=18594，total_negative=1883；計算正評率 90.8%。計數範圍包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Mage Arena",
+        "mage arena",
+        "Steam App 3716600"
+      ],
+      "result": "已對 977 筆既有 name、alias、seriesAliases 及 Steam App ID 全量正規化比對，未命中同作；新候選彼此亦無重複。"
+    }
+  }
+]

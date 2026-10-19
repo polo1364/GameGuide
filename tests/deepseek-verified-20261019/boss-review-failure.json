@@ -1,0 +1,11 @@
+{
+  "characters": 50,
+  "headings": [],
+  "html": "<div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：已讀取部分來源，但內容比對失敗或查核格式不完整。本次草稿暫不顯示，請稍後重新生成。</div></div>",
+  "links": [],
+  "steps": 0,
+  "tables": 0,
+  "text": "注意事項\n待確認：已讀取部分來源，但內容比對失敗或查核格式不完整。本次草稿暫不顯示，請稍後重新生成。",
+  "id": "boss-review-failure",
+  "capturedAt": "2026-10-19T15:01:43.171Z"
+}

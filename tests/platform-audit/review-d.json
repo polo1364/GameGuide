@@ -1,0 +1,3075 @@
+[
+  {
+    "auditIndex": 630,
+    "name": "最終幻想7 核心危機 重聚",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "重聚版；非 PSP 原版。",
+    "sources": [
+      "https://www.square-enix-games.com/en_US/home/crisis-core-final-fantasy-vii-reunion-now-available"
+    ],
+    "evidence": [
+      "重聚版；非 PSP 原版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 635,
+    "name": "世界樹的迷宮 起源合集",
+    "status": "verified",
+    "platform": "PC/Switch",
+    "platformNote": "Origins Collection 為 HD 合集。",
+    "sources": [
+      "https://www.atlus.com/etrianorigins/index.html?lang=en"
+    ],
+    "evidence": [
+      "Origins Collection 為 HD 合集。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 637,
+    "name": "太鼓之達人 咚咚雷音祭",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "官方確認新增 PS5、Xbox Series X|S 與 Steam 版本。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/taiko-no-tatsujin-rhythm-festival"
+    ],
+    "evidence": [
+      "官方確認新增 PS5、Xbox Series X|S 與 Steam 版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 638,
+    "name": "太鼓之達人 Nintendo Switch版",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Nintendo Switch 版即 Drum 'n' Fun。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/taiko-no-tatsujin-drum-n-fun/media/4102"
+    ],
+    "evidence": [
+      "Nintendo Switch 版即 Drum 'n' Fun。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 639,
+    "name": "初音未來 Project DIVA MEGA39's",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "MEGA39's / Mega Mix 為 Switch 版；PC 的 Mega Mix+ 是另名增強版。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/hatsune-miku-project-diva-mega-mix-switch/"
+    ],
+    "evidence": [
+      "MEGA39's / Mega Mix 為 Switch 版；PC 的 Mega Mix+ 是另名增強版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 645,
+    "name": "Split Fiction",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Switch 2 原生版已推出。",
+    "sources": [
+      "https://www.ea.com/games/split-fiction/split-fiction/news/out-now-on-nintendo-switch-2"
+    ],
+    "evidence": [
+      "Switch 2 原生版已推出。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 653,
+    "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "官方上市公告列出五類原生平台。",
+    "sources": [
+      "https://www.sega.co.jp/en/release/250221_1.html"
+    ],
+    "evidence": [
+      "官方上市公告列出五類原生平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 655,
+    "name": "Fantasian Neo Dimension",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Switch",
+    "platformNote": "Neo Dimension 與 Apple Arcade 原版 Fantasian 分開。",
+    "sources": [
+      "https://fantasianneodimension.square-enix-games.com/en-us"
+    ],
+    "evidence": [
+      "Neo Dimension 與 Apple Arcade 原版 Fantasian 分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 656,
+    "name": "Visions of Mana",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S",
+    "platformNote": "官方產品頁標示 Windows、PS4、PS5、Xbox Series。",
+    "sources": [
+      "https://mana.square-enix-games.com/en-us"
+    ],
+    "evidence": [
+      "官方產品頁標示 Windows、PS4、PS5、Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 658,
+    "name": "SaGa Emerald Beyond",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch/iOS/Android",
+    "platformNote": "官方列出 PC、Switch、PS4、PS5、iOS 及 Android。",
+    "sources": [
+      "https://www.square-enix-games.com/en_US/home/saga-emerald-beyond-demos-available-now-platform-exclusive-storylines"
+    ],
+    "evidence": [
+      "官方列出 PC、Switch、PS4、PS5、iOS 及 Android。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 661,
+    "name": "Paper Mario: The Thousand-Year Door",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "依既有 Switch 記錄指 2024 重製版；2004 GameCube 原版分開。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/paper-mario-the-thousand-year-door-switch/"
+    ],
+    "evidence": [
+      "依既有 Switch 記錄指 2024 重製版；2004 GameCube 原版分開。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 662,
+    "name": "Mario & Luigi: Brothership",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Switch 2 相容資訊不代表 Switch 2 原生版。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/mario-and-luigi-brothership-switch/"
+    ],
+    "evidence": [
+      "Switch 2 相容資訊不代表 Switch 2 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 663,
+    "name": "The Legend of Zelda: Echoes of Wisdom",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Switch 原生遊戲；Switch 2 可相容遊玩。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-119253/"
+    ],
+    "evidence": [
+      "Switch 原生遊戲；Switch 2 可相容遊玩。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 664,
+    "name": "Princess Peach: Showtime!",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "Switch 2 相容資訊不代表 Switch 2 原生版。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/princess-peach-showtime-switch/"
+    ],
+    "evidence": [
+      "Switch 2 相容資訊不代表 Switch 2 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 665,
+    "name": "Luigi's Mansion 2 HD",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "HD 重製版；不混入 Nintendo 3DS 原版。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/luigis-mansion-2-hd-switch/"
+    ],
+    "evidence": [
+      "HD 重製版；不混入 Nintendo 3DS 原版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 666,
+    "name": "Donkey Kong Country Returns HD",
+    "status": "partial",
+    "platform": "Switch",
+    "platformNote": "官方更新頁確認 Switch 及 Switch 2 遊玩；Switch 2 更新不直接視為獨立原生版。",
+    "sources": [
+      "https://en-americas-support.nintendo.com/app/answers/detail/a_id/68317/kw/donkey%20kong%20country"
+    ],
+    "evidence": [
+      "官方更新頁確認 Switch 及 Switch 2 遊玩；Switch 2 更新不直接視為獨立原生版。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Switch"
+  },
+  {
+    "auditIndex": 667,
+    "name": "Emio - The Smiling Man: Famicom Detective Club",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方列為 Nintendo Switch 遊戲。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Emio-The-Smiling-Man-Famicom-Detective-Club-2615498.html"
+    ],
+    "evidence": [
+      "官方列為 Nintendo Switch 遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 668,
+    "name": "Nintendo World Championships: NES Edition",
+    "status": "verified",
+    "platform": "Switch",
+    "platformNote": "官方列為 Nintendo Switch 遊戲。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Nintendo-World-Championships-NES-Edition-2569575.html"
+    ],
+    "evidence": [
+      "官方列為 Nintendo Switch 遊戲。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 669,
+    "name": "Ender Magnolia: Bloom in the Mist",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Switch",
+    "platformNote": "Xbox 僅列 Series X|S，未列 Xbox One。",
+    "sources": [
+      "https://www.endermagnolia.com/en/index.html"
+    ],
+    "evidence": [
+      "Xbox 僅列 Series X|S，未列 Xbox One。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 706,
+    "name": "Sonic X Shadow Generations",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "SEGA 產品資料列出含 Switch 2 的平台。",
+    "sources": [
+      "https://www.sega.jp/game/detail/sonic-sonicxshadowgenerations/"
+    ],
+    "evidence": [
+      "SEGA 產品資料列出含 Switch 2 的平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 631,
+    "name": "最終幻想12 黃道時代",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "官方商店選項為 PS4、Xbox One、Switch、Steam。",
+    "sources": [
+      "https://na.store.square-enix-games.com/final-fantasy-xii-the-zodiac-age"
+    ],
+    "evidence": [
+      "官方商店選項為 PS4、Xbox One、Switch、Steam。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 632,
+    "name": "最終幻想10/10-2 HD",
+    "status": "verified",
+    "platform": "PC/PS4/PS3/PS Vita/Xbox One/Switch",
+    "platformNote": "商店列 PS3／PS4／Xbox One／Switch 與 PC；另有 Square Enix 官方 Vita 發行公告。",
+    "sources": [
+      "https://www.square-enix-games.com/en_US/news/final-fantasy-xx-2-hd-remaster-out-now",
+      "https://na.store.square-enix-games.com/final-fantasy_-x_x-2-hd-remaster"
+    ],
+    "evidence": [
+      "商店列 PS3／PS4／Xbox One／Switch 與 PC；另有 Square Enix 官方 Vita 發行公告。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 633,
+    "name": "女神異聞錄3 攜帶版",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox Series X|S/Xbox One/Switch/PSP",
+    "platformNote": "2023 重製移植官方列 PC、PS4、Xbox One、Series、Switch；歷史 PSP 原版需另核對。",
+    "sources": [
+      "https://persona.atlus.com/p3p/"
+    ],
+    "evidence": [
+      "2023 重製移植官方列 PC、PS4、Xbox One、Series、Switch；歷史 PSP 原版需另核對。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox Series X|S/Xbox One/Switch"
+  },
+  {
+    "auditIndex": 634,
+    "name": "世界樹的迷宮",
+    "status": "partial",
+    "platform": "Switch",
+    "platformNote": "標題只有世界樹的迷宮，無 HD／年份；已找到 Switch HD 版，無法確定記錄是否指原版或全系列。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/etrian-odyssey-hd-switch/"
+    ],
+    "evidence": [
+      "標題只有世界樹的迷宮，無 HD／年份；已找到 Switch HD 版，無法確定記錄是否指原版或全系列。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Switch"
+  },
+  {
+    "auditIndex": 636,
+    "name": "魔界戰記6",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "Defiance of Destiny 的 Switch 版與 Complete 的 PC／PS4／PS5 版本皆有官方頁；記錄未區分版本。",
+    "sources": [
+      "https://www.nisamerica.com/disgaea/d6-complete/",
+      "https://www.nisamerica.com/disgaea/d6/product.php"
+    ],
+    "evidence": [
+      "Defiance of Destiny 的 Switch 版與 Complete 的 PC／PS4／PS5 版本皆有官方頁；記錄未區分版本。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Switch"
+  },
+  {
+    "auditIndex": 640,
+    "name": "快打旋風30週年紀念合集",
+    "status": "verified",
+    "platform": "PC/PS4/Xbox One/Switch",
+    "platformNote": "Capcom 財報明列四個發售平台。",
+    "sources": [
+      "https://www.capcom.co.jp/ir/english/data/pdf/result/2018/3rd/result_2018_3rd_03.pdf"
+    ],
+    "evidence": [
+      "Capcom 財報明列四個發售平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 644,
+    "name": "DOOM: The Dark Ages",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Bethesda 官方發售日 FAQ 列 Windows／Steam、PS5、Xbox Series；雲端不另外計入。",
+    "sources": [
+      "https://doom.bethesda.net/en-US/the-dark-ages",
+      "https://help.bethesda.net/app/answers/detail/a_id/68552/~/what-is-the-official-launch-date-for-doom%3A-the-dark-ages%3F"
+    ],
+    "evidence": [
+      "Bethesda 官方發售日 FAQ 列 Windows／Steam、PS5、Xbox Series；雲端不另外計入。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 646,
+    "name": "Atomfall",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "已找到 Rebellion Steam 商品與 FAQ；主機原生版本世代仍待完整平台清單。",
+    "sources": [
+      "https://store.steampowered.com/app/801800/Atomfall/"
+    ],
+    "evidence": [
+      "已找到 Rebellion Steam 商品與 FAQ；主機原生版本世代仍待完整平台清單。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 647,
+    "name": "The First Berserker: Khazan",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "已找到 Nexon 產品與購買頁，但可擷取文字未顯示完整平台欄，未將 Xbox 世代猜成已驗證。",
+    "sources": [
+      "https://khazan.nexon.com/en/main"
+    ],
+    "evidence": [
+      "已找到 Nexon 產品與購買頁，但可擷取文字未顯示完整平台欄，未將 Xbox 世代猜成已驗證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 648,
+    "name": "South of Midnight",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Xbox 官方列 PC／Series；Nintendo 確認 Switch 2 已上市，PS 官方確認 PS5。",
+    "sources": [
+      "https://www.nintendo.com/us/whatsnew/step-into-a-world-of-southern-folklore-living-magic-and-haunting-beauty-with-south-of-midnight/",
+      "https://www.playstation.com/en-us/games/south-of-midnight/",
+      "https://www.xbox.com/en-US/games/south-of-midnight"
+    ],
+    "evidence": [
+      "Xbox 官方列 PC／Series；Nintendo 確認 Switch 2 已上市，PS 官方確認 PS5。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 649,
+    "name": "Blue Prince",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Raw Fury 官方平台欄列 PC、PS5、Xbox Series；Nintendo 確認 Switch 2 於 2026-03-03 上市。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Blue-Prince-3037699.html",
+      "https://rawfury.com/games/blue-prince/"
+    ],
+    "evidence": [
+      "Raw Fury 官方平台欄列 PC、PS5、Xbox Series；Nintendo 確認 Switch 2 於 2026-03-03 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 650,
+    "name": "Mandragora: Whispers of the Witch Tree",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "官方主站列 PC、PS5、Xbox Series；Nintendo Switch 商品存在，但需再核實上市日期。",
+    "sources": [
+      "https://mandragoragame.com/"
+    ],
+    "evidence": [
+      "官方主站列 PC、PS5、Xbox Series；Nintendo Switch 商品存在，但需再核實上市日期。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S/Switch"
+  },
+  {
+    "auditIndex": 651,
+    "name": "Dragon Age: The Veilguard",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "EA 上市新聞明列 PS5、Xbox Series X|S 與 PC。",
+    "sources": [
+      "https://news.ea.com/press-releases/press-releases-details/2024/Dragon-Age-The-Veilguard-Launches-October-31-2024-Pre-Orders-Available-Now/default.aspx"
+    ],
+    "evidence": [
+      "EA 上市新聞明列 PS5、Xbox Series X|S 與 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 652,
+    "name": "Metaphor: ReFantazio",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S",
+    "platformNote": "官方平台圖示列 Windows／Steam、PS4／PS5、Xbox Series。",
+    "sources": [
+      "https://metaphor.atlus.com/index.html?lang=en"
+    ],
+    "evidence": [
+      "官方平台圖示列 Windows／Steam、PS4／PS5、Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 654,
+    "name": "Dynasty Warriors: Origins",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Koei Tecmo 官方平台欄列 PS5、Switch 2、Xbox Series、Steam；Nintendo 確認 Switch 2 於 2026-01-22 上市。",
+    "sources": [
+      "https://www.koeitecmoamerica.com/dw_origins/us/movie/",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/DYNASTY-WARRIORS-ORIGINS-2987854.html"
+    ],
+    "evidence": [
+      "Koei Tecmo 官方平台欄列 PS5、Switch 2、Xbox Series、Steam；Nintendo 確認 Switch 2 於 2026-01-22 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 657,
+    "name": "Romancing SaGa 2: Revenge of the Seven",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "Square Enix 官方公告列出四個發行平台。",
+    "sources": [
+      "https://www.square-enix-games.com/en_US/home/full-3d-remake-romancing-saga-2"
+    ],
+    "evidence": [
+      "Square Enix 官方公告列出四個發行平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 659,
+    "name": "Unicorn Overlord",
+    "status": "verified",
+    "platform": "PS5/PS4/Xbox Series X|S/Switch",
+    "platformNote": "官方購買頁標記 Switch、PS4／PS5、Xbox Series；未列 PC。",
+    "sources": [
+      "https://unicornoverlord.atlus.com/?lang=en"
+    ],
+    "evidence": [
+      "官方購買頁標記 Switch、PS4／PS5、Xbox Series；未列 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 660,
+    "name": "Eiyuden Chronicle: Hundred Heroes",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "505 Games 平台 FAQ 列 Steam、Epic、GOG、PS4／PS5、Xbox One／Series 及 Switch。",
+    "sources": [
+      "https://support.505games.com/support/solutions/articles/150000180873-which-platforms-will-eiyuden-chronicle-hundred-heroes-launch-onto-"
+    ],
+    "evidence": [
+      "505 Games 平台 FAQ 列 Steam、Epic、GOG、PS4／PS5、Xbox One／Series 及 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 670,
+    "name": "Animal Well",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "開發者官網 PLATFORMS 欄明列四類平台。",
+    "sources": [
+      "https://www.animalwell.net/"
+    ],
+    "evidence": [
+      "開發者官網 PLATFORMS 欄明列四類平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 671,
+    "name": "Balatro",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Switch/Mobile",
+    "platformNote": "官方 FAQ 列 Steam、Switch、PS4／PS5、Xbox Series，Xbox 商店另確認 One；手機 OS 尚待補核，保留原 Mobile。",
+    "sources": [
+      "https://www.playbalatro.com/faq",
+      "https://www.xbox.com/en-US/games/store/balatro/9PK087LNGJC5"
+    ],
+    "evidence": [
+      "官方 FAQ 列 Steam、Switch、PS4／PS5、Xbox Series，Xbox 商店另確認 One；手機 OS 尚待補核，保留原 Mobile。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Mobile"
+  },
+  {
+    "auditIndex": 672,
+    "name": "Pacific Drive",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "官方現行首頁列 PS5、Xbox Series、Steam 與 Epic。",
+    "sources": [
+      "https://www.pacificdrivegame.com/?itemId=m1ugy54d9zkv5v2oyfr04664tbpkru-j9n86-x3wfh"
+    ],
+    "evidence": [
+      "官方現行首頁列 PS5、Xbox Series、Steam 與 Epic。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 674,
+    "name": "Warhammer 40,000: Space Marine 2",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Focus 官方 FAQ 明列 PC、PS5、Xbox Series，且說明各平台進度保存。",
+    "sources": [
+      "https://community.focus-entmt.com/focus-entertainment/space-marine-2/blogs/53-space-marine-2-faq"
+    ],
+    "evidence": [
+      "Focus 官方 FAQ 明列 PC、PS5、Xbox Series，且說明各平台進度保存。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 675,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "GSC 官方確認 PS5 版已上市；原 PC／Xbox 的完整平台頁仍待補核。",
+    "sources": [
+      "https://www.stalker2.com/news/explore-the-zone-on-playstation5"
+    ],
+    "evidence": [
+      "GSC 官方確認 PS5 版已上市；原 PC／Xbox 的完整平台頁仍待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 676,
+    "name": "Star Wars Outlaws",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Ubisoft 原生平台公告列 PC／PS5／Xbox Series；後續官方確認 Switch 2 上市。",
+    "sources": [
+      "https://news.ubisoft.com/en-us/article/5yG2lSsv3rvVH2J1zhHRY0/star-wars-outlaws-now-available-on-nintendo-switch-2",
+      "https://www.ubisoft.com/en-us/game/star-wars/outlaws/news-updates/6CTxuY8ZPc9olf4SrAvRQy/star-wars-outlaws-opens-up-a-galaxy-of-opportunity"
+    ],
+    "evidence": [
+      "Ubisoft 原生平台公告列 PC／PS5／Xbox Series；後續官方確認 Switch 2 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 677,
+    "name": "Indiana Jones and the Great Circle",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "platformNote": "Bethesda PS5 上市頁與 Nintendo Switch 2 商品共同確認全部四類平台。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Indiana-Jones-and-the-Great-Circle--3016547.html",
+      "https://bethesda.net/en-US/news/indiana-jones-and-the-great-circle-playstation-5-launch-trailer"
+    ],
+    "evidence": [
+      "Bethesda PS5 上市頁與 Nintendo Switch 2 商品共同確認全部四類平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 678,
+    "name": "No Rest for the Wicked",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "目前僅 PC 搶先體驗。2026-09-01 官方將 1.0 延至 2027-03，PS 預購 2027-01 開放；主機不可視為已發售。",
+    "sources": [
+      "https://norestforthewicked.com/news/no-rest-for-the-wicked-1-0-delay-announcement"
+    ],
+    "evidence": [
+      "目前僅 PC 搶先體驗。2026-09-01 官方將 1.0 延至 2027-03，PS 預購 2027-01 開放；主機不可視為已發售。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "early-access"
+  },
+  {
+    "auditIndex": 679,
+    "name": "Enshrouded",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方 FAQ 說明 PS5／Xbox Series 在完成後才推出，現階段平台為 PC。",
+    "sources": [
+      "https://enshrouded.com/en-US/FAQ"
+    ],
+    "evidence": [
+      "官方 FAQ 說明 PS5／Xbox Series 在完成後才推出，現階段平台為 PC。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "early-access"
+  },
+  {
+    "auditIndex": 680,
+    "name": "Palworld",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/Xbox Series X|S/Xbox One",
+    "platformNote": "Pocketpair 2026-09 官方發行新聞列 Steam、PS5、Xbox One／Series 及 Mac。",
+    "sources": [
+      "https://prtimes.jp/main/html/rd/p/000000137.000071410.html"
+    ],
+    "evidence": [
+      "Pocketpair 2026-09 官方發行新聞列 Steam、PS5、Xbox One／Series 及 Mac。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 681,
+    "name": "Once Human",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Mobile",
+    "platformNote": "2026-08 官方主機 FAQ 列 PS5 與 Xbox Series，PC／手機已有；主機上線日與手機 OS 待完整核實。",
+    "sources": [
+      "https://www.oncehuman.game/news/update/20260820/40780_1311772.html"
+    ],
+    "evidence": [
+      "2026-08 官方主機 FAQ 列 PS5 與 Xbox Series，PC／手機已有；主機上線日與手機 OS 待完整核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mobile"
+  },
+  {
+    "auditIndex": 682,
+    "name": "The Finals",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Nexon FAQ 列 PC、PS5、Xbox Series；曾存在 PS4 版，當前支援狀態仍需確認。",
+    "sources": [
+      "https://thefinals.nexon.com/support/faq/inquiry"
+    ],
+    "evidence": [
+      "Nexon FAQ 列 PC、PS5、Xbox Series；曾存在 PS4 版，當前支援狀態仍需確認。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S"
+  },
+  {
+    "auditIndex": 683,
+    "name": "XDefiant",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "Ubisoft 確認伺服器於 2025-06-03 結束；保留平台為歷史記錄，不能表示目前可玩。",
+    "sources": [
+      "https://news.ubisoft.com/en-gb/article/1EywTnGrZdDqCoxKs2zNhZ/ubisoft-discontinues-development-on-xdefiant"
+    ],
+    "evidence": [
+      "Ubisoft 確認伺服器於 2025-06-03 結束；保留平台為歷史記錄，不能表示目前可玩。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "service-ended",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 684,
+    "name": "Marvel Rivals",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "官方 PlayStation 專頁同列 PS5 與 PS4，可補 PS4；Xbox 世代待確認。",
+    "sources": [
+      "https://www.marvelrivals.com/ps5/"
+    ],
+    "evidence": [
+      "官方 PlayStation 專頁同列 PS5 與 PS4，可補 PS4；Xbox 世代待確認。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 685,
+    "name": "Delta Force",
+    "status": "partial",
+    "platform": "PC/Console/Mobile",
+    "platformNote": "官方 Xbox 新聞確認 PC、手機與 Xbox Series 已推出；PS5 及 Garena 區域版仍需逐區核實。",
+    "sources": [
+      "https://news.xbox.com/en-us/2026/09/25/delta-force-second-anniversary-interview/"
+    ],
+    "evidence": [
+      "官方 Xbox 新聞確認 PC、手機與 Xbox Series 已推出；PS5 及 Garena 區域版仍需逐區核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Console/Mobile"
+  },
+  {
+    "auditIndex": 686,
+    "name": "Arena Breakout: Infinite",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方明示為 PC 遊戲，下載與發售資訊包含 Steam、Epic。",
+    "sources": [
+      "https://www.arenabreakoutinfinite.com/en/?e_code=10015"
+    ],
+    "evidence": [
+      "官方明示為 PC 遊戲，下載與發售資訊包含 Steam、Epic。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 687,
+    "name": "Gray Zone Warfare",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "開發者網站與官方活動確認 Steam 版本；未找到完整主機狀態聲明。",
+    "sources": [
+      "https://www.grayzonewarfare.com/"
+    ],
+    "evidence": [
+      "開發者網站與官方活動確認 Steam 版本；未找到完整主機狀態聲明。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 688,
+    "name": "Bodycam",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "Reissad Studio Steam 商品確認 PC 版本，仍為搶先體驗。",
+    "sources": [
+      "https://store.steampowered.com/app/2406770/Bodycam/"
+    ],
+    "evidence": [
+      "Reissad Studio Steam 商品確認 PC 版本，仍為搶先體驗。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "early-access"
+  },
+  {
+    "auditIndex": 689,
+    "name": "Manor Lords",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "發行商官方 FAQ 明確把 Xbox 主機列為後續版本；Microsoft Store PC 商品不等同 Xbox 主機。",
+    "sources": [
+      "https://wiki.hoodedhorse.com/Manor_Lords/FAQ"
+    ],
+    "evidence": [
+      "發行商官方 FAQ 明確把 Xbox 主機列為後續版本；Microsoft Store PC 商品不等同 Xbox 主機。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "early-access"
+  },
+  {
+    "auditIndex": 690,
+    "name": "Frostpunk 2",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "PlayStation 官方商品確認 PS5 已上市；PC／Xbox Series 全平台表需補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/frostpunk-2/"
+    ],
+    "evidence": [
+      "PlayStation 官方商品確認 PS5 已上市；PC／Xbox Series 全平台表需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 691,
+    "name": "Ara: History Untold",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "開發者 FAQ 明確目前限 PC Game Pass、Steam 與 Windows Store。",
+    "sources": [
+      "https://www.arahistoryuntold.com/faq-2/"
+    ],
+    "evidence": [
+      "開發者 FAQ 明確目前限 PC Game Pass、Steam 與 Windows Store。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 692,
+    "name": "Age of Mythology: Retold",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Xbox 官方產品頁確認 PC／Series；World's Edge 官方確認 PS5 已上市並持續更新。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/age-of-mythology-retold/",
+      "https://www.ageofempires.com/news/age-of-mythology-retold-update-19-12998/"
+    ],
+    "evidence": [
+      "Xbox 官方產品頁確認 PC／Series；World's Edge 官方確認 PS5 已上市並持續更新。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 693,
+    "name": "Homeworld 3",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "官方 Epic 商店列出已上市 Windows PC 版。",
+    "sources": [
+      "https://store.epicgames.com/p/homeworld-3?lang=en-US"
+    ],
+    "evidence": [
+      "官方 Epic 商店列出已上市 Windows PC 版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 694,
+    "name": "Sins of a Solar Empire II",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "已核實 Stardock 官方購買頁，完整作業系統資訊仍需補核。",
+    "sources": [
+      "https://www.sinsofasolarempire2.com/store"
+    ],
+    "evidence": [
+      "已核實 Stardock 官方購買頁，完整作業系統資訊仍需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 695,
+    "name": "Total War: Pharaoh",
+    "status": "partial",
+    "platform": "PC/macOS",
+    "platformNote": "Feral 與 Mac App Store 確認 Apple Silicon Mac 原生版；Windows 原有版本仍需補核。",
+    "sources": [
+      "https://www.feralinteractive.com/en/games/pharaohtw/mac/features/"
+    ],
+    "evidence": [
+      "Feral 與 Mac App Store 確認 Apple Silicon Mac 原生版；Windows 原有版本仍需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/macOS"
+  },
+  {
+    "auditIndex": 696,
+    "name": "Planet Coaster 2",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Frontier FAQ 明列 Steam／Epic、PS5、Xbox Series X|S。",
+    "sources": [
+      "https://www.planetcoaster.com/en-US/help-center"
+    ],
+    "evidence": [
+      "Frontier FAQ 明列 Steam／Epic、PS5、Xbox Series X|S。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 697,
+    "name": "Microsoft Flight Simulator 2024",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "微軟官方選擇平台指南明列 PC、Xbox Series X|S、PS5／PS5 Pro。",
+    "sources": [
+      "https://www.flightsimulator.com/microsoft-flight-simulator-2024/",
+      "https://www.flightsimulator.com/guide/which-platform-is-right-for-me/"
+    ],
+    "evidence": [
+      "微軟官方選擇平台指南明列 PC、Xbox Series X|S、PS5／PS5 Pro。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 698,
+    "name": "Farming Simulator 25",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/Xbox Series X|S",
+    "platformNote": "GIANTS 官方新聞中心明列目前發售 PC、Mac、PS5、Xbox Series。",
+    "sources": [
+      "https://farming-simulator.com/about.php?platform=pc",
+      "https://www.farming-simulator.com/about.php?platform=ps5",
+      "https://press.giants-software.com/5"
+    ],
+    "evidence": [
+      "GIANTS 官方新聞中心明列目前發售 PC、Mac、PS5、Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 700,
+    "name": "EA Sports FC 25",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "EA 雙版本權利 FAQ 明列六類平台。",
+    "sources": [
+      "https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-dual-entitlement"
+    ],
+    "evidence": [
+      "EA 雙版本權利 FAQ 明列六類平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 702,
+    "name": "TopSpin 2K25",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "2K 官方 FAQ 明列 Steam、PS4、PS5、Xbox One、Series。",
+    "sources": [
+      "https://support.2k.com/hc/en-us/articles/26059896925587-TopSpin-2K25-Edition-Frequently-Asked-Questions"
+    ],
+    "evidence": [
+      "2K 官方 FAQ 明列 Steam、PS4、PS5、Xbox One、Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 703,
+    "name": "F1 24",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "platformNote": "EA 官方上市新聞列出 PS5／PS4、Xbox Series／One、PC。",
+    "sources": [
+      "https://news.ea.com/press-releases/press-releases-details/2024/Be-One-of-the-20---F1-24-Delivers-All-New-Dynamic-Handling-Overhauled-Career-and-More/default.aspx"
+    ],
+    "evidence": [
+      "EA 官方上市新聞列出 PS5／PS4、Xbox Series／One、PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 704,
+    "name": "Test Drive Unlimited Solar Crown",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "官方 launch feedback 表示已於 PC、PS5、Xbox Series X|S 上市。",
+    "sources": [
+      "https://testdriveunlimited.com/en-US/news/launch-feedback-next-steps"
+    ],
+    "evidence": [
+      "官方 launch feedback 表示已於 PC、PS5、Xbox Series X|S 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 705,
+    "name": "Assetto Corsa EVO",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "Kunos／505 Games 的 Steam 商品為 PC 搶先體驗版。",
+    "sources": [
+      "https://store.steampowered.com/app/3058630/Assetto_Corsa_EVO/"
+    ],
+    "evidence": [
+      "Kunos／505 Games 的 Steam 商品為 PC 搶先體驗版。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "early-access"
+  },
+  {
+    "auditIndex": 707,
+    "name": "Penny's Big Breakaway",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "Take-Two 官方公告列四平台，Switch 商品可購；尚未逐一補驗其餘商店現況。",
+    "sources": [
+      "https://www.take2games.com/ir/news/private-division-and-evening-star-announce-pennys-big-breakaway"
+    ],
+    "evidence": [
+      "Take-Two 官方公告列四平台，Switch 商品可購；尚未逐一補驗其餘商店現況。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Switch"
+  },
+  {
+    "auditIndex": 709,
+    "name": "Prince of Persia: The Lost Crown",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+    "platformNote": "Ubisoft 官方平台列含 iOS／Android 原生手機版本。",
+    "sources": [
+      "https://www.ubisoft.com/en-us/game/Prince-of-Persia/The-Lost-Crown"
+    ],
+    "evidence": [
+      "Ubisoft 官方平台列含 iOS／Android 原生手機版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 711,
+    "name": "Bo: Path of the Teal Lotus",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "開發者 press kit 明列四平台及 2024-07-17 發售。",
+    "sources": [
+      "https://squidshockstudios.com/press-kit/"
+    ],
+    "evidence": [
+      "開發者 press kit 明列四平台及 2024-07-17 發售。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 699,
+    "name": "NBA 2K25",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "2K 官方跨世代 FAQ 已找到；需要補核 Switch、PC 與各主機完整銷售平台清單。",
+    "sources": [
+      "https://support.nba2k.com/hc/en-us/articles/41839060944403-NBA-2K25-Crossplay-and-Cross-Gen-FAQ"
+    ],
+    "evidence": [
+      "2K 官方跨世代 FAQ 已找到；需要補核 Switch、PC 與各主機完整銷售平台清單。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 701,
+    "name": "WWE 2K24",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "2K 官方 WWE 2K24 FAQ 可找到，但抓取未呈現平台欄，不能把泛稱 Xbox 視為世代已驗證。",
+    "sources": [
+      "https://wwe.2k.com/2k24/pt-BR/faq/"
+    ],
+    "evidence": [
+      "2K 官方 WWE 2K24 FAQ 可找到，但抓取未呈現平台欄，不能把泛稱 Xbox 視為世代已驗證。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 708,
+    "name": "Nine Sols",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Switch",
+    "platformNote": "PS 商店確認 PS4／PS5，Xbox 商品確認 One；PC／Switch 與 Series 原生欄需補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/nine-sols/"
+    ],
+    "evidence": [
+      "PS 商店確認 PS4／PS5，Xbox 商品確認 One；PC／Switch 與 Series 原生欄需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 710,
+    "name": "Tales of Kenzera: ZAU",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "EA 官方上市公告明列四類平台。",
+    "sources": [
+      "https://news.ea.com/press-releases/press-releases-details/2024/Discover-Vibrant-Realms-and-Bantu-Myths-in-Tales-of-Kenzera-ZAU-Surgent-Studios-Heartfelt-Indie-Adventure/default.aspx"
+    ],
+    "evidence": [
+      "EA 官方上市公告明列四類平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 712,
+    "name": "Ultros",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "官網確認 PlayStation、Xbox、Switch、PC 已上市；Xbox 官方商品 9N38W9WN089L 列原生 Xbox Series X|S 與 PC，發售日期 2025-02-13。原 PS4/PS5 保留；Mac 與完整桌面 OS 範圍尚未補核。",
+    "sources": [
+      "https://www.ultrosgame.com/",
+      "https://www.xbox.com/en-US/games/store/ultros/9N38W9WN089L"
+    ],
+    "evidence": [
+      "官網確認 PlayStation、Xbox、Switch、PC 已上市；Xbox 官方商品 9N38W9WN089L 列原生 Xbox Series X|S 與 PC，發售日期 2025-02-13。原 PS4/PS5 保留；Mac 與完整桌面 OS 範圍尚未補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Switch"
+  },
+  {
+    "auditIndex": 713,
+    "name": "Pepper Grinder",
+    "status": "partial",
+    "platform": "PC/Switch",
+    "platformNote": "已找到 Devolver 的遊戲頁；正文未完整顯示平台，後續主機移植需補查。",
+    "sources": [
+      "https://www.devolverdigital.com/games/pepper-grinder"
+    ],
+    "evidence": [
+      "已找到 Devolver 的遊戲頁；正文未完整顯示平台，後續主機移植需補查。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch"
+  },
+  {
+    "auditIndex": 714,
+    "name": "Another Crab's Treasure",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox/Switch",
+    "platformNote": "PlayStation、Nintendo、Xbox 商品已找到；Xbox 世代與 Steam 需補完整核實。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/another-crabs-treasure/"
+    ],
+    "evidence": [
+      "PlayStation、Nintendo、Xbox 商品已找到；Xbox 世代與 Steam 需補完整核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Switch"
+  },
+  {
+    "auditIndex": 715,
+    "name": "Crypt Custodian",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "搜得 PS5 官方商品（含 demo）；完整本體平台清單仍需核實，不能以 wiki 代替。",
+    "sources": [
+      "https://store.playstation.com/it-ch/product/EP5335-PPSA22698_00-CRYPTCUSTODIANDM"
+    ],
+    "evidence": [
+      "搜得 PS5 官方商品（含 demo）；完整本體平台清單仍需核實，不能以 wiki 代替。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 716,
+    "name": "Minishoot' Adventures",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Xbox One/Switch/Switch 2",
+    "platformNote": "移植開發商 Seaven 已完成平台名單列 Windows、PS5、Xbox One／Series、Switch／Switch 2。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/minishoot-adventures-switch/",
+      "https://www.seaven-studio.com/"
+    ],
+    "evidence": [
+      "移植開發商 Seaven 已完成平台名單列 Windows、PS5、Xbox One／Series、Switch／Switch 2。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 717,
+    "name": "UFO 50",
+    "status": "verified",
+    "platform": "PC/Switch",
+    "platformNote": "開發者 Mossmouth 首頁直接標示 UFO 50 現已上 Steam 及 Switch。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/ufo-50-switch/",
+      "https://mossmouth.com/"
+    ],
+    "evidence": [
+      "開發者 Mossmouth 首頁直接標示 UFO 50 現已上 Steam 及 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 718,
+    "name": "Thank Goodness You're Here!",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/PS4/Xbox Series X|S/Switch",
+    "platformNote": "開發者 press kit 列 PC／Mac、PS4／PS5、Switch／Xbox；Xbox 商店確認僅 Series 原生版。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/thank-goodness-you-re-here/",
+      "https://thankgoodness.game/presskit/",
+      "https://www.xbox.com/en-US/games/store/thank-goodness-youre-here/9P14ZTSR0LS9"
+    ],
+    "evidence": [
+      "開發者 press kit 列 PC／Mac、PS4／PS5、Switch／Xbox；Xbox 商店確認僅 Series 原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 719,
+    "name": "Lorelei and the Laser Eyes",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch/Switch 2",
+    "platformNote": "Simogo 官方歷史明列 PC／Switch、PS4／PS5，及 2026-04-23 Switch 2 Edition。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/lorelei-and-the-laser-eyes/",
+      "https://simogo.com/work/loreleiandthelasereyes/"
+    ],
+    "evidence": [
+      "Simogo 官方歷史明列 PC／Switch、PS4／PS5，及 2026-04-23 Switch 2 Edition。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 720,
+    "name": "The Rise of the Golden Idol",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/Mobile",
+    "platformNote": "Playstack 官方說明 Netflix 手機版本已移除；歷史手機平台不得當成目前仍可取得。",
+    "sources": [
+      "https://playstack.zendesk.com/hc/en-us/articles/36000528158877-What-happened-to-Golden-Idol-on-Netflix"
+    ],
+    "evidence": [
+      "Playstack 官方說明 Netflix 手機版本已移除；歷史手機平台不得當成目前仍可取得。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/Mobile"
+  },
+  {
+    "auditIndex": 721,
+    "name": "Duck Detective: The Secret Salami",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Xbox One/Switch/Mobile",
+    "platformNote": "Xbox 商店原生欄確認 PC、Xbox One／Series；PS5 商品存在。手機版本與原 Switch 仍需補核。",
+    "sources": [
+      "https://www.xbox.com/en-us/games/store/duck-detective-the-secret-salami/9nxm59f1jkfd"
+    ],
+    "evidence": [
+      "Xbox 商店原生欄確認 PC、Xbox One／Series；PS5 商品存在。手機版本與原 Switch 仍需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox Series X|S/Xbox One/Switch"
+  },
+  {
+    "auditIndex": 722,
+    "name": "Botany Manor",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox/Switch",
+    "platformNote": "PS5 官方商品確認新增 PS5 版；Xbox 世代及其他原有平台仍待補核。",
+    "sources": [
+      "https://store.playstation.com/en-us/product/UP5223-PPSA26076_00-0354006355653106/"
+    ],
+    "evidence": [
+      "PS5 官方商品確認新增 PS5 版；Xbox 世代及其他原有平台仍待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Switch"
+  },
+  {
+    "auditIndex": 723,
+    "name": "Open Roads",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "Annapurna 官方產品頁確認作品身分，但文字未完整列出平台。",
+    "sources": [
+      "https://www.annapurna.com/interactive/open-roads"
+    ],
+    "evidence": [
+      "Annapurna 官方產品頁確認作品身分，但文字未完整列出平台。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 724,
+    "name": "Still Wakes the Deep",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "已核實 Secret Mode 發行的 Steam 商品；PS5 與 Xbox 世代待完整主機證據。",
+    "sources": [
+      "https://store.steampowered.com/app/1622910/Still_Wakes_the_Deep/?curator_clanid=43938467"
+    ],
+    "evidence": [
+      "已核實 Secret Mode 發行的 Steam 商品；PS5 與 Xbox 世代待完整主機證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 725,
+    "name": "Crow Country",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "開發者首頁上市預告列 Steam、PS5、Xbox Series；舊欄位 PS4／Switch 需補查後續移植。",
+    "sources": [
+      "https://crowcountrygame.com/"
+    ],
+    "evidence": [
+      "開發者首頁上市預告列 Steam、PS5、Xbox Series；舊欄位 PS4／Switch 需補查後續移植。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 726,
+    "name": "Silent Hill 2 Remake",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Konami 官方確認 2024 重製版已登 Xbox Series；PC／PS5 原始平台仍待完整重驗。",
+    "sources": [
+      "https://www.konami.com/games/us/en/topics/3041/"
+    ],
+    "evidence": [
+      "Konami 官方確認 2024 重製版已登 Xbox Series；PC／PS5 原始平台仍待完整重驗。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S"
+  },
+  {
+    "auditIndex": 727,
+    "name": "Until Dawn Remake",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "PlayStation 現行官方頁直接提供 PS5 與 PC 購買；不是 2015 PS4 原作。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/until-dawn/"
+    ],
+    "evidence": [
+      "PlayStation 現行官方頁直接提供 PS5 與 PC 購買；不是 2015 PS4 原作。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 728,
+    "name": "Lollipop Chainsaw RePOP",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch/Switch 2",
+    "platformNote": "Nintendo 有 Switch 2 Edition 官方商品；完整上市日期與 Xbox 世代、舊版本仍待補核。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/LOLLIPOP-CHAINSAW-RePOP-Nintendo-Switch-2-Edition-3092763.html"
+    ],
+    "evidence": [
+      "Nintendo 有 Switch 2 Edition 官方商品；完整上市日期與 Xbox 世代、舊版本仍待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 729,
+    "name": "Kunitsu-Gami: Path of the Goddess",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch 2",
+    "platformNote": "Nintendo 官方商品確認 Switch 2 原生版；Xbox 原生世代仍需補核。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/kunitsu-gami-path-of-the-goddess-switch-2/"
+    ],
+    "evidence": [
+      "Nintendo 官方商品確認 Switch 2 原生版；Xbox 原生世代仍需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch 2"
+  },
+  {
+    "auditIndex": 730,
+    "name": "Flintlock: The Siege of Dawn",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "PS 官方頁只確認 PS5；原記錄 PS4 沒有本次官方發售證據，需移除或隔離待查。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/flintlock-the-siege-of-dawn/"
+    ],
+    "evidence": [
+      "PS 官方頁只確認 PS5；原記錄 PS4 沒有本次官方發售證據，需移除或隔離待查。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 731,
+    "name": "Deathbound",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "Steam 與 PS 官方商品已找到；Xbox 原生世代仍需補核。",
+    "sources": [
+      "https://store.steampowered.com/app/1277130/Deathbound/?l=english"
+    ],
+    "evidence": [
+      "Steam 與 PS 官方商品已找到；Xbox 原生世代仍需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 732,
+    "name": "Dragon Quest III HD-2D Remake",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "官方 FAQ 明列 Switch、PS5、Xbox Series、Steam；Switch 2 是 Switch 版效能更新，非獨立原生版。",
+    "sources": [
+      "https://www.dragonquest.jp/roto-trilogy/dq3/faq/en.html"
+    ],
+    "evidence": [
+      "官方 FAQ 明列 Switch、PS5、Xbox Series、Steam；Switch 2 是 Switch 版效能更新，非獨立原生版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 733,
+    "name": "Dragon Quest I & II HD-2D Remake",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S/Switch/Switch 2",
+    "platformNote": "官方 FAQ 與 Nintendo 商品區分 Switch 及 Switch 2 原生版；PC／PS5／Xbox 發售資料待補核。",
+    "sources": [
+      "https://www.dragonquest.jp/roto-trilogy/dq1and2/faq/en.html"
+    ],
+    "evidence": [
+      "官方 FAQ 與 Nintendo 商品區分 Switch 及 Switch 2 原生版；PC／PS5／Xbox 發售資料待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Switch/Switch 2"
+  },
+  {
+    "auditIndex": 734,
+    "name": "Ys X: Nordics",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "NIS 官方 Ys X: Nordics 產品頁可找到；不得把另一個 Proud Nordics 的 Switch 2 平台混入。",
+    "sources": [
+      "https://www.nisamerica.com/ys-x/products"
+    ],
+    "evidence": [
+      "NIS 官方 Ys X: Nordics 產品頁可找到；不得把另一個 Proud Nordics 的 Switch 2 平台混入。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Switch"
+  },
+  {
+    "auditIndex": 735,
+    "name": "The Legend of Heroes: Trails through Daybreak II",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "NIS 官方 Daybreak II 產品頁可找到，但抓取未顯示平台欄。",
+    "sources": [
+      "https://www.nisamerica.com/games/daybreak2/"
+    ],
+    "evidence": [
+      "NIS 官方 Daybreak II 產品頁可找到，但抓取未顯示平台欄。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Switch"
+  },
+  {
+    "auditIndex": 736,
+    "name": "Tokyo Xanadu eX+",
+    "status": "partial",
+    "platform": "PC/PS4/Switch",
+    "platformNote": "Aksys 官方確認 Switch eX+ 版；原 PC／PS4 仍需補完整重驗，PS Vita 原版非 eX+。",
+    "sources": [
+      "https://www.aksysgames.com/tokyo-xanadu-ex/"
+    ],
+    "evidence": [
+      "Aksys 官方確認 Switch eX+ 版；原 PC／PS4 仍需補完整重驗，PS Vita 原版非 eX+。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Switch"
+  },
+  {
+    "auditIndex": 737,
+    "name": "Fate/Samurai Remnant",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "Koei Tecmo 官方 outline 明列 PS5／PS4／Switch／Steam。",
+    "sources": [
+      "https://www.koeitecmoamerica.com/fate-sr/outline/"
+    ],
+    "evidence": [
+      "Koei Tecmo 官方 outline 明列 PS5／PS4／Switch／Steam。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 738,
+    "name": "Sword Art Online Fractured Daydream",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "Bandai 歐洲官方購買頁列 PS5、Xbox Series、PC、Switch。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/sword-art-online-fractured-daydream",
+      "https://en.bandainamcoent.eu/sword-art-online/sword-art-online-fractured-daydream"
+    ],
+    "evidence": [
+      "Bandai 歐洲官方購買頁列 PS5、Xbox Series、PC、Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 739,
+    "name": "Gundam Breaker 4",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "Bandai 官方上市公告明列 Switch、PS4、PS5、Steam。",
+    "sources": [
+      "https://www.bandainamcoent.com/news/gundam-breaker-4-now-available"
+    ],
+    "evidence": [
+      "Bandai 官方上市公告明列 Switch、PS4、PS5、Steam。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 740,
+    "name": "Freedom Wars Remastered",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "Bandai 官方上市公告明列 Switch、PS4、PS5、Steam；原 Vita 版非 Remastered。",
+    "sources": [
+      "https://www.bandainamcoent.com/news/freedom-wars-remastered-now-available"
+    ],
+    "evidence": [
+      "Bandai 官方上市公告明列 Switch、PS4、PS5、Steam；原 Vita 版非 Remastered。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 741,
+    "name": "SAND LAND",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Bandai 官網可見 PS5、PS4、Steam，但 Xbox 圖片替代文字寫 Xbox One，與預期世代衝突，需商店補核。",
+    "sources": [
+      "https://www.bandainamcoent.com/games/sand-land"
+    ],
+    "evidence": [
+      "Bandai 官網可見 PS5、PS4、Steam，但 Xbox 圖片替代文字寫 Xbox One，與預期世代衝突，需商店補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 742,
+    "name": "Under Night In-Birth II Sys:Celes",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Switch",
+    "platformNote": "Arc System Works 官方 Platform 欄列四類平台。",
+    "sources": [
+      "https://www.arcsystemworks.com/game/undernight-in-birth-sysceles/"
+    ],
+    "evidence": [
+      "Arc System Works 官方 Platform 欄列四類平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 743,
+    "name": "MultiVersus",
+    "status": "partial",
+    "platform": "PC/PS/Xbox",
+    "platformNote": "WB 官方 FAQ 確認 2025-05-30 結束線上服務與下載，僅先前完成設定的用戶可離線遊玩；歷史主機世代待補核。",
+    "sources": [
+      "https://wbgamessupport.wbgames.com/hc/en-us/articles/41493370420755-MultiVersus-Season-5-FAQ"
+    ],
+    "evidence": [
+      "WB 官方 FAQ 確認 2025-05-30 結束線上服務與下載，僅先前完成設定的用戶可離線遊玩；歷史主機世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "online-service-ended",
+    "safePlatform": "PC/PS/Xbox"
+  },
+  {
+    "auditIndex": 744,
+    "name": "SVC Chaos: SNK vs. Capcom",
+    "status": "verified",
+    "platform": "PC/PS4/Switch",
+    "platformNote": "SNK 公告列 2024 Steam／GOG、Switch、PS4 重新發行版。",
+    "sources": [
+      "https://www.snk-corp.co.jp/press/2024/112103/"
+    ],
+    "evidence": [
+      "SNK 公告列 2024 Steam／GOG、Switch、PS4 重新發行版。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 745,
+    "name": "Pocket Bravery",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "Nintendo、PlayStation、Xbox 官方商品均存在；PS／Xbox 世代需補讀，PC 需補核。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pocket-bravery-switch/"
+    ],
+    "evidence": [
+      "Nintendo、PlayStation、Xbox 官方商品均存在；PS／Xbox 世代需補讀，PC 需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 746,
+    "name": "MechWarrior 5: Clans",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "開發者 press kit 列 Steam／Epic、Xbox、PlayStation，但未指明主機世代。",
+    "sources": [
+      "https://www.mw5clans.com/resources/press-kit/clans"
+    ],
+    "evidence": [
+      "開發者 press kit 列 Steam／Epic、Xbox、PlayStation，但未指明主機世代。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 747,
+    "name": "Earth Defense Force 6",
+    "status": "verified",
+    "platform": "PC/PS5/PS4",
+    "platformNote": "D3 官方 Platform 欄明列 Steam、PS4、PS5，2024-07-25 上市。",
+    "sources": [
+      "https://www.d3p.co.jp/edf6/en/"
+    ],
+    "evidence": [
+      "D3 官方 Platform 欄明列 Steam、PS4、PS5，2024-07-25 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 748,
+    "name": "Killing Floor 3",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Tripwire 發布的官方新聞稿列 PC Steam／Epic、PS5、Xbox Series 均可取得第三季更新。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/killing-floor-3/",
+      "https://www.gamespress.com/de/Commence-Operation-Deep-Freeze-Tripwire-Interactive-Releases-Killing-F"
+    ],
+    "evidence": [
+      "Tripwire 發布的官方新聞稿列 PC Steam／Epic、PS5、Xbox Series 均可取得第三季更新。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 749,
+    "name": "Payday 3",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "Starbreeze 現行週年公告及 PS5 商品確認遊戲仍營運；完整 Xbox／PC 發售清單待補核。",
+    "sources": [
+      "https://www.starbreeze.com/news/payday3-3rd-anniversary/"
+    ],
+    "evidence": [
+      "Starbreeze 現行週年公告及 PS5 商品確認遊戲仍營運；完整 Xbox／PC 發售清單待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 750,
+    "name": "Ready or Not",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "VOID 官方更新紀錄確認 PS5、Xbox Series、Epic 已上市；PC／主機均支援跨平台。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/ready-or-not/",
+      "https://voidinteractive.net/los-suenos-stories-update-changelog/"
+    ],
+    "evidence": [
+      "VOID 官方更新紀錄確認 PS5、Xbox Series、Epic 已上市；PC／主機均支援跨平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 751,
+    "name": "Lethal Company",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "開發者 Zeekerss 的 Steam 商品確認已發售 PC 版本。",
+    "sources": [
+      "https://store.steampowered.com/app/1966720/Lethal_Company/?xcust=syn-dt-digital-trends-2960979&xs=1"
+    ],
+    "evidence": [
+      "開發者 Zeekerss 的 Steam 商品確認已發售 PC 版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 752,
+    "name": "Content Warning",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch/Switch 2",
+    "platformNote": "Landfall 官方 FAQ 明列 Steam、Xbox Series、PS5、Switch 1＆2 均 available。",
+    "sources": [
+      "https://landfall.se/content-warning-faq"
+    ],
+    "evidence": [
+      "Landfall 官方 FAQ 明列 Steam、Xbox Series、PS5、Switch 1＆2 均 available。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 753,
+    "name": "Murky Divers",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Xbox 官方列 Series X|S、PS 官方列 PS5；原 Steam 版本仍需補核。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/store/murky-divers/9NJR7ZHHHKPW",
+      "https://store.playstation.com/en-us/concept/10016908/"
+    ],
+    "evidence": [
+      "Xbox 官方列 Series X|S、PS 官方列 PS5；原 Steam 版本仍需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S"
+  },
+  {
+    "auditIndex": 754,
+    "name": "Phasmophobia",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "PS5 商品與 Xbox Game Preview 確認主機版本；Xbox 原生世代與 PC 尚需完整重驗。",
+    "sources": [
+      "https://store.playstation.com/en-us/product/EP7789-PPSA09030_00-5648706170853559/"
+    ],
+    "evidence": [
+      "PS5 商品與 Xbox Game Preview 確認主機版本；Xbox 原生世代與 PC 尚需完整重驗。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 755,
+    "name": "Abiotic Factor",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Xbox 商店原生可玩欄列 PC／Series，PlayStation 官方商品確認 PS5。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/abiotic-factor/",
+      "https://www.xbox.com/en-us/games/store/abiotic-factor/9p4nv23q6qc2"
+    ],
+    "evidence": [
+      "Xbox 商店原生可玩欄列 PC／Series，PlayStation 官方商品確認 PS5。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 756,
+    "name": "Nightingale",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "官方帳號頁與 Epic FAQ 指向 Steam／Epic PC 版；尚未找到完整最新平台聲明。",
+    "sources": [
+      "https://store.epicgames.com/p/nightingale--faq"
+    ],
+    "evidence": [
+      "官方帳號頁與 Epic FAQ 指向 Steam／Epic PC 版；尚未找到完整最新平台聲明。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 757,
+    "name": "V Rising",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "開發者官網明示 Available on Steam and PlayStation 5。",
+    "sources": [
+      "https://playvrising.com/?cmid=d577ce0e-575c-4a6b-9f3f-ff4ba27539a8"
+    ],
+    "evidence": [
+      "開發者官網明示 Available on Steam and PlayStation 5。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 758,
+    "name": "Bellwright",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "開發者 console release 公告確認 PS5、Xbox Series 與既有 PC 版本。",
+    "sources": [
+      "https://www.playbellwright.com/news/console-release-and-summer-update"
+    ],
+    "evidence": [
+      "開發者 console release 公告確認 PS5、Xbox Series 與既有 PC 版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 759,
+    "name": "Soulmask",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "發行商 Steam 商品及官方 FAQ 確認 PC，目前主機僅籌備未證實上市。",
+    "sources": [
+      "https://store.steampowered.com/app/2646460/Soulmask/?curator_clanid=8856836"
+    ],
+    "evidence": [
+      "發行商 Steam 商品及官方 FAQ 確認 PC，目前主機僅籌備未證實上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 760,
+    "name": "Lightyear Frontier",
+    "status": "verified",
+    "platform": "PC/Xbox Series X|S",
+    "platformNote": "官方 About 頁明列 Windows PC 與 Xbox Series，非 Xbox One。",
+    "sources": [
+      "https://lightyearfrontier.com/about/"
+    ],
+    "evidence": [
+      "官方 About 頁明列 Windows PC 與 Xbox Series，非 Xbox One。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 761,
+    "name": "Core Keeper",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/Switch 2",
+    "platformNote": "Nintendo 已提供 Switch 2 Edition 及升級包；PS／Xbox 原生世代與其他平台仍待重驗。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/core-keeper-nintendo-switch-2-edition-switch-2/"
+    ],
+    "evidence": [
+      "Nintendo 已提供 Switch 2 Edition 及升級包；PS／Xbox 原生世代與其他平台仍待重驗。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/Switch 2"
+  },
+  {
+    "auditIndex": 762,
+    "name": "Dinkum",
+    "status": "verified",
+    "platform": "PC/Switch",
+    "platformNote": "Krafton 官網明示現已推出 Steam 及 Nintendo Switch。",
+    "sources": [
+      "https://dinkum.krafton.com/en"
+    ],
+    "evidence": [
+      "Krafton 官網明示現已推出 Steam 及 Nintendo Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 763,
+    "name": "Fields of Mistria",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "開發者 FAQ 明示目前 Windows PC，其他平台仍在評估。",
+    "sources": [
+      "https://www.fieldsofmistria.com/faq"
+    ],
+    "evidence": [
+      "開發者 FAQ 明示目前 Windows PC，其他平台仍在評估。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 764,
+    "name": "Moonstone Island",
+    "status": "partial",
+    "platform": "PC/Switch/iOS/Android",
+    "platformNote": "Crunchyroll 的 App Store 與 Google Play 官方商品確認手機移植；PC／Switch 舊平台待補核。",
+    "sources": [
+      "https://apps.apple.com/us/app/crunchyroll-moonstone-island/id6502523799",
+      "https://play.google.com/store/apps/details?hl=en&id=com.crunchyroll.gv.moonstoneisland.game"
+    ],
+    "evidence": [
+      "Crunchyroll 的 App Store 與 Google Play 官方商品確認手機移植；PC／Switch 舊平台待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch/iOS/Android"
+  },
+  {
+    "auditIndex": 765,
+    "name": "Coral Island",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "開發者公告仍將 Switch 2／Kids Grow Up 更新列為冬季推出；不能先加入已上市平台。",
+    "sources": [
+      "https://steamcommunity.com/app/1158160"
+    ],
+    "evidence": [
+      "開發者公告仍將 Switch 2／Kids Grow Up 更新列為冬季推出；不能先加入已上市平台。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 766,
+    "name": "Palia",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "platformNote": "Palia 官方 Available Now 公告明列 PC、Switch、PS5、Xbox Series。",
+    "sources": [
+      "https://www.palia.com/news/ps5-xbox-elderwood-available-now"
+    ],
+    "evidence": [
+      "Palia 官方 Available Now 公告明列 PC、Switch、PS5、Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 767,
+    "name": "My Time at Sandrock",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "Xbox 商店可確認 Xbox One，PS 官方商品亦存在；其餘平台與各世代完整表待補核。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/store/my-time-at-sandrock/9n15rztxdnpg"
+    ],
+    "evidence": [
+      "Xbox 商店可確認 Xbox One，PS 官方商品亦存在；其餘平台與各世代完整表待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 768,
+    "name": "House Flipper 2",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox/Switch 2",
+    "platformNote": "Nintendo 官方 Switch 2 原生商品已找到；發售日期與 Xbox 世代待補核。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/house-flipper-2-switch-2/"
+    ],
+    "evidence": [
+      "Nintendo 官方 Switch 2 原生商品已找到；發售日期與 Xbox 世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 769,
+    "name": "PowerWash Simulator",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "Square Enix 發行公告確認所有主機世代；PC／VR 獨立版本範圍仍需補查。",
+    "sources": [
+      "https://www.square-enix-games.com/en_EU/home/powerwash-simulator-gets-boxed-release-out-today"
+    ],
+    "evidence": [
+      "Square Enix 發行公告確認所有主機世代；PC／VR 獨立版本範圍仍需補查。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch"
+  },
+  {
+    "auditIndex": 770,
+    "name": "Chants of Sennaar",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch/iOS",
+    "platformNote": "Playdigious App Store 確認 iOS 原生移植；Android 及主機世代尚未完整核實。",
+    "sources": [
+      "https://apps.apple.com/us/app/chants-of-sennaar/id6566195667"
+    ],
+    "evidence": [
+      "Playdigious App Store 確認 iOS 原生移植；Android 及主機世代尚未完整核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch/iOS"
+  },
+  {
+    "auditIndex": 771,
+    "name": "Viewfinder",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox/Switch",
+    "platformNote": "Nintendo 與 Xbox 官方商品確認新增版本；Xbox 世代與 PS4 是否原生需補查。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/viewfinder-switch/"
+    ],
+    "evidence": [
+      "Nintendo 與 Xbox 官方商品確認新增版本；Xbox 世代與 PS4 是否原生需補查。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Switch"
+  },
+  {
+    "auditIndex": 772,
+    "name": "Cocoon",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "官方網站列 PC、Xbox、Switch、PlayStation 商店；PS／Xbox 原生世代需補讀商品。",
+    "sources": [
+      "https://www.cocoongame.com/"
+    ],
+    "evidence": [
+      "官方網站列 PC、Xbox、Switch、PlayStation 商店；PS／Xbox 原生世代需補讀商品。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 773,
+    "name": "Venba",
+    "status": "partial",
+    "platform": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "開發者 press kit 列 Windows、Mac App Store、PS5、Xbox One／Series、Switch；原 Mobile 標記未獲支持。",
+    "sources": [
+      "https://venbagame.com/press/"
+    ],
+    "evidence": [
+      "開發者 press kit 列 Windows、Mac App Store、PS5、Xbox One／Series、Switch；原 Mobile 標記未獲支持。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/macOS/PS5/Xbox Series X|S/Xbox One/Switch/Mobile"
+  },
+  {
+    "auditIndex": 774,
+    "name": "Dordogne",
+    "status": "verified",
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "Focus 官方上市公告明列六類平台。",
+    "sources": [
+      "https://www.focus-entmt.com/en/news/your-journey-in-dordogne-starts-on-june-13"
+    ],
+    "evidence": [
+      "Focus 官方上市公告明列六類平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 775,
+    "name": "Jusant",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "DON'T NOD 官方 out now 公告明列 Steam、PS5、Xbox Series；GeForce Now 為雲端不另列平台。",
+    "sources": [
+      "https://dont-nod.com/en/jusant-is-out-now/"
+    ],
+    "evidence": [
+      "DON'T NOD 官方 out now 公告明列 Steam、PS5、Xbox Series；GeForce Now 為雲端不另列平台。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 776,
+    "name": "Sea of Stars",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/iOS/Android",
+    "platformNote": "Playdigious 的 App Store 與 Google Play 商品確認手機版；各主機世代仍待完整核實。",
+    "sources": [
+      "https://apps.apple.com/us/app/sea-of-stars/id6673906410?ct=Tap33940963",
+      "https://play.google.com/store/apps/details?id=com.playdigious.seaofstars"
+    ],
+    "evidence": [
+      "Playdigious 的 App Store 與 Google Play 商品確認手機版；各主機世代仍待完整核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/iOS/Android"
+  },
+  {
+    "auditIndex": 777,
+    "name": "Chained Echoes",
+    "status": "partial",
+    "platform": "PC/PS4/Xbox/Switch",
+    "platformNote": "PS 官方商品明示 PS4 版在 PS5 向下相容，不能算原生 PS5；Xbox 世代待補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/chained-echoes/"
+    ],
+    "evidence": [
+      "PS 官方商品明示 PS4 版在 PS5 向下相容，不能算原生 PS5；Xbox 世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 778,
+    "name": "Cassette Beasts",
+    "status": "partial",
+    "platform": "PC/Xbox/Switch",
+    "platformNote": "官方網站已轉為續作 Cassette Beasts 2002；不可把續作 PS5 等平台直接套給原作，原作完整表待補核。",
+    "sources": [
+      "https://www.cassettebeasts.com/cassette-beasts/"
+    ],
+    "evidence": [
+      "官方網站已轉為續作 Cassette Beasts 2002；不可把續作 PS5 等平台直接套給原作，原作完整表待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox/Switch"
+  },
+  {
+    "auditIndex": 779,
+    "name": "Wartales",
+    "status": "partial",
+    "platform": "PC/Xbox/Switch",
+    "platformNote": "已找到開發者官網及 Xbox 商品；需補完整 PC／Switch／Xbox 原生世代。",
+    "sources": [
+      "https://wartales.net/game/"
+    ],
+    "evidence": [
+      "已找到開發者官網及 Xbox 商品；需補完整 PC／Switch／Xbox 原生世代。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox/Switch"
+  },
+  {
+    "auditIndex": 780,
+    "name": "Against the Storm",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox/Switch",
+    "platformNote": "PS 官方列 PS5／PS4，Xbox 商品與發行商主機新聞存在；Switch 上市與 Xbox 世代待補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/against-the-storm/"
+    ],
+    "evidence": [
+      "PS 官方列 PS5／PS4，Xbox 商品與發行商主機新聞存在；Switch 上市與 Xbox 世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 781,
+    "name": "Dredge",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/iOS",
+    "platformNote": "Black Salt Games App Store 商品確認 iOS／macOS 移植；Android 與各主機世代待補查。",
+    "sources": [
+      "https://apps.apple.com/us/app/dredge/id6526463862?platform=ipad"
+    ],
+    "evidence": [
+      "Black Salt Games App Store 商品確認 iOS／macOS 移植；Android 與各主機世代待補查。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/iOS"
+  },
+  {
+    "auditIndex": 782,
+    "name": "Dave the Diver",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "Xbox 官方 2025-11 新聞及商店確認新增 Xbox 版本；各原生世代待補核。",
+    "sources": [
+      "https://news.xbox.com/en-us/2025/11/20/dave-the-diver-xbox-partner-preview/?ver=3.7.1"
+    ],
+    "evidence": [
+      "Xbox 官方 2025-11 新聞及商店確認新增 Xbox 版本；各原生世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 783,
+    "name": "Pizza Tower",
+    "status": "partial",
+    "platform": "PC/Switch",
+    "platformNote": "Nintendo 官方商品確認 Switch 版；原 PC 版尚需補 Steam 證據。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pizza-tower-switch/"
+    ],
+    "evidence": [
+      "Nintendo 官方商品確認 Switch 版；原 PC 版尚需補 Steam 證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch"
+  },
+  {
+    "auditIndex": 784,
+    "name": "Hi-Fi Rush",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "PS5 與 Xbox Series 官方頁已核實；PC 原生商品待補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/hi-fi-rush/"
+    ],
+    "evidence": [
+      "PS5 與 Xbox Series 官方頁已核實；PC 原生商品待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 785,
+    "name": "Bomb Rush Cyberfunk",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Switch",
+    "platformNote": "PS 官方列 PS4／PS5，Xbox 商店列 One；其餘原平台與 Series 原生狀態待補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/bomb-rush-cyberfunk/"
+    ],
+    "evidence": [
+      "PS 官方列 PS4／PS5，Xbox 商店列 One；其餘原平台與 Series 原生狀態待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 786,
+    "name": "Grounded",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "Xbox 官網列 PC、Xbox、PlayStation、Switch；PS／Xbox 世代尚需逐商店核實。",
+    "sources": [
+      "https://www.xbox.com/en-GB/games/grounded/"
+    ],
+    "evidence": [
+      "Xbox 官網列 PC、Xbox、PlayStation、Switch；PS／Xbox 世代尚需逐商店核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 787,
+    "name": "Pentiment",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Switch",
+    "platformNote": "PS 官方列 PS4／PS5，Xbox 商品列 One；其餘平台待補完整重驗。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/pentiment/"
+    ],
+    "evidence": [
+      "PS 官方列 PS4／PS5，Xbox 商品列 One；其餘平台待補完整重驗。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox/Switch"
+  },
+  {
+    "auditIndex": 788,
+    "name": "As Dusk Falls",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "PlayStation 官方確認 PS4／PS5 版；手機 companion app 不是完整原生手機遊戲，Xbox 世代待補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/as-dusk-falls/?country-selector=true"
+    ],
+    "evidence": [
+      "PlayStation 官方確認 PS4／PS5 版；手機 companion app 不是完整原生手機遊戲，Xbox 世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 789,
+    "name": "Citizen Sleeper",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "官網需區分 Citizen Sleeper 1 與 2；原 Mobile 未找到本次官方支持，主機世代待補核。",
+    "sources": [
+      "https://citizensleeper.com/CS-1"
+    ],
+    "evidence": [
+      "官網需區分 Citizen Sleeper 1 與 2；原 Mobile 未找到本次官方支持，主機世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/Mobile"
+  },
+  {
+    "auditIndex": 790,
+    "name": "Norco",
+    "status": "partial",
+    "platform": "PC/PS/Xbox",
+    "platformNote": "開發者曾表示 Switch 移植仍需工作，未找到已上市 Switch 證據；其他主機完整清單待補核。",
+    "sources": [
+      "https://steamcommunity.com/app/1221250/discussions/0/3758852249524857956/"
+    ],
+    "evidence": [
+      "開發者曾表示 Switch 移植仍需工作，未找到已上市 Switch 證據；其他主機完整清單待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 791,
+    "name": "Immortality",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox/Mobile",
+    "platformNote": "PlayStation 官方 PS5 商品確認遺漏 PS5；手機當前可取得狀態與 Xbox 世代待補核。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/immortality/"
+    ],
+    "evidence": [
+      "PlayStation 官方 PS5 商品確認遺漏 PS5；手機當前可取得狀態與 Xbox 世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Mobile"
+  },
+  {
+    "auditIndex": 792,
+    "name": "Tunic",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "Finji 官方購買頁連結 PC、Switch、PlayStation、Xbox；主機原生世代待補核。",
+    "sources": [
+      "https://finji.co/games/tunic/"
+    ],
+    "evidence": [
+      "Finji 官方購買頁連結 PC、Switch、PlayStation、Xbox；主機原生世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch"
+  },
+  {
+    "auditIndex": 793,
+    "name": "Death's Door",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/iOS/Android",
+    "platformNote": "Netflix 官方媒體及 Apple／Google 商品證實手機移植；完整主機世代仍待補核。",
+    "sources": [
+      "https://media.netflix.com/en/only-on-netflix/81664670",
+      "https://apps.apple.com/us/app/deaths-door/id6450375254",
+      "https://play.google.com/store/apps/details?id=com.netflix.NGP.DeathsDoor"
+    ],
+    "evidence": [
+      "Netflix 官方媒體及 Apple／Google 商品證實手機移植；完整主機世代仍待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/iOS/Android"
+  },
+  {
+    "auditIndex": 794,
+    "name": "Inscryption",
+    "status": "verified",
+    "platform": "PC/macOS/Linux/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+    "platformNote": "遊戲官網確認 PC、PS4／PS5、Xbox One／Series、Switch 已推出；Steam 官方 appdetails 1092790 明列 Windows、Mac、Linux 皆受支援，且 coming_soon 為 false。",
+    "sources": [
+      "https://www.inscryption.com/",
+      "https://store.steampowered.com/api/appdetails?appids=1092790&l=english&cc=us"
+    ],
+    "evidence": [
+      "遊戲官網確認 PC、PS4／PS5、Xbox One／Series、Switch 已推出。",
+      "Steam 官方商品資料 platforms.windows、platforms.mac、platforms.linux 均為 true；release_date.coming_soon 為 false。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 795,
+    "name": "Loop Hero",
+    "status": "partial",
+    "platform": "PC/Xbox/Switch/iOS/Android",
+    "platformNote": "Playdigious 官方手機公告與商店證實 iOS／Android；Xbox 世代和原 PC／Switch 待補核。",
+    "sources": [
+      "https://playdigious.com/news/loop-hero-is-coming-to-mobile-on-april-30th-2024-preorder-it-now",
+      "https://play.google.com/store/apps/details?hl=en_US&id=com.playdigious.loophero"
+    ],
+    "evidence": [
+      "Playdigious 官方手機公告與商店證實 iOS／Android；Xbox 世代和原 PC／Switch 待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox/Switch/iOS/Android"
+  },
+  {
+    "auditIndex": 796,
+    "name": "Brotato",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/Switch 2/Mobile",
+    "platformNote": "Nintendo 明列 Switch 2 Edition 升級包；其他平台與手機 OS 尚未完整重驗。",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/brotato-nintendo-switch-2-edition-switch-2/"
+    ],
+    "evidence": [
+      "Nintendo 明列 Switch 2 Edition 升級包；其他平台與手機 OS 尚未完整重驗。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/Switch 2/Mobile"
+  },
+  {
+    "auditIndex": 797,
+    "name": "20 Minutes Till Dawn",
+    "status": "partial",
+    "platform": "PC/Switch/Mobile",
+    "platformNote": "Nintendo 官方確認 Switch 版；PC／手機 OS 待補核，搜尋有混入 Until Dawn 已排除。",
+    "sources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/20-Minutes-Till-Dawn-2496660.html"
+    ],
+    "evidence": [
+      "Nintendo 官方確認 Switch 版；PC／手機 OS 待補核，搜尋有混入 Until Dawn 已排除。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Switch/Mobile"
+  },
+  {
+    "auditIndex": 798,
+    "name": "Risk of Rain Returns",
+    "status": "verified",
+    "platform": "PC/Switch",
+    "platformNote": "開發者 Steam 商品與 Nintendo 官方商店確認 PC 及 Switch。",
+    "sources": [
+      "https://store.steampowered.com/app/1337520/Risk_of_Rain_Returns/",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Risk-of-Rain-Returns-2477812.html"
+    ],
+    "evidence": [
+      "開發者 Steam 商品與 Nintendo 官方商店確認 PC 及 Switch。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 799,
+    "name": "Risk of Rain 2",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch",
+    "platformNote": "2K 官方確認 Xbox One／PS4／Switch 不再收到未來內容，但既有遊戲仍可玩；PS 商品另確認原生 PS4 與 PS5，Series 已有原生版。PC 全平台重驗仍待補。",
+    "sources": [
+      "https://support.2k.com/hc/en-us/articles/48628339700371-Risk-of-Rain-2-The-Future-of-Risk-of-Rain-2-on-Gen-8-Consoles",
+      "https://www.playstation.com/en-us/games/risk-of-rain-2/"
+    ],
+    "evidence": [
+      "2K 官方確認 Xbox One／PS4／Switch 不再收到未來內容，但既有遊戲仍可玩；PS 商品另確認原生 PS4 與 PS5，Series 已有原生版。PC 全平台重驗仍待補。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch"
+  },
+  {
+    "auditIndex": 800,
+    "name": "Roboquest",
+    "status": "partial",
+    "platform": "PC/PS5/PS4/Xbox",
+    "platformNote": "Starbreeze 官方確認已上 PS5 及 PS4；Xbox 世代待補核。",
+    "sources": [
+      "https://www.starbreeze.com/news/roboquest-is-now-available-for-playstation5-and-4/"
+    ],
+    "evidence": [
+      "Starbreeze 官方確認已上 PS5 及 PS4；Xbox 世代待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/PS4/Xbox"
+  },
+  {
+    "auditIndex": 801,
+    "name": "Dead Cells: Return to Castlevania",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/Mobile",
+    "platformNote": "官方 Steam、Nintendo DLC 與手機遊戲商品存在；這是 Dead Cells DLC，主機與手機各版本內容可用性待逐項核實。",
+    "sources": [
+      "https://store.steampowered.com/app/2101430/Dead_Cells_Return_to_Castlevania/"
+    ],
+    "evidence": [
+      "官方 Steam、Nintendo DLC 與手機遊戲商品存在；這是 Dead Cells DLC，主機與手機各版本內容可用性待逐項核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/Mobile"
+  },
+  {
+    "auditIndex": 802,
+    "name": "The Rogue Prince of Persia",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch/Switch 2",
+    "platformNote": "Ubisoft 已上市公告確認 PC／PS5／Xbox Series；Nintendo 官方商店另列 Switch 與 Switch 2 原生版本。",
+    "sources": [
+      "https://news.ubisoft.com/en-us/article/6WGOcXVetzia8X0l129DHC/the-rogue-prince-of-persia-available-now-on-consoles-and-pc",
+      "https://www.nintendo.com/us/store/products/the-rogue-prince-of-persia-switch/",
+      "https://www.nintendo.com/us/store/products/the-rogue-prince-of-persia-switch-2/"
+    ],
+    "evidence": [
+      "Ubisoft 已上市公告確認 PC／PS5／Xbox Series；Nintendo 官方商店另列 Switch 與 Switch 2 原生版本。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 803,
+    "name": "Duet Night Abyss",
+    "status": "partial",
+    "platform": "PC/iOS/Android",
+    "platformNote": "官方網站提供 App Store 與 Epic 下載；Android 商店與上線日期尚需補核。",
+    "sources": [
+      "https://duetnightabyss.dna-panstudio.com/en/index.html"
+    ],
+    "evidence": [
+      "官方網站提供 App Store 與 Epic 下載；Android 商店與上線日期尚需補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mobile"
+  },
+  {
+    "auditIndex": 804,
+    "name": "Limbus Company",
+    "status": "partial",
+    "platform": "PC/Mobile",
+    "platformNote": "Project Moon 的 Steam 與 Google Play 商品已核實；iOS 平台尚需補官方商店。",
+    "sources": [
+      "https://store.steampowered.com/app/1973530/Limbus_Company/"
+    ],
+    "evidence": [
+      "Project Moon 的 Steam 與 Google Play 商品已核實；iOS 平台尚需補官方商店。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mobile"
+  },
+  {
+    "auditIndex": 805,
+    "name": "Solo Leveling: Arise",
+    "status": "partial",
+    "platform": "PC/Mobile",
+    "platformNote": "App Store／Google Play 商品可核實手機版；Google Play Games PC 是模擬相容，不直接當原生 Windows，Netmarble PC 啟動器待核實。",
+    "sources": [
+      "https://apps.apple.com/us/app/solo-leveling-arise/id1662742277"
+    ],
+    "evidence": [
+      "App Store／Google Play 商品可核實手機版；Google Play Games PC 是模擬相容，不直接當原生 Windows，Netmarble PC 啟動器待核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mobile"
+  },
+  {
+    "auditIndex": 806,
+    "name": "The Seven Deadly Sins: Origin",
+    "status": "partial",
+    "platform": "PC/PS5/Mobile",
+    "platformNote": "PlayStation 官方把主機明確為 PS5，最新公告為 2026-03-16；PC／手機最新上市狀態待補核。",
+    "sources": [
+      "https://blog.playstation.com/2026/03/13/the-seven-deadly-sins-origin-ps5-features-detailed-launches-march-16/"
+    ],
+    "evidence": [
+      "PlayStation 官方把主機明確為 PS5，最新公告為 2026-03-16；PC／手機最新上市狀態待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Mobile"
+  },
+  {
+    "auditIndex": 807,
+    "name": "Project Mugen",
+    "status": "partial",
+    "platform": "PC/PS5/Mobile",
+    "platformNote": "Project Mugen 已改名 ANANTA；官方首頁公告全球 2027-01-15，現有平台應視為預定，完整平台尚待購買頁。",
+    "sources": [
+      "https://www.anantagame.com/news/official/"
+    ],
+    "evidence": [
+      "Project Mugen 已改名 ANANTA；官方首頁公告全球 2027-01-15，現有平台應視為預定，完整平台尚待購買頁。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "upcoming",
+    "safePlatform": "PC/PS5/Mobile"
+  },
+  {
+    "auditIndex": 808,
+    "name": "Tree of Savior: Neverland",
+    "status": "partial",
+    "platform": "Mobile/PC",
+    "platformNote": "Neverland 官方網站及 Google Play 可核實手機作品；搜尋易混原版 Tree of Savior，原生 PC 客戶端尚不能確認。",
+    "sources": [
+      "https://treeofsavior-neverland.qookkagames.com/prism-lzkxr2c0"
+    ],
+    "evidence": [
+      "Neverland 官方網站及 Google Play 可核實手機作品；搜尋易混原版 Tree of Savior，原生 PC 客戶端尚不能確認。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "Mobile/PC"
+  },
+  {
+    "auditIndex": 809,
+    "name": "MapleStory Worlds",
+    "status": "partial",
+    "platform": "PC/Mobile",
+    "platformNote": "Nexon 官方下載頁確認 PC 與手機／平板，具創作與遊玩差異；手機 OS 及台灣區域支援仍需逐頁確認。",
+    "sources": [
+      "https://maplestoryworlds.nexon.com/en/download"
+    ],
+    "evidence": [
+      "Nexon 官方下載頁確認 PC 與手機／平板，具創作與遊玩差異；手機 OS 及台灣區域支援仍需逐頁確認。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Mobile"
+  },
+  {
+    "auditIndex": 810,
+    "name": "World of Warcraft: The War Within",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "Blizzard 官方內容頁確認資料片；尚需官方系統需求核實 Windows／macOS。",
+    "sources": [
+      "https://news.blizzard.com/en-us/article/24130678/the-war-within-content-update-notes"
+    ],
+    "evidence": [
+      "Blizzard 官方內容頁確認資料片；尚需官方系統需求核實 Windows／macOS。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 811,
+    "name": "Final Fantasy XIV: Dawntrail",
+    "status": "partial",
+    "platform": "PC/macOS/PS5/PS4/Xbox Series X|S/Switch 2",
+    "platformNote": "FFXIV 官方 Dawntrail 產品頁已列 Windows、Mac、PS4／PS5、Xbox Series、Switch 2；Switch 2 實際上線日待核對。",
+    "sources": [
+      "https://na.finalfantasyxiv.com/dawntrail/product/"
+    ],
+    "evidence": [
+      "FFXIV 官方 Dawntrail 產品頁已列 Windows、Mac、PS4／PS5、Xbox Series、Switch 2；Switch 2 實際上線日待核對。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/macOS/PS5/PS4/Xbox Series X|S"
+  },
+  {
+    "auditIndex": 812,
+    "name": "Guild Wars 2: Janthir Wilds",
+    "status": "verified",
+    "platform": "PC",
+    "platformNote": "ArenaNet 官方購買頁及 Steam 資料片商品皆列 Windows。",
+    "sources": [
+      "https://buy.guildwars2.com/en-us/janthir-wilds?tab=0"
+    ],
+    "evidence": [
+      "ArenaNet 官方購買頁及 Steam 資料片商品皆列 Windows。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 813,
+    "name": "The Elder Scrolls Online: Gold Road",
+    "status": "partial",
+    "platform": "PC/macOS/PS/Xbox",
+    "platformNote": "ESO 官方支援頁明列 PC/Mac 與 PS／Xbox 上市日期；主機世代未完整核實。",
+    "sources": [
+      "https://help.elderscrollsonline.com/app/answers/detail/a_id/64520/~/what-do-i-get-when-i-purchase-the-elder-scrolls-online-collection%3A-gold-road"
+    ],
+    "evidence": [
+      "ESO 官方支援頁明列 PC/Mac 與 PS／Xbox 上市日期；主機世代未完整核實。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/macOS/PS/Xbox"
+  },
+  {
+    "auditIndex": 814,
+    "name": "Destiny 2: The Final Shape",
+    "status": "partial",
+    "platform": "PC/PS/Xbox",
+    "platformNote": "Bungie 官方資料片指南及 Steam／Epic 商品已核實；PS／Xbox 原生世代仍待平台商店。",
+    "sources": [
+      "https://help.bungie.net/hc/en-us/articles/21192163250964-Destiny-2-The-Final-Shape-Guide"
+    ],
+    "evidence": [
+      "Bungie 官方資料片指南及 Steam／Epic 商品已核實；PS／Xbox 原生世代仍待平台商店。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox"
+  },
+  {
+    "auditIndex": 815,
+    "name": "Warframe: 1999",
+    "status": "partial",
+    "platform": "PC/PS/Xbox/Switch/Mobile",
+    "platformNote": "官方 1999 與 Android FAQ 可找到；Android FAQ 包含未來式，Switch 2 及各手機／主機當前發布範圍待補核。",
+    "sources": [
+      "https://support.warframe.com/hc/en-us/articles/38306679913229-Warframe-Mobile-Android-FAQ"
+    ],
+    "evidence": [
+      "官方 1999 與 Android FAQ 可找到；Android FAQ 包含未來式，Switch 2 及各手機／主機當前發布範圍待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox/Switch/Mobile"
+  },
+  {
+    "auditIndex": 816,
+    "name": "The First Descendant",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Nexon 官方確認 PS4 與 Xbox One 於 2025-06-19 停止且不再可玩；頁面現行下載列 PC、PS5、Xbox Series。",
+    "sources": [
+      "https://tfd.nexon.com/en/news/2750029"
+    ],
+    "evidence": [
+      "Nexon 官方確認 PS4 與 Xbox One 於 2025-06-19 停止且不再可玩；頁面現行下載列 PC、PS5、Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 817,
+    "name": "Wayfinder",
+    "status": "partial",
+    "platform": "PC/PS/Xbox",
+    "platformNote": "Xbox 現行商品已存在；PlayStation 頁仍混入 PS4 版資訊，需區分舊線上版與 Echoes 重製版本。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/store/wayfinder/9p684r1zqfqf"
+    ],
+    "evidence": [
+      "Xbox 現行商品已存在；PlayStation 頁仍混入 PS4 版資訊，需區分舊線上版與 Echoes 重製版本。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS/Xbox"
+  },
+  {
+    "auditIndex": 818,
+    "name": "Blue Protocol",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox",
+    "platformNote": "Bandai Namco 開發者頁確認原 Blue Protocol 身分；需補正式停服公告，不能與 Star Resonance 混為同一作品。",
+    "sources": [
+      "https://www.bandainamcostudios.com/en/products/blue-protocol.html"
+    ],
+    "evidence": [
+      "Bandai Namco 開發者頁確認原 Blue Protocol 身分；需補正式停服公告，不能與 Star Resonance 混為同一作品。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "status-unverified",
+    "safePlatform": "PC/PS5/Xbox"
+  },
+  {
+    "auditIndex": 819,
+    "name": "Throne and Liberty",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "PS5 與 Xbox Series 官網可核實；PC 商品與區域差異尚待補核。",
+    "sources": [
+      "https://www.xbox.com/en-CA/games/throne-and-liberty"
+    ],
+    "evidence": [
+      "PS5 與 Xbox Series 官網可核實；PC 商品與區域差異尚待補核。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox Series X|S"
+  },
+  {
+    "auditIndex": 820,
+    "name": "Pax Dei",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "官方 1.0 FAQ 與發行日公告可找到；需區分 Steam／發行商商店等 PC 店面，不當成不同主機。",
+    "sources": [
+      "https://playpaxdei.com/en-us/faq/general-questions"
+    ],
+    "evidence": [
+      "官方 1.0 FAQ 與發行日公告可找到；需區分 Steam／發行商商店等 PC 店面，不當成不同主機。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 821,
+    "name": "Dune: Awakening",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Level Infinite 確認 2026-09-22 PS5／Xbox Series 上市並同步 PC 更新，Funcom 已發布主機上市修補紀錄。",
+    "sources": [
+      "https://duneawakening.com/news/dune-awakening-console-release-patch-notes/",
+      "https://www.levelinfinite.com/news/dune-awakening-comes-to-console/"
+    ],
+    "evidence": [
+      "Level Infinite 確認 2026-09-22 PS5／Xbox Series 上市並同步 PC 更新，Funcom 已發布主機上市修補紀錄。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 822,
+    "name": "Light No Fire",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "Steam 頁確認 PC 預定作品，Hello Games press kit 平台／日期仍 TBC；不得表示已上市。",
+    "sources": [
+      "https://lightnofire.com/press"
+    ],
+    "evidence": [
+      "Steam 頁確認 PC 預定作品，Hello Games press kit 平台／日期仍 TBC；不得表示已上市。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "upcoming",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 823,
+    "name": "Crimson Desert",
+    "status": "verified",
+    "platform": "PC/macOS/PS5/Xbox Series X|S",
+    "platformNote": "Pearl Abyss 官方全球上市公告明列 Steam／Epic、Apple Mac、PS5、Xbox Series；ROG Ally 歸 PC。",
+    "sources": [
+      "https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684"
+    ],
+    "evidence": [
+      "Pearl Abyss 官方全球上市公告明列 Steam／Epic、Apple Mac、PS5、Xbox Series；ROG Ally 歸 PC。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 824,
+    "name": "Phantom Blade Zero",
+    "status": "partial",
+    "platform": "PC/PS5",
+    "platformNote": "Steam 與 PlayStation 官方商品已找到；需補正式發售日期，不用舊預告當已上市證據。",
+    "sources": [
+      "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/"
+    ],
+    "evidence": [
+      "Steam 與 PlayStation 官方商品已找到；需補正式發售日期，不用舊預告當已上市證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5"
+  },
+  {
+    "auditIndex": 825,
+    "name": "Lost Soul Aside",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "PlayStation 官方 2025-08-29 上市公告確認 PS5 與 PC Steam／Epic。",
+    "sources": [
+      "https://blog.playstation.com/2025/08/29/lost-soul-aside-launches-today-with-free-playable-demo/"
+    ],
+    "evidence": [
+      "PlayStation 官方 2025-08-29 上市公告確認 PS5 與 PC Steam／Epic。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 826,
+    "name": "Project: The Perceiver",
+    "status": "unresolved",
+    "platform": "PC/PS5",
+    "platformNote": "搜索多為二手報導，尚未取得可驗證官方平台／上市狀態。不能依同名報導添加 PC 或認定已發售。",
+    "sources": [],
+    "evidence": [
+      "搜索多為二手報導，尚未取得可驗證官方平台／上市狀態。不能依同名報導添加 PC 或認定已發售。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5"
+  },
+  {
+    "auditIndex": 827,
+    "name": "AI Limit",
+    "status": "partial",
+    "platform": "PC/PS5",
+    "platformNote": "PlayStation 官方確認 PS5 於 2025-03-27 上市；PC 商品待補核，搜尋混入一般 AI 工具已排除。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/ai-limit/"
+    ],
+    "evidence": [
+      "PlayStation 官方確認 PS5 於 2025-03-27 上市；PC 商品待補核，搜尋混入一般 AI 工具已排除。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5"
+  },
+  {
+    "auditIndex": 828,
+    "name": "Ballad of Antara",
+    "status": "partial",
+    "platform": "PC/PS5/Mobile",
+    "platformNote": "TipsWorks 開發者 PlayStation Blog 僅確認 PS5 舊預告；PC／手機及原 2025 上市計畫未取得最新官方證據。",
+    "sources": [
+      "https://blog.playstation.com/2024/05/30/ballad-of-antara-is-a-world-bending-action-rpg-coming-to-ps5-in-2025/"
+    ],
+    "evidence": [
+      "TipsWorks 開發者 PlayStation Blog 僅確認 PS5 舊預告；PC／手機及原 2025 上市計畫未取得最新官方證據。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Mobile"
+  },
+  {
+    "auditIndex": 829,
+    "name": "Death Stranding 2: On the Beach",
+    "status": "verified",
+    "platform": "PC/PS5",
+    "platformNote": "PlayStation 官方確認 2026-03-19 PC 版及同步 PS5 更新。",
+    "sources": [
+      "https://blog.playstation.com/2026/03/17/death-stranding-2-new-pc-ps5-features-detailed-live-march-19/"
+    ],
+    "evidence": [
+      "PlayStation 官方確認 2026-03-19 PC 版及同步 PS5 更新。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 830,
+    "name": "Ghost of Yotei",
+    "status": "verified",
+    "platform": "PS5",
+    "platformNote": "PlayStation 官方明示 2025-10-02 PS5 獨占上市。",
+    "sources": [
+      "https://www.playstation.com/en-us/games/ghost-of-yotei/"
+    ],
+    "evidence": [
+      "PlayStation 官方明示 2025-10-02 PS5 獨占上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 831,
+    "name": "Intergalactic: The Heretic Prophet",
+    "status": "partial",
+    "platform": "PS5",
+    "platformNote": "PlayStation 官方上市日期仍待定；PS5 應標為預定而非已發售。",
+    "sources": [
+      "https://www.playstation.com/en-ie/games/intergalactic-the-heretic-prophet/"
+    ],
+    "evidence": [
+      "PlayStation 官方上市日期仍待定；PS5 應標為預定而非已發售。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "upcoming",
+    "safePlatform": "PS5"
+  },
+  {
+    "auditIndex": 832,
+    "name": "Fable",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Xbox 現行官網列 2027-02-23；PlayStation 官方有 PS5 公告，仍是未發售平台。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/fable?wfExp=382CT"
+    ],
+    "evidence": [
+      "Xbox 現行官網列 2027-02-23；PlayStation 官方有 PS5 公告，仍是未發售平台。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "upcoming",
+    "safePlatform": "PC/Xbox"
+  },
+  {
+    "auditIndex": 833,
+    "name": "Perfect Dark",
+    "status": "unresolved",
+    "platform": "PC/Xbox",
+    "platformNote": "此記錄似指重新開發的新 Perfect Dark；本次官方搜索主要返回舊 Xbox 360 商品，不能冒用舊作證據。取消狀態尚缺可公開重驗官方聲明。",
+    "sources": [],
+    "evidence": [
+      "此記錄似指重新開發的新 Perfect Dark；本次官方搜索主要返回舊 Xbox 360 商品，不能冒用舊作證據。取消狀態尚缺可公開重驗官方聲明。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/Xbox"
+  },
+  {
+    "auditIndex": 834,
+    "name": "State of Decay 3",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Xbox 官方現行頁顯示 Xbox Series、PC、PlayStation 圖示，2027 年預定；PS 世代需補官方文字確認。",
+    "sources": [
+      "https://www.xbox.com/en-US/games/state-of-decay-3"
+    ],
+    "evidence": [
+      "Xbox 官方現行頁顯示 Xbox Series、PC、PlayStation 圖示，2027 年預定；PS 世代需補官方文字確認。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "upcoming",
+    "safePlatform": "PC/Xbox"
+  },
+  {
+    "auditIndex": 835,
+    "name": "South Park: Snow Day!",
+    "status": "partial",
+    "platform": "PC/PS5/Xbox/Switch",
+    "platformNote": "THQ Nordic 官方產品頁及 DLC 新聞可核實作品，但完整平台欄待補讀。",
+    "sources": [
+      "https://southpark.thqnordic.com/"
+    ],
+    "evidence": [
+      "THQ Nordic 官方產品頁及 DLC 新聞可核實作品，但完整平台欄待補讀。"
+    ],
+    "checkedAt": "2026-10-18",
+    "safePlatform": "PC/PS5/Xbox/Switch"
+  },
+  {
+    "auditIndex": 836,
+    "name": "Mina the Hollower",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S/Switch/Switch 2",
+    "platformNote": "Yacht Club 官方平台公告列五類平台，press kit 更新發行日為 2026-05-29。",
+    "sources": [
+      "https://www.yachtclubgames.com/blog/mina-the-hollower-launches-in-spring-2026/",
+      "https://www.yachtclubgames.com/press/mina-the-hollower/"
+    ],
+    "evidence": [
+      "Yacht Club 官方平台公告列五類平台，press kit 更新發行日為 2026-05-29。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 837,
+    "name": "Haunted Chocolatier",
+    "status": "partial",
+    "platform": "PC",
+    "platformNote": "官方 FAQ 僅確定 PC，仍在開發且無發行日；這是已公告平台，不是已發售平台。",
+    "sources": [
+      "https://www.hauntedchocolatier.net/faq/"
+    ],
+    "evidence": [
+      "官方 FAQ 僅確定 PC，仍在開發且無發行日；這是已公告平台，不是已發售平台。"
+    ],
+    "checkedAt": "2026-10-18",
+    "releaseStatus": "upcoming",
+    "safePlatform": "PC"
+  },
+  {
+    "auditIndex": 641,
+    "name": "Clair Obscur: Expedition 33",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Sandfall 官方上市公告列 Steam／Epic、PS5、Xbox Series。",
+    "sources": [
+      "https://www.expedition33.com/post/out-now"
+    ],
+    "evidence": [
+      "Sandfall 官方上市公告列 Steam／Epic、PS5、Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 642,
+    "name": "Kingdom Come: Deliverance II",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Deep Silver 官網技術 FAQ 確認 PC，帳號產品頁明列 PS5／Xbox Series。",
+    "sources": [
+      "https://www.deepsilver.com/games/kingdom-come-deliverance-ii/news/technical-faq",
+      "https://account.deepsilver.com/games/kcd2"
+    ],
+    "evidence": [
+      "Deep Silver 官網技術 FAQ 確認 PC，帳號產品頁明列 PS5／Xbox Series。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 643,
+    "name": "Avowed",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "Obsidian 原始平台為 PC／Xbox Series；官方 2026-02-17 公告 PS5 現已上市。",
+    "sources": [
+      "https://www.obsidian.net/news/obsidian/avowed-pre-order",
+      "https://www.obsidian.net/news/avowed-anniversary-update-and-playstation-5-version-both-available-now"
+    ],
+    "evidence": [
+      "Obsidian 原始平台為 PC／Xbox Series；官方 2026-02-17 公告 PS5 現已上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  {
+    "auditIndex": 673,
+    "name": "Helldivers 2",
+    "status": "verified",
+    "platform": "PC/PS5/Xbox Series X|S",
+    "platformNote": "官方 HELLDIVERS 預告說明原 PC／PS5，Xbox 官方確認 Series X|S 於 2025-08-26 上市。",
+    "sources": [
+      "https://www.youtube.com/watch?v=nTs9VDm4KAU",
+      "https://news.xbox.com/en-us/2025/08/26/helldivers-2-out-on-xbox-today-welcome-to-boot-camp/"
+    ],
+    "evidence": [
+      "官方 HELLDIVERS 預告說明原 PC／PS5，Xbox 官方確認 Series X|S 於 2025-08-26 上市。"
+    ],
+    "checkedAt": "2026-10-18"
+  }
+]

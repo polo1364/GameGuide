@@ -1,0 +1,26 @@
+[
+  {
+    "contentOverflow": false,
+    "hiddenHeaders": false,
+    "pageOverflow": false,
+    "tableCards": 1,
+    "tables": 1,
+    "width": 1440
+  },
+  {
+    "contentOverflow": false,
+    "hiddenHeaders": true,
+    "pageOverflow": false,
+    "tableCards": 1,
+    "tables": 1,
+    "width": 390
+  },
+  {
+    "contentOverflow": false,
+    "hiddenHeaders": true,
+    "pageOverflow": false,
+    "tableCards": 1,
+    "tables": 1,
+    "width": 320
+  }
+]

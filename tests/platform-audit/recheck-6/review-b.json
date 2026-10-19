@@ -1,0 +1,61 @@
+[
+  {
+    "name": "武林群俠傳",
+    "auditIndex": 275,
+    "status": "partial",
+    "platform": "電腦（作業系統待確認）",
+    "platformNote": "智冠官方可確認早期電腦單機《武林群俠傳》；本輪追查原始產品頁存檔、原廠手冊與盒裝規格線索，仍未取得能核對原作 Windows 支援的官方文字或清晰原廠圖片。未獲官方確認，非斷言 Windows 版本不存在；不套用 Online 或俠客風雲傳的規格。",
+    "identityNote": "限定智冠早期單機原作。官方 2002 年獎項紀錄及 2015 年電腦單機 IP 回顧互相對照；作品身分已明確，剩餘的是作業系統證據，不改現有名稱或別名。",
+    "platformSources": [
+      "https://www.soft-world.com/News/NewsDetail?Sn=1163",
+      "https://www.soft-world.com/About/History?EKind=6"
+    ],
+    "resolvedGap": "已實際重讀智冠官方資料，並新增追查舊官網存檔索引、盒裝封面庫及手冊線索；沒有足以把電腦進一步核定為 Windows 的新增一手證據。",
+    "remainingReason": "original-os-evidence-required",
+    "remainingDetails": "需取得可辨識原版《武林群俠傳》題名與智冠出版身分的官方產品頁存檔、原廠手冊安裝章節或清晰盒裝系統需求圖；其中明列 Windows 或展示可確定為 Windows 的原廠安裝流程即可解除。此次封面庫回傳 HTTP 403，舊官網 CDX 索引 20 秒逾時；二手文字、遊戲重包賣場與其他作品規格不能取代此證據。",
+    "evidence": [
+      {
+        "source": "https://www.soft-world.com/News/NewsDetail?Sn=1163",
+        "finding": "本輪成功讀取智冠 2015 China Joy 新聞，將《武林群俠傳》列入早期電腦單機 IP 脈絡，但沒有指明作業系統。"
+      },
+      {
+        "source": "https://www.soft-world.com/About/History?EKind=6",
+        "finding": "本輪成功讀取智冠官方 2002 年獎項紀錄，列《武林群俠傳》獲國內自製最佳養成遊戲獎；可確認原作歷史身分，不能從獎項推論 Windows。"
+      }
+    ],
+    "searched": [
+      {
+        "query": "\"武林群俠傳\" \"系統需求\" 智冠；\"武林群侠传\" \"说明书\" Windows 2001",
+        "result": "搜尋主要回傳 Online／新武林 Online 系統頁、重製作規格與二手文章；辨識後排除，未重新使用 Online FAQ 作證。"
+      },
+      {
+        "query": "\"武林群俠傳\" \"soft-world\" \"2001\" 官方網站；\"武林群侠传\" \"包装\" \"Windows\"",
+        "result": "找到智冠歷史／年報與 MobyGames 原作條目，但未取得原始官方產品頁 Windows 規格；第三方資料庫 Windows 標記不採為官方證據。"
+      },
+      {
+        "query": "\"武林群俠傳\" \"manual\" OR \"手冊\" OR \"盒背\"；\"wulin qunxia zhuan\" \"cover\" \"back\"",
+        "result": "找到插畫作者作品索引等二手資料，未取得原版手冊安裝頁或可核對的清晰盒背系統需求。"
+      },
+      {
+        "query": "讀取 https://www.mobygames.com/game/21356/wulin-qunxia-zhuan/covers/",
+        "result": "為尋找原廠盒裝掃描而讀取封面庫；瀏覽器工具無法讀取，HTTPS 原始請求 HTTP 403。沒有看到原廠盒背，因此不認證。"
+      },
+      {
+        "query": "site:web.archive.org \"soft-world\" \"武林\"；CDX 查詢 soft-world.com/*wulin*",
+        "result": "搜尋未取得可用原始產品頁；https://web.archive.org/cdx/search/cdx?url=soft-world.com/*wulin*&output=json&filter=statuscode:200&collapse=urlkey&limit=15 原始請求 20 秒逾時，不能將逾時解讀為沒有存檔。"
+      },
+      {
+        "query": "圖片搜尋「武林群俠傳 2001 盒 背面」「武林群俠傳 盒裝」「Wulin Qunxia Zhuan cover」",
+        "result": "結果包含其他遊戲盒裝、原作光碟／正面圖及聲稱支援新 Windows 的非官方電子檔賣場；沒有讀到可辨識原廠的原作 OS 規格圖，不採用搜尋圖片的自動描述。"
+      },
+      {
+        "query": "讀取 https://chiuinan.github.io/game/game/intro/ch/c33/wulin.htm",
+        "result": "第三方頁為遊戲介紹／修改攻略，未找到 Windows 字樣或官方來源連結；非原廠手冊，不作平台證據，未下載或執行修改檔。"
+      },
+      {
+        "query": "重讀智冠 NewsDetail?Sn=1163 與 About/History?EKind=6",
+        "result": "兩個官方頁成功讀取，確認作品及電腦單機歷史範圍，但沒有 Windows 系統需求；維持 partial。"
+      }
+    ]
+  }
+]

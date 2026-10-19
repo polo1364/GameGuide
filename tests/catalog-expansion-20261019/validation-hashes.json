@@ -1,0 +1,32 @@
+{
+  "checkedAt": "2026-10-19",
+  "summary": {
+    "before": 977,
+    "added": 28,
+    "taiwanMobile": 15,
+    "indie": 13,
+    "total": 1002,
+    "duplicateRowsRemoved": 3,
+    "existingPreserved": 971,
+    "pendingPreserved": 6,
+    "historicalPreserved": 832,
+    "newPlatformPending": 1,
+    "newNameOrAliasCollisions": 0,
+    "newProductCollisions": 0
+  },
+  "syntax": "PASS",
+  "appChanges": "version only",
+  "repeatApplyIdenticalFiles": 6,
+  "pendingByteIdentical": true,
+  "officialPlatformLinks": 103,
+  "evidenceEntries": 75,
+  "popularityEntries": 30,
+  "hashes": {
+    "games.json": "2e845a877ecdb1413abd2a985dba8c0b1cf1677dc6d744044c6012c759a028dd",
+    "tests/platform-audit/audit-838.json": "bd1e27d07a6161ced4480670a19dc75c1174c0b18fa15a3ac728044f625019c3",
+    "tests/catalog-expansion-20261019/audit.json": "fc1eba681961404cc7a3d44d78d19e7c175021114bd57cc9cdb7f4ac724f933d",
+    "tests/catalog-expansion-20261019/duplicate-check.json": "40e21be67439d70b688a939338ecf71b5b54776f83cc5e7a144dd6b688c4fee0",
+    "tests/catalog-expansion-20261019/README.md": "abcac3d53f36e60846f7db7084d6bd40bcadd747ca5d751370ca9c73ada99574",
+    "tests/catalog-expansion-20261019/pending-platforms.json": "43e472c7cdad00fe737b1a1ca314e3346700263b8a008662ca3e1b84e560a77d"
+  }
+}

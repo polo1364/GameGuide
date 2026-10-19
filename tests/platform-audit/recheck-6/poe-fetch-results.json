@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://www.pathofexile.com/mobile",
+    "finalUrl": "https://www.pathofexile.com/mobile",
+    "status": 403,
+    "length": 5488,
+    "keywords": []
+  },
+  {
+    "url": "https://web.archive.org/web/20260411000000id_/https://www.pathofexile.com/mobile",
+    "finalUrl": "https://web.archive.org/web/20260411052935id_/https://www.pathofexile.com/mobile",
+    "status": 200,
+    "length": 6869,
+    "keywords": [
+      "                We're working on an experimental version of Path of Exile for mobile devices. Path of Exile's Atlas Map system is actually perfect f"
+    ]
+  }
+]

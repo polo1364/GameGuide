@@ -1,5 +1,5 @@
 // GameMaster Service Worker
-const CACHE_VERSION = '13';
+const CACHE_VERSION = '28';
 const CACHE_NAME = `gamemaster-v${CACHE_VERSION}`;
 const STATIC_ASSETS = [
   './',
@@ -36,7 +36,7 @@ self.addEventListener('activate', (event) => {
     caches.keys().then((cacheNames) => {
       return Promise.all(
         cacheNames.map((cacheName) => {
-          if (cacheName !== CACHE_NAME) {
+          if (cacheName.startsWith('gamemaster-v') && cacheName !== CACHE_NAME) {
             console.log('[SW] Deleting old cache:', cacheName);
             return caches.delete(cacheName);
           }
@@ -64,7 +64,8 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
   
   // Skip cross-origin requests and API calls
-  if (url.origin !== location.origin || 
+  if (event.request.method !== 'GET' || url.origin !== location.origin ||
+      url.pathname.includes('/api/') ||
       url.href.includes('api.deepseek.com') ||
       url.href.includes('fonts.googleapis.com') ||
       url.href.includes('fonts.gstatic.com') ||
@@ -73,7 +74,8 @@ self.addEventListener('fetch', (event) => {
   }
   
   // Use Network First for HTML and JSON files to ensure fresh content
-  const isHtmlOrJson = url.pathname.endsWith('.html') || 
+  const isNavigation = event.request.mode === 'navigate';
+  const isHtmlOrJson = isNavigation || url.pathname.endsWith('.html') ||
                        url.pathname.endsWith('.json') || 
                        url.pathname === '/' ||
                        url.pathname === '';
@@ -82,35 +84,39 @@ self.addEventListener('fetch', (event) => {
     // Network First strategy
     event.respondWith(
       fetch(event.request)
-        .then((networkResponse) => {
+        .then(async (networkResponse) => {
           if (networkResponse && networkResponse.status === 200) {
             const responseClone = networkResponse.clone();
-            caches.open(CACHE_NAME)
-              .then((cache) => cache.put(event.request, responseClone));
+            await caches.open(CACHE_NAME)
+              .then((cache) => cache.put(event.request, responseClone))
+              .catch(error => console.warn('[SW] Cache write failed:', error));
           }
           return networkResponse;
         })
         .catch(() => {
           // Fallback to cache when offline
-          return caches.match(event.request).then((cachedResponse) => {
-            return cachedResponse || caches.match('./index.html');
+          return caches.open(CACHE_NAME).then(async cache => {
+            const cachedResponse = await cache.match(event.request);
+            const fallback = isNavigation ? await cache.match('./index.html') : null;
+            return cachedResponse || fallback || new Response('Offline', { status: 503, statusText: 'Service Unavailable' });
           });
         })
     );
   } else {
     // Cache First for other static assets
     event.respondWith(
-      caches.match(event.request)
+      caches.open(CACHE_NAME).then(cache => cache.match(event.request))
         .then((cachedResponse) => {
           if (cachedResponse) {
             return cachedResponse;
           }
           return fetch(event.request)
-            .then((networkResponse) => {
+            .then(async (networkResponse) => {
               if (networkResponse && networkResponse.status === 200) {
                 const responseClone = networkResponse.clone();
-                caches.open(CACHE_NAME)
-                  .then((cache) => cache.put(event.request, responseClone));
+                await caches.open(CACHE_NAME)
+                  .then((cache) => cache.put(event.request, responseClone))
+                  .catch(error => console.warn('[SW] Cache write failed:', error));
               }
               return networkResponse;
             });

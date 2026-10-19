@@ -1,0 +1,118 @@
+{
+  "version": "4.16.0",
+  "serviceWorkerVersion": "28",
+  "checkedAt": "2026-10-19T15:18:06.282Z",
+  "model": "deepseek-flash",
+  "finalVerification": "PASS_WITH_EXPLICIT_EVIDENCE_GAPS",
+  "samples": [
+    {
+      "id": "simple-final",
+      "totalRenderedCharacters": 353,
+      "cjkCharacters": 226,
+      "steps": 0,
+      "tables": 0,
+      "links": 4
+    },
+    {
+      "id": "boss-final",
+      "totalRenderedCharacters": 1526,
+      "cjkCharacters": 771,
+      "steps": 12,
+      "tables": 0,
+      "links": 8
+    },
+    {
+      "id": "comparison-final",
+      "totalRenderedCharacters": 927,
+      "cjkCharacters": 695,
+      "steps": 0,
+      "tables": 1,
+      "links": 3
+    },
+    {
+      "id": "followup-final",
+      "totalRenderedCharacters": 692,
+      "cjkCharacters": 403,
+      "steps": 15,
+      "tables": 0,
+      "links": 10
+    }
+  ],
+  "contentFindings": [
+    "Copper concentration is 2-39, not an exclusive range; elevators use previously reached multiples of five.",
+    "Shackle first-phase/twice restriction stays consistent in guide and follow-up, labeled secondary-source evidence.",
+    "Spirit revival/re-summoning remains pending because retrieved official guide does not establish the limit.",
+    "Patches death no longer presented as permanent loss of purchase; bell-bearing source added.",
+    "Roderika and Rodgier/Rogier no longer conflated; unsupported localization retains source spelling.",
+    "Weapon attributes and acquisition are pending; invented enemy-drop instructions removed.",
+    "Comparison remains a table of supported general mechanics, not a verified weapon recommendation."
+  ],
+  "regression": {
+    "passed": 56,
+    "total": 56,
+    "sourceReader": "PASS",
+    "syntax": "PASS"
+  },
+  "layout": {
+    "widths": [
+      1440,
+      390,
+      320
+    ],
+    "method": "Playwright replay of actual DeepSeek rendered HTML against final app CSS, with external traffic blocked",
+    "cases": 12,
+    "pageOverflow": false,
+    "contentOverflow": false,
+    "evidencePanelOverflow": false,
+    "physicalPhone": false
+  },
+  "liveBrowser": {
+    "toc": {
+      "collapsed": 5,
+      "afterJump": 4,
+      "afterExpandAll": 0
+    },
+    "sourceLinks": "readable sources with safe target/rel attributes",
+    "initialViewportProbe": "responsive-checks.json records actual observed widths; the browser override affected only the selected tab, so use final verified-* screenshots and regression assertions for all three widths"
+  },
+  "fixes": [
+    "Real allowlisted HTTPS retrieval with official priority",
+    "Public DNS pinning, redirects validated, size/time/rate/origin limits",
+    "Two-pass generation and JSON evidence review",
+    "Exact quote attribution required; unsupported blocks hidden in favor of pending reason",
+    "Truncated API responses rejected; review failure not reported as success",
+    "Draft uses non-thinking mode; verification uses low reasoning with 16384-token budget",
+    "No fabricated source URLs; mixed pending blocks retain reference links",
+    "Pending reasons no longer cut mid-sentence",
+    "320px long timestamp wrapping fixed"
+  ],
+  "coverage": {
+    "curatedGames": [
+      "星露谷物語",
+      "艾爾登法環"
+    ],
+    "otherGames": "Approved official domains in catalog sources; no universal web search, no inference from storefronts to mechanics",
+    "sourceCacheMinutes": 5
+  },
+  "limitations": [
+    "Evidence matching uses AI semantic judgment and is not a guarantee of truth",
+    "Some Elden Ring documents are 2021/2022 material; present-day patch differences remain a limitation",
+    "Unknown detail is intentionally withheld; comparison is incomplete where weapon-specific evidence is missing",
+    "Follow-up can exceed the soft 150-300 character target when evidence limitations are included",
+    "Local source service requires node server.cjs; static-only/offline use is marked pending",
+    "Real API samples preceded the final cosmetic fixes to pending-reason truncation, timestamp label and box wrapping; those fixes are covered by final regression and real-output replay"
+  ],
+  "privacy": "No API key was read into tool output or saved in artifacts; source service receives only game/question, not DeepSeek authorization",
+  "references": [
+    "https://api-docs.deepseek.com/guides/json_mode/",
+    "https://api-docs.deepseek.com/api/create-chat-completion/"
+  ],
+  "sha256": {
+    "index.html": "b27c685004e9bd9ddb34683729bd0a4929c9f5d873b16f08f47d6b3e98b44a97",
+    "server.cjs": "97f36fd39f463908aa2cc86f3606edba160d19a778a3cf9fd3b46eeb7c12d141",
+    "guide-sources.json": "1e5bf5221ca7c09b760b44ba471689af8d0beb39bd3a5b2de5ddf84b43d674ac",
+    "sw.js": "1035914acc8f3cb49c82c8ce0f79f53a8420a0c535c57404b8b2ca697674d5ec",
+    "tests/regression.cjs": "13326faa5ab09e33d333bf2001243f3e3ee0dac1d3abc377c99b94095160ada6",
+    "tests/source-reader.cjs": "7abc9d682ef6f68b2c06ebb8b36237ab3acfdb0b0a4f05b64020bc287a9b9259"
+  }
+}

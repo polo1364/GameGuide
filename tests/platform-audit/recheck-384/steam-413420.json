@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-10-19",
+  "url": "https://store.steampowered.com/api/appdetails?appids=413420&l=english&cc=us",
+  "name": "Danganronpa 2: Goodbye Despair",
+  "platforms": {
+    "windows": true,
+    "mac": true,
+    "linux": true
+  },
+  "requirements": {
+    "pc": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> 2.8 GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible GPU with at least 1GB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 5 GB available space<br></li><li><strong>Additional Notes:</strong> PS4 or Xbox 360 Controller or Direct Input compatible controller</li></ul>",
+      "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-3470 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible GPU with at least 1GB of VRAM<br></li><li><strong>DirectX:</strong> Version 9.0c<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>Additional Notes:</strong> PS4 or Xbox 360 Controller or Direct Input compatible controller</li></ul>"
+    },
+    "mac": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7+<br></li><li><strong>Processor:</strong> 2.8 GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible GPU with at least 1GB of VRAM<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+      "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Mac OS 10.7+<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-3470 or better<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible GPU with at least 1GB of VRAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    },
+    "linux": {
+      "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or later<br></li><li><strong>Processor:</strong> 2.8 GHz Intel Core 2 Duo or better<br></li><li><strong>Memory:</strong> 3 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible GPU with at least 1GB of VRAM<br></li><li><strong>Storage:</strong> 5 GB available space</li></ul>",
+      "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Ubuntu 14.04 or later<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-3470 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.2 compatible GPU with at least 1GB of VRAM<br></li><li><strong>Storage:</strong> 6 GB available space</li></ul>"
+    }
+  }
+}

@@ -1,0 +1,989 @@
+[
+  {
+    "game": {
+      "name": "Kenshi",
+      "alias": [
+        "kenshi"
+      ],
+      "platform": "PC",
+      "icon": "⚔️",
+      "category": "開放世界沙盒RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 117,489 則，正評 95.6%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 7 Dec, 2018 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/233860/",
+        "https://store.steampowered.com/api/appdetails?appids=233860&l=english",
+        "https://lofigames.com/about-kenshi/",
+        "https://store.steampowered.com/appreviews/233860?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "已確認 Windows PC 原生版；本條目是第一作，不混入 Kenshi 2 的開發資訊。",
+      "platformSources": [
+        "https://store.steampowered.com/app/233860/",
+        "https://store.steampowered.com/api/appdetails?appids=233860&l=english",
+        "https://lofigames.com/about-kenshi/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Lo-Fi Games 開發與發行的第一作 Kenshi。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=233860&l=english",
+        "finding": "Steam 正式商品 233860：Kenshi；開發者 Lo-Fi Games；發行商 Lo-Fi Games；coming_soon=false，桌機原生平台 windows；未標示 Early Access。"
+      },
+      {
+        "source": "https://lofigames.com/about-kenshi/",
+        "finding": "Lo-Fi 官方介紹本作為沙盒 PC RPG，系統需求列 64 位元 Windows。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/233860?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=117489，total_positive=112313，total_negative=5176；計算正評率 95.6%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Kenshi",
+        "kenshi",
+        "Steam App 233860"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Barotrauma",
+      "alias": [
+        "barotrauma",
+        "Barotrauma 潜渊症",
+        "潜渊症",
+        "潛淵症"
+      ],
+      "platform": "PC/macOS/Linux",
+      "icon": "🚢",
+      "category": "多人合作生存",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 90,479 則，正評 94.0%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 13 Mar, 2023 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/602960/",
+        "https://store.steampowered.com/api/appdetails?appids=602960&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=602960&l=schinese",
+        "https://store.steampowered.com/appreviews/602960?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "Steam 正式商品確認 Windows、macOS、Linux 原生客戶端；伺服器與模組不是其他平台移植。",
+      "platformSources": [
+        "https://store.steampowered.com/app/602960/",
+        "https://store.steampowered.com/api/appdetails?appids=602960&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=602960&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "FakeFish、Undertow Games 開發、Daedalic 發行的商業版 Barotrauma。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=602960&l=english",
+        "finding": "Steam 正式商品 602960：Barotrauma；開發者 FakeFish、Undertow Games；發行商 Daedalic Entertainment；coming_soon=false，桌機原生平台 windows、mac、linux；未標示 Early Access。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=602960&l=schinese",
+        "finding": "同一 Steam 商品的官方簡中標題為「Barotrauma 潜渊症」，作為精確中文別名。另加入該官方中文題名的獨立中文部分／繁簡字形作搜尋別名；字形轉換不宣稱是另有官方繁中命名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/602960?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=90479，total_positive=85073，total_negative=5406；計算正評率 94.0%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Barotrauma",
+        "barotrauma",
+        "Barotrauma 潜渊症",
+        "Steam App 602960",
+        "潜渊症",
+        "潛淵症"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "People Playground",
+      "alias": [
+        "people playground"
+      ],
+      "platform": "PC",
+      "icon": "🧍",
+      "category": "物理沙盒",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 321,665 則，正評 97.5%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 23 Jul, 2019 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/1118200/",
+        "https://store.steampowered.com/api/appdetails?appids=1118200&l=english",
+        "https://store.steampowered.com/appreviews/1118200?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "已確認 Windows PC 原生版；不把同名手機或網頁第三方作品視為 Studio Minus 官方移植。",
+      "platformSources": [
+        "https://store.steampowered.com/app/1118200/",
+        "https://store.steampowered.com/api/appdetails?appids=1118200&l=english"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "mestiez 開發、Studio Minus 發行的 Steam 商品 1118200。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1118200&l=english",
+        "finding": "Steam 正式商品 1118200：People Playground；開發者 mestiez；發行商 Studio Minus；coming_soon=false，桌機原生平台 windows；未標示 Early Access。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/1118200?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=321665，total_positive=313583，total_negative=8082；計算正評率 97.5%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "People Playground",
+        "people playground",
+        "Steam App 1118200"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Scrap Mechanic",
+      "alias": [
+        "scrap mechanic"
+      ],
+      "platform": "PC",
+      "icon": "🔧",
+      "category": "沙盒建造生存",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 123,283 則，正評 91.8%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 24 Jul, 2026 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/387990/",
+        "https://store.steampowered.com/api/appdetails?appids=387990&l=english",
+        "https://steamcommunity.com/games/387990/announcements/detail/684133298613520064",
+        "https://store.steampowered.com/appreviews/387990?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "已確認 Windows PC 原生版；2026-07-24 的 1.0／Drilling Thunder 已正式發布，非仍在搶先體驗。",
+      "platformSources": [
+        "https://store.steampowered.com/app/387990/",
+        "https://store.steampowered.com/api/appdetails?appids=387990&l=english",
+        "https://steamcommunity.com/games/387990/announcements/detail/684133298613520064"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Axolot Games 的 Scrap Mechanic 本篇；Drilling Thunder 是 1.0 更新內容。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=387990&l=english",
+        "finding": "Steam 正式商品 387990：Scrap Mechanic；開發者 Axolot Games；發行商 Axolot Games；coming_soon=false，桌機原生平台 windows；未標示 Early Access。"
+      },
+      {
+        "source": "https://steamcommunity.com/games/387990/announcements/detail/684133298613520064",
+        "finding": "官方 2026-07-24 公告 Scrap Mechanic 1.0 and Drilling Thunder! NOW AVAILABLE，確認退出搶先體驗。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/387990?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=123283，total_positive=113157，total_negative=10126；計算正評率 91.8%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Scrap Mechanic",
+        "scrap mechanic",
+        "Steam App 387990"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "BeamNG.drive",
+      "alias": [
+        "beamng.drive"
+      ],
+      "platform": "PC/Linux",
+      "icon": "🚗",
+      "category": "物理駕駛模擬",
+      "catalogPriority": 3,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 424,105 則，正評 97.2%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam May 29, 2015 進入搶先體驗；目前仍為 Early Access。",
+      "sources": [
+        "https://store.steampowered.com/app/284160/",
+        "https://store.steampowered.com/api/appdetails?appids=284160&l=english",
+        "https://docs.beamng.com/support/troubleshooting/requirements/",
+        "https://www.beamng.com/game/news/announce/experimental-linux-support/",
+        "https://www.beamng.com/game/news/announce/ps5-release-date/",
+        "https://store.playstation.com/en-us/concept/10015321/",
+        "https://store.steampowered.com/appreviews/284160?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "Windows PC 已提供；Linux 是官方隨遊戲提供的原生實驗版，官方不提供該實驗版客服，可能不穩定，並非 Proton 推論。PS5 官方預定 2026-10-19，但本輪查核 Sony 頁仍為 Announced／Add to Wishlist 與開賣倒數，未取得正式可購買證據，因此未列已上市主欄，保留 partial。",
+      "platformSources": [
+        "https://store.steampowered.com/app/284160/",
+        "https://store.steampowered.com/api/appdetails?appids=284160&l=english",
+        "https://docs.beamng.com/support/troubleshooting/requirements/",
+        "https://www.beamng.com/game/news/announce/experimental-linux-support/",
+        "https://www.beamng.com/game/news/announce/ps5-release-date/",
+        "https://store.playstation.com/en-us/concept/10015321/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "partial",
+      "identityType": "specific-game",
+      "identityNote": "BeamNG GmbH 的消費者駕駛遊戲 BeamNG.drive，不是專業產品 BeamNG.tech。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=284160&l=english",
+        "finding": "Steam 正式商品 284160：BeamNG.drive；開發者 BeamNG；發行商 BeamNG；coming_soon=false，桌機原生平台 windows；標示 Early Access。"
+      },
+      {
+        "source": "https://docs.beamng.com/support/troubleshooting/requirements/",
+        "finding": "官方桌機需求頁明列 Microsoft Windows 與 Linux（experimental），不能只因 Steam OS 欄未列 Linux 就排除官方原生實驗版。"
+      },
+      {
+        "source": "https://www.beamng.com/game/news/announce/experimental-linux-support/",
+        "finding": "官方公告從 0.25 起內含 Linux 實驗版，且不提供該實驗版的客戶支援。"
+      },
+      {
+        "source": "https://www.beamng.com/game/news/announce/ps5-release-date/",
+        "finding": "官方 2026-09-24 公告 PS5 預定 2026-10-19，發售初期無 VR 與 mods；公告日期不能證明已經上線。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10015321/",
+        "finding": "Sony 正式商品列 BEAMNG GMBH、PS5、2026-10-19 與 Early Access；本輪頁面仍是 Announced、Add to Wishlist 及約 1.5 小時倒數，沒有可購買上市狀態。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/284160?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=424105，total_positive=412204，total_negative=11901；計算正評率 97.2%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "BeamNG.drive",
+        "beamng.drive",
+        "Steam App 284160"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    },
+    "remainingReason": "announced-console-release-unconfirmed",
+    "remainingDetails": "PS5 官方預定 2026-10-19，但本輪 Sony 頁仍標 Announced／Add to Wishlist 與開賣倒數，未取得實際可購買或已上市公告。主欄僅列已提供的 Windows 與官方原生 Linux 實驗版；不宣稱取消。"
+  },
+  {
+    "game": {
+      "name": "Dwarf Fortress（Premium版）",
+      "alias": [
+        "dwarf fortress"
+      ],
+      "platform": "PC/Linux",
+      "icon": "🏰",
+      "category": "殖民地模擬",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 31,594 則，正評 94.7%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 6 Dec, 2022 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/975370/",
+        "https://store.steampowered.com/api/appdetails?appids=975370&l=english",
+        "https://kitfoxgames.itch.io/dwarf-fortress",
+        "https://www.bay12games.com/dwarves/",
+        "https://store.steampowered.com/appreviews/975370?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "本條目限定 2022 年起的付費圖形版（Steam／itch.io）；兩店均列 Windows、Linux。Classic 免費舊版的 Mac 發行史不套入此版，也不把長期開發等同 Steam Early Access。",
+      "platformSources": [
+        "https://store.steampowered.com/app/975370/",
+        "https://store.steampowered.com/api/appdetails?appids=975370&l=english",
+        "https://kitfoxgames.itch.io/dwarf-fortress",
+        "https://www.bay12games.com/dwarves/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Bay 12 Games 開發、Kitfox Games 發行的 Premium 付費圖形版，不是另一筆 Classic 免費版條目。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=975370&l=english",
+        "finding": "Steam 正式商品 975370：Dwarf Fortress；開發者 Bay 12 Games；發行商 Kitfox Games；coming_soon=false，桌機原生平台 windows、linux；未標示 Early Access。"
+      },
+      {
+        "source": "https://kitfoxgames.itch.io/dwarf-fortress",
+        "finding": "發行商 Kitfox 正式付費商品列 Windows、Linux，提供 53.16 對應安裝包並附 Steam key；與 Steam 商品 975370 相連。"
+      },
+      {
+        "source": "https://www.bay12games.com/dwarves/",
+        "finding": "Bay 12 官方把 Steam／itch.io 商業商品與下方 Dwarf Fortress Classic 免費下載分列，支持版本邊界。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/975370?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=31594，total_positive=29929，total_negative=1665；計算正評率 94.7%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Dwarf Fortress（Premium版）",
+        "dwarf fortress",
+        "Steam App 975370"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Death Must Die",
+      "alias": [
+        "death must die"
+      ],
+      "platform": "PC/macOS",
+      "icon": "💀",
+      "category": "生存Roguelite",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 21,806 則，正評 90.1%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 14 Nov, 2023 進入搶先體驗；目前仍為 Early Access。",
+      "sources": [
+        "https://store.steampowered.com/app/2334730/",
+        "https://store.steampowered.com/api/appdetails?appids=2334730&l=english",
+        "https://store.steampowered.com/appreviews/2334730?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "Steam 確認 Windows、macOS 原生版；仍為 Early Access。Steam Deck／Proton 相容不當成 Linux 原生版。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2334730/",
+        "https://store.steampowered.com/api/appdetails?appids=2334730&l=english"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Realm Archive 開發與發行的 Death Must Die 本篇。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2334730&l=english",
+        "finding": "Steam 正式商品 2334730：Death Must Die；開發者 Realm Archive；發行商 Realm Archive；coming_soon=false，桌機原生平台 windows、mac；標示 Early Access。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2334730?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=21806，total_positive=19647，total_negative=2159；計算正評率 90.1%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Death Must Die",
+        "death must die",
+        "Steam App 2334730"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Tiny Rogues",
+      "alias": [
+        "tiny rogues"
+      ],
+      "platform": "PC",
+      "icon": "🗝️",
+      "category": "動作Roguelite",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 10,811 則，正評 96.0%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 23 Sep, 2022 進入搶先體驗；目前仍為 Early Access。",
+      "sources": [
+        "https://store.steampowered.com/app/2088570/",
+        "https://store.steampowered.com/api/appdetails?appids=2088570&l=english",
+        "https://steamcommunity.com/app/2088570/discussions/0/3361397532259774742/",
+        "https://store.steampowered.com/appreviews/2088570?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "目前為 Windows PC 搶先體驗。開發者 FAQ 將 macOS 支援列為 1.0 當時或之後的計畫，尚未列已上市；Linux 說明是 Proton 相容回報，非原生支援。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2088570/",
+        "https://store.steampowered.com/api/appdetails?appids=2088570&l=english",
+        "https://steamcommunity.com/app/2088570/discussions/0/3361397532259774742/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "RubyDev 開發與發行的 Tiny Rogues 本篇。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2088570&l=english",
+        "finding": "Steam 正式商品 2088570：Tiny Rogues；開發者 RubyDev；發行商 RubyDev；coming_soon=false，桌機原生平台 windows；標示 Early Access。"
+      },
+      {
+        "source": "https://steamcommunity.com/app/2088570/discussions/0/3361397532259774742/",
+        "finding": "RubyDev 的置頂 FAQ（2023-10-31 更新）說 macOS 支援安排於 1.0 當時或之後；Linux 原生支援未確定，所述是 Proton。現行 Steam 仍為 EA 且僅列 Windows，故不提前列 Mac／Linux。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2088570?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=10811，total_positive=10381，total_negative=430；計算正評率 96.0%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Tiny Rogues",
+        "tiny rogues",
+        "Steam App 2088570"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Lobotomy Corporation",
+      "alias": [
+        "lobotomy corporation | monster management simulation",
+        "lobotomy corporation",
+        "脑叶公司",
+        "腦葉公司"
+      ],
+      "platform": "PC",
+      "icon": "🧠",
+      "category": "怪物管理模擬",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 57,982 則，正評 94.3%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 9 Apr, 2018 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/568220/",
+        "https://store.steampowered.com/api/appdetails?appids=568220&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=568220&l=schinese",
+        "https://store.steampowered.com/appreviews/568220?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "已確認 Windows PC 原生版；不混入 Library of Ruina、Limbus Company 等同世界觀作品的平台。",
+      "platformSources": [
+        "https://store.steampowered.com/app/568220/",
+        "https://store.steampowered.com/api/appdetails?appids=568220&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=568220&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "ProjectMoon 的 Lobotomy Corporation | Monster Management Simulation；官方 Steam 簡中商品介紹明稱「脑叶公司」。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=568220&l=english",
+        "finding": "Steam 正式商品 568220：Lobotomy Corporation | Monster Management Simulation；開發者 ProjectMoon；發行商 ProjectMoon；coming_soon=false，桌機原生平台 windows；未標示 Early Access。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=568220&l=schinese",
+        "finding": "同一正式商品的簡中 short_description 以「脑叶公司是一款管理怪物的模拟游戏」辨識本作，因此加入「脑叶公司」別名。另加入該官方中文題名的獨立中文部分／繁簡字形作搜尋別名；字形轉換不宣稱是另有官方繁中命名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/568220?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=57982，total_positive=54658，total_negative=3324；計算正評率 94.3%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Lobotomy Corporation",
+        "lobotomy corporation | monster management simulation",
+        "lobotomy corporation",
+        "脑叶公司",
+        "Steam App 568220",
+        "腦葉公司"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "shapez 2",
+      "alias": [
+        "shapez 2 - factory",
+        "shapez 2",
+        "異形工廠2",
+        "异形工厂2"
+      ],
+      "platform": "PC/macOS/Linux",
+      "icon": "🏭",
+      "category": "自動化工廠",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 15,493 則，正評 96.9%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 23 Apr, 2026 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/2162800/",
+        "https://store.steampowered.com/api/appdetails?appids=2162800&l=english",
+        "https://shapez2.com/",
+        "https://store.steampowered.com/api/appdetails?appids=2162800&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=2162800&l=schinese",
+        "https://store.steampowered.com/appreviews/2162800?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "Steam 確認 Windows、macOS、Linux 原生版；官方確認已在 2026-04-23 發布 1.0，不再標搶先體驗。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2162800/",
+        "https://store.steampowered.com/api/appdetails?appids=2162800&l=english",
+        "https://shapez2.com/",
+        "https://store.steampowered.com/api/appdetails?appids=2162800&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=2162800&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "tobspr Games 的續作 shapez 2（Steam 現名 shapez 2 - Factory），不是初代 shapez 的手機移植。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2162800&l=english",
+        "finding": "Steam 正式商品 2162800：shapez 2 - Factory；開發者 tobspr Games；發行商 tobspr Games、Gamirror Games；coming_soon=false，桌機原生平台 windows、mac、linux；未標示 Early Access。"
+      },
+      {
+        "source": "https://shapez2.com/",
+        "finding": "官方網站說明 2026-04-23 退出 Early Access、推出 1.0，並連到 Steam 正式商品。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2162800&l=tchinese",
+        "finding": "同一 Steam 商品的官方繁中標題為「異形工廠2」，作為精確中文別名。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2162800&l=schinese",
+        "finding": "同一 Steam 商品的官方簡中標題為「异形工厂2」，作為精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2162800?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=15493，total_positive=15017，total_negative=476；計算正評率 96.9%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "shapez 2",
+        "shapez 2 - factory",
+        "shapez 2",
+        "異形工廠2",
+        "异形工厂2",
+        "Steam App 2162800"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Kingdom Two Crowns",
+      "alias": [
+        "kingdom two crowns",
+        "王国：两位君主",
+        "王國：兩位君主"
+      ],
+      "platform": "PC/macOS/Linux/PS4/Xbox One/Xbox Series X|S/Switch/iOS/Android",
+      "icon": "👑",
+      "category": "橫向策略經營",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 41,296 則，正評 90.0%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 11 Dec, 2018 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/701160/",
+        "https://store.steampowered.com/api/appdetails?appids=701160&l=english",
+        "https://store.playstation.com/en-us/product/UP2320-CUSA13597_00-KINGDOMTWOCROWNS",
+        "https://www.xbox.com/en-US/games/store/kingdom-two-crowns/bwt2gpvwch2f",
+        "https://www.nintendo.com/us/store/products/kingdom-two-crowns-switch/",
+        "https://apps.apple.com/us/app/kingdom-two-crowns/id1477991646",
+        "https://play.google.com/store/apps/details/?hl=en-US&id=com.rawfury.kingdom2crowns",
+        "https://store.steampowered.com/api/appdetails?appids=701160&l=schinese",
+        "https://store.steampowered.com/appreviews/701160?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "桌機三 OS、PS4、Xbox One／Series X|S、Switch 與 iOS／Android 已確認。Xbox 商店明列 Series 最佳化；PS5 是 PS4 相容執行，官網圖片檔名及跨作品合集的 PS5 標籤不作本作原生版證據。Switch 2 的相容標示亦不新增原生平台。",
+      "platformSources": [
+        "https://store.steampowered.com/app/701160/",
+        "https://store.steampowered.com/api/appdetails?appids=701160&l=english",
+        "https://store.playstation.com/en-us/product/UP2320-CUSA13597_00-KINGDOMTWOCROWNS",
+        "https://www.xbox.com/en-US/games/store/kingdom-two-crowns/bwt2gpvwch2f",
+        "https://www.nintendo.com/us/store/products/kingdom-two-crowns-switch/",
+        "https://apps.apple.com/us/app/kingdom-two-crowns/id1477991646",
+        "https://play.google.com/store/apps/details/?hl=en-US&id=com.rawfury.kingdom2crowns",
+        "https://store.steampowered.com/api/appdetails?appids=701160&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Kingdom 系列的 Two Crowns 本篇；不把 Classic、New Lands、Eighties 或系列合集視為本作。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=701160&l=english",
+        "finding": "Steam 正式商品 701160：Kingdom Two Crowns；開發者 Fury Studios、Coatsink；發行商 Raw Fury；coming_soon=false，桌機原生平台 windows、mac、linux；未標示 Early Access。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/UP2320-CUSA13597_00-KINGDOMTWOCROWNS",
+        "finding": "Sony 本篇商品 Platform 明列 PS4，底部明示 PS5 為相容執行；不能從同頁跨作品合集標籤推定本篇有 PS5 原生版。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/kingdom-two-crowns/bwt2gpvwch2f",
+        "finding": "Xbox 正式本篇商品列 Xbox One、Xbox Series X|S 及 Optimized for Xbox Series X|S，並有發售日期與價格；雲端服務不另算原生平台。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/kingdom-two-crowns-switch/",
+        "finding": "Nintendo 本篇商品標示 System Nintendo Switch、2018-12-11 發售；Switch 2 另列為相容資訊。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/kingdom-two-crowns/id1477991646",
+        "finding": "Raw Fury 的付費 App Store 本篇商品明列 iPhone／iPad，已有版本與評分。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details/?hl=en-US&id=com.rawfury.kingdom2crowns",
+        "finding": "Raw Fury 正式 Android 付費商品 com.rawfury.kingdom2crowns 可購買，非系列其他作。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=701160&l=schinese",
+        "finding": "同一 Steam 商品的官方簡中標題為「王国：两位君主」，作為精確中文別名。另加入該官方中文題名的獨立中文部分／繁簡字形作搜尋別名；字形轉換不宣稱是另有官方繁中命名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/701160?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=41296，total_positive=37148，total_negative=4148；計算正評率 90.0%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Kingdom Two Crowns",
+        "kingdom two crowns",
+        "王国：两位君主",
+        "Steam App 701160",
+        "王國：兩位君主"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Ravenswatch",
+      "alias": [
+        "ravenswatch",
+        "Ravenswatch 鸦卫奇旅",
+        "鸦卫奇旅",
+        "鴉衛奇旅"
+      ],
+      "platform": "PC/PS4/PS5/Xbox One/Xbox Series X|S/Switch",
+      "icon": "🐦",
+      "category": "多人動作Roguelite",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 23,100 則，正評 79.8%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 27 Sep, 2024 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/2071280/",
+        "https://store.steampowered.com/api/appdetails?appids=2071280&l=english",
+        "https://store.playstation.com/en-us/product/EP6665-PPSA09253_00-RW00000000000000/",
+        "https://www.xbox.com/en-US/games/store/game/9P4NX9RD7FRG",
+        "https://www.nintendo.com/au/games/nintendo-switch/ravenswatch/",
+        "https://store.steampowered.com/api/appdetails?appids=2071280&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=2071280&l=schinese",
+        "https://store.steampowered.com/appreviews/2071280?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "Steam Windows PC、PS4／PS5、Xbox One／Series X|S 與 Switch 已上市；Nintendo 的 Switch 2 相容標示不算原生新版本。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2071280/",
+        "https://store.steampowered.com/api/appdetails?appids=2071280&l=english",
+        "https://store.playstation.com/en-us/product/EP6665-PPSA09253_00-RW00000000000000/",
+        "https://www.xbox.com/en-US/games/store/game/9P4NX9RD7FRG",
+        "https://www.nintendo.com/au/games/nintendo-switch/ravenswatch/",
+        "https://store.steampowered.com/api/appdetails?appids=2071280&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=2071280&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Passtech Games 開發、Nacon 發行的 Ravenswatch 本篇；不混同前作 Curse of the Dead Gods。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2071280&l=english",
+        "finding": "Steam 正式商品 2071280：Ravenswatch；開發者 Passtech Games；發行商 Nacon；coming_soon=false，桌機原生平台 windows；未標示 Early Access。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/EP6665-PPSA09253_00-RW00000000000000/",
+        "finding": "Sony 標準版商品同時列 PS4／PS5 與可購買價格，是本篇雙世代版本。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/game/9P4NX9RD7FRG",
+        "finding": "Nacon 的 Xbox 本篇商品列 2024-11-28 發售、Xbox One、Series X|S 最佳化及 Smart Delivery。"
+      },
+      {
+        "source": "https://www.nintendo.com/au/games/nintendo-switch/ravenswatch/",
+        "finding": "Nintendo 商品明列 Nintendo Switch、2025-01-23 發售；Switch 2 單獨標示相容。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2071280&l=tchinese",
+        "finding": "同一 Steam 商品的官方繁中標題為「Ravenswatch 鸦卫奇旅」，作為精確中文別名。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2071280&l=schinese",
+        "finding": "同一 Steam 商品的官方簡中標題為「Ravenswatch 鸦卫奇旅」，作為精確中文別名。另加入該官方中文題名的獨立中文部分／繁簡字形作搜尋別名；字形轉換不宣稱是另有官方繁中命名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2071280?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=23100，total_positive=18434，total_negative=4666；計算正評率 79.8%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Ravenswatch",
+        "ravenswatch",
+        "Ravenswatch 鸦卫奇旅",
+        "Steam App 2071280",
+        "鸦卫奇旅",
+        "鴉衛奇旅"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Besiege",
+      "alias": [
+        "besiege",
+        "圍攻",
+        "围攻"
+      ],
+      "platform": "PC/macOS/Linux/PS4/PS5/Xbox One/Xbox Series X|S/Switch/iOS/Android",
+      "icon": "⚙️",
+      "category": "物理建造沙盒",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 53,381 則，正評 95.1%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 18 Feb, 2020 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/346010/",
+        "https://store.steampowered.com/api/appdetails?appids=346010&l=english",
+        "https://store.playstation.com/en-us/product/UP4865-CUSA26962_00-BESIEGE000000000/",
+        "https://www.xbox.com/en-us/games/store/Besiege-Console/9PPFBQG81Q5J",
+        "https://www.nintendo.com/pt-br/store/products/besiege-switch/",
+        "https://playdigious.helpshift.com/hc/en/33-besiege/faq/595-when-is-besiege-coming-out-on-mobile/?p=android",
+        "https://store.steampowered.com/api/appdetails?appids=346010&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=346010&l=schinese",
+        "https://store.steampowered.com/appreviews/346010?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "桌機三 OS 與主機、手機移植均有官方來源。主機版為 Console／PlayStation／Switch 移植，內容與 PC 更新進度可能不同；手機為 Playdigious 官方移植（2025-11-18），不是模擬器。Switch 2 相容不列成原生版。",
+      "platformSources": [
+        "https://store.steampowered.com/app/346010/",
+        "https://store.steampowered.com/api/appdetails?appids=346010&l=english",
+        "https://store.playstation.com/en-us/product/UP4865-CUSA26962_00-BESIEGE000000000/",
+        "https://www.xbox.com/en-us/games/store/Besiege-Console/9PPFBQG81Q5J",
+        "https://www.nintendo.com/pt-br/store/products/besiege-switch/",
+        "https://playdigious.helpshift.com/hc/en/33-besiege/faq/595-when-is-besiege-coming-out-on-mobile/?p=android",
+        "https://store.steampowered.com/api/appdetails?appids=346010&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=346010&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Spiderling Studios 的 Besiege 本篇及其官方移植，不混入續作或同名仿作。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=346010&l=english",
+        "finding": "Steam 正式商品 346010：Besiege；開發者 Spiderling Studios；發行商 Spiderling Studios；coming_soon=false，桌機原生平台 windows、mac、linux；未標示 Early Access。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/UP4865-CUSA26962_00-BESIEGE000000000/",
+        "finding": "Sony 商品頁列已上市 PS4 本篇，Editions 也分列可購買的 PS5 與 PS4 商品；因此 PS5 不只靠相容說明。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/Besiege-Console/9PPFBQG81Q5J",
+        "finding": "Spiderling 的 Besiege Console 正式商店列 Xbox One、Xbox Series X|S，並有 Series 最佳化與 Smart Delivery。"
+      },
+      {
+        "source": "https://www.nintendo.com/pt-br/store/products/besiege-switch/",
+        "finding": "Nintendo 正式商品列 Switch、Spiderling Studios／Ultimate Games 與 2024-09-12 發售。"
+      },
+      {
+        "source": "https://playdigious.helpshift.com/hc/en/33-besiege/faq/595-when-is-besiege-coming-out-on-mobile/?p=android",
+        "finding": "手機移植發行商 Playdigious 的本作支援 FAQ 明確說 Android／iOS 自 2025-11-18 已可遊玩。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=346010&l=tchinese",
+        "finding": "同一 Steam 商品的官方繁中標題為「圍攻」，作為精確中文別名。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=346010&l=schinese",
+        "finding": "同一 Steam 商品的官方簡中標題為「围攻」，作為精確中文別名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/346010?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=53381，total_positive=50776，total_negative=2605；計算正評率 95.1%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Besiege",
+        "besiege",
+        "圍攻",
+        "围攻",
+        "Steam App 346010"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  },
+  {
+    "game": {
+      "name": "Halls of Torment",
+      "alias": [
+        "halls of torment",
+        "Halls of Torment 苦痛殿堂",
+        "苦痛殿堂"
+      ],
+      "platform": "PC/Linux/PS5/Xbox Series X|S/iOS/Android",
+      "icon": "🔥",
+      "category": "生存Roguelite",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 官方評論 API 全語言、全部取得方式累積 31,963 則，正評 95.3%（2026-10-19 快照）；作為收錄優先依據，非銷量或當日排行。",
+      "releaseNote": "Steam 24 Sep, 2024 發售本篇／正式版。",
+      "sources": [
+        "https://store.steampowered.com/app/2218750/",
+        "https://store.steampowered.com/api/appdetails?appids=2218750&l=english",
+        "https://store.playstation.com/nl-nl/product/EP1592-PPSA28037_00-0504920833556201",
+        "https://www.xbox.com/en-US/games/store/halls-of-torment/9nmnms626r59",
+        "https://apps.apple.com/us/app/halls-of-torment-premium/id6504841512",
+        "https://play.google.com/store/apps/details?hl=en-CA&id=com.halls.of.torment.paid.gp",
+        "https://store.steampowered.com/api/appdetails?appids=2218750&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=2218750&l=schinese",
+        "https://store.steampowered.com/appreviews/2218750?json=1&language=all&purchase_type=all&filter=all&num_per_page=0"
+      ],
+      "platformNote": "本條目包含 Windows／Linux、PS5／Xbox Series X|S 本篇與 Erabit 的手機 Premium 移植。另有免費手機版本，商業模式及內容不同，未混作 Premium；Apple Silicon Mac 可執行 iOS App 不新增獨立 macOS 原生版。",
+      "platformSources": [
+        "https://store.steampowered.com/app/2218750/",
+        "https://store.steampowered.com/api/appdetails?appids=2218750&l=english",
+        "https://store.playstation.com/nl-nl/product/EP1592-PPSA28037_00-0504920833556201",
+        "https://www.xbox.com/en-US/games/store/halls-of-torment/9nmnms626r59",
+        "https://apps.apple.com/us/app/halls-of-torment-premium/id6504841512",
+        "https://play.google.com/store/apps/details?hl=en-CA&id=com.halls.of.torment.paid.gp",
+        "https://store.steampowered.com/api/appdetails?appids=2218750&l=tchinese",
+        "https://store.steampowered.com/api/appdetails?appids=2218750&l=schinese"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Chasing Carrots 的 Halls of Torment 本篇；手機僅涵蓋 Halls of Torment: Premium 付費移植，排除 Prelude demo 與同名免費手機改編版。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2218750&l=english",
+        "finding": "Steam 正式商品 2218750：Halls of Torment；開發者 Chasing Carrots；發行商 Chasing Carrots；coming_soon=false，桌機原生平台 windows、linux；未標示 Early Access。"
+      },
+      {
+        "source": "https://store.playstation.com/nl-nl/product/EP1592-PPSA28037_00-0504920833556201",
+        "finding": "Chasing Carrots 正式付費 Sony 商品明列 PS5，不是 Prelude 試玩。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/halls-of-torment/9nmnms626r59",
+        "finding": "Xbox 本篇商品明列 2025-10-28 發售、Series X|S 最佳化與 PC；不將雲端列為原生平台，也不混入 Demo SKU。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/halls-of-torment-premium/id6504841512",
+        "finding": "App Store 的 Halls of Torment: Premium 是已發行付費 iPhone／iPad 商品；相容欄的 M1 Mac 為 iOS App 執行相容性。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?hl=en-CA&id=com.halls.of.torment.paid.gp",
+        "finding": "Erabit Studios Android 付費 Premium 商品 com.halls.of.torment.paid.gp 明示這是 Steam 遊戲手機移植；另列免費 Halls of Torment，不把兩者商業版本混同。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2218750&l=tchinese",
+        "finding": "同一 Steam 商品的官方繁中標題為「Halls of Torment 苦痛殿堂」，作為精確中文別名。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2218750&l=schinese",
+        "finding": "同一 Steam 商品的官方簡中標題為「Halls of Torment 苦痛殿堂」，作為精確中文別名。另加入該官方中文題名的獨立中文部分／繁簡字形作搜尋別名；字形轉換不宣稱是另有官方繁中命名。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/appreviews/2218750?json=1&language=all&purchase_type=all&filter=all&num_per_page=0",
+        "finding": "language=all、purchase_type=all、filter=all；total_reviews=31963，total_positive=30458，total_negative=1505；計算正評率 95.3%。包含全部取得方式，與商店預設 Steam 購買評論數可能不同。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Halls of Torment",
+        "halls of torment",
+        "Halls of Torment 苦痛殿堂",
+        "Steam App 2218750",
+        "苦痛殿堂"
+      ],
+      "result": "已對最新 1,002 筆既有 name、alias、seriesAliases 與來源中的 Steam App ID 全量正規化比對，未命中同作；上一輪 13 款已包含於此目錄，沒有重加。"
+    }
+  }
+]

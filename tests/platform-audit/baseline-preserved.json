@@ -1,0 +1,2494 @@
+[
+  {
+    "name": "噬血代碼",
+    "alias": [
+      "code vein",
+      "噬血"
+    ],
+    "platform": "PC/PS4/Xbox One",
+    "icon": "🩸",
+    "category": "動作RPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 Switch；平台依萬代官方商品資料。",
+    "platformSources": [
+      "https://www.bandainamcoent.com/games/code-vein/media/2142"
+    ]
+  },
+  {
+    "name": "惡靈古堡4 重製版",
+    "alias": [
+      "resident evil 4",
+      "re4",
+      "惡靈古堡4",
+      "resident evil 4 remake",
+      "biohazard 4",
+      "生化危機4"
+    ],
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Mac/iOS/Switch 2",
+    "icon": "🧟",
+    "category": "恐怖",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "本條為 2023 重製版；Switch 2 Gold Edition 已於 2026-10-16 發售，不能與原版 RE4 的初代 Switch 移植混用。",
+    "platformSources": [
+      "https://www.nintendo.com/de-de/Spiele/Nintendo-Switch-2-Spiele/Resident-Evil-4-Gold-Edition-3183693.html",
+      "https://www.capcom.co.jp/ir/english/news/html/e230913.html"
+    ]
+  },
+  {
+    "name": "惡靈古堡 村莊",
+    "alias": [
+      "resident evil village",
+      "re8",
+      "惡靈古堡8",
+      "惡靈古堡8 村莊",
+      "biohazard village",
+      "生化危機8"
+    ],
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Mac/iOS/Switch（雲端版）/Switch 2",
+    "icon": "🏰",
+    "category": "恐怖",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "初代 Switch 為雲端版；Switch 2 原生版以 Gold Edition 發行，兩者不可混用。",
+    "platformSources": [
+      "https://www.nintendo.com/au/games/nintendo-switch-2/resident-evil-village-gold-edition/",
+      "https://www.capcom.co.jp/ir/english/news/html/e230913.html",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Resident-Evil-Village-Cloud-2264671.html"
+    ]
+  },
+  {
+    "name": "惡靈古堡2 重製版",
+    "alias": [
+      "resident evil 2",
+      "re2",
+      "惡靈古堡2",
+      "resident evil 2 remake",
+      "biohazard 2",
+      "生化危機2"
+    ],
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Switch（雲端版）/Switch 2",
+    "icon": "🧟",
+    "category": "恐怖",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "初代 Switch 為 Cloud 版，需網路及支援地區；Switch 2 Deluxe Edition 於 2026-10-16 推出原生版。",
+    "platformSources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Resident-Evil-2-Cloud-2291644.html",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Resident-Evil-2-Deluxe-Edition-3183632.html"
+    ]
+  },
+  {
+    "name": "絕地求生",
+    "alias": [
+      "pubg",
+      "吃雞",
+      "playerunknown"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🔫",
+    "category": "大逃殺",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "PUBG: BATTLEGROUNDS 與 PUBG MOBILE 分開。PS4、Xbox One 已於 2025-11-13 停止支援。",
+    "platformSources": [
+      "https://pubg.com/en/news/9005"
+    ]
+  },
+  {
+    "name": "Apex英雄",
+    "alias": [
+      "apex legends",
+      "apex",
+      "Apex 英雄",
+      "尖峰"
+    ],
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Switch 2",
+    "icon": "🎯",
+    "category": "大逃殺",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "Apex Mobile 已停服；初代 Switch 於 2026-08-04 停止支援，Switch 2 繼續營運。",
+    "platformSources": [
+      "https://forums.ea.com/blog/apex-legends-game-info-hub-en/an-update-on-nintendo-switch-support/13153694",
+      "https://www.ea.com/en-ca/inside-ea/news/ea-mobile-strategy-realignment",
+      "https://www.ea.com/games/apex-legends/apex-legends"
+    ]
+  },
+  {
+    "name": "模擬市民4",
+    "alias": [
+      "sims 4",
+      "模擬市民",
+      "the sims 4",
+      "模擬人生4"
+    ],
+    "platform": "PC/Mac/PS4/Xbox One",
+    "icon": "👥",
+    "category": "模擬",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 Switch；主機向下相容不另算原生版本。",
+    "platformSources": [
+      "https://www.ea.com/games/the-sims/the-sims-4/faq",
+      "https://www.ea.com/games/the-sims/the-sims-4/buy"
+    ]
+  },
+  {
+    "name": "快打旋風6",
+    "alias": [
+      "street fighter 6",
+      "sf6",
+      "快打旋風",
+      "街霸6"
+    ],
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Switch 2",
+    "icon": "👊",
+    "category": "格鬥",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "Switch 2 原生版；不是初代 Switch 遊戲。",
+    "platformSources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Street-Fighter-6-2792834.html?nsuid=70070000027363"
+    ]
+  },
+  {
+    "name": "原神",
+    "alias": [
+      "genshin impact",
+      "genshin",
+      "Genshin Impact"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/iOS/Android",
+    "icon": "⭐",
+    "category": "動作RPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "PS4 已於 2026-04-08 停止更新且無法登入，不能列為目前可玩平台。",
+    "platformSources": [
+      "https://genshin.hoyoverse.com/m/en/news/detail/158501",
+      "https://genshin.hoyoverse.com/zh-tw/news/detail/162159"
+    ]
+  },
+  {
+    "name": "絕區零",
+    "alias": [
+      "zenless zone zero",
+      "zzz",
+      "Zenless Zone Zero"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/iOS/Android",
+    "icon": "📺",
+    "category": "動作",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "補上已發售的 Xbox Series X|S 版。",
+    "platformSources": [
+      "https://www.xbox.com/games/store/zenless-zone-zero/9n4x0wfz2stm"
+    ]
+  },
+  {
+    "name": "明日方舟",
+    "alias": [
+      "arknights",
+      "舟遊",
+      "方舟",
+      "ark"
+    ],
+    "platform": "PC/iOS/Android",
+    "icon": "🛡️",
+    "category": "策略",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "國際版官方已提供 Windows 客戶端；台服支援情況須依當地營運商確認，不能把國際版進度與台服混用。",
+    "platformSources": [
+      "https://arknights.global/news/4335"
+    ]
+  },
+  {
+    "name": "奧日與黑暗森林",
+    "alias": [
+      "ori and the blind forest",
+      "奧日",
+      "奧日1",
+      "ori1"
+    ],
+    "platform": "PC/Xbox One/Switch",
+    "icon": "✨",
+    "category": "平台動作",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 PS4；Switch 為 Definitive Edition。",
+    "platformSources": [
+      "https://www.orithegame.com/blind-forest/",
+      "https://www.nintendo.com/us/store/products/70010000018710/"
+    ]
+  },
+  {
+    "name": "奧日與螢火意志",
+    "alias": [
+      "ori and the will of the wisps",
+      "奧日2",
+      "ori2"
+    ],
+    "platform": "PC/Xbox One/Xbox Series X|S/Switch",
+    "icon": "✨",
+    "category": "平台動作",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 PS4。",
+    "platformSources": [
+      "https://www.xbox.com/en-US/games/ori-will-of-the-wisps",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Ori-and-the-Will-of-the-Wisps-1842518.html"
+    ]
+  },
+  {
+    "name": "RO仙境傳說：新世代的誕生",
+    "alias": [
+      "仙境傳說 X: Next Generation",
+      "ragnarok x",
+      "rox",
+      "仙境x",
+      "仙境傳說 新世代的誕生",
+      "新世代的誕生",
+      "Ragnarok X: Next Generation",
+      "仙境傳說x"
+    ],
+    "platform": "iOS/Android",
+    "icon": "✨",
+    "category": "MMORPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "ROX／新世代的誕生；此處僅列已確認的手機平台，不與 Ragnarok M／守護永恆的愛混用。",
+    "platformSources": [
+      "https://www.gnjoy.com.tw/"
+    ]
+  },
+  {
+    "name": "RO仙境傳說：守護永恆的愛",
+    "alias": [
+      "ragnarok m",
+      "rom",
+      "仙境m",
+      "守護永恆的愛",
+      "仙境傳說 永恆之戀",
+      "ragnarok eternal love",
+      "仙境永恆"
+    ],
+    "platform": "iOS/Android",
+    "icon": "📱",
+    "category": "MMORPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "Ragnarok M／守護永恆的愛；不是 ROX，也不是另行營運的 Classic。",
+    "platformSources": [
+      "https://www.gnjoy.com.tw/"
+    ]
+  },
+  {
+    "name": "怪物彈珠",
+    "alias": [
+      "monster strike",
+      "怪彈",
+      "モンスト",
+      "ms"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🎱",
+    "category": "彈珠RPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "本條為手機版怪物彈珠，不能把其他改編作品的平台混入。",
+    "platformSources": [
+      "https://www.monster-strike.com/"
+    ]
+  },
+  {
+    "name": "哈迪斯2",
+    "alias": [
+      "hades 2",
+      "黑帝斯2",
+      "Hades II",
+      "hades ii"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2/Switch",
+    "icon": "🌙",
+    "category": "Roguelike",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "正式版已推出；PS5 與 Xbox Series 於 2026-04-14 上市。",
+    "platformSources": [
+      "https://www.supergiantgames.com/blog/hades-ii-coming-to-xbox-playstation-april-14/",
+      "https://www.supergiantgames.com/blog/hades-ii-now-on-xbox-and-playstation/"
+    ]
+  },
+  {
+    "name": "槍火重生",
+    "alias": [
+      "gunfire reborn"
+    ],
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/iOS/Android",
+    "icon": "🎯",
+    "category": "FPS Roguelike",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "槍火重生為 Gunfire Reborn；手機版另有營運版本，不與挺進地牢混用。移除 Switch。",
+    "platformSources": [
+      "https://support.505games.com/support/solutions/articles/150000147315-who-is-publishing-gunfire-reborn-",
+      "https://gfrm.yijoys.com/en/",
+      "https://store.playstation.com/en-us/product/UP4040-PPSA06780_00-GUNFIREREBORNPS5"
+    ]
+  },
+  {
+    "name": "世界計畫 繽紛舞台！feat. 初音未來",
+    "alias": [
+      "project sekai",
+      "pjsk",
+      "世界計畫",
+      "繽紛舞台",
+      "project sekai colorful stage"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🎵",
+    "category": "音樂",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "Project SEKAI 台灣版；不是 Project DIVA／歌姬計畫。不同地區曲目及活動進度須分開。",
+    "platformSources": [
+      "https://apps.apple.com/tw/app/%E4%B8%96%E7%95%8C%E8%A8%88%E7%95%AB-%E7%B9%BD%E7%B4%9B%E8%88%9E%E5%8F%B0-feat-%E5%88%9D%E9%9F%B3%E6%9C%AA%E4%BE%86/id1557595935?platform=ipad"
+    ]
+  },
+  {
+    "name": "彈射世界",
+    "alias": [
+      "弹射世界",
+      "world flipper",
+      "弹射",
+      "wf"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🎱",
+    "category": "彈珠RPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "World Flipper 原始發行平台為手機，移除誤列的 Switch；本條保留歷史攻略，未確認各地伺服器目前是否仍可登入。",
+    "platformSources": [
+      "https://www.cygames.co.jp/en/news/id-22026"
+    ]
+  },
+  {
+    "name": "魔物獵人 物語（原版）",
+    "alias": [
+      "魔物獵人 物語",
+      "monster hunter stories",
+      "mhs",
+      "物語1"
+    ],
+    "platform": "3DS/iOS/Android",
+    "icon": "🌟",
+    "category": "RPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "原版及手機移植；與 2024 年重製版分開。Apple Arcade、付費手機版與 3DS 的連線及存檔不能任意互通。",
+    "platformSources": [
+      "https://www.capcom.co.jp/ir/english/news/html/e240619.html",
+      "https://www.capcom.co.jp/support/faq/platform_mobile_iphone_ipod_touch_ipad_mh-stories-plus_0149956.html"
+    ]
+  },
+  {
+    "name": "農場模擬器22",
+    "alias": [
+      "farming simulator 22",
+      "fs22",
+      "農場模擬"
+    ],
+    "platform": "PC/Mac/PS5/PS4/Xbox One/Xbox Series X|S",
+    "icon": "🚜",
+    "category": "模擬",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "Farming Simulator 22 不等於 Switch 上其他年份的農場模擬器。",
+    "platformSources": [
+      "https://press.giants-software.com/category/fs22"
+    ]
+  },
+  {
+    "name": "瘟疫傳說 無罪",
+    "alias": [
+      "a plague tale innocence",
+      "瘟疫傳說1"
+    ],
+    "platform": "PC/PS5/PS4/Xbox One/Xbox Series X|S/Switch（雲端版）",
+    "icon": "🐀",
+    "category": "動作冒險",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "初代 Switch 為雲端串流版本，需網路；不是可離線的原生移植。",
+    "platformSources": [
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/A-Plague-Tale-Innocence-Cloud-Version-2002534.html"
+    ]
+  },
+  {
+    "name": "Poly Bridge",
+    "alias": [
+      "poly bridge",
+      "橋樑建造師"
+    ],
+    "platform": "PC/Mac/Linux/Switch/iOS/Android",
+    "icon": "🌉",
+    "category": "解謎",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 PS4、Xbox；確認 Steam、Switch、iOS。Android 保留舊版歷史紀錄，本次未確認目前上架情況。",
+    "platformSources": [
+      "https://www.nintendo.com/us/store/products/poly-bridge-switch/",
+      "https://store.steampowered.com/app/367450/Poly_Bridge/",
+      "https://apps.apple.com/us/app/poly-bridge/id1197552569"
+    ]
+  },
+  {
+    "name": "Poly Bridge 2",
+    "alias": [
+      "poly bridge 2",
+      "橋樑建造師2"
+    ],
+    "platform": "PC/Mac/Linux/iOS/Android",
+    "icon": "🌁",
+    "category": "解謎",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 PS4、Xbox、Switch；勿套用 Poly Bridge 第一代的 Switch 平台。",
+    "platformSources": [
+      "https://store.steampowered.com/app/1062160/",
+      "https://apps.apple.com/us/app/poly-bridge-2/id1524371466",
+      "https://play.google.com/store/apps/details?hl=en&id=com.drycactus.polybridge2"
+    ]
+  },
+  {
+    "name": "Raft",
+    "alias": [
+      "raft",
+      "木筏生存"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🛶",
+    "category": "生存",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "移除誤列的 PS4、Switch；主機版為 PS5 與 Xbox Series X|S。",
+    "platformSources": [
+      "https://store.playstation.com/en-us/concept/10009602",
+      "https://www.xbox.com/en-US/games/store/raft/9p7rbkdtn18t"
+    ]
+  },
+  {
+    "name": "初音未來 Project DIVA MEGA39's+",
+    "alias": [
+      "project diva mega39s plus",
+      "pdm39s+"
+    ],
+    "platform": "PC",
+    "icon": "✨",
+    "category": "音樂",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "MEGA39s+ 為 Steam 版；不是 MEGA39s 的 Switch 平台。",
+    "platformSources": [
+      "https://asia.sega.com/mega39splus/cht/"
+    ]
+  },
+  {
+    "name": "魔物獵人 物語 重製版",
+    "alias": [
+      "Monster Hunter Stories",
+      "monster hunter stories",
+      "魔物獵人物語1",
+      "mhs1"
+    ],
+    "platform": "PC/PS4/Switch",
+    "icon": "🥚",
+    "category": "RPG",
+    "platformVerifiedAt": "2026-10-18",
+    "platformNote": "2024 年重製版，移除混入的 Mobile；3DS／手機原版另列。",
+    "platformSources": [
+      "https://www.capcom.co.jp/ir/english/news/html/e240619.html"
+    ]
+  },
+  {
+    "name": "殺戮尖塔2",
+    "alias": [
+      "slay the spire 2",
+      "殺戮尖塔",
+      "殺戮尖塔 2",
+      "sts2",
+      "sts 2"
+    ],
+    "platform": "PC",
+    "icon": "🃏",
+    "category": "卡牌Roguelike",
+    "catalogPriority": 2,
+    "releaseStatus": "early-access",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2868840/",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "惡靈古堡 Requiem",
+    "alias": [
+      "resident evil requiem",
+      "biohazard requiem",
+      "re9",
+      "惡靈古堡9",
+      "惡靈古堡",
+      "生化危機9",
+      "安魂曲"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "🧟",
+    "category": "生存恐怖",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3764200/",
+      "https://game.capcom.com/residentevil/it/qa-game.html",
+      "https://store.playstation.com/ar-kw/category/2afbc717-a46f-4527-885b-0287dabf9786/1",
+      "https://www.capcom.co.jp/ir/english/news/html/e250916.html"
+    ]
+  },
+  {
+    "name": "仁王3",
+    "alias": [
+      "nioh 3",
+      "nioh3",
+      "仁王 3",
+      "仁王"
+    ],
+    "platform": "PC/PS5",
+    "icon": "👺",
+    "category": "動作RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://teamninja-studio.com/nioh3/",
+      "https://store.steampowered.com/app/3681010/"
+    ]
+  },
+  {
+    "name": "PRAGMATA",
+    "alias": [
+      "pragmata",
+      "人機迷網"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "🌙",
+    "category": "動作冒險",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3357650/",
+      "https://store.playstation.com/ar-kw/category/2afbc717-a46f-4527-885b-0287dabf9786/1",
+      "https://www.capcom.co.jp/ir/english/news/html/e260507.html"
+    ]
+  },
+  {
+    "name": "Mewgenics",
+    "alias": [
+      "mewgenics",
+      "喵基因",
+      "喵喵遺傳學"
+    ],
+    "platform": "PC",
+    "icon": "🐈",
+    "category": "回合策略Roguelike",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/686060/"
+    ]
+  },
+  {
+    "name": "SAROS",
+    "alias": [
+      "saros",
+      "沙羅週期"
+    ],
+    "platform": "PS5",
+    "icon": "🌘",
+    "category": "動作射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.playstation.com/en-us/games/saros/"
+    ]
+  },
+  {
+    "name": "Marathon",
+    "alias": [
+      "marathon",
+      "馬拉松",
+      "bungie marathon"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🛰️",
+    "category": "撤離射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3065800/",
+      "https://www.playstation.com/en-us/games/marathon/"
+    ]
+  },
+  {
+    "name": "極限競速 地平線6",
+    "alias": [
+      "forza horizon 6",
+      "fh6",
+      "地平線6",
+      "地平線 6"
+    ],
+    "platform": "PC/Xbox Series X|S",
+    "icon": "🏎️",
+    "category": "開放世界競速",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://forza.net/forzahorizon6",
+      "https://store.steampowered.com/app/2483190/"
+    ]
+  },
+  {
+    "name": "AION 2",
+    "alias": [
+      "aion 2",
+      "aion2",
+      "永恆紀元2",
+      "永恆紀元 2"
+    ],
+    "platform": "PC",
+    "icon": "🪽",
+    "category": "MMORPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "releaseNote": "本次查核為 Steam PC 版本；各地區服務內容可能不同。",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3393110/",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "WARDOGS",
+    "alias": [
+      "wardogs",
+      "war dogs"
+    ],
+    "platform": "PC",
+    "icon": "🪖",
+    "category": "大型戰場射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "early-access",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/1867240/",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "Gears of War: E-Day",
+    "alias": [
+      "gears of war e-day",
+      "gears e day",
+      "戰爭機器 e-day",
+      "戰爭機器事變日",
+      "e-day"
+    ],
+    "platform": "PC/Xbox Series X|S",
+    "icon": "⚙️",
+    "category": "第三人稱射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3010850/",
+      "https://www.gearsofwar.com/en-us/news/gears-of-war-e-day/"
+    ]
+  },
+  {
+    "name": "Planet Zoo 2",
+    "alias": [
+      "planet zoo 2",
+      "動物園之星2",
+      "動物園之星 2"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🦁",
+    "category": "經營模擬",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3219030/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
+      "https://store.steampowered.com/charts/topselling/global"
+    ]
+  },
+  {
+    "name": "Castlevania: Belmont's Curse",
+    "alias": [
+      "castlevania belmonts curse",
+      "belmont's curse",
+      "惡魔城貝爾蒙特的詛咒",
+      "惡魔城新作"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch",
+    "icon": "🏰",
+    "category": "類銀河戰士惡魔城",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/4231820/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+    ]
+  },
+  {
+    "name": "STAR WARS: Galactic Racer",
+    "alias": [
+      "star wars galactic racer",
+      "星際大戰銀河賽車",
+      "銀河賽車手",
+      "galactic racer"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🚀",
+    "category": "競速",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/4078430/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/",
+      "https://store.steampowered.com/charts/topselling/global"
+    ]
+  },
+  {
+    "name": "007 First Light",
+    "alias": [
+      "007 first light",
+      "007初露鋒芒",
+      "007初光",
+      "first light"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🕵️",
+    "category": "動作冒險",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3768760/",
+      "https://store.playstation.com/ar-kw/category/2afbc717-a46f-4527-885b-0287dabf9786/1",
+      "https://www.xbox.com/en-US/games/store/007-first-light/9pn198b459vb"
+    ]
+  },
+  {
+    "name": "REANIMAL",
+    "alias": [
+      "reanimal",
+      "再生動物",
+      "生靈重塑"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "🐏",
+    "category": "合作恐怖冒險",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2129530/",
+      "https://www.gamespress.com/Patch-17-for-REANIMAL-is-Live-Now-including-improvements-and-features"
+    ]
+  },
+  {
+    "name": "CONTROL Resonant",
+    "alias": [
+      "control resonant",
+      "控制共振",
+      "控制2",
+      "control 2"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🌀",
+    "category": "動作RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3669870/",
+      "https://store.steampowered.com/app/4403940/"
+    ]
+  },
+  {
+    "name": "SILENT HILL: Townfall",
+    "alias": [
+      "silent hill townfall",
+      "沉默之丘townfall",
+      "寂靜嶺townfall",
+      "townfall"
+    ],
+    "platform": "PC/PS5",
+    "icon": "🌫️",
+    "category": "生存恐怖",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/1636440/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+    ]
+  },
+  {
+    "name": "Beast of Reincarnation",
+    "alias": [
+      "beast of reincarnation",
+      "輪迴之獸",
+      "project bloom"
+    ],
+    "platform": "PC",
+    "icon": "🐕",
+    "category": "動作RPG",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2001760/"
+    ]
+  },
+  {
+    "name": "鬼武者 Way of the Sword",
+    "alias": [
+      "onimusha way of the sword",
+      "鬼武者劍之道",
+      "way of the sword"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "⚔️",
+    "category": "動作冒險",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2638890/",
+      "https://store.playstation.com/ar-kw/category/2afbc717-a46f-4527-885b-0287dabf9786/1",
+      "https://www.capcom.co.jp/ir/english/news/html/e260603.html"
+    ]
+  },
+  {
+    "name": "CODE VEIN II",
+    "alias": [
+      "code vein 2",
+      "code vein ii",
+      "噬血代碼2",
+      "噬血代碼 2"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🩸",
+    "category": "動作RPG",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2362060/",
+      "https://www.bandainamcoent.com/games/code-vein-ii"
+    ]
+  },
+  {
+    "name": "The Blood of Dawnwalker",
+    "alias": [
+      "the blood of dawnwalker",
+      "dawnwalker",
+      "黎明行者之血",
+      "黎明行者"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🦇",
+    "category": "開放世界RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3751260/",
+      "https://www.bandainamcoent.com/games/dawnwalker"
+    ]
+  },
+  {
+    "name": "Cairn",
+    "alias": [
+      "cairn",
+      "孤山獨影"
+    ],
+    "platform": "PC/PS5",
+    "icon": "🧗",
+    "category": "攀登生存",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/1588550/",
+      "https://www.thegamebakers.com/first-console-announcement-the-playstation-5/"
+    ]
+  },
+  {
+    "name": "REPLACED",
+    "alias": [
+      "replaced",
+      "被替代者"
+    ],
+    "platform": "PC/Xbox Series X|S",
+    "icon": "🌃",
+    "category": "動作冒險",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/1663850/",
+      "https://thunderfulgames.com/replaced-gets-new-spring-launch-window/"
+    ]
+  },
+  {
+    "name": "MOUSE: P.I. For Hire",
+    "alias": [
+      "mouse pi for hire",
+      "mouse p.i. for hire",
+      "神探鼠來寶",
+      "鼠鼠偵探"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "🐭",
+    "category": "第一人稱射擊",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2416450/",
+      "https://playsidestudios.com/news/MOUSE-PI-For-Hire-Out-Now/"
+    ]
+  },
+  {
+    "name": "Windrose",
+    "alias": [
+      "windrose",
+      "風啟之旅"
+    ],
+    "platform": "PC",
+    "icon": "🏴‍☠️",
+    "category": "海盜生存建造",
+    "catalogPriority": 1,
+    "releaseStatus": "early-access",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3041230/"
+    ]
+  },
+  {
+    "name": "異環",
+    "alias": [
+      "neverness to everness",
+      "nte",
+      "異環",
+      "异环"
+    ],
+    "platform": "PC/PS5/iOS/Android",
+    "icon": "🏙️",
+    "category": "開放世界RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://nte.perfectworld.com/en/article/news/gamebroad/20260428/261969.html",
+      "https://blog.playstation.com/2026/04/20/nte-neverness-to-everness-out-april-29-new-gameplay-details-revealed/"
+    ]
+  },
+  {
+    "name": "Pokémon Pokopia",
+    "alias": [
+      "pokemon pokopia",
+      "pokopia",
+      "寶可夢pokopia",
+      "寶可夢 Pokopia",
+      "寶可夢慢活"
+    ],
+    "platform": "Switch 2",
+    "icon": "🌱",
+    "category": "生活模擬",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/pokemon-pokopia-switch-2/"
+    ]
+  },
+  {
+    "name": "Tomodachi Life: Living the Dream",
+    "alias": [
+      "tomodachi life living the dream",
+      "tomodachi life",
+      "朋友收藏集",
+      "朋友收集生活",
+      "夢想生活"
+    ],
+    "platform": "Switch",
+    "icon": "🏝️",
+    "category": "生活模擬",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.nintendo.com/ph/switch/blfga/index.html"
+    ]
+  },
+  {
+    "name": "Splatoon Raiders",
+    "alias": [
+      "splatoon raiders",
+      "斯普拉遁raiders",
+      "斯普拉遁突襲者",
+      "斯普拉遁外傳"
+    ],
+    "platform": "Switch 2",
+    "icon": "🦑",
+    "category": "動作冒險",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/splatoon-raiders-switch-2/"
+    ]
+  },
+  {
+    "name": "Donkey Kong Bananza",
+    "alias": [
+      "donkey kong bananza",
+      "咚奇剛bananza",
+      "咚奇剛 蕉力全開",
+      "大金剛bananza"
+    ],
+    "platform": "Switch 2",
+    "icon": "🍌",
+    "category": "平台動作",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/donkey-kong-bananza-switch-2/"
+    ]
+  },
+  {
+    "name": "瑪利歐賽車 世界",
+    "alias": [
+      "mario kart world",
+      "瑪車世界",
+      "瑪利歐賽車世界",
+      "mkworld"
+    ],
+    "platform": "Switch 2",
+    "icon": "🏁",
+    "category": "競速",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.nintendo.com/us/store/products/nintendo-switch-2-mario-kart-world-121472/"
+    ]
+  },
+  {
+    "name": "Deadlock",
+    "alias": [
+      "deadlock",
+      "死鎖",
+      "valve deadlock"
+    ],
+    "platform": "PC",
+    "icon": "🔮",
+    "category": "MOBA射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "playtest",
+    "releaseNote": "開發中邀請測試，非正式上市版本。",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/1422450/",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "ARC Raiders",
+    "alias": [
+      "arc raiders",
+      "arcraiders",
+      "弧光突襲者"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🤖",
+    "category": "撤離射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/1808500/",
+      "https://store.steampowered.com/news/posts/?enddate=1749246282&feed=steam_community_announcements"
+    ]
+  },
+  {
+    "name": "R.E.P.O.",
+    "alias": [
+      "repo",
+      "r.e.p.o.",
+      "repo致命公司",
+      "恐怖搬運"
+    ],
+    "platform": "PC",
+    "icon": "📦",
+    "category": "合作恐怖",
+    "catalogPriority": 2,
+    "releaseStatus": "early-access",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3241660/",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "PEAK",
+    "alias": [
+      "peak",
+      "攀登高峰",
+      "合作爬山"
+    ],
+    "platform": "PC",
+    "icon": "🏔️",
+    "category": "合作冒險",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3527290/",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "艾爾登法環 黑夜君臨",
+    "alias": [
+      "elden ring nightreign",
+      "nightreign",
+      "黑夜君臨",
+      "法環黑夜",
+      "夜渡"
+    ],
+    "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+    "icon": "🌑",
+    "category": "合作動作RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2622380/",
+      "https://www.bandainamcoent.com/games/nightreign"
+    ]
+  },
+  {
+    "name": "戰地風雲6",
+    "alias": [
+      "battlefield 6",
+      "bf6",
+      "戰地6",
+      "戰地風雲 6"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "🪖",
+    "category": "第一人稱射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.ea.com/en-gb/playtesting/news/battlefield-6-launches-today",
+      "https://store.steampowered.com/charts/mostplayed"
+    ]
+  },
+  {
+    "name": "EA SPORTS FC 27",
+    "alias": [
+      "ea sports fc 27",
+      "fc27",
+      "fc 27",
+      "fifa27",
+      "fifa 27"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "⚽",
+    "category": "足球",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.ea.com/games/ea-sports-fc/fc-27",
+      "https://store.steampowered.com/app/4080220/"
+    ]
+  },
+  {
+    "name": "NBA 2K27",
+    "alias": [
+      "nba 2k27",
+      "nba2k27",
+      "2k27"
+    ],
+    "platform": "PC",
+    "icon": "🏀",
+    "category": "籃球",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/4356430/",
+      "https://store.steampowered.com/charts/topselling/global"
+    ]
+  },
+  {
+    "name": "FINAL FANTASY RESONANCE",
+    "alias": [
+      "final fantasy resonance",
+      "ff resonance",
+      "最終幻想resonance",
+      "太空戰士resonance"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2/Switch",
+    "icon": "💎",
+    "category": "RPG",
+    "catalogPriority": 1,
+    "releaseStatus": "upcoming",
+    "releaseDate": "2026-10-22",
+    "releaseNote": "正式版尚未發售；已提供試玩版。",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3259780/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+    ]
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 4",
+    "alias": [
+      "call of duty modern warfare 4",
+      "cod mw4",
+      "mw4",
+      "決勝時刻現代戰爭4",
+      "現代戰爭4"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "🎯",
+    "category": "第一人稱射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "upcoming",
+    "releaseDate": "2026-10-23",
+    "releaseNote": "完整遊戲尚未正式發售；預購戰役搶先體驗已於 10 月 16 日開放，DMZ 預定 10 月 20 日開放。",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.callofduty.com/uk/en/modernwarfare4",
+      "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-campaign-early-access-live-now"
+    ]
+  },
+  {
+    "name": "ACE COMBAT 8: WINGS OF THEVE",
+    "alias": [
+      "ace combat 8",
+      "ac8",
+      "空戰奇兵8",
+      "皇牌空戰8",
+      "wings of theve"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "✈️",
+    "category": "空戰射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2288340/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+    ]
+  },
+  {
+    "name": "Valor Mortis",
+    "alias": [
+      "valor mortis",
+      "英勇之死"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S",
+    "icon": "⚔️",
+    "category": "第一人稱動作RPG",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/2828710/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+    ]
+  },
+  {
+    "name": "戀與深空",
+    "alias": [
+      "love and deepspace",
+      "恋与深空",
+      "戀深"
+    ],
+    "platform": "iOS/Android",
+    "icon": "💫",
+    "category": "戀愛動作RPG",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "App Store 編輯遊戲推薦與繁中官方活動持續更新。",
+    "sources": [
+      "https://loveanddeepspace.infoldgames.com/zh-TW/home",
+      "https://apps.apple.com/es/iphone/story/id1475726006?l=en-GB",
+      "https://play.google.com/store/apps/details?hl=zh_TW&id=com.papegames.lysk.tw"
+    ]
+  },
+  {
+    "name": "Pokémon TCG Pocket",
+    "alias": [
+      "pokemon tcg pocket",
+      "寶可夢卡牌口袋版",
+      "寶可夢口袋卡牌",
+      "ptcgp",
+      "寶可夢集換式卡牌遊戲口袋版"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🃏",
+    "category": "卡牌對戰",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "App Store 編輯推薦；官方商店列出全球 150 個國家與地區的服務。",
+    "sources": [
+      "https://apps.apple.com/us/app/pok%C3%A9mon-tcg-pocket/id6479970832",
+      "https://www.pokemontcgpocket.com/",
+      "https://tcgpocket.pokemon.com/en-gb/"
+    ],
+    "releaseNote": "Pocket 與 Pokémon TCG Live、實體卡牌規則不同；卡池、活動與交換規則須按版本確認。"
+  },
+  {
+    "name": "SD鋼彈 G世代 永恆",
+    "alias": [
+      "sd gundam g generation eternal",
+      "g generation eternal",
+      "ggene eternal",
+      "鋼彈永恆",
+      "高達g世代永恆"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🤖",
+    "category": "策略RPG",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "萬代南夢宮 2026 統合報告披露，截至 7 月下載量達 900 萬。",
+    "sources": [
+      "https://gget.ggame.jp/tw/",
+      "https://www.bandainamco.co.jp/ir/library/2026_feature_04.html"
+    ]
+  },
+  {
+    "name": "Chaos Zero Nightmare",
+    "alias": [
+      "chaos zero nightmare",
+      "czn",
+      "卡厄思夢境",
+      "卡厄思梦境"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🌑",
+    "category": "Roguelike卡牌RPG",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Google Play 已超過百萬下載，並有大量玩家評論。",
+    "sources": [
+      "https://play.google.com/store/apps/details?id=com.smilegate.chaoszero.stove.google",
+      "https://apps.apple.com/us/app/chaos-zero-nightmare/id6502326151"
+    ]
+  },
+  {
+    "name": "無限暖暖",
+    "alias": [
+      "infinity nikki",
+      "无限暖暖",
+      "暖暖開放世界"
+    ],
+    "platform": "PC/PS5/iOS/Android",
+    "icon": "👗",
+    "category": "開放世界換裝冒險",
+    "catalogGroup": "mobile",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "補齊具 Steam 玩家評論與官方跨平台更新的換裝冒險作品。",
+    "sources": [
+      "https://infinitynikki.infoldgames.com/en/news/16",
+      "https://store.steampowered.com/app/3164330/"
+    ]
+  },
+  {
+    "name": "緋染天空 Heaven Burns Red",
+    "alias": [
+      "heaven burns red",
+      "hbr",
+      "緋染天空",
+      "绯染天空",
+      "ヘブバン"
+    ],
+    "platform": "PC/iOS/Android",
+    "icon": "🎸",
+    "category": "劇情RPG",
+    "catalogGroup": "mobile",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "補齊 WFS／Key 敘事 RPG 的繁中服務與角色攻略類型。",
+    "sources": [
+      "https://tw.heaven-burns-red.com/",
+      "https://www.wfs.games/en-us/service/heaven-burns-red/"
+    ],
+    "releaseNote": "繁中、日版與英文版可能有進度差異；角色、活動及卡池請先確認伺服器。"
+  },
+  {
+    "name": "Shadowverse: Worlds Beyond",
+    "alias": [
+      "shadowverse worlds beyond",
+      "shadowverse wb",
+      "svwb",
+      "闇影詩章世界超越",
+      "影之詩世界超越"
+    ],
+    "platform": "PC/iOS/Android",
+    "icon": "🪄",
+    "category": "卡牌對戰",
+    "catalogGroup": "mobile",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "官方 2026 賽事與週年活動持續舉辦，與舊作分開收錄。",
+    "sources": [
+      "https://shadowverse-wb.com/en/",
+      "https://shadowverse-wb.com/en/system-requirements/",
+      "https://shadowverse-wb.com/en/event/"
+    ],
+    "releaseNote": "這是 Worlds Beyond，不能直接套用舊版 Shadowverse 的卡池與規則。"
+  },
+  {
+    "name": "Roblox",
+    "alias": [
+      "roblox",
+      "羅布樂思",
+      "羅布樂斯"
+    ],
+    "platform": "PC/iOS/Android",
+    "icon": "🧱",
+    "category": "社群遊戲平台",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 9 月全球手遊下載榜首。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026",
+      "https://apps.apple.com/us/app/roblox/id431946152",
+      "https://play.google.com/store/apps/details?id=com.roblox.client"
+    ],
+    "releaseNote": "Roblox 是包含多種體驗的平台；產生攻略前須先確認具體體驗名稱與版本，不能把平台當成單一主線遊戲。"
+  },
+  {
+    "name": "Last War: Survival",
+    "alias": [
+      "last war survival",
+      "last war",
+      "lastwar",
+      "last war survival game"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🛡️",
+    "category": "生存策略",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 手遊市場報告收錄的高營收生存策略作品。",
+    "sources": [
+      "https://apps.apple.com/us/app/last-war-survival/id6448786147",
+      "https://play.google.com/store/apps/details?id=com.fun.lastwar.gp",
+      "https://sensortower.com/blog/2025-q3-unified-top-5-gacha%20games-revenue-us-62052cd7afb48b4f71f52675"
+    ]
+  },
+  {
+    "name": "寒霜啟示錄",
+    "alias": [
+      "whiteout survival",
+      "寒霜",
+      "無盡冬日"
+    ],
+    "platform": "iOS/Android",
+    "icon": "❄️",
+    "category": "生存策略",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 7 月全球手遊營收前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-july-2026",
+      "https://apps.apple.com/us/app/whiteout-survival/id6443575749",
+      "https://play.google.com/store/apps/editorial?hl=en_US&id=mc_editorialmd_launchnontp_white_out_survival_fcp"
+    ],
+    "releaseNote": "不同地區名稱與營運版本可能不同；活動、英雄世代和伺服器進度請分開確認。"
+  },
+  {
+    "name": "Kingshot",
+    "alias": [
+      "kingshot",
+      "king shot",
+      "奔奔王國"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🏰",
+    "category": "城鎮生存策略",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "App Store 美國區累積逾 20 萬則評分，官方 2026 年 10 月持續更新活動。",
+    "sources": [
+      "https://www.centurygames.com/games/kingshot/",
+      "https://apps.apple.com/us/app/kingshot/id6739554056",
+      "https://play.google.com/store/apps/details?id=com.run.tower.defense"
+    ]
+  },
+  {
+    "name": "MONOPOLY GO!",
+    "alias": [
+      "monopoly go",
+      "大富翁go",
+      "地產大亨go"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🎲",
+    "category": "休閒桌遊",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 9 月全球手遊營收前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026",
+      "https://apps.apple.com/us/app/monopoly-go/id1621328561",
+      "https://play.google.com/store/apps/details?id=com.scopely.monopolygo"
+    ]
+  },
+  {
+    "name": "Gossip Harbor: Merge & Story",
+    "alias": [
+      "gossip harbor",
+      "緋聞港口",
+      "緋聞海港"
+    ],
+    "platform": "iOS/Android",
+    "icon": "☕",
+    "category": "合成解謎",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 9 月全球手遊營收前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026",
+      "https://apps.apple.com/us/app/gossip-harbor-merge-story/id1623318294",
+      "https://play.google.com/store/apps/details?id=com.mergegames.gossipharbor"
+    ]
+  },
+  {
+    "name": "Royal Match",
+    "alias": [
+      "royal match",
+      "皇家配對",
+      "皇家消消樂"
+    ],
+    "platform": "iOS/Android",
+    "icon": "👑",
+    "category": "三消解謎",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 7 月全球手遊營收前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-july-2026",
+      "https://apps.apple.com/us/app/royal-match/id1482155847",
+      "https://play.google.com/store/apps/details?id=com.dreamgames.royalmatch"
+    ]
+  },
+  {
+    "name": "Block Blast!",
+    "alias": [
+      "block blast",
+      "方塊消除",
+      "方塊爆破"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🟦",
+    "category": "方塊解謎",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 9 月全球手遊下載前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026",
+      "https://www.blockblast.com/"
+    ]
+  },
+  {
+    "name": "Subway Surfers",
+    "alias": [
+      "subway surfers",
+      "地鐵跑酷",
+      "地铁跑酷"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🛹",
+    "category": "跑酷",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 9 月全球手遊下載前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026",
+      "https://subwaysurfers.com/",
+      "https://apps.apple.com/us/app/subway-surfers/id512939461"
+    ]
+  },
+  {
+    "name": "Township",
+    "alias": [
+      "township",
+      "夢想小鎮",
+      "梦想小镇"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🌾",
+    "category": "城鎮農場模擬",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Google Play 累積逾 5 億下載，且有大量玩家評分。",
+    "sources": [
+      "https://play.google.com/store/apps/details?id=com.playrix.township",
+      "https://apps.apple.com/us/app/township/id638689075"
+    ]
+  },
+  {
+    "name": "Bus Fever Party!",
+    "alias": [
+      "bus fever party",
+      "bus fever",
+      "巴士消除派對"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🚌",
+    "category": "交通解謎",
+    "catalogGroup": "mobile",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Sensor Tower 2026 年 9 月全球手遊下載前五。",
+    "sources": [
+      "https://develop.sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026",
+      "https://apps.apple.com/us/app/bus-fever-party/id6746743297",
+      "https://play.google.com/store/apps/details?id=gridplus.busjam.carpuzzle"
+    ]
+  },
+  {
+    "name": "Bongo Cat",
+    "alias": [
+      "bongo cat",
+      "邦戈貓",
+      "桌面打鼓貓"
+    ],
+    "platform": "PC",
+    "icon": "🐱",
+    "category": "桌面放置",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 遊玩榜前列，且有大量近期玩家評論。",
+    "sources": [
+      "https://store.steampowered.com/app/3419430/"
+    ]
+  },
+  {
+    "name": "Geometry Dash",
+    "alias": [
+      "geometry dash",
+      "幾何衝刺",
+      "几何冲刺",
+      "gd"
+    ],
+    "platform": "PC",
+    "icon": "🔺",
+    "category": "節奏平台動作",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 遊玩榜前列，累積大量玩家評論。",
+    "sources": [
+      "https://store.steampowered.com/app/322170/"
+    ]
+  },
+  {
+    "name": "Megabonk",
+    "alias": [
+      "megabonk"
+    ],
+    "platform": "PC",
+    "icon": "💥",
+    "category": "Roguelike生存",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 累積十萬級評論，近期仍有大量討論。",
+    "sources": [
+      "https://store.steampowered.com/app/3405340/"
+    ]
+  },
+  {
+    "name": "Schedule I",
+    "alias": [
+      "schedule i",
+      "schedule 1",
+      "schedule one"
+    ],
+    "platform": "PC",
+    "icon": "🏙️",
+    "category": "犯罪經營模擬",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "early-access",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾 20 萬，近期評論活躍。",
+    "sources": [
+      "https://store.steampowered.com/app/3164500/"
+    ]
+  },
+  {
+    "name": "Dispatch",
+    "alias": [
+      "dispatch",
+      "超英派遣中心"
+    ],
+    "platform": "PC",
+    "icon": "📞",
+    "category": "互動敘事策略",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾十萬，近期評價與討論活躍。",
+    "sources": [
+      "https://store.steampowered.com/app/2592160/"
+    ]
+  },
+  {
+    "name": "DELTARUNE",
+    "alias": [
+      "deltarune",
+      "三角符文",
+      "三角符文第5章"
+    ],
+    "platform": "PC",
+    "icon": "💠",
+    "category": "劇情RPG",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾五萬，近期玩家評論活躍。",
+    "sources": [
+      "https://store.steampowered.com/app/1671210/"
+    ],
+    "releaseNote": "截至查核日已公開第 1–5 章，故事仍將續章；不得把未公開章節當成已發售內容。"
+  },
+  {
+    "name": "BALL x PIT",
+    "alias": [
+      "ball x pit",
+      "ballxpit",
+      "彈球深淵"
+    ],
+    "platform": "PC",
+    "icon": "🔮",
+    "category": "彈球Roguelite",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 上萬則英文評論，且持續推出更新。",
+    "sources": [
+      "https://store.steampowered.com/app/2062430/"
+    ]
+  },
+  {
+    "name": "CloverPit",
+    "alias": [
+      "cloverpit",
+      "clover pit"
+    ],
+    "platform": "PC",
+    "icon": "🍀",
+    "category": "Roguelite策略",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 上萬則英文評論，近期仍有玩家討論。",
+    "sources": [
+      "https://store.steampowered.com/app/3314790/"
+    ]
+  },
+  {
+    "name": "Tiny Glade",
+    "alias": [
+      "tiny glade",
+      "林間小世界",
+      "小小林地"
+    ],
+    "platform": "PC",
+    "icon": "🏡",
+    "category": "休閒建造",
+    "catalogGroup": "indie",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 上萬則英文評論的休閒建造作品。",
+    "sources": [
+      "https://store.steampowered.com/app/2198150/"
+    ]
+  },
+  {
+    "name": "Keep Driving",
+    "alias": [
+      "keep driving"
+    ],
+    "platform": "PC",
+    "icon": "🚙",
+    "category": "公路旅行RPG",
+    "catalogGroup": "indie",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 數千則英文評論與持續近期評論的公路 RPG。",
+    "sources": [
+      "https://store.steampowered.com/app/2756920/"
+    ]
+  },
+  {
+    "name": "Backpack Battles",
+    "alias": [
+      "backpack battles",
+      "背包亂鬥",
+      "背包乱斗"
+    ],
+    "platform": "PC",
+    "icon": "🎒",
+    "category": "背包自走棋",
+    "catalogGroup": "indie",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 數千則英文評論的背包構築對戰作品。",
+    "sources": [
+      "https://store.steampowered.com/app/2427700/"
+    ]
+  },
+  {
+    "name": "Noita",
+    "alias": [
+      "noita",
+      "像素巫師"
+    ],
+    "platform": "PC",
+    "icon": "🧙",
+    "category": "物理Roguelike",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾四萬，近期仍有大量構築與玩法討論。",
+    "sources": [
+      "https://store.steampowered.com/app/881100/"
+    ]
+  },
+  {
+    "name": "Slay the Princess — The Pristine Cut",
+    "alias": [
+      "slay the princess",
+      "殺戮公主",
+      "公主殺手",
+      "the pristine cut"
+    ],
+    "platform": "PC",
+    "icon": "👸",
+    "category": "心理恐怖視覺小說",
+    "catalogGroup": "indie",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾兩萬的分歧敘事作品。",
+    "sources": [
+      "https://store.steampowered.com/app/1989270/"
+    ]
+  },
+  {
+    "name": "WEBFISHING",
+    "alias": [
+      "webfishing",
+      "網路釣魚遊戲",
+      "貓狗釣魚"
+    ],
+    "platform": "PC",
+    "icon": "🎣",
+    "category": "多人社交釣魚",
+    "catalogGroup": "indie",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾五萬的多人社群作品。",
+    "sources": [
+      "https://store.steampowered.com/app/3146520/"
+    ]
+  },
+  {
+    "name": "Supermarket Simulator",
+    "alias": [
+      "supermarket simulator",
+      "超市模擬器",
+      "超級市場模擬器"
+    ],
+    "platform": "PC",
+    "icon": "🛒",
+    "category": "商店經營",
+    "catalogGroup": "indie",
+    "catalogPriority": 1,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾三萬的商店經營作品。",
+    "sources": [
+      "https://store.steampowered.com/app/2670630/"
+    ]
+  },
+  {
+    "name": "TCG Card Shop Simulator",
+    "alias": [
+      "tcg card shop simulator",
+      "卡牌店模擬器",
+      "集換式卡牌店模擬器"
+    ],
+    "platform": "PC",
+    "icon": "🃏",
+    "category": "卡牌商店經營",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "Steam 英文評論逾三萬，2026 年 9 月推出正式版。",
+    "sources": [
+      "https://store.steampowered.com/app/3070070/"
+    ]
+  },
+  {
+    "name": "How to Fish",
+    "alias": [
+      "how to fish",
+      "如何釣魚"
+    ],
+    "platform": "PC",
+    "icon": "🐟",
+    "category": "釣魚模擬",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "2026 年新作，Steam 近期玩家評論達萬則級。",
+    "sources": [
+      "https://store.steampowered.com/app/4001890/"
+    ]
+  },
+  {
+    "name": "Order of the Sinking Star",
+    "alias": [
+      "order of the sinking star"
+    ],
+    "platform": "PC",
+    "icon": "🌠",
+    "category": "解謎冒險",
+    "catalogGroup": "indie",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "popularityNote": "2026 年 10 月新作，Steam 已累積千則級英文評論。",
+    "sources": [
+      "https://store.steampowered.com/app/499170/"
+    ]
+  },
+  {
+    "name": "Pikmin Bloom",
+    "alias": [
+      "皮克敏bloom",
+      "皮克敏散步"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🌱",
+    "category": "步行探索",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣免費榜及當地 App Store 大量評分。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/pikmin-bloom/id1556357398",
+      "https://play.google.com/store/apps/details?id=com.nianticlabs.pikmin",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+    ]
+  },
+  {
+    "name": "楓之谷M",
+    "alias": [
+      "maplestory m",
+      "楓之谷m",
+      "楓M"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🍁",
+    "category": "MMORPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣 App Store 長期累積大量評分，並列於台灣營收榜。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E6%A5%93%E4%B9%8B%E8%B0%B7m-%E5%A5%87%E5%B9%BB%E5%86%92%E9%9A%AAmmorpg/id1290086677",
+      "https://play.google.com/store/apps/details?id=com.nexon.maplem.global",
+      "https://gamerscroll.com/rankings/tw/"
+    ]
+  },
+  {
+    "name": "瑪奇 Mobile",
+    "alias": [
+      "mabinogi mobile",
+      "瑪奇手遊",
+      "瑪奇mobile"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🎻",
+    "category": "MMORPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜前列；採台灣發行版本資料。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E7%91%AA%E5%A5%87-mobile/id6759030432",
+      "https://play.google.com/store/apps/details?id=com.nexon.devcat.mm.tw",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://tw.nexon.com/mabinogimobile/home/"
+    ]
+  },
+  {
+    "name": "楓之谷：放置冒險記",
+    "alias": [
+      "maplestory idle rpg",
+      "maplestory idle",
+      "楓之谷放置",
+      "楓之谷放置冒險記"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🍄",
+    "category": "放置RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜及 App Store 精選，與楓之谷M分開收錄。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E6%A5%93%E4%B9%8B%E8%B0%B7-%E6%94%BE%E7%BD%AE%E5%86%92%E9%9A%AA%E8%A8%98/id6739616715",
+      "https://play.google.com/store/apps/details?id=com.nexon.ma",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://maplestoryidle.nexon.com/tw"
+    ]
+  },
+  {
+    "name": "塔塔冒險隊",
+    "alias": [
+      "clash of critters",
+      "塔塔"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🐾",
+    "category": "休閒養成",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "查核日台灣免費榜前列，亦出現在台灣營收榜。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E5%A1%94%E5%A1%94%E5%86%92%E9%9A%AA%E9%9A%8A/id6741567125",
+      "https://play.google.com/store/apps/details?id=com.farlightgames.pgame.gp",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+    ]
+  },
+  {
+    "name": "半夜別修仙",
+    "alias": [
+      "半夜修仙"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🌙",
+    "category": "放置RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "查核日台灣免費榜前列，亦出現在台灣營收榜。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E5%8D%8A%E5%A4%9C%E5%88%A5%E4%BF%AE%E4%BB%99/id6752377341",
+      "https://play.google.com/store/apps/details?id=com.legendwx.gp",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+    ]
+  },
+  {
+    "name": "瘋狂水世界",
+    "alias": [
+      "wild water world",
+      "水世界手遊"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🌊",
+    "category": "生存策略",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "查核日台灣免費榜前列。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E7%98%8B%E7%8B%82%E6%B0%B4%E4%B8%96%E7%95%8C/id6780387121",
+      "https://play.google.com/store/apps/details?id=com.iyagames.flotshelter",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+    ]
+  },
+  {
+    "name": "RO仙境傳說：世界之旅",
+    "alias": [
+      "ragnarok the new world",
+      "ro世界之旅",
+      "仙境傳說世界之旅"
+    ],
+    "platform": "PC/iOS/Android",
+    "icon": "🌍",
+    "category": "MMORPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜入列，發行商公告曾居台灣 App Store 免費及暢銷榜首。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/ro%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AA-%E4%B8%96%E7%95%8C%E4%B9%8B%E6%97%85/id6749527002",
+      "https://play.google.com/store/apps/details?id=com.ggv.roworld.aos",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://www.globenewswire.com/de/news-release/2026/01/16/3220182/0/en/Ragnarok-The-New-World-Ranked-No-1-of-Apple-App-Store-in-Taiwan-Hong-Kong-and-Macau.html"
+    ]
+  },
+  {
+    "name": "貓咪大戰爭",
+    "alias": [
+      "the battle cats",
+      "battle cats",
+      "貓戰"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🐱",
+    "category": "塔防",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜及 App Store 經典精選；繁中版持續營運。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。本條不是 Switch 的 The Battle Cats Unite!。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E8%B2%93%E5%92%AA%E5%A4%A7%E6%88%B0%E7%88%AD/id971601423",
+      "https://play.google.com/store/apps/details?id=jp.co.ponos.battlecatstw",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://battlecats.club/tw/"
+    ]
+  },
+  {
+    "name": "天天玩樂園",
+    "alias": [
+      "play together",
+      "天天玩樂園play together"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🏝️",
+    "category": "社交模擬",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣 App Store 累積大量評分的社交休閒手遊。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E5%A4%A9%E5%A4%A9%E7%8E%A9%E6%A8%82%E5%9C%92-play-together/id1402384531",
+      "https://play.google.com/store/apps/details?id=com.haegin.playtogether"
+    ]
+  },
+  {
+    "name": "Coin Master",
+    "alias": [
+      "金幣大師",
+      "coinmaster"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🪙",
+    "category": "休閒",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜入列，當地 App Store 累積大量評分。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/coin-master/id406889139",
+      "https://play.google.com/store/apps/details?id=com.moonactive.coinmaster",
+      "https://gamerscroll.com/rankings/tw/"
+    ]
+  },
+  {
+    "name": "薑餅人王國",
+    "alias": [
+      "cookierun kingdom",
+      "cookie run kingdom",
+      "餅乾王國"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🍪",
+    "category": "策略RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "繁中商店持續活動與大量玩家評論；不與跑酷或放置大戰爭混用。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E8%96%91%E9%A4%85%E4%BA%BA%E7%8E%8B%E5%9C%8B/id1509450845",
+      "https://play.google.com/store/apps/details?id=com.devsisters.ck"
+    ]
+  },
+  {
+    "name": "菇勇者傳說",
+    "alias": [
+      "legend of mushroom",
+      "菇勇者"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🍄",
+    "category": "放置RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣商店持續聯動活動與玩家評論。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E8%8F%87%E5%8B%87%E8%80%85%E5%82%B3%E8%AA%AA-%E9%80%814000%E6%8A%BD/id6466405648",
+      "https://play.google.com/store/apps/details?id=com.mxdzz.tw.and"
+    ]
+  },
+  {
+    "name": "神來也麻將",
+    "alias": [
+      "麻將神來也",
+      "神來也",
+      "gamesofa mahjong"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🀄",
+    "category": "棋牌",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜入列，當地 App Store 累積大量評分。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E9%BA%BB%E5%B0%87-%E7%A5%9E%E4%BE%86%E4%B9%9F%E9%BA%BB%E5%B0%87-%E5%8F%B0%E7%81%A316%E5%BC%B5-%E9%BA%BB%E9%9B%80/id455902495",
+      "https://play.google.com/store/apps/details?id=com.godgame.mj.android",
+      "https://gamerscroll.com/rankings/tw/"
+    ]
+  },
+  {
+    "name": "蠟筆小新：GO！",
+    "alias": [
+      "蠟筆小新go",
+      "crayon shin-chan go"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🖍️",
+    "category": "放置RPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "查核日台灣免費榜前列，獲 App Store 編輯推薦。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E8%A0%9F%E7%AD%86%E5%B0%8F%E6%96%B0-go/id6761524901",
+      "https://play.google.com/store/apps/details?id=com.fivexgames.shin.tc",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free",
+      "https://apps.apple.com/tw/iphone/story/id6804992520"
+    ]
+  },
+  {
+    "name": "時尚百貨城",
+    "alias": [
+      "時尚百貨"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🛍️",
+    "category": "模擬經營",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "查核日台灣免費榜前列。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E6%99%82%E5%B0%9A%E7%99%BE%E8%B2%A8%E5%9F%8E/id6764482952",
+      "https://play.google.com/store/apps/details?id=com.tomato.and.hkssbhc",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+    ]
+  },
+  {
+    "name": "嘎嘎特攻",
+    "alias": [
+      "嘎嘎",
+      "gaga commando"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🦆",
+    "category": "Roguelike射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣免費榜與營收榜入列。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E5%98%8E%E5%98%8E%E7%89%B9%E6%94%BB/id6778309357",
+      "https://play.google.com/store/apps/details?id=com.mrtgd2.tw.and",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+    ]
+  },
+  {
+    "name": "食光旅行",
+    "alias": [
+      "食光"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🍲",
+    "category": "合成解謎",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣免費榜入列，獲 App Store 編輯推薦。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E9%A3%9F%E5%85%89%E6%97%85%E8%A1%8C/id6471045672",
+      "https://play.google.com/store/apps/details?id=com.fatmerge.global",
+      "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free",
+      "https://apps.apple.com/tw/iphone/story/id1893509952"
+    ]
+  },
+  {
+    "name": "逆水寒（手機版）",
+    "alias": [
+      "逆水寒手遊",
+      "逆水寒",
+      "justice mobile"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🌊",
+    "category": "MMORPG",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜入列，獲 App Store 編輯推薦。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E9%80%86%E6%B0%B4%E5%AF%92/id6474654939",
+      "https://play.google.com/store/apps/details?id=com.netease.nshmhmt",
+      "https://gamerscroll.com/rankings/tw/",
+      "https://apps.apple.com/tw/iphone/story/id1783031083"
+    ]
+  },
+  {
+    "name": "明星3缺1",
+    "alias": [
+      "麻將明星3缺1",
+      "明星三缺一"
+    ],
+    "platform": "iOS/Android",
+    "icon": "🀄",
+    "category": "棋牌",
+    "catalogPriority": 2,
+    "releaseStatus": "released",
+    "verifiedAt": "2026-10-18",
+    "catalogGroup": "taiwan-mobile",
+    "catalogRegion": "TW",
+    "popularityNote": "台灣營收榜入列，當地 App Store 累積大量評分。",
+    "releaseNote": "以台灣可取得的手機版本為準；地區伺服器、活動與帳號互通須依官方確認，不套用同系列其他作品。",
+    "sources": [
+      "https://apps.apple.com/tw/app/%E9%BA%BB%E5%B0%87%E6%98%8E%E6%98%9F3%E7%BC%BA1/id501306812",
+      "https://play.google.com/store/apps/details?id=com.igs.mjstar31",
+      "https://gamerscroll.com/rankings/tw/"
+    ]
+  }
+]

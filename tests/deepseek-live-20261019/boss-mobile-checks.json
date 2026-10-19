@@ -1,0 +1,26 @@
+[
+  {
+    "contentOverflow": false,
+    "headings": 3,
+    "orderedLists": 2,
+    "pageOverflow": false,
+    "steps": 9,
+    "width": 390
+  },
+  {
+    "contentOverflow": false,
+    "headings": 3,
+    "orderedLists": 2,
+    "pageOverflow": false,
+    "steps": 9,
+    "width": 320
+  },
+  {
+    "contentOverflow": false,
+    "headings": 3,
+    "orderedLists": 2,
+    "pageOverflow": false,
+    "steps": 9,
+    "width": 1440
+  }
+]

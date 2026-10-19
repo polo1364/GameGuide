@@ -1,0 +1,32 @@
+{
+  "characters": 927,
+  "headings": [
+    "來源可支持的通用操作差異"
+  ],
+  "html": "<div class=\"guide-box guide-note\"><div class=\"guide-box-title\">備註</div><div class=\"guide-box-content\">來源比對（AI）：1 段附有可對應的來源引文，2 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:12:42.092Z。</div></div><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：可讀來源只有官方入門指南的通用操作說明；未涵蓋長劍、打刀的屬性需求、取得位置、基礎傷害或前期可取得性，也沒有比較兩者的操作難度與新手適用性。因此不能把「優先選長劍＋盾」寫成確定結論；僅能確認盾可格擋、可防禦反擊，雙手握持會提高攻擊力與破防能力但無法使用另一手武器。</div></div><p>參考來源（不足以確認此段全部內容）：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><section class=\"guide-section\" id=\"guide-section-0\"><div class=\"guide-section-heading\"><h2 id=\"toc-heading-0\">來源可支持的通用操作差異</h2><button type=\"button\" class=\"section-toggle-btn\" title=\"展開/收合章節\">⌄</button></div><div class=\"guide-section-body\"><p>官方入門指南只描述通用操作，沒有出現「長劍」或「打刀」的專屬數值。以下比較限於左手盾與雙手握持單一武器的機制，不是具體武器強度排名。</p><table class=\"mobile-card-table\"><thead><tr><th>機制</th><th>左手盾＋單手武器</th><th>雙手握持單一武器</th></tr></thead><tbody><tr><td data-label=\"機制\">主要防禦</td><td data-label=\"左手盾＋單手武器\">左手盾按 <code>L1/LB</code> 格擋</td><td data-label=\"雙手握持單一武器\">另一手武器無法使用，不能同時用盾格擋</td></tr><tr><td data-label=\"機制\">防禦反擊</td><td data-label=\"左手盾＋單手武器\">格擋敵人攻擊後立刻按 <code>R2/RT</code>，可發動防禦反擊，較易打破架勢</td><td data-label=\"雙手握持單一武器\">來源未描述雙手狀態下的盾防禦反擊</td></tr><tr><td data-label=\"機制\">攻擊強化</td><td data-label=\"左手盾＋單手武器\">來源未描述</td><td data-label=\"雙手握持單一武器\">雙手時攻擊更強，也更容易打破對手防禦</td></tr><tr><td data-label=\"機制\">切換方式</td><td data-label=\"左手盾＋單手武器\">—</td><td data-label=\"雙手握持單一武器\">按住 <code>△/Y</code> 再按 <code>R1/RB</code> 或 <code>R2/RT</code>，切換右手武器為雙手</td></tr><tr><td data-label=\"機制\">破架勢選項</td><td data-label=\"左手盾＋單手武器\">防禦反擊、跳躍攻擊</td><td data-label=\"雙手握持單一武器\">雙手攻擊更易破防；跳躍攻擊也易破架勢</td></tr><tr><td data-label=\"機制\">招架</td><td data-label=\"左手盾＋單手武器\">左手盾需有 parry 技能，按 <code>L2/LT</code> 招架</td><td data-label=\"雙手握持單一武器\">來源未描述雙手狀態下的盾招架</td></tr></tbody></table><p>跳躍攻擊的操作為跳躍中按 <code>R1/RB</code> 或 <code>R2/RT</code>；來源說明跳躍攻擊較容易打破敵人架勢。上述指南為 2021 年早期版本，不能證明現行版本的武器數值或平衡調整。</p><p>來源：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p><div class=\"guide-box guide-warning\"><div class=\"guide-box-title\">注意事項</div><div class=\"guide-box-content\">待確認：來源未提供長劍與打刀的屬性需求、取得位置、基礎傷害、重量或前期可取得性，也未比較兩套方案的操作難度與<mark class=\"keyword-highlight\">優缺點</mark>，因此不能給出經證實的推薦或完整替代方案。僅能依來源機制提出建議：若想先使用盾的格擋與防禦反擊熟悉節奏，可先以左手盾＋單手武器練習；想練雙手輸出時，再按住△/Y 搭配 R1/RB 或 R2/RT 切換，但這是操作建議，不是來源對新手的強度結論。打刀是否適合前期直接取得，仍需以遊戲內資訊或可信攻。</div></div><p>參考來源（不足以確認此段全部內容）：<a href=\"https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game\" target=\"_blank\" rel=\"noopener noreferrer\">S1 官方</a></p></div></section>",
+  "links": [
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    },
+    {
+      "href": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-starter-guide-tips-know-playing-the-game",
+      "rel": "noopener noreferrer",
+      "target": "_blank",
+      "text": "S1 官方"
+    }
+  ],
+  "steps": 0,
+  "tables": 1,
+  "text": "備註\n來源比對（AI）：1 段附有可對應的來源引文，2 段待確認。這是證據輔助檢查，不保證內容完全正確。讀取時間：2026-10-19T15:12:42.092Z。\n注意事項\n待確認：可讀來源只有官方入門指南的通用操作說明；未涵蓋長劍、打刀的屬性需求、取得位置、基礎傷害或前期可取得性，也沒有比較兩者的操作難度與新手適用性。因此不能把「優先選長劍＋盾」寫成確定結論；僅能確認盾可格擋、可防禦反擊，雙手握持會提高攻擊力與破防能力但無法使用另一手武器。\n\n參考來源（不足以確認此段全部內容）：S1 官方\n\n來源可支持的通用操作差異\n⌄\n\n官方入門指南只描述通用操作，沒有出現「長劍」或「打刀」的專屬數值。以下比較限於左手盾與雙手握持單一武器的機制，不是具體武器強度排名。\n\n機制\t左手盾＋單手武器\t雙手握持單一武器\n主要防禦\t左手盾按 L1/LB 格擋\t另一手武器無法使用，不能同時用盾格擋\n防禦反擊\t格擋敵人攻擊後立刻按 R2/RT，可發動防禦反擊，較易打破架勢\t來源未描述雙手狀態下的盾防禦反擊\n攻擊強化\t來源未描述\t雙手時攻擊更強，也更容易打破對手防禦\n切換方式\t—\t按住 △/Y 再按 R1/RB 或 R2/RT，切換右手武器為雙手\n破架勢選項\t防禦反擊、跳躍攻擊\t雙手攻擊更易破防；跳躍攻擊也易破架勢\n招架\t左手盾需有 parry 技能，按 L2/LT 招架\t來源未描述雙手狀態下的盾招架\n\n跳躍攻擊的操作為跳躍中按 R1/RB 或 R2/RT；來源說明跳躍攻擊較容易打破敵人架勢。上述指南為 2021 年早期版本，不能證明現行版本的武器數值或平衡調整。\n\n來源：S1 官方\n\n注意事項\n待確認：來源未提供長劍與打刀的屬性需求、取得位置、基礎傷害、重量或前期可取得性，也未比較兩套方案的操作難度與優缺點，因此不能給出經證實的推薦或完整替代方案。僅能依來源機制提出建議：若想先使用盾的格擋與防禦反擊熟悉節奏，可先以左手盾＋單手武器練習；想練雙手輸出時，再按住△/Y 搭配 R1/RB 或 R2/RT 切換，但這是操作建議，不是來源對新手的強度結論。打刀是否適合前期直接取得，仍需以遊戲內資訊或可信攻。\n\n參考來源（不足以確認此段全部內容）：S1 官方",
+  "id": "comparison-final",
+  "capturedAt": "2026-10-19T15:13:43.321Z"
+}

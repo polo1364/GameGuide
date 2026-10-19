@@ -1,0 +1,98 @@
+[
+  {
+    "sample": "boss-followup",
+    "contentScroll": 546,
+    "contentWidth": 546,
+    "links": true,
+    "pageWidth": 660,
+    "tables": [],
+    "width": 668
+  },
+  {
+    "sample": "comparison",
+    "contentScroll": 1037,
+    "contentWidth": 1037,
+    "links": true,
+    "pageWidth": 1272,
+    "tables": [
+      {
+        "cells": 18,
+        "display": "table"
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "sample": "simple",
+    "contentScroll": 1028,
+    "contentWidth": 1028,
+    "links": true,
+    "pageWidth": 1432,
+    "tables": [],
+    "width": 1440
+  },
+  {
+    "sample": "boss-followup",
+    "contentScroll": 546,
+    "contentWidth": 546,
+    "links": true,
+    "pageWidth": 660,
+    "tables": [],
+    "width": 668
+  },
+  {
+    "sample": "comparison",
+    "contentScroll": 1037,
+    "contentWidth": 1037,
+    "links": true,
+    "pageWidth": 1272,
+    "tables": [
+      {
+        "cells": 18,
+        "display": "table"
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "sample": "simple",
+    "contentScroll": 268,
+    "contentWidth": 268,
+    "links": true,
+    "pageWidth": 382,
+    "tables": [],
+    "width": 390
+  },
+  {
+    "sample": "boss-followup",
+    "contentScroll": 546,
+    "contentWidth": 546,
+    "links": true,
+    "pageWidth": 660,
+    "tables": [],
+    "width": 668
+  },
+  {
+    "sample": "comparison",
+    "contentScroll": 1037,
+    "contentWidth": 1037,
+    "links": true,
+    "pageWidth": 1272,
+    "tables": [
+      {
+        "cells": 18,
+        "display": "table"
+      }
+    ],
+    "width": 1280
+  },
+  {
+    "sample": "simple",
+    "contentScroll": 212,
+    "contentWidth": 198,
+    "links": true,
+    "pageWidth": 312,
+    "tables": [],
+    "width": 320
+  }
+]

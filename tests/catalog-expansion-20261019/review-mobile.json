@@ -1,0 +1,953 @@
+[
+  {
+    "game": {
+      "name": "LINE Rangers 銀河特攻隊",
+      "alias": [
+        "line rangers",
+        "line rangers 銀河特攻隊"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🛡️",
+      "category": "塔防角色扮演",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 11,464 則評分（3.38/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/rangers-code-geass-%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%AD%AF%E8%B7%AF%E4%BF%AE-%E5%90%88%E4%BD%9C/id767265270?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGRGS&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=767265270&country=tw",
+        "https://line-tw-official.weblog.to/archives/48242252.html"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/rangers-code-geass-%E5%8F%8D%E5%8F%9B%E7%9A%84%E9%AD%AF%E8%B7%AF%E4%BF%AE-%E5%90%88%E4%BD%9C/id767265270?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGRGS&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=767265270&country=tw",
+        "https://line-tw-official.weblog.to/archives/48242252.html"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "LINE／LY 的原始塔防作品；商店目前以 CODE GEASS 合作活動命名，商品 ID 沿用原作，與 LINE Rangers 放置戰爭不同。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=767265270&country=tw",
+        "finding": "台灣區官方資料回傳 Rangers ×「CODE GEASS 反叛的魯路修」合作，供應商 LY Corporation，iOS 最低版本 15.0，Apple 商品 ID 767265270。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.linecorp.LGRGS&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「Rangers ×「CODE GEASS 反叛的魯路修」合作」並有安裝入口，套件 com.linecorp.LGRGS。"
+      },
+      {
+        "source": "https://line-tw-official.weblog.to/archives/48242252.html",
+        "finding": "LINE 台灣官方文章以銀河特攻隊名稱同時連到 Apple 767265270 與 Google com.linecorp.LGRGS，確認活動標題仍是原商品。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=767265270&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 11,464 則評分（3.38/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "LINE Rangers 銀河特攻隊",
+        "line rangers",
+        "line rangers 銀河特攻隊",
+        "767265270",
+        "com.linecorp.LGRGS"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "LINE 熊大農場",
+      "alias": [
+        "line brown farm",
+        "熊大農場"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🌾",
+      "category": "農場經營",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 96,826 則評分（4.54/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/line-%E7%86%8A%E5%A4%A7%E8%BE%B2%E5%A0%B4/id949344041?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGFARM&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=949344041&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/line-%E7%86%8A%E5%A4%A7%E8%BE%B2%E5%A0%B4/id949344041?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGFARM&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=949344041&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "LY Corporation 的 LINE 熊大農場，採台灣商店商品；不以 LINE 或熊大作泛用別名。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=949344041&country=tw",
+        "finding": "台灣區官方資料回傳 LINE 熊大農場，供應商 LY Corporation，iOS 最低版本 15.0，Apple 商品 ID 949344041。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.linecorp.LGFARM&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「LINE 熊大農場」並有安裝入口，套件 com.linecorp.LGFARM。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=949344041&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 96,826 則評分（4.54/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "LINE 熊大農場",
+        "line brown farm",
+        "熊大農場",
+        "949344041",
+        "com.linecorp.LGFARM"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "LINE Bubble 2",
+      "alias": [
+        "line bubble 2－泡泡射擊益智遊戲",
+        "line bubble2"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🫧",
+      "category": "泡泡消除",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 114,660 則評分（4.67/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/line-bubble-2-%E6%B3%A1%E6%B3%A1%E5%B0%84%E6%93%8A%E7%9B%8A%E6%99%BA%E9%81%8A%E6%88%B2/id895761422?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGBB2&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=895761422&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/line-bubble-2-%E6%B3%A1%E6%B3%A1%E5%B0%84%E6%93%8A%E7%9B%8A%E6%99%BA%E9%81%8A%E6%88%B2/id895761422?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGBB2&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=895761422&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "LINE Bubble 的第二作；與前作、LINE POP 2 分開辨識。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=895761422&country=tw",
+        "finding": "台灣區官方資料回傳 LINE Bubble 2－泡泡射擊益智遊戲，供應商 LY Corporation，iOS 最低版本 15.0，Apple 商品 ID 895761422。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.linecorp.LGBB2&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「LINE Bubble 2－泡泡射擊益智遊戲」並有安裝入口，套件 com.linecorp.LGBB2。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=895761422&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 114,660 則評分（4.67/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "LINE Bubble 2",
+        "line bubble 2－泡泡射擊益智遊戲",
+        "line bubble2",
+        "895761422",
+        "com.linecorp.LGBB2"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "LINE 熊大上菜",
+      "alias": [
+        "line chef",
+        "熊大上菜"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🍳",
+      "category": "料理經營",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 53,779 則評分（4.53/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/line-%E7%86%8A%E5%A4%A7%E4%B8%8A%E8%8F%9C/id1456569943?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGCHEF&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1456569943&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/line-%E7%86%8A%E5%A4%A7%E4%B8%8A%E8%8F%9C/id1456569943?uo=4",
+        "https://play.google.com/store/apps/details?id=com.linecorp.LGCHEF&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1456569943&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "LY Corporation 的熊大餐廳料理遊戲，與熊大農場為不同作品。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1456569943&country=tw",
+        "finding": "台灣區官方資料回傳 LINE 熊大上菜，供應商 LY Corporation，iOS 最低版本 15.0，Apple 商品 ID 1456569943。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.linecorp.LGCHEF&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「LINE 熊大上菜 可愛的料理遊戲還可以挑戰經營餐廳！」並有安裝入口，套件 com.linecorp.LGCHEF。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1456569943&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 53,779 則評分（4.53/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "LINE 熊大上菜",
+        "line chef",
+        "熊大上菜",
+        "1456569943",
+        "com.linecorp.LGCHEF"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "巔峰極速",
+      "alias": [
+        "racing master",
+        "巔峰極速台港澳"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏎️",
+      "category": "擬真競速",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 48,707 則評分（4.51/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%B7%94%E5%B3%B0%E6%A5%B5%E9%80%9F/id6450006659?uo=4",
+        "https://play.google.com/store/apps/details?id=com.longe.racehmt&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6450006659&country=tw",
+        "https://www.racingmaster.game/20231016/39763_1114922.html"
+      ],
+      "platformNote": "台港澳版 iOS／Android。官方上線 FAQ 將電腦遊玩明稱「官方模擬器」，故不列原生 PC。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%B7%94%E5%B3%B0%E6%A5%B5%E9%80%9F/id6450006659?uo=4",
+        "https://play.google.com/store/apps/details?id=com.longe.racehmt&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6450006659&country=tw",
+        "https://www.racingmaster.game/20231016/39763_1114922.html"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "龍邑代理台港澳版；以 racehmt／台灣 Apple 商品為準，不套用中國版帳號或平台。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6450006659&country=tw",
+        "finding": "台灣區官方資料回傳 巔峰極速，供應商 LONG E CO., LTD.，iOS 最低版本 15.0，Apple 商品 ID 6450006659。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.longe.racehmt&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「巔峰極速」並有安裝入口，套件 com.longe.racehmt。"
+      },
+      {
+        "source": "https://www.racingmaster.game/20231016/39763_1114922.html",
+        "finding": "官方 FAQ 分列 Android／iOS，電腦管道明確稱官方模擬器。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6450006659&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 48,707 則評分（4.51/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "巔峰極速",
+        "racing master",
+        "巔峰極速台港澳",
+        "6450006659",
+        "com.longe.racehmt"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "出發吧麥芬",
+      "alias": [
+        "gogo muffin",
+        "出發吧麥芬台港澳"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🚐",
+      "category": "放置角色扮演",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 11,219 則評分（4.63/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%87%BA%E7%99%BC%E5%90%A7%E9%BA%A5%E8%8A%AC/id6446155179?uo=4",
+        "https://play.google.com/store/apps/details?id=com.xd.muffin.tw&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6446155179&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%87%BA%E7%99%BC%E5%90%A7%E9%BA%A5%E8%8A%AC/id6446155179?uo=4",
+        "https://play.google.com/store/apps/details?id=com.xd.muffin.tw&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6446155179&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "星重力代理台港澳版，Google 套件為 com.xd.muffin.tw；與中國版及其他海外營運版本區分。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6446155179&country=tw",
+        "finding": "台灣區官方資料回傳 出發吧麥芬，供應商 XD Entertainment Pte Ltd，iOS 最低版本 13.0，Apple 商品 ID 6446155179。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.xd.muffin.tw&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「出發吧麥芬」並有安裝入口，套件 com.xd.muffin.tw。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6446155179&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 11,219 則評分（4.63/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "出發吧麥芬",
+        "gogo muffin",
+        "出發吧麥芬台港澳",
+        "6446155179",
+        "com.xd.muffin.tw"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "弓箭傳說",
+      "alias": [
+        "archero",
+        "弓箭傳說1"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏹",
+      "category": "動作肉鴿",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 100,695 則評分（4.54/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%BC%93%E7%AE%AD%E5%82%B3%E8%AA%AA/id1453651052?uo=4",
+        "https://play.google.com/store/apps/details?id=com.habby.archero&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1453651052&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%BC%93%E7%AE%AD%E5%82%B3%E8%AA%AA/id1453651052?uo=4",
+        "https://play.google.com/store/apps/details?id=com.habby.archero&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1453651052&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Habby 的 Archero 第一作；不與續作弓箭傳說2或其他弓箭遊戲合併。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1453651052&country=tw",
+        "finding": "台灣區官方資料回傳 弓箭傳說，供應商 HABBY PTE. LTD.，iOS 最低版本 13.0，Apple 商品 ID 1453651052。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.habby.archero&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「弓箭傳說」並有安裝入口，套件 com.habby.archero。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1453651052&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 100,695 則評分（4.54/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "弓箭傳說",
+        "archero",
+        "弓箭傳說1",
+        "1453651052",
+        "com.habby.archero"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "弓箭傳說2",
+      "alias": [
+        "archero 2",
+        "弓箭傳說 2"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏹",
+      "category": "動作肉鴿",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 7,853 則評分（4.08/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%BC%93%E7%AE%AD%E5%82%B3%E8%AA%AA2/id6502820653?uo=4",
+        "https://play.google.com/store/apps/details?id=com.xq.archeroii&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6502820653&country=tw",
+        "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.xq.archeroii"
+      ],
+      "platformNote": "核實 iOS／Android；另有 Google Play Games 電腦執行管道，屬該行動商品的 PC 遊玩服務，本次不據此宣稱原生 Windows 版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%BC%93%E7%AE%AD%E5%82%B3%E8%AA%AA2/id6502820653?uo=4",
+        "https://play.google.com/store/apps/details?id=com.xq.archeroii&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6502820653&country=tw",
+        "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.xq.archeroii"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Habby 的續作 Archero 2，台灣商店列艾樂思代理；獨立於第一作。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6502820653&country=tw",
+        "finding": "台灣區官方資料回傳 弓箭傳說2，供應商 HABBY PTE. LTD.，iOS 最低版本 15.0，Apple 商品 ID 6502820653。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.xq.archeroii&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「弓箭傳說2」並有安裝入口，套件 com.xq.archeroii。"
+      },
+      {
+        "source": "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.xq.archeroii",
+        "finding": "Google 官方提供透過 Google Play Games 在 Windows 電腦遊玩的管道；未以此認定獨立原生 Windows 發行。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6502820653&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 7,853 則評分（4.08/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "弓箭傳說2",
+        "archero 2",
+        "弓箭傳說 2",
+        "6502820653",
+        "com.xq.archeroii"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "噠噠特攻",
+      "alias": [
+        "survivor.io",
+        "survivor io"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🧟",
+      "category": "生存肉鴿",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 37,245 則評分（4.46/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%99%A0%E5%99%A0%E7%89%B9%E6%94%BB/id1528941310?uo=4",
+        "https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1528941310&country=tw",
+        "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.dxx.firenow"
+      ],
+      "platformNote": "核實 iOS／Android；另有 Google Play Games 電腦執行管道，屬該行動商品的 PC 遊玩服務，本次不據此宣稱原生 Windows 版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%99%A0%E5%99%A0%E7%89%B9%E6%94%BB/id1528941310?uo=4",
+        "https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1528941310&country=tw",
+        "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.dxx.firenow"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Habby 的 Survivor.io，台灣商店列愛彼代理；與既有嘎嘎特攻為不同作品。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1528941310&country=tw",
+        "finding": "台灣區官方資料回傳 噠噠特攻，供應商 HABBY PTE. LTD.，iOS 最低版本 13.0，Apple 商品 ID 1528941310。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.dxx.firenow&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「噠噠特攻」並有安裝入口，套件 com.dxx.firenow。"
+      },
+      {
+        "source": "https://play.google.com/pc-store/games/details?hl=zh_TW&id=com.dxx.firenow",
+        "finding": "Google 官方提供透過 Google Play Games 在 Windows 電腦遊玩的管道；未以此認定獨立原生 Windows 發行。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1528941310&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 37,245 則評分（4.46/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "噠噠特攻",
+        "survivor.io",
+        "survivor io",
+        "1528941310",
+        "com.dxx.firenow"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "蛋仔派對",
+      "alias": [
+        "eggy party",
+        "蛋仔派對台港澳"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🥚",
+      "category": "多人派對",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 71,881 則評分（4.42/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%B0%8D/id1673675970?uo=4",
+        "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1673675970&country=tw",
+        "https://www.eggyparty.com/hmt/"
+      ],
+      "platformNote": "核實恩奕台港澳手機版 iOS／Android；未把中國版 PC 端或其他地區平台納入本商品。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E8%9B%8B%E4%BB%94%E6%B4%BE%E5%B0%8D/id1673675970?uo=4",
+        "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1673675970&country=tw",
+        "https://www.eggyparty.com/hmt/"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "網易開發、恩奕營運的台港澳手機商品；不用中國版 PC 或其他區域商品推定台灣版平台。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1673675970&country=tw",
+        "finding": "台灣區官方資料回傳 蛋仔派對，供應商 Envoy Interactive Entertainment Co., Ltd.，iOS 最低版本 13.0，Apple 商品 ID 1673675970。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.netease.eggypartyhmt&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「蛋仔派對」並有安裝入口，套件 com.netease.eggypartyhmt。"
+      },
+      {
+        "source": "https://www.eggyparty.com/hmt/",
+        "finding": "HMT 官網標示台灣代理 Envoy，與雙商店恩奕商品吻合。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1673675970&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 71,881 則評分（4.42/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "蛋仔派對",
+        "eggy party",
+        "蛋仔派對台港澳",
+        "1673675970",
+        "com.netease.eggypartyhmt"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "向殭屍開炮",
+      "alias": [
+        "向僵尸开炮"
+      ],
+      "platform": "iOS/Android",
+      "icon": "💥",
+      "category": "射擊肉鴿",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 27,778 則評分（4.66/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%90%91%E6%AE%AD%E5%B1%8D%E9%96%8B%E7%82%AE/id6480025909?uo=4",
+        "https://play.google.com/store/apps/details?id=com.zombiet.gpgl&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6480025909&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%90%91%E6%AE%AD%E5%B1%8D%E9%96%8B%E7%82%AE/id6480025909?uo=4",
+        "https://play.google.com/store/apps/details?id=com.zombiet.gpgl&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6480025909&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "SPGAME 在台灣商店發行的繁體中文商品；以 gpgl 套件與 Apple 6480025909 鎖定，非其他殭屍射擊同類遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6480025909&country=tw",
+        "finding": "台灣區官方資料回傳 向殭屍開炮，供應商 SPGame Co., Limited，iOS 最低版本 12.0，Apple 商品 ID 6480025909。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.zombiet.gpgl&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「向殭屍開炮」並有安裝入口，套件 com.zombiet.gpgl。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6480025909&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 27,778 則評分（4.66/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "向殭屍開炮",
+        "向僵尸开炮",
+        "6480025909",
+        "com.zombiet.gpgl"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "卡皮巴拉 Go!",
+      "alias": [
+        "capybara go",
+        "卡皮巴拉go"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🦫",
+      "category": "文字冒險肉鴿",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 25,077 則評分（4.68/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89-go/id6596787726?uo=4",
+        "https://play.google.com/store/apps/details?id=com.habby.capybara&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6596787726&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/%E5%8D%A1%E7%9A%AE%E5%B7%B4%E6%8B%89-go/id6596787726?uo=4",
+        "https://play.google.com/store/apps/details?id=com.habby.capybara&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6596787726&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "Habby 的 Capybara Go!，台灣商店列艾樂思代理；不以卡皮巴拉單字指代所有同題材遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6596787726&country=tw",
+        "finding": "台灣區官方資料回傳 卡皮巴拉 Go!，供應商 HABBY PTE. LTD.，iOS 最低版本 13.0，Apple 商品 ID 6596787726。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.habby.capybara&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「卡皮巴拉 Go!」並有安裝入口，套件 com.habby.capybara。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6596787726&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 25,077 則評分（4.68/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "卡皮巴拉 Go!",
+        "capybara go",
+        "卡皮巴拉go",
+        "6596787726",
+        "com.habby.capybara"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "Pokémon Masters EX",
+      "alias": [
+        "pokemon masters ex",
+        "寶可夢大師ex"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚡",
+      "category": "隊伍角色扮演",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "2026-10-19 讀取 Apple 台灣區累積 36,027 則評分（4.71/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/pok%C3%A9mon-masters-ex/id1442061397?uo=4",
+        "https://play.google.com/store/apps/details?id=com.dena.a12026418&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1442061397&country=tw"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/pok%C3%A9mon-masters-ex/id1442061397?uo=4",
+        "https://play.google.com/store/apps/details?id=com.dena.a12026418&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1442061397&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "DeNA 的 Pokémon Masters EX；與寶可夢 GO、UNITE、TCG Pocket 等作品分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1442061397&country=tw",
+        "finding": "台灣區官方資料回傳 Pokémon Masters EX，供應商 DeNA Co., Ltd.，iOS 最低版本 15.0，Apple 商品 ID 1442061397。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.dena.a12026418&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「Pokémon Masters EX」並有安裝入口，套件 com.dena.a12026418。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1442061397&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 36,027 則評分（4.71/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Pokémon Masters EX",
+        "pokemon masters ex",
+        "寶可夢大師ex",
+        "1442061397",
+        "com.dena.a12026418"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "Battle Cats Quest",
+      "alias": [
+        "battle cats quest"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🐱",
+      "category": "動作闖關",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "本輪 Apple 台灣 iPhone 遊戲免費榜第 11 名；2026-10-19 讀取 Apple 台灣區累積 4,135 則評分（4.75/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/battle-cats-quest/id1583719180?uo=4",
+        "https://play.google.com/store/apps/details?id=jp.co.ponos.nyankoquest&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1583719180&country=tw",
+        "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/battle-cats-quest/id1583719180?uo=4",
+        "https://play.google.com/store/apps/details?id=jp.co.ponos.nyankoquest&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=1583719180&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "PONOS 官方描述為貓咪大戰爭外傳 App；獨立商品與滾動闖關玩法，不重複既有貓咪大戰爭。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1583719180&country=tw",
+        "finding": "台灣區官方資料回傳 Battle Cats Quest，供應商 ponos corporation，iOS 最低版本 15.0，Apple 商品 ID 1583719180。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=jp.co.ponos.nyankoquest&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「Battle Cats Quest」並有安裝入口，套件 jp.co.ponos.nyankoquest。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1583719180&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 4,135 則評分（4.75/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free",
+        "finding": "本輪讀取 Apple 台灣 iPhone 遊戲免費榜列第 11 名；榜單會變動。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Battle Cats Quest",
+        "battle cats quest",
+        "1583719180",
+        "jp.co.ponos.nyankoquest"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  },
+  {
+    "game": {
+      "name": "Meowdoku!",
+      "alias": [
+        "meowdoku",
+        "meowdoku: 腦力解謎遊戲"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🐈",
+      "category": "邏輯解謎",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-10-19",
+      "catalogGroup": "taiwan-mobile",
+      "catalogRegion": "TW",
+      "popularityNote": "本輪 Apple 台灣 iPhone 遊戲免費榜第 1 名；2026-10-19 讀取 Apple 台灣區累積 46,809 則評分（4.78/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。",
+      "releaseNote": "本次以台灣可取得的雙商店商品為範圍；跨區帳號、伺服器與活動內容依各營運版本規則。",
+      "sources": [
+        "https://apps.apple.com/tw/app/meowdoku/id6761760135?uo=4",
+        "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6761760135&country=tw",
+        "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free"
+      ],
+      "platformNote": "核實台灣商店的 iOS／Android 手機商品。Apple Silicon 執行 iPhone／iPad App 或 Android 模擬器不等同另外發行的原生桌面版。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/meowdoku/id6761760135?uo=4",
+        "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=zh_TW&gl=TW",
+        "https://itunes.apple.com/lookup?id=6761760135&country=tw"
+      ],
+      "platformReviewedAt": "2026-10-19",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-10-19",
+      "identityType": "specific-game",
+      "identityNote": "限定 Oakever Games 的 Meowdoku（Apple 6761760135／com.oakever.meowdoku），排除搜尋結果中其他廠商同名商品。"
+    },
+    "evidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6761760135&country=tw",
+        "finding": "台灣區官方資料回傳 Meowdoku!，供應商 OAKEVER GAMES PTE. LTD.，iOS 最低版本 15.0，Apple 商品 ID 6761760135。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.oakever.meowdoku&hl=zh_TW&gl=TW",
+        "finding": "以 gl=TW、hl=zh_TW 直接讀取 Google Play，HTTP 200；商品標題「Meowdoku: 腦力解謎遊戲」並有安裝入口，套件 com.oakever.meowdoku。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=6761760135&country=tw",
+        "finding": "2026-10-19 讀取 Apple 台灣區累積 46,809 則評分（4.78/5）；這是當地累積參與指標，不等於現時活躍人數或即時下載排名。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/iphone/charts/6014?chart=top-free",
+        "finding": "本輪讀取 Apple 台灣 iPhone 遊戲免費榜列第 1 名；榜單會變動。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Meowdoku!",
+        "meowdoku",
+        "meowdoku: 腦力解謎遊戲",
+        "6761760135",
+        "com.oakever.meowdoku"
+      ],
+      "result": "已比對既有 977 筆 name／alias／seriesAliases（Unicode、大小寫、空白及標點正規化），並以 Apple 商品 ID／Google 套件 ID 比對全部既有記錄，未發現相同作品或商品 ID。"
+    }
+  }
+]
