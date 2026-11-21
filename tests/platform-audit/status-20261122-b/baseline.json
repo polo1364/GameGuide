@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Phantom Blade Zero",
+    "alias": [
+      "phantom blade zero",
+      "影之刃零"
+    ],
+    "platform": "PC/PS5",
+    "icon": "⚔️",
+    "category": "動作RPG",
+    "platformNote": "官方 PS Blog 定於 2026-10-29 推出，Steam 顯示 10-28 時區差；截至查核日尚未上市，所列為已公布目標平台。；已核實完整平台與版本界線；僅表示預定平台，尚未上市。",
+    "platformSources": [
+      "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/",
+      "https://blog.playstation.com/2026/08/17/phantom-blade-zero-state-of-play-dives-deep-into-combat-and-the-wulin-world/",
+      "https://store.steampowered.com/api/appdetails?appids=4115450&l=english&cc=us"
+    ],
+    "platformReviewedAt": "2026-10-19",
+    "platformReviewStatus": "verified",
+    "platformVerifiedAt": "2026-10-19",
+    "releaseStatus": "upcoming"
+  }
+]

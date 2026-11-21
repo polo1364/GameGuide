@@ -1,0 +1,100 @@
+{
+  "asOf": "2026-11-22",
+  "summary": {
+    "checked": 10,
+    "released": 1,
+    "unchanged": 9,
+    "platformChanges": 0,
+    "aliasChanges": 0
+  },
+  "records": [
+    {
+      "name": "Phantom Blade Zero",
+      "checkedAt": "2026-11-22",
+      "changes": {
+        "releaseStatus": {
+          "before": "upcoming",
+          "after": "released"
+        },
+        "releaseNote": {
+          "before": null,
+          "after": "2026-10-29 於 PS5 與 PC（Steam）發售；Steam 依美國時區顯示 2026-10-28。截至 2026-11-22 未推出 Xbox 版。"
+        },
+        "platformNote": {
+          "before": "官方 PS Blog 定於 2026-10-29 推出，Steam 顯示 10-28 時區差；截至查核日尚未上市，所列為已公布目標平台。；已核實完整平台與版本界線；僅表示預定平台，尚未上市。",
+          "after": "已確認 PC（Steam，Windows）與 PS5（無 PS4 版），兩平台皆已於 2026-10-28／29 上市；未找到官方 Xbox 版商品頁或公告。"
+        },
+        "sources": {
+          "before": null,
+          "after": [
+            "https://store.steampowered.com/api/appdetails?appids=4115450&l=english",
+            "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/",
+            "https://store.playstation.com/en-us/concept/10017620"
+          ]
+        }
+      },
+      "evidence": [
+        {
+          "source": "https://store.steampowered.com/api/appdetails?appids=4115450&l=english",
+          "finding": "Steam 商店 API 回傳「Phantom Blade Zero」，平台 Windows，發售日 Oct 28, 2026，coming_soon 為 false；繁中名稱「影之刃零」；recommendations.total 124018（2026-11-22）。"
+        },
+        {
+          "source": "https://store.steampowered.com/app/4115450/Phantom_Blade_Zero/",
+          "finding": "Steam 商店頁顯示已於 2026-10-28 發售，可加入購物車（標準版與數位豪華版），開發 S-GAME。"
+        },
+        {
+          "source": "https://store.playstation.com/en-us/concept/10017620",
+          "finding": "PlayStation Store 美國頁 PS5 版，發售日 2026/10/29，提供加入購物車；playstation.com 商品頁註明只有 PS5、無 PS4 版。"
+        }
+      ],
+      "platform": "PC/PS5"
+    }
+  ],
+  "unchanged": [
+    {
+      "name": "巫師 重製版",
+      "finding": "CD PROJEKT 2026 上半年財報頁未提供日期或平台；媒體稱暫緩，但未讀到官方頁面，維持原狀。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Project Mugen",
+      "finding": "官網、PS Store、App Store 仍列 2027-01-15 全球上市，平台不變。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Light No Fire",
+      "finding": "Steam 仍顯示發售日待公告。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Project: The Perceiver",
+      "finding": "官方頁只寫多平台、無日期；本次未能在官方頁重新確認既有 PS5／PS4，也無反證，維持原狀。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Ballad of Antara",
+      "finding": "PS Store 仍為已公布、只能加入願望清單，未見新日期；取消傳聞未有官方證實。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Intergalactic: The Heretic Prophet",
+      "finding": "PlayStation 頁發售日仍為未定；Naughty Dog 2026-09-28 部落格稱 2027 年才完整公開。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Fable（Playground Games 重啟版）",
+      "finding": "Xbox、PS Store 與 Steam 仍列 2027-02-23，平台不變。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "State of Decay 3",
+      "finding": "Xbox 頁列 2027 年，Steam 與 PS Store 仍為待公告。",
+      "checkedAt": "2026-11-22"
+    },
+    {
+      "name": "Haunted Chocolatier",
+      "finding": "官方部落格 2026-08-30 仍稱完成時才推出，無日期。",
+      "checkedAt": "2026-11-22"
+    }
+  ]
+}

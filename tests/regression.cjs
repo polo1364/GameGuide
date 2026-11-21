@@ -612,40 +612,50 @@ async function main() {
                 assert.deepEqual(read('tests/catalog-expansion-20261019/pending-platforms.json'), read(dir + 'previous-expansion-pending-before.json'));
             }
         });
-        await check('current release-status recheck changes only its records and labels them released', async () => {
+        await check('release-status rechecks change only their records and label them released', async () => {
             const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
-            const dir = 'tests/platform-audit/status-20261122/';
-            const before = read(dir + 'catalog-before.json');
-            const baseline = read(dir + 'baseline.json');
-            const audit = read(dir + 'audit.json');
-            const catalog = read('games.json');
-            assert.equal(audit.records.length, 2);
-            assert.equal(catalog.games.length, before.games.length);
-            const names = new Set(audit.records.map(row => row.name));
-            for (const game of before.games.filter(game => !names.has(game.name))) assert.deepEqual(catalog.games.find(item => item.name === game.name), game);
+            // Each recheck is checked against the catalog it produced (the next recheck's snapshot, or games.json for the latest).
+            const rounds = [
+                { dir: 'tests/platform-audit/status-20261122/', after: 'tests/platform-audit/status-20261122-b/catalog-before.json', records: 2 },
+                { dir: 'tests/platform-audit/status-20261122-b/', after: 'games.json', records: 1, unchanged: 9 }
+            ];
             const mutable = new Set(['releaseStatus', 'releaseNote', 'releaseDate', 'sources', 'platformNote', 'platformSources', 'platformReviewedAt', 'platformReviewStatus', 'platformVerifiedAt']);
-            for (const row of audit.records) {
-                const original = baseline.find(game => game.name === row.name);
-                assert.deepEqual(original, before.games.find(game => game.name === row.name));
-                const expected = structuredClone(original);
-                for (const [key, change] of Object.entries(row.changes)) {
-                    assert.ok(mutable.has(key), `${row.name}: unexpected ${key}`);
-                    assert.deepEqual(change.before, original[key] ?? null);
-                    if (change.after === null) delete expected[key];
-                    else expected[key] = change.after;
+            const allRecords = [];
+            for (const round of rounds) {
+                const before = read(round.dir + 'catalog-before.json');
+                const baseline = read(round.dir + 'baseline.json');
+                const audit = read(round.dir + 'audit.json');
+                const catalog = read(round.after);
+                assert.equal(audit.records.length, round.records);
+                if (round.unchanged) assert.equal(audit.unchanged.length, round.unchanged);
+                assert.equal(catalog.games.length, before.games.length);
+                const names = new Set(audit.records.map(row => row.name));
+                for (const game of before.games.filter(game => !names.has(game.name))) assert.deepEqual(catalog.games.find(item => item.name === game.name), game);
+                for (const row of audit.records) {
+                    const original = baseline.find(game => game.name === row.name);
+                    assert.deepEqual(original, before.games.find(game => game.name === row.name));
+                    const expected = structuredClone(original);
+                    for (const [key, change] of Object.entries(row.changes)) {
+                        assert.ok(mutable.has(key), `${row.name}: unexpected ${key}`);
+                        assert.deepEqual(change.before, original[key] ?? null);
+                        if (change.after === null) delete expected[key];
+                        else expected[key] = change.after;
+                    }
+                    const game = catalog.games.find(item => item.name === row.name);
+                    assert.deepEqual(game, expected);
+                    assert.equal(game.releaseStatus, 'released');
+                    assert.equal(game.platform, original.platform);
+                    assert.deepEqual(game.alias, original.alias);
+                    const linked = [...(game.platformSources || []), ...(game.sources || [])];
+                    assert.ok(row.evidence.length && row.evidence.every(item => item.finding && linked.includes(item.source)));
+                    assert.ok(linked.every(source => new URL(source).protocol === 'https:'));
+                    allRecords.push(row);
                 }
-                const game = catalog.games.find(item => item.name === row.name);
-                assert.deepEqual(game, expected);
-                assert.equal(game.releaseStatus, 'released');
-                assert.equal(game.platform, original.platform);
-                assert.deepEqual(game.alias, original.alias);
-                assert.ok(row.evidence.length && row.evidence.every(item => item.finding && game.platformSources.includes(item.source)));
-                assert.ok(game.platformSources.every(source => new URL(source).protocol === 'https:'));
             }
             const { context, page } = await open();
             try {
                 await ready(page);
-                for (const row of audit.records) {
+                for (const row of allRecords) {
                     const state = await page.evaluate(name => { const game = findGameInDatabase(name); return { label: getGameReleaseLabel(game), context: getGameCatalogContext(game) }; }, row.name);
                     assert.equal(state.label, '已發售', row.name);
                     assert.ok(!state.context.includes('尚未正式發售'), row.name);
