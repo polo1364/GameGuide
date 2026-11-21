@@ -993,6 +993,80 @@ async function main() {
                 assert.equal(error, 'DeepSeek 回覆遭截斷');
             } finally { await context.close(); }
         });
+        await check('Claude requests stream the Messages API and handle stop reasons', async () => {
+            const { context, page } = await open();
+            const requests = [];
+            let stopReason = 'end_turn';
+            const sse = events => events.map(event => `event: ${event.type}\ndata: ${JSON.stringify(event)}\n\n`).join('');
+            await context.route('https://api.anthropic.com/**', async route => {
+                requests.push({ headers: route.request().headers(), body: route.request().postDataJSON() });
+                await route.fulfill({ status: 200, contentType: 'text/event-stream', body: sse([
+                    { type: 'message_start', message: { id: 'msg_test', type: 'message', role: 'assistant', content: [] } },
+                    { type: 'content_block_start', index: 0, content_block: { type: 'thinking', thinking: '' } },
+                    { type: 'content_block_stop', index: 0 },
+                    { type: 'content_block_start', index: 1, content_block: { type: 'text', text: '' } },
+                    { type: 'ping' },
+                    { type: 'content_block_delta', index: 1, delta: { type: 'text_delta', text: '{"blocks":' } },
+                    { type: 'content_block_delta', index: 1, delta: { type: 'text_delta', text: '[]}' } },
+                    { type: 'content_block_stop', index: 1 },
+                    { type: 'message_delta', delta: { stop_reason: stopReason }, usage: { output_tokens: 5 } },
+                    { type: 'message_stop' }
+                ]) });
+            });
+            try {
+                await ready(page);
+                const call = () => page.evaluate(async () => {
+                    aiProvider = 'claude'; apiKey = 'claude-test-placeholder';
+                    try { return await fetchAIChat([{ role: 'system', content: 'SYS' }, { role: 'user', content: 'Q1' }, { role: 'assistant', content: 'A1' }, { role: 'user', content: 'Q2' }], 8192, true); }
+                    catch (error) { return `ERR:${error.message}`; }
+                });
+                assert.equal(await call(), '{"blocks":[]}');
+                const { headers, body } = requests[0];
+                assert.equal(headers['x-api-key'], 'claude-test-placeholder');
+                assert.equal(headers['anthropic-version'], '2026-10-21');
+                assert.equal(headers['anthropic-dangerous-direct-browser-access'], 'true');
+                assert.equal(headers.authorization, undefined);
+                assert.equal(body.model, 'claude-opus-5-5');
+                assert.equal(body.stream, true);
+                assert.equal(body.system, 'SYS');
+                assert.deepEqual(body.messages.map(m => m.role), ['user', 'assistant', 'user']);
+                assert.equal(body.output_config.effort, 'medium');
+                assert.equal(body.output_config.format.type, 'json_schema');
+                assert.equal(body.fallbacks, 'default');
+                assert.equal(body.temperature, undefined);
+                assert.equal(body.thinking, undefined);
+                stopReason = 'max_tokens';
+                assert.equal(await call(), 'ERR:Claude 回覆遭截斷');
+                stopReason = 'refusal';
+                assert.match(await call(), /^ERR:Claude 拒絕回應/);
+            } finally { await context.close(); }
+        });
+        await check('provider setting keeps separate keys and routes generation', async () => {
+            const { context, page } = await open();
+            const hits = { deepseek: 0, claude: 0 };
+            await context.route('https://api.anthropic.com/**', route => { hits.claude++; return route.fulfill({ status: 401, contentType: 'application/json', body: '{"type":"error","error":{"type":"authentication_error","message":"Claude test auth"}}' }); });
+            await context.route('https://api.deepseek.com/**', route => { hits.deepseek++; return route.fulfill({ status: 401, contentType: 'application/json', body: '{"error":{"message":"DeepSeek test auth"}}' }); });
+            try {
+                await ready(page);
+                await page.evaluate(() => openModal());
+                await page.locator('#aiProvider').selectOption('claude');
+                assert.equal(await page.locator('#apiKey').inputValue(), '');
+                assert.match(await page.locator('#apiKeyLabel').textContent(), /Anthropic API Key/);
+                await page.locator('#apiKey').fill('claude-test-placeholder');
+                await page.locator('.save-btn').click();
+                await page.locator('#apiModal').waitFor({ state: 'hidden' });
+                await page.reload(); await ready(page);
+                assert.deepEqual(await page.evaluate(() => ({ aiProvider, apiKey, deepseek: providerKeys.deepseek })), { aiProvider: 'claude', apiKey: 'claude-test-placeholder', deepseek: 'test-placeholder' });
+                assert.equal(await page.locator('footer .ai-provider-name').innerText(), 'Claude');
+                assert.match(await page.evaluate(() => fetchAIChat([{ role: 'user', content: 'x' }]).catch(error => error.message)), /Claude test auth/);
+                await page.evaluate(() => openModal());
+                await page.locator('#aiProvider').selectOption('deepseek');
+                assert.equal(await page.locator('#apiKey').inputValue(), 'test-placeholder');
+                await page.locator('.save-btn').click();
+                assert.match(await page.evaluate(() => fetchAIChat([{ role: 'user', content: 'x' }]).catch(error => error.message)), /DeepSeek test auth/);
+                assert.deepEqual(hits, { deepseek: 1, claude: 1 });
+            } finally { await context.close(); }
+        });
         await check('guide and follow-up requests use adaptive length and honest source instructions', async () => {
             const { context, page } = await open();
             try {

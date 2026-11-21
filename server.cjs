@@ -141,9 +141,12 @@ function createServer(collect = collectSources) {
             if (active >= 4 || requests.length >= 15) { res.writeHead(429).end('{}'); return; }
             requests.push(Date.now()); active++;
             try {
-                let body = '';
-                for await (const chunk of req) { body += chunk; if (Buffer.byteLength(body) > 16384) throw new Error('請求過大'); }
-                const input = JSON.parse(body);
+                // Collect raw bytes and decode once so multi-byte UTF-8 split across chunks stays intact.
+                // 32 KiB fits the 6,000-character question limit even when every character is CJK (3 bytes).
+                const chunks = [];
+                let size = 0;
+                for await (const chunk of req) { size += chunk.length; if (size > 32768) throw new Error('請求過大'); chunks.push(chunk); }
+                const input = JSON.parse(Buffer.concat(chunks).toString('utf8'));
                 if (typeof input.game !== 'string' || input.game.length > 200 || typeof input.question !== 'string' || input.question.length > 6000) throw new Error('查詢格式錯誤');
                 res.end(JSON.stringify(await collect(input.game, input.question)));
             } catch { res.writeHead(400).end(JSON.stringify({ reason: '來源查詢失敗或輸入格式錯誤', sources: [] })); }
