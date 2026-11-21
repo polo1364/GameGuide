@@ -246,8 +246,15 @@ async function main() {
                 if (row.status === 'unresolved' && !row.unresolvedCorrection) assert.equal(game.platform, row.before);
             }
             assert.equal(preserved.length, 128);
+            const statusAudit = JSON.parse(fs.readFileSync(path.join(root, 'tests/platform-audit/status-20261122/audit.json'), 'utf8'));
             for (const before of preserved) {
-                const expected = splitAudit.changes.find(change => change.beforeName === before.name)?.after || before;
+                const expected = structuredClone(splitAudit.changes.find(change => change.beforeName === before.name)?.after || before);
+                // Later status rechecks may update release fields of preserved entries; apply their recorded changes.
+                for (const [key, change] of Object.entries(statusAudit.records.find(row => row.name === expected.name)?.changes || {})) {
+                    assert.deepEqual(expected[key] ?? null, change.before);
+                    if (change.after === null) delete expected[key];
+                    else expected[key] = change.after;
+                }
                 assert.deepEqual(catalog.games.find(game => game.name === expected.name), expected);
             }
         });
@@ -396,9 +403,11 @@ async function main() {
                 [path.join(dir, 'review-major.json'), /Name\/alias collision/, value => { value[0].game.name = '薩爾達傳說 王國之淚'; }],
                 [path.join(dir, 'review-indie.json'), /Product collision/, value => { value[0].game.platformSources.push('https://store.steampowered.com/app/730/'); }]
             ]) {
+                // Expansion 3 wrote the catalog that later status rechecks start from; replay its guards against that state.
+                const catalogAfterExpansion = path.join(root, 'tests/platform-audit/status-20261122/catalog-before.json');
                 const mockedFs = { ...fs,
                     readFileSync(input, ...args) {
-                        const raw = fs.readFileSync(input, ...args);
+                        const raw = fs.readFileSync(path.resolve(input) === path.join(root, 'games.json') ? catalogAfterExpansion : input, ...args);
                         if (path.resolve(input) !== file) return raw;
                         const value = JSON.parse(raw);
                         mutate(value);
@@ -541,7 +550,7 @@ async function main() {
         for (const round of [
             { title: 'historical expansion 1', dir: 'tests/catalog-expansion-20261019/', catalog: 'tests/catalog-expansion-20261019-2/catalog-before.json', legacy: 'tests/catalog-expansion-20261019-2/audit-838-before.json' },
             { title: 'historical expansion 2', dir: 'tests/catalog-expansion-20261019-2/', catalog: 'tests/catalog-expansion-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122/audit-838-before.json', pendingGames: true },
-            { title: 'current expansion 3', dir: 'tests/catalog-expansion-20261122/', catalog: 'games.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true }
+            { title: 'expansion 3', dir: 'tests/catalog-expansion-20261122/', catalog: 'tests/platform-audit/status-20261122/catalog-before.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true }
         ]) await check(`${round.title} has evidence and preserves unrelated and pending records`, async () => {
             const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
             const dir = round.dir;
@@ -602,6 +611,46 @@ async function main() {
                 for (const game of pendingGames) assert.deepEqual(catalog.games.find(item => item.name === game.name), game);
                 assert.deepEqual(read('tests/catalog-expansion-20261019/pending-platforms.json'), read(dir + 'previous-expansion-pending-before.json'));
             }
+        });
+        await check('current release-status recheck changes only its records and labels them released', async () => {
+            const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
+            const dir = 'tests/platform-audit/status-20261122/';
+            const before = read(dir + 'catalog-before.json');
+            const baseline = read(dir + 'baseline.json');
+            const audit = read(dir + 'audit.json');
+            const catalog = read('games.json');
+            assert.equal(audit.records.length, 2);
+            assert.equal(catalog.games.length, before.games.length);
+            const names = new Set(audit.records.map(row => row.name));
+            for (const game of before.games.filter(game => !names.has(game.name))) assert.deepEqual(catalog.games.find(item => item.name === game.name), game);
+            const mutable = new Set(['releaseStatus', 'releaseNote', 'releaseDate', 'sources', 'platformNote', 'platformSources', 'platformReviewedAt', 'platformReviewStatus', 'platformVerifiedAt']);
+            for (const row of audit.records) {
+                const original = baseline.find(game => game.name === row.name);
+                assert.deepEqual(original, before.games.find(game => game.name === row.name));
+                const expected = structuredClone(original);
+                for (const [key, change] of Object.entries(row.changes)) {
+                    assert.ok(mutable.has(key), `${row.name}: unexpected ${key}`);
+                    assert.deepEqual(change.before, original[key] ?? null);
+                    if (change.after === null) delete expected[key];
+                    else expected[key] = change.after;
+                }
+                const game = catalog.games.find(item => item.name === row.name);
+                assert.deepEqual(game, expected);
+                assert.equal(game.releaseStatus, 'released');
+                assert.equal(game.platform, original.platform);
+                assert.deepEqual(game.alias, original.alias);
+                assert.ok(row.evidence.length && row.evidence.every(item => item.finding && game.platformSources.includes(item.source)));
+                assert.ok(game.platformSources.every(source => new URL(source).protocol === 'https:'));
+            }
+            const { context, page } = await open();
+            try {
+                await ready(page);
+                for (const row of audit.records) {
+                    const state = await page.evaluate(name => { const game = findGameInDatabase(name); return { label: getGameReleaseLabel(game), context: getGameCatalogContext(game) }; }, row.name);
+                    assert.equal(state.label, '已發售', row.name);
+                    assert.ok(!state.context.includes('尚未正式發售'), row.name);
+                }
+            } finally { await context.close(); }
         });
         await check('new game aliases and merged legacy titles resolve with scoped guide context', async () => {
             const { context, page } = await open();
@@ -786,8 +835,8 @@ async function main() {
             try {
                 await ready(page);
                 const data = await page.evaluate(async () => {
-                    const game = findGameInDatabase('FINAL FANTASY RESONANCE');
-                    showAutocomplete([game], 'FINAL');
+                    const game = findGameInDatabase('Project Mugen');
+                    showAutocomplete([game], 'Project');
                     const label = document.getElementById('autocompleteList').textContent;
                     selectGameFromAutocomplete(game);
                     document.getElementById('question').value = '完整主線及最終 Boss 怎麼打';
@@ -798,8 +847,8 @@ async function main() {
                     showAutocomplete([playtest], 'Deadlock');
                     return { label, prompt: JSON.stringify(request), playtestLabel: document.getElementById('autocompleteList').textContent };
                 });
-                assert.match(data.label, /預定.*2026-10-22/);
-                assert.match(data.prompt, /2026-10-18/);
+                assert.match(data.label, /預定.*2027-01-15/);
+                assert.match(data.prompt, /2026-10-19/);
                 assert.match(data.prompt, /尚未正式發售/);
                 assert.match(data.prompt, /不得.*編造/);
                 assert.match(data.playtestLabel, /測試/);

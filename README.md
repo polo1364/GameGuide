@@ -88,7 +88,7 @@ node tests/regression.cjs
 
 回歸測試涵蓋資料查核、版本與別名、Markdown 編號與安全連結、查核失敗處理、收藏、離線快取，以及 1440、390、320 像素寬度的介面。一般測試使用模擬 API 回應與已保存的實際生成內容，不會重新呼叫 DeepSeek；畫面測試不等於實體手機驗收。
 
-最近一次程式驗證結果為 **60/60 回歸測試通過**（Claude 請求以模擬串流回應測試，未以真實 Anthropic API 實測），來源服務測試通過。實際生成與查核紀錄見 [驗證紀錄](tests/deepseek-verified-20261019/audit.json)，最終內容保存在同目錄的 `*-final.json`。測試截圖及部分本機紀錄未納入 Git，因此紀錄內提到的圖片不一定存在於儲存庫中。
+最近一次程式驗證結果為 **61/61 回歸測試通過**（Claude 請求以模擬串流回應測試，未以真實 Anthropic API 實測），來源服務測試通過。實際生成與查核紀錄見 [驗證紀錄](tests/deepseek-verified-20261019/audit.json)，最終內容保存在同目錄的 `*-final.json`。測試截圖及部分本機紀錄未納入 Git，因此紀錄內提到的圖片不一定存在於儲存庫中。
 
 ## 專案結構
 
@@ -103,6 +103,7 @@ node tests/regression.cjs
 | `tests/source-reader.cjs` | 來源端點、網路限制與錯誤處理測試 |
 | `tests/platform-audit/`、`tests/catalog-expansion-*/` | 歷次查核、擴充與測試使用的資料快照 |
 | `tests/catalog-expansion-20261122/` | 第三輪擴充：62 款大作與獨立遊戲的審核資料、整合器與驗證紀錄 |
+| `tests/platform-audit/status-20261122/` | 發行狀態複查：兩筆預定日已過的條目改為已發售，含逐欄前後值與證據 |
 | `tests/deepseek-verified-20261019/` | DeepSeek 實測內容與查核紀錄 |
 
 擴充來源時，應確認作品身分、平台、版本與來源適用範圍，再更新 `guide-sources.json`；不要只因為頁面可開啟，就視為支持所有攻略細節。修改遊戲資料後也應重跑回歸測試。歷史資料快照會被測試引用，請勿當作一般暫存檔刪除。

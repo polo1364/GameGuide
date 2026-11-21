@@ -1,0 +1,45 @@
+[
+  {
+    "name": "FINAL FANTASY RESONANCE",
+    "alias": [
+      "final fantasy resonance",
+      "ff resonance",
+      "最終幻想resonance",
+      "太空戰士resonance"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2/Switch",
+    "icon": "💎",
+    "category": "RPG",
+    "catalogPriority": 1,
+    "releaseStatus": "upcoming",
+    "releaseDate": "2026-10-22",
+    "releaseNote": "正式版尚未發售；已提供試玩版。",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://store.steampowered.com/app/3259780/",
+      "https://www.gamespot.com/articles/2026-upcoming-games-release-schedule/1100-6534941/"
+    ]
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 4",
+    "alias": [
+      "call of duty modern warfare 4",
+      "cod mw4",
+      "mw4",
+      "決勝時刻現代戰爭4",
+      "現代戰爭4"
+    ],
+    "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+    "icon": "🎯",
+    "category": "第一人稱射擊",
+    "catalogPriority": 2,
+    "releaseStatus": "upcoming",
+    "releaseDate": "2026-10-23",
+    "releaseNote": "完整遊戲尚未正式發售；預購戰役搶先體驗已於 10 月 16 日開放，DMZ 預定 10 月 20 日開放。",
+    "verifiedAt": "2026-10-18",
+    "sources": [
+      "https://www.callofduty.com/uk/en/modernwarfare4",
+      "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-campaign-early-access-live-now"
+    ]
+  }
+]
