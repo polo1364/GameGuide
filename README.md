@@ -40,7 +40,7 @@ node server.cjs 14439
 3. 點選「生成攻略」，等待來源讀取、生成與內容比對。
 4. 閱讀各段來源及「待確認」提示；需要補充時使用追問，也可收藏攻略。
 
-DeepSeek 使用 `deepseek-flash`；Claude 使用 `claude-opus-5-5`（effort `medium`、串流回應，查核步驟以 JSON Schema 結構化輸出），並啟用伺服器端 refusal fallback（`fallbacks: "default"`）。兩者都由瀏覽器直接呼叫供應商 API，Claude 請求會帶 `anthropic-dangerous-direct-browser-access` 標頭以允許瀏覽器直連。一次生成或追問最多使用兩次模型請求，會消耗該帳號的 API 額度；Claude Opus 5.5 的思考過程也計入輸出 token，費用通常高於 DeepSeek。請求失敗或重試也應留意實際用量。兩個供應商的 Key 分開保存，不會互相傳送。本專案不提供 API Key，也不會從 `DEEPSEEK_API_KEY` 或 `ANTHROPIC_API_KEY` 環境變數讀取金鑰。
+DeepSeek 使用 `deepseek-flash`。Claude 可在 API 設定中選擇模型：`claude-opus-5-5`（預設）、`claude-sonnet-5-5`、`claude-haiku-5-5` 或 `claude-fable-5-2`；皆使用 effort `medium`、串流回應，查核步驟以 JSON Schema 結構化輸出。Opus、Sonnet 與 Fable 會啟用伺服器端 refusal fallback（`fallbacks: "default"`），Haiku 5.5 不支援此功能，因此不送出該參數。兩者都由瀏覽器直接呼叫供應商 API，Claude 請求會帶 `anthropic-dangerous-direct-browser-access` 標頭以允許瀏覽器直連。一次生成或追問最多使用兩次模型請求，會消耗該帳號的 API 額度；Claude Opus 5.5 的思考過程也計入輸出 token，費用通常高於 DeepSeek。請求失敗或重試也應留意實際用量。兩個供應商的 Key 分開保存，不會互相傳送。本專案不提供 API Key，也不會從 `DEEPSEEK_API_KEY` 或 `ANTHROPIC_API_KEY` 環境變數讀取金鑰。
 
 ## 來源查核如何運作
 
