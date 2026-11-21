@@ -1041,6 +1041,27 @@ async function main() {
                 assert.match(await call(), /^ERR:Claude 拒絕回應/);
             } finally { await context.close(); }
         });
+        await check('theme toggle switches magazine palettes and persists', async () => {
+            const { context, page } = await open();
+            try {
+                await ready(page);
+                const themeReady = () => page.waitForFunction(() => ['☾', '☀'].includes(document.getElementById('themeBtn').textContent));
+                const paper = () => page.evaluate(() => getComputedStyle(document.body).backgroundColor);
+                await themeReady();
+                assert.equal(await page.evaluate(() => document.documentElement.dataset.mode || 'light'), 'light');
+                assert.equal(await paper(), 'rgb(246, 241, 227)');
+                await page.locator('#themeBtn').click();
+                assert.equal(await page.evaluate(() => document.documentElement.dataset.mode), 'dark');
+                assert.equal(await page.evaluate(() => document.documentElement.hasAttribute('data-theme')), false);
+                assert.equal(await paper(), 'rgb(17, 20, 42)');
+                await page.waitForFunction(async () => (await getSetting('theme')) === 'dark');
+                await page.reload(); await ready(page); await themeReady();
+                assert.equal(await page.evaluate(() => document.documentElement.dataset.mode), 'dark');
+                await page.locator('#themeBtn').click();
+                assert.equal(await page.evaluate(() => getSetting('theme')), 'light');
+                assert.equal(await paper(), 'rgb(246, 241, 227)');
+            } finally { await context.close(); }
+        });
         await check('provider setting keeps separate keys and routes generation', async () => {
             const { context, page } = await open();
             const hits = { deepseek: 0, claude: 0 };

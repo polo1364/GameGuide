@@ -16,7 +16,7 @@
     <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%234a7c59' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>🎮</text></svg>">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;600;700&family=MedievalSharp&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;600;700&family=MedievalSharp&family=Noto+Serif+TC:wght@400;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,900&display=swap" rel="stylesheet">
     <style>
         :root {
             --sheikah-blue: #5bcefa;
@@ -3642,6 +3642,1112 @@
                 font-weight: 900;
             }
         }
+
+        /* ===================================================================
+           Magazine theme (v5): forest green (light) / midnight neon (dark).
+           Last layer in the cascade; selectors start with `body` so they win
+           over the earlier theme layers without touching them.
+           =================================================================== */
+        :root {
+            --mag-paper: #f6f1e3;
+            --mag-paper-2: #ede5cf;
+            --mag-ink: #18261f;
+            --mag-muted: #56635b;
+            --mag-rule: #cdc6b0;
+            --mag-accent: #1f4d3a;
+            --mag-on-accent: #f3e3b0;
+            --mag-accent-text: #2c6a4f;
+            --mag-block: #18261f;
+            --mag-on-block: #f6f1e3;
+            --mag-gold: #d9b44a;
+            --mag-mark: rgba(217, 180, 74, 0.45);
+            --mag-serif: 'Noto Serif TC', 'Noto Sans TC', serif;
+            --mag-sans: 'Noto Sans TC', sans-serif;
+            --mag-display: 'Playfair Display', 'Noto Serif TC', serif;
+            --text-secondary: var(--mag-muted);
+            color-scheme: light;
+        }
+
+        :root[data-mode="dark"] {
+            --mag-paper: #11142a;
+            --mag-paper-2: #191d3d;
+            --mag-ink: #eceaf7;
+            --mag-muted: #9a9cc0;
+            --mag-rule: #2c3058;
+            --mag-accent: #ff3d7f;
+            --mag-on-accent: #ffffff;
+            --mag-accent-text: #5ee4ff;
+            --mag-block: #eceaf7;
+            --mag-on-block: #11142a;
+            --mag-gold: #e0245e;
+            --mag-mark: rgba(255, 61, 127, 0.35);
+            color-scheme: dark;
+        }
+
+        html body {
+            background: var(--mag-paper) !important;
+            color: var(--mag-ink);
+            font-family: var(--mag-sans);
+        }
+
+        html body::before,
+        html body::after,
+        body .bg-animation {
+            display: none !important;
+        }
+
+        body .reading-progress { background: transparent; }
+        body .reading-progress-bar { background: var(--mag-accent-text) !important; box-shadow: none !important; }
+
+        body .container {
+            max-width: 1180px;
+            padding: 0 24px 40px;
+        }
+
+        /* Masthead */
+        body .mag-masthead {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: 16px;
+            padding: 22px 210px 12px 0;
+            border-bottom: 3px solid var(--mag-ink);
+            font-size: 13px;
+            letter-spacing: 2px;
+            color: var(--mag-ink);
+        }
+
+        body .mag-logo {
+            font-family: var(--mag-display);
+            font-style: italic;
+            font-weight: 900;
+            font-size: 28px;
+            letter-spacing: 0;
+        }
+
+        /* Fixed controls: square ink buttons */
+        body .font-btn,
+        body .theme-btn,
+        body .settings-btn {
+            width: 40px;
+            height: 40px;
+            border: 1.5px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper) !important;
+            color: var(--mag-ink) !important;
+            box-shadow: none !important;
+            font-family: var(--mag-sans);
+            font-weight: 700;
+            backdrop-filter: none !important;
+        }
+
+        body .settings-btn svg { stroke: var(--mag-ink); }
+
+        body .theme-toggle { display: block; }
+        body .theme-btn { font-size: 18px; line-height: 1; }
+
+        body .font-btn:hover,
+        body .theme-btn:hover,
+        body .settings-btn:hover {
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block) !important;
+            transform: none;
+        }
+
+        body .settings-btn:hover svg { stroke: var(--mag-on-block); }
+
+        /* Hero: cover + ask */
+        body .mag-hero {
+            display: grid;
+            grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr);
+            border-bottom: 1px solid var(--mag-ink);
+        }
+
+        body .mag-cover {
+            position: relative;
+            overflow: hidden;
+            padding: 40px;
+            background: var(--mag-accent);
+            color: var(--mag-on-accent);
+        }
+
+        body .mag-cover::after {
+            content: 'G';
+            position: absolute;
+            right: -10px;
+            bottom: -70px;
+            font-family: var(--mag-display);
+            font-weight: 900;
+            font-size: 280px;
+            line-height: 1;
+            opacity: 0.12;
+            pointer-events: none;
+        }
+
+        body .mag-kicker {
+            margin: 0;
+            font-size: 13px;
+            letter-spacing: 4px;
+            font-weight: 700;
+        }
+
+        body .mag-cover .logo {
+            margin: 14px 0 12px;
+            font-family: var(--mag-serif);
+            font-weight: 900;
+            font-size: clamp(40px, 5.6vw, 66px);
+            line-height: 1.08;
+            letter-spacing: 0;
+            text-align: left;
+            color: var(--mag-on-accent) !important;
+            background: none !important;
+            -webkit-text-fill-color: currentColor !important;
+            text-shadow: none !important;
+            animation: none !important;
+            filter: none !important;
+        }
+
+        body .mag-cover .logo::before,
+        body .mag-cover .logo::after { display: none !important; }
+
+        body .mag-cover .tagline {
+            margin: 0 0 22px;
+            max-width: 30em;
+            font-size: 15px;
+            line-height: 1.7;
+            color: var(--mag-on-accent) !important;
+            opacity: 0.9;
+            text-align: left;
+            background: none !important;
+            border: 0 !important;
+            padding: 0 !important;
+            box-shadow: none !important;
+            backdrop-filter: none !important;
+            animation: none !important;
+            font-weight: 500;
+        }
+
+        body .mag-picks {
+            position: relative;
+            z-index: 1;
+            display: grid;
+            gap: 10px;
+        }
+
+        body .mag-cover .popular-games {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            justify-content: flex-start;
+            gap: 6px;
+            margin: 0;
+            padding: 0;
+            background: none;
+            border: 0;
+        }
+
+        body .mag-cover .popular-games > span {
+            color: var(--mag-on-accent) !important;
+            opacity: 0.8;
+            font-size: 12px !important;
+            letter-spacing: 2px;
+            font-weight: 700;
+            margin-right: 4px !important;
+        }
+
+        body .mag-cover .popular-game-btn {
+            padding: 3px 12px;
+            border: 1.5px solid currentColor !important;
+            border-radius: 40px !important;
+            background: transparent !important;
+            color: var(--mag-on-accent) !important;
+            box-shadow: none !important;
+            font-size: 13px;
+            font-weight: 500;
+            transform: none !important;
+        }
+
+        body .mag-cover .popular-game-btn:hover {
+            background: var(--mag-on-accent) !important;
+            color: var(--mag-accent) !important;
+        }
+
+        body .input-section {
+            margin: 0;
+            padding: 36px 40px;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            backdrop-filter: none !important;
+            animation: none !important;
+        }
+
+        body .input-section::before,
+        body .input-section::after { display: none !important; }
+
+        body .input-label {
+            margin-bottom: 4px;
+            font-family: var(--mag-sans);
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 3px;
+            color: var(--mag-accent-text) !important;
+        }
+
+        body .input-label span { letter-spacing: 0; color: var(--mag-muted) !important; font-weight: 400; }
+
+        body .input-field {
+            padding: 6px 0 8px;
+            border: 0 !important;
+            border-bottom: 2px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            color: var(--mag-ink) !important;
+            font-family: var(--mag-serif);
+            font-size: 22px;
+        }
+
+        body textarea.input-field {
+            min-height: 120px;
+            font-size: 17px;
+            line-height: 1.8;
+        }
+
+        body .input-field::placeholder { color: var(--mag-muted) !important; opacity: 0.8; }
+
+        body .input-field:focus {
+            outline: none;
+            border-bottom-color: var(--mag-accent-text) !important;
+            box-shadow: 0 2px 0 0 var(--mag-accent-text) !important;
+        }
+
+        body .quick-templates > span { color: var(--mag-muted) !important; }
+
+        body .quick-template-btn {
+            padding: 4px 14px;
+            border: 1.5px solid var(--mag-ink) !important;
+            border-radius: 40px !important;
+            background: transparent !important;
+            color: var(--mag-ink) !important;
+            box-shadow: none !important;
+            font-size: 14px;
+            transform: none !important;
+        }
+
+        body .quick-template-btn:hover {
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block) !important;
+        }
+
+        body .generate-btn,
+        body .followup-btn,
+        body .save-btn {
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block) !important;
+            box-shadow: none !important;
+            font-family: var(--mag-sans);
+            font-weight: 700;
+            letter-spacing: 4px;
+            animation: none !important;
+            transform: none !important;
+        }
+
+        body .generate-btn::before,
+        body .generate-btn::after,
+        body .followup-btn::before,
+        body .followup-btn::after { display: none !important; }
+
+        body .generate-btn:hover:not(:disabled),
+        body .followup-btn:hover:not(:disabled),
+        body .save-btn:hover {
+            background: var(--mag-accent) !important;
+            color: var(--mag-on-accent) !important;
+        }
+
+        body #sourceStatus { color: var(--mag-muted); }
+
+        body .detected-platform {
+            border: 0 !important;
+            border-left: 4px solid var(--mag-accent-text) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper-2) !important;
+            box-shadow: none !important;
+            color: var(--mag-ink);
+        }
+
+        body .detected-platform .detected-label,
+        body .detected-platform .detected-value { color: var(--mag-ink) !important; }
+
+        /* S1 search list: magazine index */
+        body .autocomplete-list {
+            margin-top: -2px;
+            padding: 0;
+            border: 2px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper) !important;
+            box-shadow: 6px 6px 0 var(--mag-rule) !important;
+            backdrop-filter: none !important;
+        }
+
+        body .autocomplete-item {
+            display: flex;
+            align-items: baseline;
+            gap: 10px;
+            padding: 10px 14px;
+            border: 0 !important;
+            border-bottom: 1px solid var(--mag-rule) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            color: var(--mag-ink);
+            transform: none !important;
+            box-shadow: none !important;
+        }
+
+        body .autocomplete-item .ac-no {
+            flex: none;
+            width: 26px;
+            font-family: var(--mag-display);
+            font-weight: 900;
+            color: var(--mag-accent-text);
+        }
+
+        body .autocomplete-item .game-icon {
+            flex: none;
+            font-size: 16px;
+            width: auto;
+            height: auto;
+            background: none !important;
+            box-shadow: none !important;
+        }
+
+        body .autocomplete-item .game-info {
+            flex: 1;
+            min-width: 0;
+            display: flex;
+            align-items: baseline;
+            gap: 8px;
+        }
+
+        body .autocomplete-item .game-name {
+            flex: 0 0 auto;
+            max-width: 68%;
+            min-width: 0;
+            font-family: var(--mag-serif);
+            font-size: 17px;
+            font-weight: 700;
+            color: inherit !important;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        body .autocomplete-item .game-info::after {
+            content: '';
+            order: 1;
+            flex: 1 1 16px;
+            min-width: 16px;
+            border-bottom: 2px dotted var(--mag-rule);
+            transform: translateY(-4px);
+        }
+
+        body .autocomplete-item .game-platform {
+            order: 2;
+            flex: 0 1 auto;
+            min-width: 0;
+            font-size: 13px;
+            color: var(--mag-muted) !important;
+            text-align: right;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        body .autocomplete-item .game-name mark,
+        body .autocomplete-item .game-name .highlight,
+        body .autocomplete-item .game-name strong {
+            background: var(--mag-mark) !important;
+            color: inherit !important;
+            padding: 0;
+            border-radius: 0;
+        }
+
+        body .autocomplete-item .wiki-badge {
+            margin-left: 4px;
+            padding: 0 6px;
+            border: 1px solid currentColor;
+            border-radius: 0;
+            background: transparent !important;
+            color: inherit !important;
+            font-size: 11px;
+            letter-spacing: 1px;
+        }
+
+        body .autocomplete-item:hover { background: var(--mag-paper-2) !important; }
+
+        body .autocomplete-item.selected {
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block);
+        }
+
+        body .autocomplete-item.selected .ac-no { color: var(--mag-gold); }
+        body .autocomplete-item.selected .game-platform { color: var(--mag-on-block) !important; opacity: 0.85; }
+        body .autocomplete-item.selected .game-info::after { border-color: var(--mag-on-block); opacity: 0.6; }
+
+        body .autocomplete-hint {
+            padding: 8px 14px;
+            border: 0 !important;
+            background: transparent !important;
+            color: var(--mag-muted) !important;
+            font-size: 12px;
+        }
+
+        body .autocomplete-hint kbd {
+            border: 1px solid var(--mag-ink);
+            border-radius: 0;
+            background: transparent;
+            color: var(--mag-ink);
+            box-shadow: none;
+        }
+
+        /* R1 result: single-column feature article */
+        body .result-section { margin-top: 40px; }
+
+        body .game-info-card {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 8px 0 10px;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            justify-content: center;
+            text-align: center;
+        }
+
+        body .game-info-card::before,
+        body .game-info-card::after { display: none !important; }
+
+        body .game-info-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: 0 !important;
+            background: var(--mag-accent) !important;
+            color: var(--mag-on-accent);
+            box-shadow: none !important;
+            font-size: 20px;
+        }
+
+        body .game-info-name {
+            color: var(--mag-accent-text) !important;
+            font-size: 13px !important;
+            letter-spacing: 4px;
+            font-weight: 700;
+            background: none !important;
+            -webkit-text-fill-color: currentColor !important;
+        }
+
+        body .game-info-tag {
+            border: 1px solid var(--mag-rule) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            color: var(--mag-muted) !important;
+        }
+
+        body .result-card {
+            padding: 0 !important;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            backdrop-filter: none !important;
+        }
+
+        body .result-card::before,
+        body .result-card::after { display: none !important; }
+
+        body .result-header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 14px;
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 6px 0 18px;
+            border: 0 !important;
+            border-bottom: 3px solid var(--mag-ink) !important;
+            text-align: center;
+        }
+
+        body .result-title {
+            width: 100%;
+            margin: 0;
+            font-family: var(--mag-serif);
+            font-weight: 900;
+            font-size: clamp(30px, 4.4vw, 46px);
+            line-height: 1.18;
+            color: var(--mag-ink) !important;
+            background: none !important;
+            -webkit-text-fill-color: currentColor !important;
+            text-align: center;
+        }
+
+        body .result-meta {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        body .bookmark-btn,
+        body .copy-btn,
+        body .result-badge,
+        body .verified-badge,
+        body .chapter-select,
+        body .reading-action-btn {
+            min-height: 32px;
+            padding: 3px 12px;
+            border: 1.5px solid var(--mag-ink) !important;
+            border-radius: 40px !important;
+            background: transparent !important;
+            color: var(--mag-ink) !important;
+            box-shadow: none !important;
+            font-family: var(--mag-sans);
+            font-size: 13px;
+            font-weight: 500;
+            transform: none !important;
+        }
+
+        body .copy-btn svg { stroke: currentColor; }
+
+        body .bookmark-btn.bookmarked,
+        body .reading-action-btn.active {
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block) !important;
+            border-color: var(--mag-block) !important;
+        }
+
+        body .bookmark-btn:hover,
+        body .copy-btn:hover,
+        body .reading-action-btn:hover {
+            background: var(--mag-paper-2) !important;
+        }
+
+        body .chapter-select option { background: var(--mag-paper); color: var(--mag-ink); }
+
+        body .reading-toolbar {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 12px 0;
+            border: 0 !important;
+            border-bottom: 1px solid var(--mag-rule) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+
+        body .reading-stats { justify-content: center; }
+
+        body .reading-stats span {
+            padding: 0;
+            border-radius: 0;
+            background: transparent !important;
+            color: var(--mag-muted) !important;
+            font-size: 13px;
+            font-weight: 500;
+        }
+
+        body .reading-actions { justify-content: center; }
+
+        body .result-content {
+            max-width: 680px;
+            margin: 0 auto;
+            padding: 22px 0 10px;
+            font-family: var(--mag-serif);
+            color: var(--mag-ink) !important;
+        }
+
+        body .result-content p,
+        body .result-content li,
+        body .result-content td { color: var(--mag-ink); }
+
+        body .result-content a {
+            color: var(--mag-accent-text) !important;
+            text-decoration: underline;
+            text-decoration-thickness: 1px;
+            text-underline-offset: 3px;
+            border: 0 !important;
+            background: none !important;
+        }
+
+        body .result-content strong {
+            color: inherit !important;
+            background: linear-gradient(transparent 60%, var(--mag-mark) 60%) !important;
+            -webkit-text-fill-color: currentColor !important;
+        }
+
+        body .result-content h1,
+        body .result-content h3,
+        body .result-content h4 {
+            margin: 1.6rem 0 0.6rem;
+            padding: 0 !important;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: none !important;
+            color: var(--mag-ink) !important;
+            font-family: var(--mag-serif);
+            font-weight: 900;
+            -webkit-text-fill-color: currentColor !important;
+        }
+
+        body .result-content h3 { font-size: 1.15em; }
+
+        body .result-content h3::before,
+        body .result-content h4::before { display: none !important; }
+
+        /* Chapters: big accent number + serif title */
+        body .result-content .guide-section {
+            margin: 0 0 8px;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            overflow: visible;
+        }
+
+        body .result-content .guide-section-heading {
+            align-items: center;
+            border-top: 1px solid var(--mag-ink);
+            padding-top: 12px;
+            margin-top: 18px;
+        }
+
+        body .result-content h2 {
+            display: flex;
+            align-items: baseline;
+            gap: 14px;
+            margin: 0 0 6px;
+            padding: 0 !important;
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: none !important;
+            color: var(--mag-ink) !important;
+            font-family: var(--mag-serif);
+            font-weight: 900;
+            font-size: 1.5em;
+            line-height: 1.3;
+            -webkit-text-fill-color: currentColor !important;
+            box-shadow: none !important;
+        }
+
+        body .result-content h2::before {
+            min-width: 0;
+            height: auto;
+            border-radius: 0;
+            background: none !important;
+            box-shadow: none !important;
+            color: var(--mag-accent-text) !important;
+            font-family: var(--mag-display);
+            font-size: 1.6em;
+            font-weight: 900;
+            line-height: 1;
+        }
+
+        body .result-content .section-toggle-btn {
+            flex: none;
+            width: 32px;
+            height: 32px;
+            margin: 0;
+            border: 1.5px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            color: var(--mag-ink) !important;
+            box-shadow: none !important;
+        }
+
+        body .result-content .guide-section-body {
+            padding: 4px 0 6px;
+        }
+
+        /* Drop cap on the opening paragraph */
+        body .result-content .guide-section:first-of-type .guide-section-body > p:first-child::first-letter {
+            float: left;
+            padding: 6px 10px 0 0;
+            font-size: 3.4em;
+            line-height: 0.9;
+            font-weight: 900;
+            color: var(--mag-accent-text);
+        }
+
+        body .result-content .guide-section:first-of-type .guide-section-body > p:first-child::after {
+            content: '';
+            display: block;
+            clear: both;
+        }
+
+        /* Numbered steps: large accent numerals, dashed rules */
+        body .result-content ol > li {
+            min-height: 0;
+            margin: 0;
+            padding: 9px 0 9px 3.1rem;
+            border: 0 !important;
+            border-bottom: 1px dashed var(--mag-rule) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+        }
+
+        body .result-content ol > li::before {
+            top: 6px;
+            width: 2.4rem;
+            height: auto;
+            justify-content: flex-start;
+            border-radius: 0;
+            background: none !important;
+            box-shadow: none !important;
+            color: var(--mag-accent-text) !important;
+            font-family: var(--mag-display);
+            font-size: 1.35em;
+            font-weight: 900;
+            line-height: 1.3;
+        }
+
+        body .result-content ol > li > ul { margin: 6px 0 0; }
+
+        /* Bullets: small square ink marks */
+        body .result-content ul > li {
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+        }
+
+        body .result-content ul > li::before {
+            border-radius: 0 !important;
+            background: var(--mag-accent-text) !important;
+            box-shadow: none !important;
+        }
+
+        /* Tables: ruled, no fills */
+        body .result-content table {
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            font-family: var(--mag-sans);
+            border-collapse: collapse;
+        }
+
+        body .result-content thead,
+        body .result-content thead tr,
+        body .result-content thead th {
+            background: none !important;
+            color: var(--mag-ink) !important;
+            box-shadow: none !important;
+        }
+
+        body .result-content th {
+            border: 0 !important;
+            border-bottom: 2px solid var(--mag-ink) !important;
+            font-weight: 700;
+        }
+
+        body .result-content tbody tr,
+        body .result-content tbody tr:nth-child(even),
+        body .result-content tbody tr:hover {
+            background: transparent !important;
+        }
+
+        body .result-content td {
+            border: 0 !important;
+            border-bottom: 1px solid var(--mag-rule) !important;
+        }
+
+        body .result-content th,
+        body .result-content td { padding: 9px 10px; }
+
+        body .result-content td:first-child { color: var(--mag-ink) !important; font-weight: 700; }
+
+        body .result-content ol > li > ul > li,
+        body .result-content ul > li { margin: 4px 0; padding-top: 2px; padding-bottom: 2px; }
+
+        body .result-content blockquote { font-style: normal; }
+
+        body .result-content .table-number {
+            padding: 0;
+            border: 0;
+            border-radius: 0;
+            background: none !important;
+            color: var(--mag-accent-text) !important;
+            font-family: var(--mag-sans);
+            font-weight: 700;
+        }
+
+        /* Pull quotes */
+        body .result-content blockquote {
+            margin: 18px 24px;
+            padding: 12px 0 !important;
+            border: 0 !important;
+            border-top: 3px solid var(--mag-ink) !important;
+            border-bottom: 3px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: none !important;
+            box-shadow: none !important;
+            color: var(--mag-ink) !important;
+            font-weight: 700;
+            font-size: 1.2em;
+            text-align: center;
+        }
+
+        body .result-content blockquote::before { display: none !important; }
+
+        body .result-content code {
+            border: 1px solid var(--mag-rule);
+            border-radius: 0;
+            background: var(--mag-paper-2) !important;
+            color: var(--mag-ink) !important;
+        }
+
+        body .result-content hr {
+            height: 0;
+            border: 0;
+            border-top: 1px solid var(--mag-ink);
+            background: none;
+        }
+
+        /* Guide boxes */
+        body .result-content .guide-box {
+            margin: 14px 0 18px;
+            padding: 12px 16px;
+            border: 0 !important;
+            border-left: 4px solid var(--mag-accent-text) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper-2) !important;
+            box-shadow: none !important;
+            font-family: var(--mag-sans);
+            font-size: 0.92em;
+        }
+
+        body .result-content .guide-box::before,
+        body .result-content .guide-box::after { display: none !important; }
+
+        body .result-content .guide-box-title {
+            margin-bottom: 2px;
+            color: var(--mag-accent-text) !important;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 3px;
+        }
+
+        body .result-content .guide-box-title::before { display: none !important; }
+        body .result-content .guide-box-content { color: var(--mag-ink) !important; }
+
+        /* Source-check notice: editor's note between rules */
+        body .result-content .guide-note {
+            border-left: 0 !important;
+            border-top: 2px solid var(--mag-ink) !important;
+            border-bottom: 1px solid var(--mag-ink) !important;
+            background: transparent !important;
+            padding: 10px 0;
+        }
+
+        body .result-content .guide-note .guide-box-content { color: var(--mag-muted) !important; }
+
+        /* Pending / warnings: solid ink block */
+        body .result-content .guide-warning,
+        body .result-content .guide-important {
+            border-left: 0 !important;
+            background: var(--mag-block) !important;
+        }
+
+        body .result-content .guide-warning .guide-box-title,
+        body .result-content .guide-important .guide-box-title { color: var(--mag-gold) !important; }
+
+        body .result-content .guide-warning .guide-box-content,
+        body .result-content .guide-important .guide-box-content,
+        body .result-content .guide-warning .guide-box-content * ,
+        body .result-content .guide-important .guide-box-content * { color: var(--mag-on-block) !important; }
+
+        /* Follow-up */
+        body .followup-section {
+            max-width: 680px;
+            margin: 18px auto 0;
+            padding: 16px 0 0;
+            border: 0 !important;
+            border-top: 3px solid var(--mag-ink) !important;
+            background: transparent !important;
+        }
+
+        body .followup-label {
+            color: var(--mag-accent-text) !important;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 3px;
+        }
+
+        body .followup-container { align-items: flex-end; }
+
+        body .followup-input {
+            border: 0 !important;
+            border-bottom: 2px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            color: var(--mag-ink) !important;
+            font-family: var(--mag-serif);
+        }
+
+        body .followup-input::placeholder { color: var(--mag-muted); }
+
+        body footer {
+            margin-top: 48px;
+            padding: 14px 0 0;
+            border-top: 3px solid var(--mag-ink);
+            background: transparent !important;
+            color: var(--mag-muted) !important;
+            text-align: left;
+            font-size: 13px;
+        }
+
+        body footer strong { color: var(--mag-ink) !important; background: none !important; -webkit-text-fill-color: currentColor !important; }
+
+        /* Toolbox panel, modal, toast */
+        body .floating-panel-toggle {
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block) !important;
+            box-shadow: none !important;
+            animation: none !important;
+        }
+
+        body .floating-panel {
+            border: 0 !important;
+            border-left: 3px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper) !important;
+            box-shadow: -8px 0 0 var(--mag-rule) !important;
+            color: var(--mag-ink);
+            backdrop-filter: none !important;
+        }
+
+        body .panel-header {
+            border-bottom: 3px solid var(--mag-ink) !important;
+            background: transparent !important;
+        }
+
+        body .panel-title { color: var(--mag-ink) !important; font-family: var(--mag-serif); font-weight: 900; background: none !important; -webkit-text-fill-color: currentColor !important; }
+        body .panel-close { color: var(--mag-ink) !important; background: transparent !important; border-radius: 0 !important; }
+
+        body .panel-tab {
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            color: var(--mag-muted) !important;
+            box-shadow: none !important;
+        }
+
+        body .panel-tab.active {
+            color: var(--mag-ink) !important;
+            font-weight: 700;
+            box-shadow: inset 0 -3px 0 var(--mag-accent-text) !important;
+        }
+
+        body .bookmark-item,
+        body .toc-item,
+        body .toc-list li {
+            border: 0 !important;
+            border-bottom: 1px solid var(--mag-rule) !important;
+            border-radius: 0 !important;
+            background: transparent !important;
+            box-shadow: none !important;
+            color: var(--mag-ink);
+        }
+
+        body .bookmark-item:hover { background: var(--mag-paper-2) !important; }
+
+        body .modal-overlay { background: rgba(0, 0, 0, 0.55) !important; backdrop-filter: none !important; }
+
+        body .modal {
+            border: 3px solid var(--mag-ink) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper) !important;
+            box-shadow: 10px 10px 0 var(--mag-rule) !important;
+            color: var(--mag-ink);
+        }
+
+        body .modal-title { color: var(--mag-ink) !important; font-family: var(--mag-serif); font-weight: 900; background: none !important; -webkit-text-fill-color: currentColor !important; }
+        body .modal-close { border: 1.5px solid var(--mag-ink) !important; border-radius: 0 !important; background: transparent !important; color: var(--mag-ink) !important; box-shadow: none !important; }
+
+        body .modal .api-info {
+            border: 0 !important;
+            border-left: 4px solid var(--mag-accent-text) !important;
+            border-radius: 0 !important;
+            background: var(--mag-paper-2) !important;
+            color: var(--mag-ink) !important;
+        }
+
+        body .modal .api-info a { color: var(--mag-accent-text) !important; }
+        body .modal select.input-field { font-size: 17px; font-family: var(--mag-sans); }
+        body .modal select.input-field option { background: var(--mag-paper); color: var(--mag-ink); }
+        body .modal .input-field { font-size: 17px; }
+
+        body .toast {
+            border: 0 !important;
+            border-radius: 0 !important;
+            background: var(--mag-block) !important;
+            color: var(--mag-on-block) !important;
+            box-shadow: 6px 6px 0 var(--mag-rule) !important;
+        }
+
+        body .toast.error { background: #a3361f !important; color: #fff !important; }
+
+        @media (max-width: 900px) {
+            body .mag-hero { grid-template-columns: minmax(0, 1fr); }
+            body .mag-cover { padding: 28px 22px; }
+            body .input-section { padding: 28px 0 !important; }
+            body .mag-cover::after { font-size: 200px; bottom: -50px; }
+        }
+
+        @media (max-width: 600px) {
+            body .container { padding: 0 16px 32px; }
+            body .mag-masthead {
+                flex-wrap: wrap;
+                padding: 64px 0 10px;
+                gap: 4px 12px;
+            }
+            body .mag-logo { font-size: 24px; flex-basis: 100%; }
+            body .mag-cover { margin: 0 -16px; }
+            body .mag-cover .logo { font-size: 40px; }
+            body .result-header { align-items: stretch; }
+            body .result-meta { justify-content: flex-start; }
+            body .result-title { text-align: left; }
+            body .game-info-card { justify-content: flex-start; text-align: left; }
+            body .reading-toolbar,
+            body .reading-stats,
+            body .reading-actions { justify-content: flex-start; }
+            body .result-content blockquote { margin: 16px 0; }
+            body .result-content table.mobile-card-table tr {
+                border: 0 !important;
+                border-top: 2px solid var(--mag-ink) !important;
+                border-radius: 0 !important;
+                background: transparent !important;
+                box-shadow: none !important;
+            }
+            body .result-content table.mobile-card-table td::before { color: var(--mag-accent-text) !important; }
+            body .autocomplete-item .game-info { flex-wrap: wrap; }
+            body .autocomplete-item .game-info::after { display: none; }
+            body .autocomplete-item .game-platform { flex-basis: 100%; text-align: left; }
+        }
     </style>
 </head>
 <body>
@@ -3716,24 +4822,20 @@
     </button>
 
     <div class="container">
-        <!-- Header -->
-        <header>
-            <h1 class="logo">GameMaster 遊戲攻略助手</h1>
-            <p class="tagline">輸入遊戲名稱與問題，快速生成清楚、實用的攻略指南</p>
+        <!-- Masthead -->
+        <header class="mag-masthead">
+            <span class="mag-logo">GameMaster</span>
+            <span class="mag-issue">遊戲攻略特輯</span>
+            <span class="mag-edition">AI 生成 × 來源查核</span>
         </header>
 
-        <!-- Input Section -->
-        <section class="input-section">
-            <div class="input-group">
-                <label class="input-label" for="gameName">遊戲名稱 <span style="font-size: 0.8rem; color: var(--text-secondary);">（輸入關鍵字自動搜尋）</span></label>
-                <div class="autocomplete-wrapper">
-                    <input type="text" id="gameName" class="input-field" placeholder="例如：薩爾達、艾爾登、FF、魔物獵人..." autocomplete="off">
-                    <div class="autocomplete-list" id="autocompleteList">
-                        <div class="autocomplete-hint">
-                            <span>💡 使用 <kbd>↑</kbd> <kbd>↓</kbd> 選擇，<kbd>Enter</kbd> 確認</span>
-                        </div>
-                    </div>
-                </div>
+        <div class="mag-hero">
+            <!-- Cover -->
+            <div class="mag-cover">
+                <p class="mag-kicker">本期專題</p>
+                <h1 class="logo">今天，<br>要攻略<br>哪一款？</h1>
+                <p class="tagline">輸入遊戲名稱與問題，快速生成清楚、實用的攻略指南</p>
+                <div class="mag-picks">
                 <div class="popular-games">
                     <span style="color: var(--text-secondary); font-size: 0.85rem; margin-right: 0.5rem;" title="依 2026 年 10 月 18 日榜單與官方資訊選入，非人氣名次">10月精選：</span>
                     <button class="popular-game-btn" onclick="selectGame('AION 2')">AION 2</button>
@@ -3766,30 +4868,46 @@
                     <button class="popular-game-btn" onclick="selectGame('Dispatch')">Dispatch</button>
                     <button class="popular-game-btn" onclick="selectGame('BALL x PIT')">BALL x PIT</button>
                 </div>
-                <!-- 自動偵測平台顯示 -->
-                <div class="detected-platform" id="detectedPlatformDisplay" style="display: none;">
-                    <span class="detected-label">🎯 偵測到的平台：</span>
-                    <span class="detected-value" id="detectedPlatformText"></span>
                 </div>
             </div>
-            <div class="input-group">
-                <label class="input-label" for="question">您的問題</label>
-                <textarea id="question" class="input-field" placeholder="請描述您想了解的攻略內容，例如：&#10;• 如何擊敗某個 Boss？&#10;• 某個任務的完整流程是什麼？&#10;• 隱藏道具在哪裡？&#10;• 最佳角色配置建議？"></textarea>
-                <div class="quick-templates">
-                    <span style="color: var(--text-secondary); font-size: 0.85rem; margin-right: 0.5rem;">快速問題：</span>
-                    <button class="quick-template-btn" onclick="selectTemplate('boss')">🗡️ Boss 攻略</button>
-                    <button class="quick-template-btn" onclick="selectTemplate('hidden')">🔍 隱藏要素</button>
-                    <button class="quick-template-btn" onclick="selectTemplate('build')">⚔️ 最強配裝</button>
-                    <button class="quick-template-btn" onclick="selectTemplate('quest')">📜 任務流程</button>
-                    <button class="quick-template-btn" onclick="selectTemplate('tips')">💡 新手指南</button>
-                    <button class="quick-template-btn" onclick="selectTemplate('ending')">🏆 全結局攻略</button>
+
+            <!-- Input Section -->
+            <section class="input-section">
+                <div class="input-group">
+                    <label class="input-label" for="gameName">遊戲名稱 <span style="font-size: 0.8rem; color: var(--text-secondary);">（輸入關鍵字自動搜尋）</span></label>
+                    <div class="autocomplete-wrapper">
+                        <input type="text" id="gameName" class="input-field" placeholder="例如：薩爾達、艾爾登、FF、魔物獵人..." autocomplete="off">
+                        <div class="autocomplete-list" id="autocompleteList">
+                            <div class="autocomplete-hint">
+                                <span>💡 使用 <kbd>↑</kbd> <kbd>↓</kbd> 選擇，<kbd>Enter</kbd> 確認</span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- 自動偵測平台顯示 -->
+                    <div class="detected-platform" id="detectedPlatformDisplay" style="display: none;">
+                        <span class="detected-label">🎯 偵測到的平台：</span>
+                        <span class="detected-value" id="detectedPlatformText"></span>
+                    </div>
                 </div>
-            </div>
-            <button class="generate-btn" id="generateBtn" onclick="generateGuide()">
-                ⚡ 生成攻略
-            </button>
-            <p role="status" id="sourceStatus" style="margin-top: 12px; font-size: 0.85rem; line-height: 1.6;">生成時自動讀取核准來源，優先官方資料，再以 AI 比對內容；證據不足會標示待確認。每次可能使用兩次 <span class="ai-provider-name">DeepSeek</span> 請求。</p>
-        </section>
+                <div class="input-group">
+                    <label class="input-label" for="question">您的問題</label>
+                    <textarea id="question" class="input-field" placeholder="請描述您想了解的攻略內容，例如：&#10;• 如何擊敗某個 Boss？&#10;• 某個任務的完整流程是什麼？&#10;• 隱藏道具在哪裡？&#10;• 最佳角色配置建議？"></textarea>
+                    <div class="quick-templates">
+                        <span style="color: var(--text-secondary); font-size: 0.85rem; margin-right: 0.5rem;">快速問題：</span>
+                        <button class="quick-template-btn" onclick="selectTemplate('boss')">🗡️ Boss 攻略</button>
+                        <button class="quick-template-btn" onclick="selectTemplate('hidden')">🔍 隱藏要素</button>
+                        <button class="quick-template-btn" onclick="selectTemplate('build')">⚔️ 最強配裝</button>
+                        <button class="quick-template-btn" onclick="selectTemplate('quest')">📜 任務流程</button>
+                        <button class="quick-template-btn" onclick="selectTemplate('tips')">💡 新手指南</button>
+                        <button class="quick-template-btn" onclick="selectTemplate('ending')">🏆 全結局攻略</button>
+                    </div>
+                </div>
+                <button class="generate-btn" id="generateBtn" onclick="generateGuide()">
+                    ⚡ 生成攻略
+                </button>
+                <p role="status" id="sourceStatus" style="margin-top: 12px; font-size: 0.85rem; line-height: 1.6;">生成時自動讀取核准來源，優先官方資料，再以 AI 比對內容；證據不足會標示待確認。每次可能使用兩次 <span class="ai-provider-name">DeepSeek</span> 請求。</p>
+            </section>
+        </div>
 
         <!-- Result Section -->
         <section class="result-section" id="resultSection" style="display: none;">
@@ -4468,9 +5586,12 @@
                 densityBtn.textContent = { compact: '緊湊閱讀', comfortable: '舒適閱讀', relaxed: '寬鬆閱讀' }[readingDensity];
             }
             
-            // 固定使用明亮科技風主題
-            currentTheme = 'light';
-            await saveSetting('theme', 'light');
+            // 雜誌主題：亮色森林墨綠、暗色午夜霓虹；未設定時跟隨系統。
+            const savedTheme = await getSetting('theme', null);
+            currentTheme = savedTheme === 'dark' || savedTheme === 'light'
+                ? savedTheme
+                : (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+            await saveSetting('theme', currentTheme);
             initTheme();
             
             // 載入書籤
@@ -4612,16 +5733,21 @@
         });
         
         // Theme functions
+        // Uses data-mode (not the legacy data-theme) so old dark-theme rules stay inactive.
         function initTheme() {
             document.documentElement.removeAttribute('data-theme');
-            document.getElementById('themeBtn').textContent = '🌙';
+            const dark = currentTheme === 'dark';
+            if (dark) document.documentElement.setAttribute('data-mode', 'dark');
+            else document.documentElement.removeAttribute('data-mode');
+            const btn = document.getElementById('themeBtn');
+            btn.textContent = dark ? '☀' : '☾';
+            btn.title = dark ? '切換亮色模式' : '切換深色模式';
         }
-        
+
         function toggleTheme() {
-            currentTheme = 'light';
-            document.documentElement.removeAttribute('data-theme');
-            document.getElementById('themeBtn').textContent = '🌙';
-            saveSetting('theme', 'light');
+            currentTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            initTheme();
+            saveSetting('theme', currentTheme);
         }
         
         // Floating Panel functions
@@ -5240,6 +6366,7 @@
                     <div class="autocomplete-item ${index === autocompleteSelectedIndex ? 'selected' : ''}" 
                          data-index="${index}"
                          onclick="selectGameFromAutocomplete(autocompleteResults[${index}])">
+                        <span class="ac-no" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
                         <span class="game-icon">${escapeHtml(game.icon)}</span>
                         <div class="game-info">
                             <div class="game-name">${highlightMatch(game.name, query)}</div>
