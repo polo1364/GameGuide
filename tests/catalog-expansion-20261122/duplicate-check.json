@@ -1,0 +1,1978 @@
+{
+  "checkedAt": "2026-11-22",
+  "summary": {
+    "before": 1029,
+    "added": 62,
+    "major": 34,
+    "indie": 28,
+    "earlyAccess": 4,
+    "total": 1091,
+    "duplicateRowsRemoved": 0,
+    "existingPreserved": 1029,
+    "pendingPreserved": 7,
+    "historicalPreserved": 838,
+    "newPlatformPending": 1,
+    "newNameOrAliasCollisions": 0,
+    "newProductCollisions": 0
+  },
+  "normalization": "NFKC, lowercase, ignore spacing/punctuation but retain + and & to distinguish editions such as DQ III vs I & II",
+  "newItems": [
+    {
+      "name": "邊緣禁地4",
+      "alias": [
+        "borderlands 4",
+        "bl4",
+        "邊緣禁地®4"
+      ],
+      "productKeys": [
+        "steam:1285190"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "邊緣禁地4",
+          "borderlands 4",
+          "bl4",
+          "邊緣禁地®4"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "NINJA GAIDEN 4",
+      "alias": [
+        "ninja gaiden 4",
+        "忍者外傳4",
+        "忍龍4"
+      ],
+      "productKeys": [
+        "steam:2627260"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "NINJA GAIDEN 4",
+          "ninja gaiden 4",
+          "忍者外傳4",
+          "忍龍4"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "SILENT HILL f",
+      "alias": [
+        "silent hill f",
+        "沉默之丘f",
+        "寂靜嶺f"
+      ],
+      "productKeys": [
+        "steam:2947440"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "SILENT HILL f",
+          "silent hill f",
+          "沉默之丘f",
+          "寂靜嶺f"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "消逝的光芒：困獸",
+      "alias": [
+        "dying light the beast",
+        "dying light: the beast",
+        "垂死之光 野獸"
+      ],
+      "productKeys": [
+        "steam:3008130"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "消逝的光芒：困獸",
+          "dying light the beast",
+          "dying light: the beast",
+          "垂死之光 野獸"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "四海兄弟：故鄉",
+      "alias": [
+        "mafia the old country",
+        "mafia: the old country",
+        "四海兄弟 故鄉"
+      ],
+      "productKeys": [
+        "steam:1941540"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "四海兄弟：故鄉",
+          "mafia the old country",
+          "mafia: the old country",
+          "四海兄弟 故鄉"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "The Outer Worlds 2",
+      "alias": [
+        "the outer worlds 2",
+        "outer worlds 2",
+        "天外世界2"
+      ],
+      "productKeys": [
+        "steam:1449110"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "The Outer Worlds 2",
+          "the outer worlds 2",
+          "outer worlds 2",
+          "天外世界2"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Hell is Us",
+      "alias": [
+        "hell is us"
+      ],
+      "productKeys": [
+        "steam:1620730"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Hell is Us",
+          "hell is us"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "alias": [
+        "final fantasy tactics the ivalice chronicles",
+        "fft ivalice chronicles",
+        "太空戰士戰略版 重製版"
+      ],
+      "productKeys": [
+        "steam:1004640"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+          "final fantasy tactics the ivalice chronicles",
+          "fft ivalice chronicles",
+          "太空戰士戰略版 重製版"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "決勝時刻：黑色行動 7",
+      "alias": [
+        "call of duty black ops 7",
+        "black ops 7",
+        "bo7",
+        "cod bo7",
+        "決勝時刻 黑色行動7"
+      ],
+      "productKeys": [
+        "steam:3606480"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "決勝時刻：黑色行動 7",
+          "call of duty black ops 7",
+          "black ops 7",
+          "bo7",
+          "cod bo7",
+          "決勝時刻 黑色行動7"
+        ],
+        "result": "名稱與 5 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "EA SPORTS FC 26",
+      "alias": [
+        "ea sports fc 26",
+        "fc 26",
+        "fc26",
+        "ea fc 26"
+      ],
+      "productKeys": [
+        "steam:3405690"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "EA SPORTS FC 26",
+          "ea sports fc 26",
+          "fc 26",
+          "fc26",
+          "ea fc 26"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "NBA 2K26",
+      "alias": [
+        "nba 2k26",
+        "2k26"
+      ],
+      "productKeys": [
+        "steam:3472040"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "NBA 2K26",
+          "nba 2k26",
+          "2k26"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "索尼克賽車 交叉世界",
+      "alias": [
+        "sonic racing crossworlds",
+        "sonic racing: crossworlds",
+        "音速小子賽車 交叉世界"
+      ],
+      "productKeys": [
+        "steam:2486820"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "索尼克賽車 交叉世界",
+          "sonic racing crossworlds",
+          "sonic racing: crossworlds",
+          "音速小子賽車 交叉世界"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "小小夢魘3",
+      "alias": [
+        "little nightmares iii",
+        "little nightmares 3",
+        "小小夢魘III"
+      ],
+      "productKeys": [
+        "steam:1392860"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "小小夢魘3",
+          "little nightmares iii",
+          "little nightmares 3",
+          "小小夢魘III"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "勇者鬥惡龍 VII Reimagined",
+      "alias": [
+        "dragon quest vii reimagined",
+        "dq7 reimagined",
+        "dqvii reimagined",
+        "勇者鬥惡龍7 重製版"
+      ],
+      "productKeys": [
+        "steam:2499860"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "勇者鬥惡龍 VII Reimagined",
+          "dragon quest vii reimagined",
+          "dq7 reimagined",
+          "dqvii reimagined",
+          "勇者鬥惡龍7 重製版"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "歧路旅人0",
+      "alias": [
+        "octopath traveler 0",
+        "ot0",
+        "八方旅人0"
+      ],
+      "productKeys": [
+        "steam:3014320"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "歧路旅人0",
+          "octopath traveler 0",
+          "ot0",
+          "八方旅人0"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "alias": [
+        "oblivion remastered",
+        "the elder scrolls iv oblivion remastered",
+        "上古卷軸4 重製版",
+        "遺忘之都 重製版"
+      ],
+      "productKeys": [
+        "steam:2623190"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "The Elder Scrolls IV: Oblivion Remastered",
+          "oblivion remastered",
+          "the elder scrolls iv oblivion remastered",
+          "上古卷軸4 重製版",
+          "遺忘之都 重製版"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Grounded 2",
+      "alias": [
+        "grounded 2",
+        "禁閉求生2"
+      ],
+      "productKeys": [
+        "steam:2661300",
+        "playstation:/concept/10016651"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Grounded 2",
+          "grounded 2",
+          "禁閉求生2"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "明末：淵虛之羽",
+      "alias": [
+        "wuchang fallen feathers",
+        "wuchang",
+        "明末"
+      ],
+      "productKeys": [
+        "steam:2277560"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "明末：淵虛之羽",
+          "wuchang fallen feathers",
+          "wuchang",
+          "明末"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "時間旅者：重生曙光",
+      "alias": [
+        "cronos the new dawn",
+        "cronos: the new dawn"
+      ],
+      "productKeys": [
+        "steam:2101960"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "時間旅者：重生曙光",
+          "cronos the new dawn",
+          "cronos: the new dawn"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "MONSTER HUNTER STORIES 3: 命運雙龍",
+      "alias": [
+        "monster hunter stories 3",
+        "mhs3",
+        "魔物獵人物語3",
+        "命運雙龍"
+      ],
+      "productKeys": [
+        "steam:2852190"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "MONSTER HUNTER STORIES 3: 命運雙龍",
+          "monster hunter stories 3",
+          "mhs3",
+          "魔物獵人物語3",
+          "命運雙龍"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Grand Theft Auto VI",
+      "alias": [
+        "grand theft auto vi",
+        "gta vi",
+        "gta 6",
+        "gta6",
+        "俠盜獵車手6"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "Grand Theft Auto VI",
+          "grand theft auto vi",
+          "gta vi",
+          "gta 6",
+          "gta6",
+          "俠盜獵車手6"
+        ],
+        "result": "名稱與 5 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "人中之龍0 誓約的場所 導演剪輯版",
+      "alias": [
+        "yakuza 0 director's cut",
+        "yakuza 0 directors cut",
+        "人中之龍0 導演剪輯版"
+      ],
+      "productKeys": [
+        "steam:2988580"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "人中之龍0 誓約的場所 導演剪輯版",
+          "yakuza 0 director's cut",
+          "yakuza 0 directors cut",
+          "人中之龍0 導演剪輯版"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "寶可夢傳說 Z-A",
+      "alias": [
+        "pokemon legends z-a",
+        "pokémon legends z-a",
+        "pokemon legends za",
+        "寶可夢傳說ZA"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "寶可夢傳說 Z-A",
+          "pokemon legends z-a",
+          "pokémon legends z-a",
+          "pokemon legends za",
+          "寶可夢傳說ZA"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "卡比的馭天飛行者",
+      "alias": [
+        "kirby air riders"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "卡比的馭天飛行者",
+          "kirby air riders"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "ZELDA無雙 封印戰記",
+      "alias": [
+        "hyrule warriors age of imprisonment",
+        "薩爾達無雙 封印戰記",
+        "封印戰記"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "ZELDA無雙 封印戰記",
+          "hyrule warriors age of imprisonment",
+          "薩爾達無雙 封印戰記",
+          "封印戰記"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "超級瑪利歐銀河 + 超級瑪利歐銀河 2",
+      "alias": [
+        "super mario galaxy",
+        "super mario galaxy 2",
+        "super mario galaxy + super mario galaxy 2",
+        "瑪利歐銀河"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "超級瑪利歐銀河 + 超級瑪利歐銀河 2",
+          "super mario galaxy",
+          "super mario galaxy 2",
+          "super mario galaxy + super mario galaxy 2",
+          "瑪利歐銀河"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "瑪利歐網球 狂熱",
+      "alias": [
+        "mario tennis fever"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "瑪利歐網球 狂熱",
+          "mario tennis fever"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Pokémon Champions",
+      "alias": [
+        "pokemon champions",
+        "pokémon champions"
+      ],
+      "productKeys": [
+        "apple:6741503079"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Pokémon Champions",
+          "pokemon champions",
+          "pokémon champions"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "耀西與不可思議的圖鑑",
+      "alias": [
+        "yoshi and the mysterious book"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "耀西與不可思議的圖鑑",
+          "yoshi and the mysterious book"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "拖曳＆突破",
+      "alias": [
+        "drag x drive",
+        "拖曳突破"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "拖曳＆突破",
+          "drag x drive",
+          "拖曳突破"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "節奏天國 奇蹟之星",
+      "alias": [
+        "rhythm heaven groove"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "節奏天國 奇蹟之星",
+          "rhythm heaven groove"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Rocket League",
+      "alias": [
+        "rocket league",
+        "火箭聯盟"
+      ],
+      "productKeys": [
+        "steam:252950"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Rocket League",
+          "rocket league",
+          "火箭聯盟"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "黎明死線",
+      "alias": [
+        "dead by daylight",
+        "dbd",
+        "黎明殺機"
+      ],
+      "productKeys": [
+        "steam:381210"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "黎明死線",
+          "dead by daylight",
+          "dbd",
+          "黎明殺機"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "方舟：生存升級",
+      "alias": [
+        "ark survival ascended",
+        "ark: survival ascended",
+        "asa",
+        "方舟 生存飛升"
+      ],
+      "productKeys": [
+        "steam:2399830"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "方舟：生存升級",
+          "ark survival ascended",
+          "ark: survival ascended",
+          "asa",
+          "方舟 生存飛升"
+        ],
+        "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Deep Rock Galactic",
+      "alias": [
+        "deep rock galactic",
+        "drg",
+        "深岩銀河"
+      ],
+      "productKeys": [
+        "steam:548430"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Deep Rock Galactic",
+          "deep rock galactic",
+          "drg",
+          "深岩銀河"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Undertale",
+      "alias": [
+        "undertale",
+        "傳說之下"
+      ],
+      "productKeys": [
+        "steam:391540"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Undertale",
+          "undertale",
+          "傳說之下"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Outer Wilds",
+      "alias": [
+        "outer wilds",
+        "星際拓荒"
+      ],
+      "productKeys": [
+        "steam:753640"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Outer Wilds",
+          "outer wilds",
+          "星際拓荒"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "極樂迪斯可",
+      "alias": [
+        "disco elysium",
+        "disco elysium the final cut",
+        "極樂迪斯科"
+      ],
+      "productKeys": [
+        "steam:632470"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "極樂迪斯可",
+          "disco elysium",
+          "disco elysium the final cut",
+          "極樂迪斯科"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "師父",
+      "alias": [
+        "sifu"
+      ],
+      "productKeys": [
+        "steam:2138710"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "師父",
+          "sifu"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "進擊羔羊傳說",
+      "alias": [
+        "cult of the lamb",
+        "咩咩啟示錄"
+      ],
+      "productKeys": [
+        "steam:1313140",
+        "apple:1639580858"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "進擊羔羊傳說",
+          "cult of the lamb",
+          "咩咩啟示錄"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Hotline Miami",
+      "alias": [
+        "hotline miami",
+        "火線邁阿密",
+        "邁阿密熱線"
+      ],
+      "productKeys": [
+        "steam:219150"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Hotline Miami",
+          "hotline miami",
+          "火線邁阿密",
+          "邁阿密熱線"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Rain World",
+      "alias": [
+        "rain world",
+        "雨世界"
+      ],
+      "productKeys": [
+        "steam:312520",
+        "playstation:/concept/221982"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Rain World",
+          "rain world",
+          "雨世界"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "幽影行者 2",
+      "alias": [
+        "ghostrunner 2",
+        "幽靈行者2"
+      ],
+      "productKeys": [
+        "steam:2144740"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "幽影行者 2",
+          "ghostrunner 2",
+          "幽靈行者2"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Slime Rancher 2",
+      "alias": [
+        "slime rancher 2",
+        "史萊姆牧場2"
+      ],
+      "productKeys": [
+        "steam:1657630"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Slime Rancher 2",
+          "slime rancher 2",
+          "史萊姆牧場2"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Thronefall",
+      "alias": [
+        "thronefall"
+      ],
+      "productKeys": [
+        "steam:2239150",
+        "playstation:/concept/10018202",
+        "apple:6744029320",
+        "google:com.doghowlgames.thronefall"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Thronefall",
+          "thronefall"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Pseudoregalia",
+      "alias": [
+        "pseudoregalia"
+      ],
+      "productKeys": [
+        "steam:2365810"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Pseudoregalia",
+          "pseudoregalia"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Rusty's Retirement",
+      "alias": [
+        "rusty's retirement",
+        "rustys retirement"
+      ],
+      "productKeys": [
+        "steam:2666510"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Rusty's Retirement",
+          "rusty's retirement",
+          "rustys retirement"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "傳說酒館",
+      "alias": [
+        "ale & tale tavern",
+        "ale and tale tavern"
+      ],
+      "productKeys": [
+        "steam:2683150"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "傳說酒館",
+          "ale & tale tavern",
+          "ale and tale tavern"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "REMATCH",
+      "alias": [
+        "rematch",
+        "sloclap rematch"
+      ],
+      "productKeys": [
+        "steam:2138720",
+        "playstation:/concept/10011349"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "REMATCH",
+          "rematch",
+          "sloclap rematch"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "絕對魔權",
+      "alias": [
+        "absolum"
+      ],
+      "productKeys": [
+        "steam:1904480",
+        "apple:6762192063"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "絕對魔權",
+          "absolum"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Hytale",
+      "alias": [
+        "hytale"
+      ],
+      "productKeys": [],
+      "duplicateCheck": {
+        "queries": [
+          "Hytale",
+          "hytale"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Subnautica 2",
+      "alias": [
+        "subnautica 2",
+        "深海迷航2"
+      ],
+      "productKeys": [
+        "steam:1962700"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Subnautica 2",
+          "subnautica 2",
+          "深海迷航2"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "多重人生",
+      "alias": [
+        "the alters"
+      ],
+      "productKeys": [
+        "steam:1601570",
+        "playstation:/concept/10008217"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "多重人生",
+          "the alters"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "午夜漫步",
+      "alias": [
+        "the midnight walk",
+        "midnight walk"
+      ],
+      "productKeys": [
+        "steam:2863640"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "午夜漫步",
+          "the midnight walk",
+          "midnight walk"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Lost Records: Bloom & Rage",
+      "alias": [
+        "lost records bloom & rage",
+        "lost records",
+        "lost records bloom and rage"
+      ],
+      "productKeys": [
+        "steam:1902960",
+        "playstation:/concept/10009639"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Lost Records: Bloom & Rage",
+          "lost records bloom & rage",
+          "lost records",
+          "lost records bloom and rage"
+        ],
+        "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "九王",
+      "alias": [
+        "9 kings",
+        "nine kings"
+      ],
+      "productKeys": [
+        "steam:2784470",
+        "apple:6757860952"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "九王",
+          "9 kings",
+          "nine kings"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "死亡呼嘯",
+      "alias": [
+        "death howl"
+      ],
+      "productKeys": [
+        "steam:2825880",
+        "playstation:/concept/10015602"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "死亡呼嘯",
+          "death howl"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Sektori",
+      "alias": [
+        "sektori"
+      ],
+      "productKeys": [
+        "steam:2105620",
+        "playstation:/concept/10013523"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Sektori",
+          "sektori"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Ballionaire",
+      "alias": [
+        "ballionaire"
+      ],
+      "productKeys": [
+        "steam:2667120"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Ballionaire",
+          "ballionaire"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "Keeper",
+      "alias": [
+        "keeper",
+        "double fine keeper"
+      ],
+      "productKeys": [
+        "playstation:/concept/10020501"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "Keeper",
+          "keeper",
+          "double fine keeper"
+        ],
+        "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "夢之形",
+      "alias": [
+        "shape of dreams"
+      ],
+      "productKeys": [
+        "steam:2444750",
+        "playstation:/concept/10018441"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "夢之形",
+          "shape of dreams"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    },
+    {
+      "name": "FragPunk",
+      "alias": [
+        "fragpunk"
+      ],
+      "productKeys": [
+        "steam:2943650",
+        "playstation:/concept/10012871"
+      ],
+      "duplicateCheck": {
+        "queries": [
+          "FragPunk",
+          "fragpunk"
+        ],
+        "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+      }
+    }
+  ],
+  "existingSharedTerms": [
+    {
+      "term": "zelda",
+      "names": [
+        "薩爾達傳說 王國之淚",
+        "薩爾達傳說 曠野之息",
+        "薩爾達傳說 織夢島"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mario",
+      "names": [
+        "超級瑪利歐兄弟 驚奇",
+        "超級瑪利歐 奧德賽"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "splatoon",
+      "names": [
+        "斯普拉遁3",
+        "漆彈大作戰"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "漆彈",
+      "names": [
+        "斯普拉遁3",
+        "漆彈大作戰"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "噴噴",
+      "names": [
+        "斯普拉遁3",
+        "漆彈大作戰"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "pokemon",
+      "names": [
+        "寶可夢 朱／紫",
+        "寶可夢傳說 阿爾宙斯",
+        "寶可夢 晶燦鑽石／明亮珍珠",
+        "寶可夢 劍／盾",
+        "寶可夢 Let's Go 皮卡丘/伊布"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "sv",
+      "names": [
+        "寶可夢 朱／紫",
+        "影之詩"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "xenoblade",
+      "names": [
+        "異度神劍3",
+        "異度神劍2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "異度神劍",
+      "names": [
+        "異度神劍3",
+        "異度神劍2",
+        "異度神劍"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "fireemblem",
+      "names": [
+        "火焰之紋章 Engage",
+        "火焰之紋章 風花雪月"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "hyrulewarriors",
+      "names": [
+        "薩爾達無雙 災厄啟示錄",
+        "薩爾達傳說 無雙"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "marioparty",
+      "names": [
+        "瑪利歐派對 超級巨星",
+        "超級瑪利歐派對"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "瑪派",
+      "names": [
+        "瑪利歐派對 超級巨星",
+        "超級瑪利歐派對"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "符文工房",
+      "names": [
+        "符文工廠5",
+        "符文工廠4 豪華版",
+        "符文工廠4（3DS原版）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "runefactory",
+      "names": [
+        "符文工廠5",
+        "符文工廠4 豪華版",
+        "符文工廠4（3DS原版）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "符文工廠",
+      "names": [
+        "符文工廠5",
+        "符文工廠4 豪華版",
+        "符文工廠4（3DS原版）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "monsterhunter",
+      "names": [
+        "魔物獵人 崛起",
+        "魔物獵人 崛起：破曉"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "破曉",
+      "names": [
+        "魔物獵人 崛起：破曉",
+        "破曉傳奇",
+        "惡名昭彰 破曉"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "octopath",
+      "names": [
+        "八方旅人",
+        "八方旅人2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "巫師",
+      "names": [
+        "巫師3：狂獵 完整版",
+        "巫師"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "overcooked",
+      "names": [
+        "胡鬧廚房 全都好吃",
+        "胡鬧廚房"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "胡鬧廚房",
+      "names": [
+        "胡鬧廚房 全都好吃",
+        "胡鬧廚房"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "煮過頭",
+      "names": [
+        "胡鬧廚房 全都好吃",
+        "胡鬧廚房"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "太鼓達人",
+      "names": [
+        "太鼓之達人 咚咔！二合一大冒險",
+        "太鼓之達人 咚咚雷音祭",
+        "Taiko no Tatsujin: Drum Session!"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "eldenring",
+      "names": [
+        "艾爾登法環",
+        "艾爾登法環 黃金樹幽影"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "荒野",
+      "names": [
+        "魔物獵人 荒野",
+        "荒野亂鬥"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "cs2",
+      "names": [
+        "絕對武力2",
+        "都市：天際線2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dota",
+      "names": [
+        "Dota 2",
+        "Dota"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "時之笛",
+      "names": [
+        "薩爾達傳說 時之笛",
+        "薩爾達傳說 時之笛3D"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "吃雞",
+      "names": [
+        "絕地求生",
+        "和平精英"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "天際線",
+      "names": [
+        "都市：天際線2",
+        "城市 天際線"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "bb",
+      "names": [
+        "血源詛咒",
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "仁王",
+      "names": [
+        "仁王",
+        "仁王3"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "方舟",
+      "names": [
+        "明日方舟",
+        "ARK 生存進化"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "ark",
+      "names": [
+        "明日方舟",
+        "ARK 生存進化"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "bd2",
+      "names": [
+        "棕色塵埃2",
+        "勇氣默示錄2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "poe2",
+      "names": [
+        "流亡黯道2",
+        "永恆之柱2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "codm",
+      "names": [
+        "決勝時刻 Mobile",
+        "使命召喚手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "wf",
+      "names": [
+        "星際戰甲",
+        "彈射世界"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "逆轉裁判系列",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "aceattorney",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "逆轉",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "逆轉裁判",
+      "names": [
+        "逆轉裁判456 王泥喜精選集",
+        "逆轉裁判123 成步堂精選集"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "p3",
+      "names": [
+        "女神異聞錄3 Reload",
+        "女神異聞錄3 攜帶版"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dd",
+      "names": [
+        "暗黑地牢",
+        "龍族教義"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "殺戮尖塔",
+      "names": [
+        "殺戮尖塔",
+        "殺戮尖塔2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "毀滅戰士",
+      "names": [
+        "毀滅戰士 永恆",
+        "毀滅戰士"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "絕命暗殺令",
+      "names": [
+        "刺客任務3",
+        "Hitman: Codename 47"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "hitman",
+      "names": [
+        "刺客任務3",
+        "Hitman: Codename 47"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "刺客任務",
+      "names": [
+        "刺客任務3",
+        "刺客任務",
+        "Hitman: Codename 47"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "tf2",
+      "names": [
+        "泰坦降臨2",
+        "Team Fortress 2"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "monsterhunterstories",
+      "names": [
+        "魔物獵人 物語（原版）",
+        "魔物獵人 物語 重製版"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "農場模擬器系列",
+      "names": [
+        "農場模擬器22",
+        "Farming Simulator 25"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "farmingsimulator",
+      "names": [
+        "農場模擬器22",
+        "Farming Simulator 25"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "太鼓之達人",
+      "names": [
+        "太鼓之達人 咚咚雷音祭",
+        "Taiko no Tatsujin: Drum Session!"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "taikonotatsujin",
+      "names": [
+        "太鼓之達人 咚咚雷音祭",
+        "Taiko no Tatsujin: Drum Session!"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "微軟模擬飛行",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "microsoftflightsimulator",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "模擬飛行",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "msfs",
+      "names": [
+        "Microsoft Flight Simulator 2024",
+        "Microsoft Flight Simulator（2020）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "神鬼寓言",
+      "names": [
+        "Fable（Playground Games 重啟版）",
+        "Fable（2004 Xbox原作）",
+        "Fable Anniversary"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "fable",
+      "names": [
+        "Fable（Playground Games 重啟版）",
+        "Fable（2004 Xbox原作）",
+        "Fable Anniversary"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "模擬城市",
+      "names": [
+        "SimCity（2013）",
+        "SimCity 4 Deluxe Edition"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "simcity",
+      "names": [
+        "SimCity（2013）",
+        "SimCity 4 Deluxe Edition"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "遊戲王worldchampionship",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "yugiohwc",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "yugiohworldchampionship",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "遊戲王世界冠軍大賽",
+      "names": [
+        "遊戲王 Duel Monsters Expert 2006",
+        "遊戲王 5D's World Championship 2011: Over the Nexus"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大富翁系列",
+      "names": [
+        "大富翁4（Steam版）",
+        "大富翁11"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "richman",
+      "names": [
+        "大富翁4（Steam版）",
+        "大富翁11"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大富翁",
+      "names": [
+        "大富翁4（Steam版）",
+        "大富翁11"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "極限脫出系列",
+      "names": [
+        "Zero Escape: Virtue's Last Reward",
+        "Zero Escape: The Nonary Games"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "zeroescape",
+      "names": [
+        "Zero Escape: Virtue's Last Reward",
+        "Zero Escape: The Nonary Games"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "極限脫出",
+      "names": [
+        "Zero Escape: Virtue's Last Reward",
+        "Zero Escape: The Nonary Games"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "蒼翼默示錄",
+      "names": [
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "blazblue",
+      "names": [
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "蒼翼",
+      "names": [
+        "BlazBlue: Calamity Trigger",
+        "BlazBlue: Centralfiction"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "夢幻西遊",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "fantasywestwardjourney",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "夢幻",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mhxy",
+      "names": [
+        "夢幻西遊電腦版",
+        "夢幻西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大話西遊",
+      "names": [
+        "大話西遊2經典版",
+        "大話西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "westwardjourney",
+      "names": [
+        "大話西遊2經典版",
+        "大話西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "大話",
+      "names": [
+        "大話西遊2經典版",
+        "大話西遊手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "劍俠情緣",
+      "names": [
+        "劍俠情緣網絡版叁",
+        "新劍俠情緣手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "swordsmanlove",
+      "names": [
+        "劍俠情緣網絡版叁",
+        "新劍俠情緣手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "劍俠",
+      "names": [
+        "劍俠情緣網絡版叁",
+        "新劍俠情緣手遊"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mlbtheshow",
+      "names": [
+        "MLB The Show 24",
+        "MLB The Show 26"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "mlb",
+      "names": [
+        "MLB The Show 24",
+        "MLB The Show 26"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "腦鍛鍊",
+      "names": [
+        "Dr Kawashima's Brain Training: How Old Is Your Brain?",
+        "Dr Kawashima's Brain Training for Nintendo Switch"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "braintraining",
+      "names": [
+        "Dr Kawashima's Brain Training: How Old Is Your Brain?",
+        "Dr Kawashima's Brain Training for Nintendo Switch"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "腦鍛",
+      "names": [
+        "Dr Kawashima's Brain Training: How Old Is Your Brain?",
+        "Dr Kawashima's Brain Training for Nintendo Switch"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "勇者鬥惡龍怪物仙境",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dragonquestmonsters",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "dqm",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "怪物仙境",
+      "names": [
+        "Dragon Quest Monsters: Terry's Wonderland RETRO",
+        "Dragon Quest Monsters: The Dark Prince"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "perfectdark",
+      "names": [
+        "Perfect Dark（2000 原作）",
+        "Perfect Dark（2010 HD版）",
+        "Perfect Dark（The Initiative 重啟案）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    },
+    {
+      "term": "完美黑暗",
+      "names": [
+        "Perfect Dark（2000 原作）",
+        "Perfect Dark（2010 HD版）",
+        "Perfect Dark（The Initiative 重啟案）"
+      ],
+      "disposition": "existing shared search term; no automatic merge"
+    }
+  ]
+}

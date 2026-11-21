@@ -1,0 +1,2272 @@
+[
+  {
+    "game": {
+      "name": "邊緣禁地4",
+      "alias": [
+        "borderlands 4",
+        "bl4",
+        "邊緣禁地®4"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🔫",
+      "category": "射擊RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 59,561 則推薦（recommendations，2026-11-22 快照），Metacritic 81；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 11, 2025 發售本篇／正式版；最早發售 2025-09-12。",
+      "sources": [
+        "https://store.steampowered.com/app/1285190/",
+        "https://store.steampowered.com/api/appdetails?appids=1285190&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1285190&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/borderlands-4/",
+        "https://www.xbox.com/en-US/games/store/borderlands-4/9MX6HKF5647G",
+        "https://borderlands.2k.com/borderlands-4/news/borderlands-4-pre-order-nintendo-switch-2/",
+        "https://www.playstation.com/en-us/games/borderlands-4/"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S；Switch 2 版經 2K 官方公告延期且未定新日期，不列入平台。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1285190&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1285190&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/borderlands-4/",
+        "https://www.xbox.com/en-US/games/store/borderlands-4/9MX6HKF5647G",
+        "https://borderlands.2k.com/borderlands-4/news/borderlands-4-pre-order-nintendo-switch-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Gearbox Software 開發、2K 發行的 Borderlands 系列第四部正篇。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1285190&l=english",
+        "finding": "Steam 商店 API 回傳「Borderlands 4」（app 1285190），平台 Windows，發售日 Sep 11, 2025，開發 Gearbox Software。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1285190&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「邊緣禁地®4」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/borderlands-4/",
+        "finding": "PlayStation 台灣頁標題「邊緣禁地®4」，平台 PS5，推出日 2025/9/11，發行 Take-Two（2K Games）。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/borderlands-4/9MX6HKF5647G",
+        "finding": "Xbox 商店「Borderlands®4」支援 Xbox Series X|S 與雲端（無 Xbox One），2025/9/13，開發 Gearbox、發行 2K。"
+      },
+      {
+        "source": "https://borderlands.2k.com/borderlands-4/news/borderlands-4-pre-order-nintendo-switch-2/",
+        "finding": "2K 官方 2025-09-23 公告 Switch 2 版（原定 2025-10-03）延期且未定新日期，數位預購取消；本條目不列 Switch 2。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1285190&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 59561，metacritic.score 為 81（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "邊緣禁地4",
+        "borderlands 4",
+        "bl4",
+        "邊緣禁地®4"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "NINJA GAIDEN 4",
+      "alias": [
+        "ninja gaiden 4",
+        "忍者外傳4",
+        "忍龍4"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🥷",
+      "category": "動作",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 8,842 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 20, 2025 發售本篇／正式版；最早發售 2025-10-21。",
+      "sources": [
+        "https://store.steampowered.com/app/2627260/",
+        "https://store.steampowered.com/api/appdetails?appids=2627260&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2627260&l=tchinese",
+        "https://www.xbox.com/en-US/games/store/ninja-gaiden-4/9N7358JZPX1Z",
+        "https://www.playstation.com/zh-hant-tw/games/ninja-gaiden-4/"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S；未推出 Xbox One 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2627260&l=english",
+        "https://www.xbox.com/en-US/games/store/ninja-gaiden-4/9N7358JZPX1Z",
+        "https://www.playstation.com/zh-hant-tw/games/ninja-gaiden-4/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Team NINJA 與 PlatinumGames 開發、Xbox Game Studios 發行的系列新作正篇；不是 NINJA GAIDEN 2 Black 或 Master Collection。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2627260&l=english",
+        "finding": "Steam 商店 API 回傳「NINJA GAIDEN 4」（app 2627260），平台 Windows，發售日 Oct 20, 2025，開發 PlatinumGames Inc. / Team NINJA / KOEI TECMO GAMES CO., LTD.。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/ninja-gaiden-4/9N7358JZPX1Z",
+        "finding": "Xbox 商店「NINJA GAIDEN 4 Standard Edition」支援 PC、Xbox Series X|S 與雲端（無 Xbox One），2025/10/21，發行 Xbox Game Studios。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/ninja-gaiden-4/",
+        "finding": "PlayStation 台灣頁「NINJA GAIDEN 4」平台 PS5，推出日 2025/10/21，發行 Microsoft Corporation。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2627260&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 8842（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "NINJA GAIDEN 4",
+        "ninja gaiden 4",
+        "忍者外傳4",
+        "忍龍4"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "SILENT HILL f",
+      "alias": [
+        "silent hill f",
+        "沉默之丘f",
+        "寂靜嶺f"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🌺",
+      "category": "恐怖",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 19,721 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 24, 2025 發售本篇／正式版；最早發售 2025-09-25。",
+      "sources": [
+        "https://store.steampowered.com/app/2947440/",
+        "https://store.steampowered.com/api/appdetails?appids=2947440&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2947440&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/silent-hill-f/",
+        "https://www.xbox.com/en-US/games/store/silent-hill-f/9NWTMTLS2ZPB",
+        "https://www.konami.com/games/us/en/topics/2868/"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2947440&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/silent-hill-f/",
+        "https://www.xbox.com/en-US/games/store/silent-hill-f/9NWTMTLS2ZPB",
+        "https://www.konami.com/games/us/en/topics/2868/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "NeoBards Entertainment 開發、KONAMI 發行的 SILENT HILL 系列新作，舞台為 1960 年代日本；與 SILENT HILL 2 重製版分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2947440&l=english",
+        "finding": "Steam 商店 API 回傳「SILENT HILL f」（app 2947440），平台 Windows，發售日 Sep 24, 2025，開發 NeoBards Entertainment Ltd.。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/silent-hill-f/",
+        "finding": "PlayStation 台灣頁「SILENT HILL f」平台 PS5，推出日 2025/9/24，發行 KONAMI。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/silent-hill-f/9NWTMTLS2ZPB",
+        "finding": "Xbox 商店「SILENT HILL f」支援 PC、Xbox Series X|S 與雲端（無 Xbox One），開發 NeoBards、發行 KONAMI。"
+      },
+      {
+        "source": "https://www.konami.com/games/us/en/topics/2868/",
+        "finding": "KONAMI 官方公告列出 PlayStation 5、Xbox Series X|S、Steam、Epic Games 與 Windows，9 月 25 日上市。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2947440&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 19721（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "SILENT HILL f",
+        "silent hill f",
+        "沉默之丘f",
+        "寂靜嶺f"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "消逝的光芒：困獸",
+      "alias": [
+        "dying light the beast",
+        "dying light: the beast",
+        "垂死之光 野獸"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🧟",
+      "category": "生存恐怖",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 61,922 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 18, 2025 發售本篇／正式版；最早發售 2025-09-18。",
+      "sources": [
+        "https://store.steampowered.com/app/3008130/",
+        "https://store.steampowered.com/api/appdetails?appids=3008130&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3008130&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/dying-light-the-beast/",
+        "https://www.xbox.com/en-US/games/store/dying-light-the-beast/9P7ZG9MQKKLN",
+        "https://dyinglightgame.com/the-beast/"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S；未推出上一代主機與 Switch 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3008130&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/dying-light-the-beast/",
+        "https://www.xbox.com/en-US/games/store/dying-light-the-beast/9P7ZG9MQKKLN",
+        "https://dyinglightgame.com/the-beast/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Techland 開發發行的獨立作品，主角為凱爾克蘭；原規劃為 Dying Light 2 擴充，後獨立推出，不是 Dying Light 2 本篇。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3008130&l=english",
+        "finding": "Steam 商店 API 回傳「Dying Light: The Beast」（app 3008130），平台 Windows，發售日 Sep 18, 2025，開發 Techland。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/dying-light-the-beast/",
+        "finding": "PlayStation 台灣頁「Dying Light: The Beast（消逝的光芒：困獸）」平台 PS5，2025/9/18，發行 TECHLAND。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/dying-light-the-beast/9P7ZG9MQKKLN",
+        "finding": "Xbox 商店支援 Xbox Series X|S 與雲端（無 Xbox One），2025/9/18，Techland 開發發行。"
+      },
+      {
+        "source": "https://dyinglightgame.com/the-beast/",
+        "finding": "官方 FAQ：可於 PC（Steam、Epic）、PS5／PS5 Pro、Xbox Series X|S 遊玩。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3008130&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 61922（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "消逝的光芒：困獸",
+        "dying light the beast",
+        "dying light: the beast",
+        "垂死之光 野獸"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "四海兄弟：故鄉",
+      "alias": [
+        "mafia the old country",
+        "mafia: the old country",
+        "四海兄弟 故鄉"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🎩",
+      "category": "動作冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 21,478 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 7, 2025 發售本篇／正式版；最早發售 2025-08-08。",
+      "sources": [
+        "https://store.steampowered.com/app/1941540/",
+        "https://store.steampowered.com/api/appdetails?appids=1941540&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1941540&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/mafia-the-old-country/",
+        "https://www.xbox.com/en-US/games/store/mafia-the-old-country/9P834N9S4LL0"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1941540&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1941540&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/mafia-the-old-country/",
+        "https://www.xbox.com/en-US/games/store/mafia-the-old-country/9P834N9S4LL0"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Hangar 13 開發、2K 發行的 Mafia 系列前傳，舞台為 1900 年代西西里；與 Mafia: Definitive Edition 分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1941540&l=english",
+        "finding": "Steam 商店 API 回傳「Mafia: The Old Country」（app 1941540），平台 Windows，發售日 Aug 7, 2025，開發 Hangar 13。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1941540&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「四海兄弟：故鄉」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/mafia-the-old-country/",
+        "finding": "PlayStation 台灣頁「四海兄弟：故鄉」平台 PS5，推出日 2025/8/7，發行 Take-Two。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/mafia-the-old-country/9P834N9S4LL0",
+        "finding": "Xbox 商店支援 Xbox Series X|S 與雲端（無 Xbox One），2025/8/8，開發 Hangar 13、發行 2K。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1941540&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 21478（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "四海兄弟：故鄉",
+        "mafia the old country",
+        "mafia: the old country",
+        "四海兄弟 故鄉"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "The Outer Worlds 2",
+      "alias": [
+        "the outer worlds 2",
+        "outer worlds 2",
+        "天外世界2"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🪐",
+      "category": "RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 8,728 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 29, 2025 發售本篇／正式版；最早發售 2025-10-29。",
+      "sources": [
+        "https://store.steampowered.com/app/1449110/",
+        "https://store.steampowered.com/api/appdetails?appids=1449110&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1449110&l=tchinese",
+        "https://www.xbox.com/en-US/games/store/the-outer-worlds-2/9P8RMKXRML7D",
+        "https://www.playstation.com/zh-hant-tw/games/the-outer-worlds-2/"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S；未推出 Xbox One 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1449110&l=english",
+        "https://www.xbox.com/en-US/games/store/the-outer-worlds-2/9P8RMKXRML7D",
+        "https://www.playstation.com/zh-hant-tw/games/the-outer-worlds-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Obsidian Entertainment 開發、Xbox Game Studios 發行的續作；與 2019 年《天外世界》及 Mobius 的 Outer Wilds 分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1449110&l=english",
+        "finding": "Steam 商店 API 回傳「The Outer Worlds 2」（app 1449110），平台 Windows，發售日 Oct 29, 2025，開發 Obsidian Entertainment。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/the-outer-worlds-2/9P8RMKXRML7D",
+        "finding": "Xbox 商店支援 PC、Xbox Series X|S、雲端與掌機（無 Xbox One），2025/10/29，開發 Obsidian、發行 Xbox Game Studios。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/the-outer-worlds-2/",
+        "finding": "PlayStation 台灣頁平台欄只列 PS5，推出日 2025/10/29，發行 Microsoft Corporation。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1449110&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 8728（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "The Outer Worlds 2",
+        "the outer worlds 2",
+        "outer worlds 2",
+        "天外世界2"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Hell is Us",
+      "alias": [
+        "hell is us"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🗡️",
+      "category": "動作冒險",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 4,829 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 4, 2025 發售本篇／正式版；最早發售 2025-09-04。",
+      "sources": [
+        "https://store.steampowered.com/app/1620730/",
+        "https://store.steampowered.com/api/appdetails?appids=1620730&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1620730&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/hell-is-us/",
+        "https://www.xbox.com/en-US/games/store/hell-is-us/9N9097G0XZMB"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1620730&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/hell-is-us/",
+        "https://www.xbox.com/en-US/games/store/hell-is-us/9N9097G0XZMB"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Rogue Factor 開發、Nacon 發行的第三人稱動作冒險新作。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1620730&l=english",
+        "finding": "Steam 商店 API 回傳「Hell is Us」（app 1620730），平台 Windows，發售日 Sep 4, 2025，開發 Rogue Factor。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/hell-is-us/",
+        "finding": "PlayStation 台灣頁「Hell is Us」平台 PS5，推出日 2025/9/4，發行 NACON SA。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/hell-is-us/9N9097G0XZMB",
+        "finding": "Xbox 商店支援 Xbox Series X|S、PC、雲端與掌機（無 Xbox One），2025/9/4，開發 Rogue Factor、發行 Nacon。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1620730&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 4829（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Hell is Us",
+        "hell is us"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+      "alias": [
+        "final fantasy tactics the ivalice chronicles",
+        "fft ivalice chronicles",
+        "太空戰士戰略版 重製版"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Switch/Switch 2",
+      "icon": "♟️",
+      "category": "策略RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 5,899 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 30, 2025 發售本篇／正式版；最早發售 2025-09-30。",
+      "sources": [
+        "https://store.steampowered.com/app/1004640/",
+        "https://store.steampowered.com/api/appdetails?appids=1004640&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1004640&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/final-fantasy-tactics-the-ivalice-chronicles/",
+        "https://www.xbox.com/en-US/games/store/final-fantasy-tactics-the-ivalice-chronicles/9MZ2MC7T85T5",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles-2881422.html",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles-Nintendo-Switch-2-Edition-2881480.html"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Switch 與 Switch 2 Edition；Switch 版可免費升級為 Switch 2 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1004640&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/final-fantasy-tactics-the-ivalice-chronicles/",
+        "https://www.xbox.com/en-US/games/store/final-fantasy-tactics-the-ivalice-chronicles/9MZ2MC7T85T5",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles-2881422.html",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles-Nintendo-Switch-2-Edition-2881480.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Square Enix 對 1997 年 PS1《Final Fantasy Tactics》的重製版，含強化版與經典版；與 PS1 原版及 PSP／手機《獅子戰爭》分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1004640&l=english",
+        "finding": "Steam 商店 API 回傳「FINAL FANTASY TACTICS - The Ivalice Chronicles」（app 1004640），平台 Windows，發售日 Sep 30, 2025，開發 Square Enix。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/final-fantasy-tactics-the-ivalice-chronicles/",
+        "finding": "PlayStation 台灣頁「FINAL FANTASY TACTICS - The Ivalice Chronicles」平台 PS4／PS5，推出日 2025/9/29，發行 SQUARE ENIX。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/final-fantasy-tactics-the-ivalice-chronicles/9MZ2MC7T85T5",
+        "finding": "Xbox 商店支援 Xbox Series X|S 與雲端（無 Xbox One），2025/9/30，Square Enix 開發發行。"
+      },
+      {
+        "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles-2881422.html",
+        "finding": "任天堂英國頁 Nintendo Switch 版，2025/9/30 發售，發行 Square Enix，可免費升級為 Switch 2 版。"
+      },
+      {
+        "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles-Nintendo-Switch-2-Edition-2881480.html",
+        "finding": "任天堂英國頁 Nintendo Switch 2 Edition，2025/9/30，提升影格率與解析度、內容不變。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1004640&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 5899（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+        "final fantasy tactics the ivalice chronicles",
+        "fft ivalice chronicles",
+        "太空戰士戰略版 重製版"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "決勝時刻：黑色行動 7",
+      "alias": [
+        "call of duty black ops 7",
+        "black ops 7",
+        "bo7",
+        "cod bo7",
+        "決勝時刻 黑色行動7"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One",
+      "icon": "🎯",
+      "category": "FPS",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 4,530 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Nov 21, 2025 發售本篇／正式版；最早發售 2025-11-14。",
+      "sources": [
+        "https://store.steampowered.com/app/3606480/",
+        "https://store.steampowered.com/api/appdetails?appids=3606480&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3606480&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/call-of-duty-black-ops-7/",
+        "https://www.xbox.com/en-US/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9PLBM5790L94",
+        "https://www.playstation.com/en-us/games/call-of-duty-black-ops-7/"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One（跨世代組合包）。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3606480&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/call-of-duty-black-ops-7/",
+        "https://www.xbox.com/en-US/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9PLBM5790L94"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Treyarch 與 Raven Software 開發、Activision 發行的 Call of Duty 付費正篇；與免費的 Warzone 及 Call of Duty: Mobile 分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3606480&l=english",
+        "finding": "Steam 商店 API 回傳「Call of Duty®: Black Ops 7」（app 3606480），平台 Windows，發售日 Nov 21, 2025，開發 Treyarch、Raven Software、Beenox、High Moon Studios、Sledgehammer Games、Infinity Ward、Activision Shanghai、Demonware。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/call-of-duty-black-ops-7/",
+        "finding": "PlayStation 台灣頁「《決勝時刻®：黑色行動 7》- 跨世代組合包」平台 PS4／PS5，推出日 2025/11/13，發行 Activision。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/call-of-duty-black-ops-7-cross-gen-bundle/9PLBM5790L94",
+        "finding": "Xbox 商店跨世代組合包支援 Xbox One、Xbox Series X|S、PC 與雲端，發行 Activision。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3606480&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 4530（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "決勝時刻：黑色行動 7",
+        "call of duty black ops 7",
+        "black ops 7",
+        "bo7",
+        "cod bo7",
+        "決勝時刻 黑色行動7"
+      ],
+      "result": "名稱與 5 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "EA SPORTS FC 26",
+      "alias": [
+        "ea sports fc 26",
+        "fc 26",
+        "fc26",
+        "ea fc 26"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+      "icon": "⚽",
+      "category": "足球",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 104,352 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 25, 2025 發售本篇／正式版；最早發售 2025-09-26。",
+      "sources": [
+        "https://store.steampowered.com/app/3405690/",
+        "https://store.steampowered.com/api/appdetails?appids=3405690&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3405690&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/ea-sports-fc-26/",
+        "https://www.xbox.com/en-US/games/store/ea-sports-fc-26-standard-edition-xbox-one-xbox-series-xs/9MXZBTLG26VX",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/EA-SPORTS-FC-26-2874004.html",
+        "https://ec.nintendo.com/AU/en/titles/70010000100268",
+        "https://www.playstation.com/en-us/games/ea-sports-fc-26/"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch 與 Switch 2；Switch 與 Switch 2 為不同商品。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3405690&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/ea-sports-fc-26/",
+        "https://www.xbox.com/en-US/games/store/ea-sports-fc-26-standard-edition-xbox-one-xbox-series-xs/9MXZBTLG26VX",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/EA-SPORTS-FC-26-2874004.html",
+        "https://ec.nintendo.com/AU/en/titles/70010000100268"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "EA Canada 開發、Electronic Arts 發行的 2025–26 年度足球作品；與免費的 EA SPORTS FC Mobile 及其他年度版本分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3405690&l=english",
+        "finding": "Steam 商店 API 回傳「EA SPORTS FC™ 26」（app 3405690），平台 Windows，發售日 Sep 25, 2025，開發 EA Canada、EA Romania。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/ea-sports-fc-26/",
+        "finding": "PlayStation 台灣頁「EA SPORTS FC™ 26」標準版平台 PS4／PS5，推出日 2025/9/25，發行 Electronic Arts。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/ea-sports-fc-26-standard-edition-xbox-one-xbox-series-xs/9MXZBTLG26VX",
+        "finding": "Xbox 商店「EA SPORTS FC™ 26 Standard Edition Xbox One & Xbox Series X|S」，2025/9/26，開發 EA Canada。"
+      },
+      {
+        "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/EA-SPORTS-FC-26-2874004.html",
+        "finding": "任天堂英國頁 Nintendo Switch 版，標準版 2025/9/26，發行 Electronic Arts。"
+      },
+      {
+        "source": "https://ec.nintendo.com/AU/en/titles/70010000100268",
+        "finding": "任天堂澳洲 eShop 列出 Nintendo Switch 2 版「EA SPORTS FC™ 26」，並註明另有 Switch 版。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3405690&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 104352（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "EA SPORTS FC 26",
+        "ea sports fc 26",
+        "fc 26",
+        "fc26",
+        "ea fc 26"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "NBA 2K26",
+      "alias": [
+        "nba 2k26",
+        "2k26"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+      "icon": "🏀",
+      "category": "籃球",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 26,375 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 4, 2025 發售本篇／正式版；最早發售 2025-09-05。",
+      "sources": [
+        "https://store.steampowered.com/app/3472040/",
+        "https://store.steampowered.com/api/appdetails?appids=3472040&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3472040&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/nba-2k26/",
+        "https://www.xbox.com/en-US/games/store/nba-2k26-for-xbox-one/9PP9PFSCJTWR",
+        "https://www.nintendo.com/us/store/products/nba-2k26-switch/",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/NBA-2K26-2910946.html"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch 與 Switch 2。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3472040&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3472040&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/nba-2k26/",
+        "https://www.xbox.com/en-US/games/store/nba-2k26-for-xbox-one/9PP9PFSCJTWR",
+        "https://www.nintendo.com/us/store/products/nba-2k26-switch/",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/NBA-2K26-2910946.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Visual Concepts 開發、2K 發行的 2025–26 年度籃球作品；Apple Arcade 的 NBA 2K26 Arcade Edition 是不同商品，不併入。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3472040&l=english",
+        "finding": "Steam 商店 API 回傳「NBA 2K26」（app 3472040），平台 Windows，發售日 Sep 4, 2025，開發 Visual Concepts。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3472040&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「《NBA 2K26》」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/nba-2k26/",
+        "finding": "PlayStation 台灣頁「NBA 2K26」平台 PS4／PS5，推出日 2025/9/4，發行 Take-Two。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/nba-2k26-for-xbox-one/9PP9PFSCJTWR",
+        "finding": "Xbox 商店「NBA 2K26 for Xbox One」支援 Xbox One、Xbox Series X|S 與雲端，開發 Visual Concepts、發行 2K。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/nba-2k26-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2025/9/5，發行 2K。"
+      },
+      {
+        "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/NBA-2K26-2910946.html",
+        "finding": "任天堂英國頁 Nintendo Switch 2 版，2025/9/5，發行 2K。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3472040&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 26375（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "NBA 2K26",
+        "nba 2k26",
+        "2k26"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "索尼克賽車 交叉世界",
+      "alias": [
+        "sonic racing crossworlds",
+        "sonic racing: crossworlds",
+        "音速小子賽車 交叉世界"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+      "icon": "🏎️",
+      "category": "競速",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 12,024 則推薦（recommendations，2026-11-22 快照），Metacritic 84；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 25, 2025 發售本篇／正式版；最早發售 2025-09-25。",
+      "sources": [
+        "https://store.steampowered.com/app/2486820/",
+        "https://store.steampowered.com/api/appdetails?appids=2486820&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2486820&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/sonic-racing-crossworlds/",
+        "https://www.xbox.com/en-US/games/store/sonic-racing-crossworlds/9NMR17QTLC33",
+        "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-switch/",
+        "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-nintendo-switch-2-edition-switch-2"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch 與 Switch 2 Edition；Switch 2 Edition 於 2025-12-03 較晚推出。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2486820&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2486820&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/sonic-racing-crossworlds/",
+        "https://www.xbox.com/en-US/games/store/sonic-racing-crossworlds/9NMR17QTLC33",
+        "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-switch/",
+        "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-nintendo-switch-2-edition-switch-2"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Sonic Team 開發、SEGA 發行的賽車新作；與 Team Sonic Racing 及 Sonic & All-Stars Racing Transformed 分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2486820&l=english",
+        "finding": "Steam 商店 API 回傳「Sonic Racing: CrossWorlds」（app 2486820），平台 Windows，發售日 Sep 25, 2025，開發 Sonic Team。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2486820&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「索尼克賽車 交叉世界」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/sonic-racing-crossworlds/",
+        "finding": "PlayStation 台灣頁「索尼克賽車 交叉世界」平台 PS4／PS5，推出日 2025/9/24，發行 SEGA。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/sonic-racing-crossworlds/9NMR17QTLC33",
+        "finding": "Xbox 商店支援 Xbox One 與 Xbox Series X|S，開發 Sonic Team、發行 SEGA。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2025/9/25，發行 SEGA。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/sonic-racing-crossworlds-nintendo-switch-2-edition-switch-2",
+        "finding": "任天堂美國頁 Nintendo Switch 2 Edition，2025/12/3 發售，另有 Switch 升級包。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2486820&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 12024，metacritic.score 為 84（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "索尼克賽車 交叉世界",
+        "sonic racing crossworlds",
+        "sonic racing: crossworlds",
+        "音速小子賽車 交叉世界"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "小小夢魘3",
+      "alias": [
+        "little nightmares iii",
+        "little nightmares 3",
+        "小小夢魘III"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+      "icon": "🕯️",
+      "category": "解謎冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 10,423 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 9, 2025 發售本篇／正式版；最早發售 2025-10-10。",
+      "sources": [
+        "https://store.steampowered.com/app/1392860/",
+        "https://store.steampowered.com/api/appdetails?appids=1392860&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1392860&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/little-nightmares-3/",
+        "https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-iii-available-now"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch 與 Switch 2（依發行商上市公告）。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1392860&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1392860&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/little-nightmares-3/",
+        "https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-iii-available-now"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Supermassive Games 開發、萬代南夢宮發行的系列第三部正篇，首度支援線上合作；與第一代 Enhanced Edition 分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1392860&l=english",
+        "finding": "Steam 商店 API 回傳「Little Nightmares III」（app 1392860），平台 Windows，發售日 Oct 9, 2025，開發 Supermassive Games。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1392860&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「小小夢魘3」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/little-nightmares-3/",
+        "finding": "PlayStation 台灣頁「小小夢魘3」平台 PS4／PS5，推出日 2025/10/9，發行 Bandai Namco Entertainment。"
+      },
+      {
+        "source": "https://en.bandainamcoent.eu/little-nightmares/news/little-nightmares-iii-available-now",
+        "finding": "萬代南夢宮官方公告：已於 PS5、Xbox Series X|S、PC、Nintendo Switch 2、PS4、Xbox One 與 Nintendo Switch 推出。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1392860&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 10423（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "小小夢魘3",
+        "little nightmares iii",
+        "little nightmares 3",
+        "小小夢魘III"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "勇者鬥惡龍 VII Reimagined",
+      "alias": [
+        "dragon quest vii reimagined",
+        "dq7 reimagined",
+        "dqvii reimagined",
+        "勇者鬥惡龍7 重製版"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S/Switch/Switch 2",
+      "icon": "🗿",
+      "category": "RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 2,243 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Feb 5, 2026 發售本篇／正式版；最早發售 2026-02-05。",
+      "sources": [
+        "https://store.steampowered.com/app/2499860/",
+        "https://store.steampowered.com/api/appdetails?appids=2499860&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2499860&l=tchinese",
+        "https://www.playstation.com/zh-hant-hk/games/dragon-quest-vii-reimagined/",
+        "https://www.square-enix.com/asia/newsportal/en/topics/dq7r/post01.html"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S、Switch 與 Switch 2。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2499860&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2499860&l=tchinese",
+        "https://www.playstation.com/zh-hant-hk/games/dragon-quest-vii-reimagined/",
+        "https://www.square-enix.com/asia/newsportal/en/topics/dq7r/post01.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Square Enix 對 PS1《勇者鬥惡龍VII》的全面重製版；與 PS1 原版及 3DS 重製版分開，不共用 dq7 等原版別名。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2499860&l=english",
+        "finding": "Steam 商店 API 回傳「DRAGON QUEST VII Reimagined」（app 2499860），平台 Windows，發售日 Feb 5, 2026，開發 Square Enix、HEXADRIVE Inc.。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2499860&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「勇者鬥惡龍 VII Reimagined」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-hk/games/dragon-quest-vii-reimagined/",
+        "finding": "PlayStation 香港頁「勇者鬥惡龍 VII Reimagined」平台 PS5，推出日 2026/2/4，發行 SQUARE ENIX。"
+      },
+      {
+        "source": "https://www.square-enix.com/asia/newsportal/en/topics/dq7r/post01.html",
+        "finding": "Square Enix 官方頁列出 Nintendo Switch 2／Nintendo Switch／PlayStation 5／Xbox Series X|S／Steam／Microsoft Store，2026 年 2 月 5 日。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2499860&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 2243（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "勇者鬥惡龍 VII Reimagined",
+        "dragon quest vii reimagined",
+        "dq7 reimagined",
+        "dqvii reimagined",
+        "勇者鬥惡龍7 重製版"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "歧路旅人0",
+      "alias": [
+        "octopath traveler 0",
+        "ot0",
+        "八方旅人0"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Switch/Switch 2",
+      "icon": "🧭",
+      "category": "RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 3,025 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Dec 4, 2025 發售本篇／正式版；最早發售 2025-12-04。",
+      "sources": [
+        "https://store.steampowered.com/app/3014320/",
+        "https://store.steampowered.com/api/appdetails?appids=3014320&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3014320&l=tchinese",
+        "https://www.playstation.com/zh-hant-hk/games/octopath-traveler-0/",
+        "https://press.na.square-enix.com/EMBARK-ON-AN-ADVENTURE-OF-YOUR-OWN-CREATION-WITH-THE-LAUNCH-OF-OCTOPAT"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Switch 與 Switch 2；Switch 與 Switch 2 為不同商品。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3014320&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3014320&l=tchinese",
+        "https://www.playstation.com/zh-hant-hk/games/octopath-traveler-0/",
+        "https://press.na.square-enix.com/EMBARK-ON-AN-ADVENTURE-OF-YOUR-OWN-CREATION-WITH-THE-LAUNCH-OF-OCTOPAT"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Square Enix 的主機／PC 作品，故事延伸自手機版《歧路旅人：大陸的霸者》；與一、二代及手機版分開，不共用 octopath 泛稱。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3014320&l=english",
+        "finding": "Steam 商店 API 回傳「OCTOPATH TRAVELER 0」（app 3014320），平台 Windows，發售日 Dec 4, 2025，開發 Square Enix、DOKIDOKI GROOVE WORKS。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3014320&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「歧路旅人0 OCTOPATH TRAVELER 0」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-hk/games/octopath-traveler-0/",
+        "finding": "PlayStation 香港頁「歧路旅人0」平台 PS4／PS5，推出日 2025/12/3，發行 SQUARE ENIX。"
+      },
+      {
+        "source": "https://press.na.square-enix.com/EMBARK-ON-AN-ADVENTURE-OF-YOUR-OWN-CREATION-WITH-THE-LAUNCH-OF-OCTOPAT",
+        "finding": "Square Enix 新聞稿：2025 年 12 月 4 日於 Nintendo Switch 2、Nintendo Switch、PS5、PS4、Xbox Series X|S 與 PC（Steam、Microsoft Store）推出。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3014320&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 3025（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "歧路旅人0",
+        "octopath traveler 0",
+        "ot0",
+        "八方旅人0"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "alias": [
+        "oblivion remastered",
+        "the elder scrolls iv oblivion remastered",
+        "上古卷軸4 重製版",
+        "遺忘之都 重製版"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+      "icon": "🏰",
+      "category": "開放世界RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 60,228 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Apr 22, 2025 發售本篇／正式版；最早發售 2025-04-22。",
+      "sources": [
+        "https://store.steampowered.com/app/2623190/",
+        "https://store.steampowered.com/api/appdetails?appids=2623190&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2623190&l=tchinese",
+        "https://elderscrolls.bethesda.net/en-EU/news/the-elder-scrolls-iv-oblivion-remastered-launch",
+        "https://elderscrolls.bethesda.net/en-EU/news/the-elder-scrolls-iv-oblivion-remastered-available-now-on-nintendo-switch-2"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S；Nintendo Switch 2 版於 2026-08-11 推出。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2623190&l=english",
+        "https://elderscrolls.bethesda.net/en-EU/news/the-elder-scrolls-iv-oblivion-remastered-launch",
+        "https://elderscrolls.bethesda.net/en-EU/news/the-elder-scrolls-iv-oblivion-remastered-available-now-on-nintendo-switch-2"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Bethesda Game Studios 與 Virtuos 以 Unreal Engine 5 重製的 2006 年《上古卷軸4》，內含 Shivering Isles 與 Knights of the Nine；與原版條目分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2623190&l=english",
+        "finding": "Steam 商店 API 回傳「The Elder Scrolls IV: Oblivion Remastered」（app 2623190），平台 Windows，發售日 Apr 22, 2025，開發 Bethesda Game Studios、Virtuos。"
+      },
+      {
+        "source": "https://elderscrolls.bethesda.net/en-EU/news/the-elder-scrolls-iv-oblivion-remastered-launch",
+        "finding": "Bethesda 官方 2025-04-22 上市公告列出 Xbox Series X|S、Game Pass、PlayStation 5 與 PC。"
+      },
+      {
+        "source": "https://elderscrolls.bethesda.net/en-EU/news/the-elder-scrolls-iv-oblivion-remastered-available-now-on-nintendo-switch-2",
+        "finding": "Bethesda 官方 2026-08-11 公告 Nintendo Switch 2 版推出，含 Shivering Isles 與 Knights of the Nine。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2623190&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 60228（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "The Elder Scrolls IV: Oblivion Remastered",
+        "oblivion remastered",
+        "the elder scrolls iv oblivion remastered",
+        "上古卷軸4 重製版",
+        "遺忘之都 重製版"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Grounded 2",
+      "alias": [
+        "grounded 2",
+        "禁閉求生2"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🐜",
+      "category": "生存",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 22,575 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jul 29, 2025 開始搶先體驗；最早發售 2025-07-29。",
+      "sources": [
+        "https://store.steampowered.com/app/2661300/",
+        "https://store.steampowered.com/api/appdetails?appids=2661300&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2661300&l=tchinese",
+        "https://news.xbox.com/en-us/2025/07/29/getting-started-in-grounded-2/",
+        "https://store.playstation.com/zh-hant-tw/concept/10016651"
+      ],
+      "platformNote": "已確認 PC、Xbox Series X|S 搶先體驗，PS5 版 2026-08-11 加入搶先體驗；正式版日期未公布。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2661300&l=english",
+        "https://news.xbox.com/en-us/2025/07/29/getting-started-in-grounded-2/",
+        "https://store.playstation.com/zh-hant-tw/concept/10016651"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Obsidian Entertainment 開發、Xbox Game Studios 發行的《Grounded》續作，目前為 Game Preview／搶先體驗。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2661300&l=english",
+        "finding": "Steam 商店 API 回傳「Grounded 2」（app 2661300），平台 Windows，發售日 Jul 29, 2025，類型含搶先體驗，開發 Obsidian Entertainment、Eidos-Montréal。"
+      },
+      {
+        "source": "https://news.xbox.com/en-us/2025/07/29/getting-started-in-grounded-2/",
+        "finding": "Xbox Wire 2025-07-29：於 Xbox Series X|S、Xbox PC、雲端 Game Preview 與 Steam 搶先體驗推出。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/concept/10016651",
+        "finding": "PlayStation Store 台灣頁「Grounded 2」平台 PS5，2026/8/11，發行 Microsoft Corporation（搶先體驗）。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2661300&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 22575（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Grounded 2",
+        "grounded 2",
+        "禁閉求生2"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "明末：淵虛之羽",
+      "alias": [
+        "wuchang fallen feathers",
+        "wuchang",
+        "明末"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🪶",
+      "category": "動作RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 45,486 則推薦（recommendations，2026-11-22 快照），Metacritic 77；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jul 23, 2025 發售本篇／正式版；最早發售 2025-07-24。",
+      "sources": [
+        "https://store.steampowered.com/app/2277560/",
+        "https://store.steampowered.com/api/appdetails?appids=2277560&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2277560&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/wuchang-fallen-feathers/",
+        "https://505games.com/?p=66960"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2277560&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2277560&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/wuchang-fallen-feathers/",
+        "https://505games.com/?p=66960"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Leenzee Games 開發、505 Games 發行的明末背景魂系動作 RPG。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2277560&l=english",
+        "finding": "Steam 商店 API 回傳「WUCHANG: Fallen Feathers」（app 2277560），平台 Windows，發售日 Jul 23, 2025，開發 Leenzee。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2277560&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「明末：淵虛之羽」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/wuchang-fallen-feathers/",
+        "finding": "PlayStation 台灣頁「明末：淵虛之羽」平台 PS5，2025/7/24 推出。"
+      },
+      {
+        "source": "https://505games.com/?p=66960",
+        "finding": "505 Games 官方頁列出 Xbox Series X|S、Game Pass、PS5、Steam 與 Epic，2025/7/24，開發 Leenzee。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2277560&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 45486，metacritic.score 為 77（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "明末：淵虛之羽",
+        "wuchang fallen feathers",
+        "wuchang",
+        "明末"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "時間旅者：重生曙光",
+      "alias": [
+        "cronos the new dawn",
+        "cronos: the new dawn"
+      ],
+      "platform": "PC/Mac/Linux/PS5/Xbox Series X|S/Switch 2",
+      "icon": "⏳",
+      "category": "生存恐怖",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 8,276 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 5, 2025 發售本篇／正式版；最早發售 2025-09-05。",
+      "sources": [
+        "https://store.steampowered.com/app/2101960/",
+        "https://store.steampowered.com/api/appdetails?appids=2101960&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2101960&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/cronos-the-new-dawn/",
+        "https://www.xbox.com/en-US/games/store/cronos-the-new-dawn/9p7tflq7ctxn",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Cronos-The-New-Dawn-2883430.html",
+        "https://blooberteam.prowly.com/455964-cronos-the-new-dawn-is-now-available-on-mac"
+      ],
+      "platformNote": "已確認 Windows、macOS、Linux（Steam）、PS5、Xbox Series X|S 與 Switch 2；Mac 版於 2026-04-28 經 Steam 推出。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2101960&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/cronos-the-new-dawn/",
+        "https://www.xbox.com/en-US/games/store/cronos-the-new-dawn/9p7tflq7ctxn",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Cronos-The-New-Dawn-2883430.html",
+        "https://blooberteam.prowly.com/455964-cronos-the-new-dawn-is-now-available-on-mac"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Bloober Team 開發發行的原創生存恐怖作品；與同工作室的 SILENT HILL 2 重製版分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2101960&l=english",
+        "finding": "Steam 商店 API 回傳「Cronos: The New Dawn」（app 2101960），平台 Windows／macOS／Linux，發售日 Sep 5, 2025，開發 Bloober Team。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/cronos-the-new-dawn/",
+        "finding": "PlayStation 台灣頁「時間旅者：重生曙光」平台 PS5，2025/9/5，發行 BLOOBER TEAM。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/cronos-the-new-dawn/9p7tflq7ctxn",
+        "finding": "Xbox 商店支援 Xbox Series X|S、PC、雲端與掌機，Bloober Team 開發發行。"
+      },
+      {
+        "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-games/Cronos-The-New-Dawn-2883430.html",
+        "finding": "任天堂英國頁 Nintendo Switch 2 版，2025/9/5，發行 Bloober Team。"
+      },
+      {
+        "source": "https://blooberteam.prowly.com/455964-cronos-the-new-dawn-is-now-available-on-mac",
+        "finding": "Bloober Team 2026-04-28 新聞稿：透過 Steam 推出 Apple Mac 版，原生支援 Apple silicon。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2101960&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 8276（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "時間旅者：重生曙光",
+        "cronos the new dawn",
+        "cronos: the new dawn"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "MONSTER HUNTER STORIES 3: 命運雙龍",
+      "alias": [
+        "monster hunter stories 3",
+        "mhs3",
+        "魔物獵人物語3",
+        "命運雙龍"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+      "icon": "🐉",
+      "category": "RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 5,839 則推薦（recommendations，2026-11-22 快照），Metacritic 87；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Mar 12, 2026 發售本篇／正式版；最早發售 2026-03-13。",
+      "sources": [
+        "https://store.steampowered.com/app/2852190/",
+        "https://store.steampowered.com/api/appdetails?appids=2852190&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2852190&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/monster-hunter-stories-3-twisted-reflection/",
+        "https://www.gamespress.com/Monster-Hunter-Stories-3-Twisted-Reflection-Launches-Today-on-Nintendo"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S 與 Switch 2；任天堂平台只有 Switch 2 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2852190&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2852190&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/monster-hunter-stories-3-twisted-reflection/",
+        "https://www.gamespress.com/Monster-Hunter-Stories-3-Twisted-Reflection-Launches-Today-on-Nintendo"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Capcom 的 Monster Hunter Stories 系列第三作；與一、二代及重製版分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2852190&l=english",
+        "finding": "Steam 商店 API 回傳「Monster Hunter Stories 3: Twisted Reflection」（app 2852190），平台 Windows，發售日 Mar 12, 2026，開發 CAPCOM Co., Ltd.。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2852190&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「Monster Hunter Stories 3: 命運雙龍」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/monster-hunter-stories-3-twisted-reflection/",
+        "finding": "PlayStation 台灣頁「MONSTER HUNTER STORIES 3: 命運雙龍」平台 PS5，推出日 2026/3/12，發行 CAPCOM ASIA。"
+      },
+      {
+        "source": "https://www.gamespress.com/Monster-Hunter-Stories-3-Twisted-Reflection-Launches-Today-on-Nintendo",
+        "finding": "Capcom 2026-03-13 新聞稿：已於 Nintendo Switch 2、PS5、Xbox Series X|S 與 PC（Steam）推出。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2852190&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 5839，metacritic.score 為 87（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "MONSTER HUNTER STORIES 3: 命運雙龍",
+        "monster hunter stories 3",
+        "mhs3",
+        "魔物獵人物語3",
+        "命運雙龍"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Grand Theft Auto VI",
+      "alias": [
+        "grand theft auto vi",
+        "gta vi",
+        "gta 6",
+        "gta6",
+        "俠盜獵車手6"
+      ],
+      "platform": "PS5/Xbox Series X|S",
+      "icon": "🌴",
+      "category": "開放世界",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2026-11-19 發售（官方來源）。",
+      "sources": [
+        "https://www.playstation.com/zh-hant-hk/games/grand-theft-auto-vi/",
+        "https://www.xbox.com/en-US/games/grand-theft-auto-vi",
+        "https://www.rockstargames.com/VI"
+      ],
+      "platformNote": "已確認 PS5 與 Xbox Series X|S；上市時未推出 PC 版，也沒有 PS4 版。",
+      "platformSources": [
+        "https://www.playstation.com/zh-hant-hk/games/grand-theft-auto-vi/",
+        "https://www.xbox.com/en-US/games/grand-theft-auto-vi",
+        "https://www.rockstargames.com/VI"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Rockstar Games 開發發行的 Grand Theft Auto 系列第六部正篇，2026-11-19 上市。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.playstation.com/zh-hant-hk/games/grand-theft-auto-vi/",
+        "finding": "PlayStation 香港頁「Grand Theft Auto VI」FAQ：2026-11-19 於 PlayStation 5／PS5 Pro 推出，無 PS4 版，發行 Take-Two。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/grand-theft-auto-vi",
+        "finding": "Xbox 頁「Grand Theft Auto VI」平台 Xbox Series X|S，發售日 2026/11/19。"
+      },
+      {
+        "source": "https://www.rockstargames.com/VI",
+        "finding": "Rockstar 官方頁顯示「Now Available」，新聞「Grand Theft Auto VI Now Available」日期 2026-11-19。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.rockstargames.com/VI",
+        "finding": "官方來源確認「Grand Theft Auto VI」已於 2026-11-19 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Grand Theft Auto VI",
+        "grand theft auto vi",
+        "gta vi",
+        "gta 6",
+        "gta6",
+        "俠盜獵車手6"
+      ],
+      "result": "名稱與 5 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "人中之龍0 誓約的場所 導演剪輯版",
+      "alias": [
+        "yakuza 0 director's cut",
+        "yakuza 0 directors cut",
+        "人中之龍0 導演剪輯版"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+      "icon": "🐲",
+      "category": "動作冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 1,881 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Dec 8, 2025 發售本篇／正式版；最早發售 2025-06-05。",
+      "sources": [
+        "https://store.steampowered.com/app/2988580/",
+        "https://store.steampowered.com/api/appdetails?appids=2988580&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2988580&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/yakuza-0-directors-cut/",
+        "https://sega.co.jp/en/release/250924_3.html"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S 與 Switch 2；Switch 2 版 2025-06-05 先推出，其餘平台 2025-12 推出。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2988580&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2988580&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/yakuza-0-directors-cut/",
+        "https://sega.co.jp/en/release/250924_3.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "SEGA 的《人中之龍0》導演剪輯版，新增過場、線上多人與中英配音；與 2015 年原版分開，不能從原版升級。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2988580&l=english",
+        "finding": "Steam 商店 API 回傳「Yakuza 0 Director's Cut」（app 2988580），平台 Windows，發售日 Dec 8, 2025，開發 RGG Studio。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2988580&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「人中之龍０ 誓約的場所 導演剪輯版」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/yakuza-0-directors-cut/",
+        "finding": "PlayStation 台灣頁「《人中之龍0 誓約的場所》導演剪輯版」平台 PS5，2025/12/7，發行 SEGA。"
+      },
+      {
+        "source": "https://sega.co.jp/en/release/250924_3.html",
+        "finding": "SEGA 新聞稿：Nintendo Switch 2 版 2025-06-05 推出；PS5、Xbox Series X|S 於 2025-12-08 數位推出。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2988580&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 1881（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "人中之龍0 誓約的場所 導演剪輯版",
+        "yakuza 0 director's cut",
+        "yakuza 0 directors cut",
+        "人中之龍0 導演剪輯版"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "寶可夢傳說 Z-A",
+      "alias": [
+        "pokemon legends z-a",
+        "pokémon legends z-a",
+        "pokemon legends za",
+        "寶可夢傳說ZA"
+      ],
+      "platform": "Switch/Switch 2",
+      "icon": "🗼",
+      "category": "動作RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-10-16 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/",
+        "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch-2"
+      ],
+      "platformNote": "已確認 Switch 版與 Switch 2 Edition（另售升級包）。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/",
+        "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch-2"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "GAME FREAK 開發、任天堂發行的寶可夢傳說系列新作，舞台為密阿雷市。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/",
+        "finding": "Product 'Pokémon™ Legends: Z-A', platform Nintendo Switch, release date October 16, 2025, publisher Nintendo."
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch-2",
+        "finding": "Product 'Pokémon™ Legends: Z-A – Nintendo Switch™ 2 Edition', platform Nintendo Switch 2, release date October 16, 2025; an Upgrade Pack for Switch owners is also sold."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/pokemon-legends-z-a-switch/",
+        "finding": "官方來源確認「寶可夢傳說 Z-A」已於 2025-10-16 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "寶可夢傳說 Z-A",
+        "pokemon legends z-a",
+        "pokémon legends z-a",
+        "pokemon legends za",
+        "寶可夢傳說ZA"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "卡比的馭天飛行者",
+      "alias": [
+        "kirby air riders"
+      ],
+      "platform": "Switch 2",
+      "icon": "⭐",
+      "category": "競速",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-11-20 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/"
+      ],
+      "platformNote": "已確認 Nintendo Switch 2 獨占。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "任天堂發行的 Switch 2 獨占新作，為 GameCube《Kirby Air Ride》的後繼作而非重製。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "finding": "Product 'Kirby™ Air Riders', platform Nintendo Switch 2, release date November 20, 2025, publisher Nintendo."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/kirby-air-riders-switch-2/",
+        "finding": "官方來源確認「卡比的馭天飛行者」已於 2025-11-20 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "卡比的馭天飛行者",
+        "kirby air riders"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "ZELDA無雙 封印戰記",
+      "alias": [
+        "hyrule warriors age of imprisonment",
+        "薩爾達無雙 封印戰記",
+        "封印戰記"
+      ],
+      "platform": "Switch 2",
+      "icon": "🗡️",
+      "category": "動作",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-11-06 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/en-gb/en-gb/Games/Nintendo-Switch-2-games/Hyrule-Warriors-Age-of-Imprisonment-2789659.html"
+      ],
+      "platformNote": "已確認 Nintendo Switch 2 獨占。",
+      "platformSources": [
+        "https://www.nintendo.com/en-gb/en-gb/Games/Nintendo-Switch-2-games/Hyrule-Warriors-Age-of-Imprisonment-2789659.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "KOEI TECMO GAMES 開發、任天堂發行的 Switch 2 獨占作品，描寫王國之淚的封印戰爭；與 2014 年 Hyrule Warriors 及 2020 年災厄啟示錄分開。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/en-gb/en-gb/Games/Nintendo-Switch-2-games/Hyrule-Warriors-Age-of-Imprisonment-2789659.html",
+        "finding": "Product 'Hyrule Warriors: Age of Imprisonment', platform Nintendo Switch 2, release date 06/11/2025, publisher Nintendo, developer KOEI TECMO GAMES."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/en-gb/en-gb/Games/Nintendo-Switch-2-games/Hyrule-Warriors-Age-of-Imprisonment-2789659.html",
+        "finding": "官方來源確認「ZELDA無雙 封印戰記」已於 2025-11-06 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "ZELDA無雙 封印戰記",
+        "hyrule warriors age of imprisonment",
+        "薩爾達無雙 封印戰記",
+        "封印戰記"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "超級瑪利歐銀河 + 超級瑪利歐銀河 2",
+      "alias": [
+        "super mario galaxy",
+        "super mario galaxy 2",
+        "super mario galaxy + super mario galaxy 2",
+        "瑪利歐銀河"
+      ],
+      "platform": "Switch",
+      "icon": "🌌",
+      "category": "平台動作",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-10-02 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/"
+      ],
+      "platformNote": "已確認 Nintendo Switch；Switch 2 透過免費更新強化，非獨立 Switch 2 Edition。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "任天堂 2025 年推出的 Switch 合輯，收錄 Wii《超級瑪利歐銀河》與《超級瑪利歐銀河 2》的高畫質版本；兩款也可個別下載購買。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+        "finding": "Product 'Super Mario Galaxy™ + Super Mario Galaxy™ 2', platform Nintendo Switch, release October 2, 2025, publisher Nintendo; also playable with a free update for Nintendo Switch 2."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/super-mario-galaxy-plus-super-mario-galaxy-2-switch/",
+        "finding": "官方來源確認「超級瑪利歐銀河 + 超級瑪利歐銀河 2」已於 2025-10-02 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "超級瑪利歐銀河 + 超級瑪利歐銀河 2",
+        "super mario galaxy",
+        "super mario galaxy 2",
+        "super mario galaxy + super mario galaxy 2",
+        "瑪利歐銀河"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "瑪利歐網球 狂熱",
+      "alias": [
+        "mario tennis fever"
+      ],
+      "platform": "Switch 2",
+      "icon": "🎾",
+      "category": "運動",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2026-02-12 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/sg/games/switch2/aaaea/index.html"
+      ],
+      "platformNote": "已確認 Nintendo Switch 2 獨占。",
+      "platformSources": [
+        "https://www.nintendo.com/sg/games/switch2/aaaea/index.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Camelot 開發、任天堂發行的 Switch 2 獨占網球新作；不是 2018 年的瑪利歐網球 王牌高手。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/sg/games/switch2/aaaea/index.html",
+        "finding": "Product 'Mario Tennis Fever', platform Nintendo Switch 2, release date 12 February 2026, publisher Nintendo; copyright Nintendo / CAMELOT."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/sg/games/switch2/aaaea/index.html",
+        "finding": "官方來源確認「瑪利歐網球 狂熱」已於 2026-02-12 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "瑪利歐網球 狂熱",
+        "mario tennis fever"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Pokémon Champions",
+      "alias": [
+        "pokemon champions",
+        "pokémon champions"
+      ],
+      "platform": "Switch/iOS/Android",
+      "icon": "🏆",
+      "category": "多人對戰",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2026-04-08 發售（官方來源）。",
+      "sources": [
+        "https://press.pokemon.com/en/Pokemon-Champions-Launches-April-8-on-Nintendo-Switch",
+        "https://apps.apple.com/us/app/id6741503079",
+        "https://www.pokemonchampions.jp/tc/"
+      ],
+      "platformNote": "已確認 Nintendo Switch（Switch 2 經免費更新遊玩）、iOS 與 Android（手機版 2026-06-17 推出）。",
+      "platformSources": [
+        "https://press.pokemon.com/en/Pokemon-Champions-Launches-April-8-on-Nintendo-Switch",
+        "https://apps.apple.com/us/app/id6741503079",
+        "https://www.pokemonchampions.jp/tc/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "The Pokémon Works 開發、The Pokémon Company 發行的對戰專用作品，Switch 與手機可跨平台對戰，2026 年起為官方 VGC 用遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://press.pokemon.com/en/Pokemon-Champions-Launches-April-8-on-Nintendo-Switch",
+        "finding": "Official press release: launches on Nintendo Switch April 8 (2026), also playable on Switch 2 via free update, mobile later in the year."
+      },
+      {
+        "source": "https://apps.apple.com/us/app/id6741503079",
+        "finding": "App Store listing 'Pokémon Champions' by The Pokemon Company, iPhone/iPad (iOS 16+), free with in-app purchases."
+      },
+      {
+        "source": "https://www.pokemonchampions.jp/tc/",
+        "finding": "Official TC site lists the smartphone version (iOS/Android) released 2026年6月17日 and links Google Play id jp.pokemon.pokemonchampions; the Google Play page itself did not render details."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://press.pokemon.com/en/Pokemon-Champions-Launches-April-8-on-Nintendo-Switch",
+        "finding": "官方來源確認「Pokémon Champions」已於 2026-04-08 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Pokémon Champions",
+        "pokemon champions",
+        "pokémon champions"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "耀西與不可思議的圖鑑",
+      "alias": [
+        "yoshi and the mysterious book"
+      ],
+      "platform": "Switch 2",
+      "icon": "🦖",
+      "category": "平台動作",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2026-05-21 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/"
+      ],
+      "platformNote": "已確認 Nintendo Switch 2 獨占。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "任天堂發行的 Switch 2 獨占耀西新作；不是 Yoshi's Crafted World。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+        "finding": "Product 'Yoshi™ and the Mysterious Book', platform Nintendo Switch 2, release date May 21, 2026, publisher Nintendo."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/yoshi-and-the-mysterious-book-switch-2/",
+        "finding": "官方來源確認「耀西與不可思議的圖鑑」已於 2026-05-21 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "耀西與不可思議的圖鑑",
+        "yoshi and the mysterious book"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "拖曳＆突破",
+      "alias": [
+        "drag x drive",
+        "拖曳突破"
+      ],
+      "platform": "Switch 2",
+      "icon": "♿",
+      "category": "運動",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-08-14 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/drag-x-drive-switch-2/"
+      ],
+      "platformNote": "已確認 Nintendo Switch 2 獨占（僅數位版）。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/drag-x-drive-switch-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "任天堂發行的 Switch 2 獨占下載作品，以 Joy-Con 2 滑鼠操作的 3 對 3 輪椅籃球。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/drag-x-drive-switch-2/",
+        "finding": "Product 'Drag x Drive™', platform Nintendo Switch 2, release date August 14, 2025, publisher Nintendo, Digital edition."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/drag-x-drive-switch-2/",
+        "finding": "官方來源確認「拖曳＆突破」已於 2025-08-14 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "拖曳＆突破",
+        "drag x drive",
+        "拖曳突破"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "節奏天國 奇蹟之星",
+      "alias": [
+        "rhythm heaven groove"
+      ],
+      "platform": "Switch",
+      "icon": "🥁",
+      "category": "音樂",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2026-07-02 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/"
+      ],
+      "platformNote": "已確認 Nintendo Switch；Switch 2 為向下相容遊玩，非獨立版本。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "任天堂與 TNX 共同開發的節奏天國系列新作。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/",
+        "finding": "Product 'Rhythm Heaven™ Groove', platform Nintendo Switch, release date July 2, 2026, publisher Nintendo, co-developed by TNX; Switch 2 compatibility 'Supported'."
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/rhythm-heaven-groove-switch/",
+        "finding": "官方來源確認「節奏天國 奇蹟之星」已於 2026-07-02 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "節奏天國 奇蹟之星",
+        "rhythm heaven groove"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Rocket League",
+      "alias": [
+        "rocket league",
+        "火箭聯盟"
+      ],
+      "platform": "PC/PS4/Xbox Series X|S/Xbox One/Switch",
+      "icon": "🚗",
+      "category": "運動",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2015-07-07 發售（官方來源）。",
+      "sources": [
+        "https://store.steampowered.com/app/252950/",
+        "https://www.playstation.com/zh-hant-tw/games/rocket-league/",
+        "https://www.xbox.com/zh-TW/games/store/rocket-league/C125W9BG2K0V",
+        "https://www.nintendo.com/us/store/products/rocket-league-switch/"
+      ],
+      "platformNote": "已確認 PC、PS4、Xbox One、Xbox Series X|S 與 Switch；macOS／Linux 版已於 2020 年停止線上支援，不列入；PS5 為向下相容。",
+      "platformSources": [
+        "https://store.steampowered.com/app/252950/",
+        "https://www.playstation.com/zh-hant-tw/games/rocket-league/",
+        "https://www.xbox.com/zh-TW/games/store/rocket-league/C125W9BG2K0V",
+        "https://www.nintendo.com/us/store/products/rocket-league-switch/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Psyonix 開發的免費遊玩汽車足球；手機《Rocket League Sideswipe》是另一作品，不併入。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/app/252950/",
+        "finding": "Steam 商店頁顯示 2015-07-07 推出，開發發行 Psyonix；並註明 macOS／Linux 版 2020-03-10 最後更新後停用線上功能。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/rocket-league/",
+        "finding": "PlayStation 台灣頁平台只列 PS4（可於 PS5 向下相容遊玩），發行 Psyonix。"
+      },
+      {
+        "source": "https://www.xbox.com/zh-TW/games/store/rocket-league/C125W9BG2K0V",
+        "finding": "Xbox 台灣商店支援 Xbox One 與 Xbox Series X|S，2016/2/17，Psyonix 開發發行。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/rocket-league-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2017-11-14，發行 Epic Games、開發 Psyonix。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/app/252950/",
+        "finding": "官方來源確認「Rocket League」已於 2015-07-07 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Rocket League",
+        "rocket league",
+        "火箭聯盟"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "黎明死線",
+      "alias": [
+        "dead by daylight",
+        "dbd",
+        "黎明殺機"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+      "icon": "🔪",
+      "category": "非對稱對戰",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 697,046 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jun 14, 2016 發售本篇／正式版；最早發售 2016-06-14。",
+      "sources": [
+        "https://store.steampowered.com/app/381210/",
+        "https://store.steampowered.com/api/appdetails?appids=381210&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=381210&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/dead-by-daylight/",
+        "https://www.xbox.com/zh-TW/games/store/dead-by-daylight/C0N22P73QZ60",
+        "https://nintendo.com/au/games/nintendo-switch/dead-by-daylight"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One 與 Switch；Switch 2 僅向下相容。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=381210&l=english",
+        "https://www.playstation.com/zh-hant-tw/games/dead-by-daylight/",
+        "https://www.xbox.com/zh-TW/games/store/dead-by-daylight/C0N22P73QZ60",
+        "https://nintendo.com/au/games/nintendo-switch/dead-by-daylight"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Behaviour Interactive 開發的 4 對 1 非對稱恐怖對戰；NetEase 營運的手機版已停服，不併入。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=381210&l=english",
+        "finding": "Steam 商店 API 回傳「Dead by Daylight」（app 381210），平台 Windows，發售日 Jun 14, 2016，開發 Behaviour Interactive Inc.。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/dead-by-daylight/",
+        "finding": "PlayStation 台灣頁「黎明死線」平台 PS4／PS5。"
+      },
+      {
+        "source": "https://www.xbox.com/zh-TW/games/store/dead-by-daylight/C0N22P73QZ60",
+        "finding": "Xbox 台灣商店支援 Xbox One 與 Xbox Series X|S，2017/6/23，Behaviour Interactive 開發發行。"
+      },
+      {
+        "source": "https://nintendo.com/au/games/nintendo-switch/dead-by-daylight",
+        "finding": "任天堂澳洲頁 Nintendo Switch 版，2019/9/25，發行 Behaviour Interactive；Switch 2 為相容遊玩。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=381210&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 697046（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "黎明死線",
+        "dead by daylight",
+        "dbd",
+        "黎明殺機"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "方舟：生存升級",
+      "alias": [
+        "ark survival ascended",
+        "ark: survival ascended",
+        "asa",
+        "方舟 生存飛升"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S",
+      "icon": "🦕",
+      "category": "生存",
+      "catalogPriority": 2,
+      "releaseStatus": "early-access",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "major",
+      "popularityNote": "Steam 商店 API 顯示累積 110,790 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 25, 2023 開始搶先體驗；最早發售 2023-10-25。",
+      "sources": [
+        "https://store.steampowered.com/app/2399830/",
+        "https://store.steampowered.com/api/appdetails?appids=2399830&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2399830&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/ark-survival-ascended/",
+        "https://www.xbox.com/zh-TW/games/store/ark-survival-ascended/9P33VJGVPHVP"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S；Switch 2 版僅見開發中消息，不列入。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2399830&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2399830&l=tchinese",
+        "https://www.playstation.com/zh-hant-tw/games/ark-survival-ascended/",
+        "https://www.xbox.com/zh-TW/games/store/ark-survival-ascended/9P33VJGVPHVP"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Studio Wildcard 以 Unreal Engine 5 重製的 ARK: Survival Evolved；與 Evolved、Switch Ultimate Survivor Edition 及手機版分開，Steam 仍標示搶先體驗。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2399830&l=english",
+        "finding": "Steam 商店 API 回傳「ARK: Survival Ascended」（app 2399830），平台 Windows，發售日 Oct 25, 2023，類型含搶先體驗，開發 Studio Wildcard、Grove Street Games、Instinct Games。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2399830&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「方舟: 生存飛升」。"
+      },
+      {
+        "source": "https://www.playstation.com/zh-hant-tw/games/ark-survival-ascended/",
+        "finding": "PlayStation 台灣頁「方舟：生存升級」平台 PS5，2024/1/29。"
+      },
+      {
+        "source": "https://www.xbox.com/zh-TW/games/store/ark-survival-ascended/9P33VJGVPHVP",
+        "finding": "Xbox 台灣商店支援 Xbox Series X|S、PC 與掌機，2023/11/21，發行 Studio Wildcard。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2399830&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 110790（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "方舟：生存升級",
+        "ark survival ascended",
+        "ark: survival ascended",
+        "asa",
+        "方舟 生存飛升"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1029 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  }
+]
