@@ -210,6 +210,8 @@ async function main() {
             const baseline = JSON.parse(fs.readFileSync(path.join(root, 'tests/platform-audit/baseline-838.json'), 'utf8'));
             const preserved = JSON.parse(fs.readFileSync(path.join(root, 'tests/platform-audit/baseline-preserved.json'), 'utf8'));
             const splitAudit = JSON.parse(fs.readFileSync(path.join(root, 'tests/platform-audit/recheck-25/audit-25.json'), 'utf8'));
+            // Later platform-evidence rechecks may move review dates forward without changing platforms.
+            const evidenceAudit = JSON.parse(fs.readFileSync(path.join(root, 'tests/platform-audit/evidence-20261122/audit.json'), 'utf8'));
             assert.equal(audit.records.length, 838);
             assert.equal(new Set(audit.records.map(row => row.auditIndex)).size, 838);
             assert.equal(audit.summary.verified + audit.summary.partial + audit.summary.unresolved + audit.summary.split, 838);
@@ -234,10 +236,11 @@ async function main() {
                 assert.equal(row.name, baseline.pending[row.auditIndex].name);
                 assert.equal(game.platform, row.after);
                 assert.equal(game.platformReviewStatus, row.status);
-                assert.equal(game.platformReviewedAt, row.checkedAt);
+                const later = evidenceAudit.records.find(item => item.name === game.name)?.changes || {};
+                assert.equal(game.platformReviewedAt, later.platformReviewedAt?.after ?? row.checkedAt);
                 assert.ok(game.platformNote);
                 if (row.status === 'verified') {
-                    assert.equal(game.platformVerifiedAt, row.checkedAt);
+                    assert.equal(game.platformVerifiedAt, later.platformVerifiedAt?.after ?? row.checkedAt);
                     assert.ok(game.platformSources.length);
                 } else {
                     assert.equal(game.platformVerifiedAt, undefined, row.name);
@@ -405,9 +408,11 @@ async function main() {
                 [path.join(dir, 'review-major.json'), /Name\/alias collision/, value => { value[0].game.name = '薩爾達傳說 王國之淚'; }],
                 [path.join(dir, 'review-indie.json'), /Product collision/, value => { value[0].game.platformSources.push('https://store.steampowered.com/app/730/'); }]
             ]) {
+                // Expansion 5 wrote the catalog the platform-evidence recheck starts from; replay its guards against that state.
+                const catalogAfterExpansion = path.join(root, 'tests/platform-audit/evidence-20261122/catalog-before.json');
                 const mockedFs = { ...fs,
                     readFileSync(input, ...args) {
-                        const raw = fs.readFileSync(input, ...args);
+                        const raw = fs.readFileSync(path.resolve(input) === path.join(root, 'games.json') ? catalogAfterExpansion : input, ...args);
                         if (path.resolve(input) !== file) return raw;
                         const value = JSON.parse(raw);
                         mutate(value);
@@ -552,7 +557,7 @@ async function main() {
             { title: 'historical expansion 2', dir: 'tests/catalog-expansion-20261019-2/', catalog: 'tests/catalog-expansion-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122/audit-838-before.json', pendingGames: true },
             { title: 'expansion 3', dir: 'tests/catalog-expansion-20261122/', catalog: 'tests/platform-audit/status-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-2/audit-838-before.json', pendingGames: true },
             { title: 'expansion 4', dir: 'tests/catalog-expansion-20261122-2/', catalog: 'tests/catalog-expansion-20261122-3/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-3/audit-838-before.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json'] },
-            { title: 'current expansion 5', dir: 'tests/catalog-expansion-20261122-3/', catalog: 'games.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json', 'tests/catalog-expansion-20261122-2/pending-platforms.json', 'expansion-4-pending-before.json'] }
+            { title: 'expansion 5', dir: 'tests/catalog-expansion-20261122-3/', catalog: 'tests/platform-audit/evidence-20261122/catalog-before.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json', 'tests/catalog-expansion-20261122-2/pending-platforms.json', 'expansion-4-pending-before.json'] }
         ]) await check(`${round.title} has evidence and preserves unrelated and pending records`, async () => {
             const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
             const dir = round.dir;
@@ -614,6 +619,38 @@ async function main() {
                 assert.deepEqual(read('tests/catalog-expansion-20261019/pending-platforms.json'), read(dir + 'previous-expansion-pending-before.json'));
                 const prev = round.previousPending || [];
                 for (let i = 0; i < prev.length; i += 2) assert.deepEqual(read(prev[i]), read(dir + prev[i + 1]));
+            }
+        });
+        await check('platform-evidence recheck adds launch sources without changing platforms', async () => {
+            const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
+            const dir = 'tests/platform-audit/evidence-20261122/';
+            const before = read(dir + 'catalog-before.json');
+            const baseline = read(dir + 'baseline.json');
+            const audit = read(dir + 'audit.json');
+            const catalog = read('games.json');
+            const mutable = new Set(['platformNote', 'platformSources', 'platformReviewedAt', 'platformVerifiedAt']);
+            assert.equal(audit.records.length, 1);
+            assert.equal(audit.summary.platformChanges, 0);
+            assert.equal(catalog.games.length, before.games.length);
+            const names = new Set(audit.records.map(row => row.name));
+            for (const game of before.games.filter(game => !names.has(game.name))) assert.deepEqual(catalog.games.find(item => item.name === game.name), game);
+            for (const row of audit.records) {
+                const original = baseline.find(game => game.name === row.name);
+                assert.deepEqual(original, before.games.find(game => game.name === row.name));
+                const expected = structuredClone(original);
+                for (const [key, change] of Object.entries(row.changes)) {
+                    assert.ok(mutable.has(key), `${row.name}: unexpected ${key}`);
+                    assert.deepEqual(change.before, original[key] ?? null);
+                    expected[key] = change.after;
+                }
+                const game = catalog.games.find(item => item.name === row.name);
+                assert.deepEqual(game, expected);
+                assert.equal(game.platform, original.platform);
+                assert.equal(game.platformReviewStatus, 'verified');
+                assert.equal(game.platformVerifiedAt, row.checkedAt);
+                assert.ok(original.platformSources.every(source => game.platformSources.includes(source)));
+                assert.ok(row.evidence.length && row.evidence.every(item => item.finding && game.platformSources.includes(item.source)));
+                assert.ok(game.platformSources.every(source => new URL(source).protocol === 'https:'));
             }
         });
         await check('release-status rechecks change only their records and label them released', async () => {

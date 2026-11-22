@@ -1,0 +1,20 @@
+[
+  {
+    "name": "勇氣默示錄",
+    "alias": [
+      "bravely default",
+      "勇氣默示錄"
+    ],
+    "platform": "PC/Xbox Series X|S/Switch 2/3DS",
+    "icon": "📖",
+    "category": "RPG",
+    "platformNote": "原版為 3DS；HD Remaster 為 Switch 2，官方更新產品規格另列 2026-03-13 推出的 Steam、Xbox Series 與 Windows 版。",
+    "platformSources": [
+      "https://www.square-enix.com/asia/newsportal/en/topics/bdffhd/post05.html",
+      "https://www.square-enix.com/asia/newsportal/en/topics/bdffhd/post08.html"
+    ],
+    "platformReviewedAt": "2026-10-18",
+    "platformReviewStatus": "verified",
+    "platformVerifiedAt": "2026-10-18"
+  }
+]
