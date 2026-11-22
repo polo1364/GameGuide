@@ -1,0 +1,1244 @@
+[
+  {
+    "game": {
+      "name": "Katana ZERO",
+      "alias": [
+        "katana zero",
+        "武士 零"
+      ],
+      "platform": "PC/Mac/Xbox One/Switch",
+      "icon": "⚔️",
+      "category": "動作",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 66,731 則推薦（recommendations，2026-11-22 快照），Metacritic 83；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Apr 18, 2019 發售本篇／正式版；最早發售 2019-04-18。",
+      "sources": [
+        "https://store.steampowered.com/app/460950/",
+        "https://store.steampowered.com/api/appdetails?appids=460950&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=460950&l=tchinese",
+        "https://ec.nintendo.com/apps/010029600D56A000/NZ",
+        "https://www.xbox.com/en-US/games/store/katana-zero/9NXP19FZ7DZ4",
+        "https://store.steampowered.com/app/460950/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、Xbox One、Switch。Netflix 手機版已於 2025 年下架，App Store 與 Google Play 頁面皆為 404，不列手機平台；未找到 PlayStation 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=460950&l=english",
+        "https://ec.nintendo.com/apps/010029600D56A000/NZ",
+        "https://www.xbox.com/en-US/games/store/katana-zero/9NXP19FZ7DZ4"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Askiisoft 開發、Devolver Digital 發行的新黑色動作作品。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=460950&l=english",
+        "finding": "Steam 商店 API 回傳「Katana ZERO」（app 460950），平台 Windows／macOS，發售日 Apr 18, 2019，開發 Askiisoft。"
+      },
+      {
+        "source": "https://ec.nintendo.com/apps/010029600D56A000/NZ",
+        "finding": "任天堂紐西蘭 eShop 列出 Katana ZERO，發行 Devolver Digital，支援平台 Nintendo Switch。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/katana-zero/9NXP19FZ7DZ4",
+        "finding": "Xbox 商店主機版，Devolver Digital，2020/10/15；Xbox Series X|S 無最佳化或 Smart Delivery 標章，屬向下相容。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=460950&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 66731，metacritic.score 為 83（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Katana ZERO",
+        "katana zero",
+        "武士 零"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Return of the Obra Dinn",
+      "alias": [
+        "return of the obra dinn",
+        "obra dinn"
+      ],
+      "platform": "PC/Mac/PS4/Xbox One/Switch",
+      "icon": "🚢",
+      "category": "推理",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 33,024 則推薦（recommendations，2026-11-22 快照），Metacritic 89；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 18, 2018 發售本篇／正式版；最早發售 2018-10-18。",
+      "sources": [
+        "https://store.steampowered.com/app/653530/",
+        "https://store.steampowered.com/api/appdetails?appids=653530&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=653530&l=tchinese",
+        "https://store.playstation.com/en-us/product/UP2879-CUSA16867_00-ROTODBASEGAME001",
+        "https://www.xbox.com/en-us/games/store/-/9N185QL77D27",
+        "https://ec.nintendo.com/apps/010032E00E6E2000/NZ",
+        "https://store.steampowered.com/app/653530/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、PS4、Xbox One、Switch。主機版 2019-10-18 推出；沒有手機版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=653530&l=english",
+        "https://store.playstation.com/en-us/product/UP2879-CUSA16867_00-ROTODBASEGAME001",
+        "https://www.xbox.com/en-us/games/store/-/9N185QL77D27",
+        "https://ec.nintendo.com/apps/010032E00E6E2000/NZ"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Lucas Pope 開發的保險調查推理遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=653530&l=english",
+        "finding": "Steam 商店 API 回傳「Return of the Obra Dinn」（app 653530），平台 Windows／macOS，發售日 Oct 18, 2018，開發 Lucas Pope。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/UP2879-CUSA16867_00-ROTODBASEGAME001",
+        "finding": "PlayStation Store PS4 版，3909 LLC，2019/10/18；PS5 為向下相容。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/-/9N185QL77D27",
+        "finding": "Xbox 商店，3909 開發發行，2019/10/18；Xbox Series X|S 屬向下相容。"
+      },
+      {
+        "source": "https://ec.nintendo.com/apps/010032E00E6E2000/NZ",
+        "finding": "任天堂紐西蘭 eShop 列出 Nintendo Switch 版，發行 3909。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=653530&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 33024，metacritic.score 為 89（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Return of the Obra Dinn",
+        "return of the obra dinn",
+        "obra dinn"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Papers, Please",
+      "alias": [
+        "papers please",
+        "請出示文件"
+      ],
+      "platform": "PC/Mac/Linux/iOS/Android",
+      "icon": "🛂",
+      "category": "模擬",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 73,879 則推薦（recommendations，2026-11-22 快照），Metacritic 85；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 8, 2013 發售本篇／正式版；最早發售 2013-08-08。",
+      "sources": [
+        "https://store.steampowered.com/app/239030/",
+        "https://store.steampowered.com/api/appdetails?appids=239030&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=239030&l=tchinese",
+        "https://apps.apple.com/us/app/papers-please/id935216956",
+        "https://play.google.com/store/apps/details?id=com.llc3909.papersplease",
+        "https://store.steampowered.com/app/239030/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、iOS、Android。官網只列 PC／Mac／Linux 與 iOS／Android；PS Vita 舊版不在本目錄平台範圍。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=239030&l=english",
+        "https://apps.apple.com/us/app/papers-please/id935216956",
+        "https://play.google.com/store/apps/details?id=com.llc3909.papersplease"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Lucas Pope 開發的邊境檢查官模擬。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=239030&l=english",
+        "finding": "Steam 商店 API 回傳「Papers, Please」（app 239030），平台 Windows／macOS／Linux，發售日 Aug 8, 2013，開發 Lucas Pope。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/papers-please/id935216956",
+        "finding": "App Store 美國區，販售者 3909 LLC，支援 iPhone 與 iPad。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.llc3909.papersplease",
+        "finding": "Google Play 頁面標題「Papers, Please - Apps on Google Play」；官方網站 papersplea.se 與 3909 開發者頁皆列出此 App。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=239030&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 73879，metacritic.score 為 85（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Papers, Please",
+        "papers please",
+        "請出示文件"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "FTL: Faster Than Light",
+      "alias": [
+        "ftl faster than light",
+        "ftl",
+        "超越光速"
+      ],
+      "platform": "PC/Mac/Linux/iOS",
+      "icon": "🚀",
+      "category": "Roguelike",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 63,140 則推薦（recommendations，2026-11-22 快照），Metacritic 84；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 14, 2012 發售本篇／正式版；最早發售 2012-09-14。",
+      "sources": [
+        "https://store.steampowered.com/app/212680/",
+        "https://store.steampowered.com/api/appdetails?appids=212680&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=212680&l=tchinese",
+        "https://apps.apple.com/us/app/ftl-faster-than-light/id833951143",
+        "https://store.steampowered.com/app/212680/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、iOS。Advanced Edition 是免費擴充，屬同一商品；iOS 版只支援 iPad；沒有主機或 Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=212680&l=english",
+        "https://apps.apple.com/us/app/ftl-faster-than-light/id833951143"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Subset Games 開發的太空船 Roguelike，含免費 Advanced Edition 擴充。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=212680&l=english",
+        "finding": "Steam 商店 API 回傳「FTL: Faster Than Light」（app 212680），平台 Windows／macOS／Linux，發售日 Sep 14, 2012，開發 Subset Games。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/ftl-faster-than-light/id833951143",
+        "finding": "App Store 美國區，販售者 Subset Games，僅相容 iPad 2 以上（不支援 iPhone），含免費 Advanced Edition 擴充。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=212680&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 63140，metacritic.score 為 84（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "FTL: Faster Than Light",
+        "ftl faster than light",
+        "ftl",
+        "超越光速"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Into the Breach",
+      "alias": [
+        "into the breach",
+        "陷陣之志"
+      ],
+      "platform": "PC/Mac/Linux/Switch/iOS/Android",
+      "icon": "🤖",
+      "category": "策略",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 19,210 則推薦（recommendations，2026-11-22 快照），Metacritic 90；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Feb 27, 2018 發售本篇／正式版；最早發售 2018-02-27。",
+      "sources": [
+        "https://store.steampowered.com/app/590380/",
+        "https://store.steampowered.com/api/appdetails?appids=590380&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=590380&l=tchinese",
+        "https://www.nintendo.com/us/store/products/into-the-breach-switch/",
+        "https://apps.apple.com/us/app/into-the-breach/id1616542180",
+        "https://www.netflix.com/games/81517325",
+        "https://store.steampowered.com/app/590380/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、Switch、iOS、Android。手機版為 Netflix 會員專屬版（Netflix 發行、Subset Games 授權）；Xbox 商店的 Into the Breach 只有 PC 版，沒有 Xbox 主機版；沒有 PlayStation 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=590380&l=english",
+        "https://www.nintendo.com/us/store/products/into-the-breach-switch/",
+        "https://apps.apple.com/us/app/into-the-breach/id1616542180",
+        "https://www.netflix.com/games/81517325"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Subset Games 開發的回合制機甲戰術。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=590380&l=english",
+        "finding": "Steam 商店 API 回傳「Into the Breach」（app 590380），平台 Windows／macOS／Linux，發售日 Feb 27, 2018，開發 Subset Games。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/into-the-breach-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2018/8/28，發行 Subset Games。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/into-the-breach/id1616542180",
+        "finding": "App Store 美國區，販售者 Netflix（© Subset Games），註明 Netflix 會員專屬，支援 iPhone 與 iPad。"
+      },
+      {
+        "source": "https://www.netflix.com/games/81517325",
+        "finding": "Netflix 官方遊戲頁列出 App Store 與 Google Play（Android 8 以上）版本，未見下架公告。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=590380&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 19210，metacritic.score 為 90（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Into the Breach",
+        "into the breach",
+        "陷陣之志"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Spelunky 2",
+      "alias": [
+        "spelunky 2",
+        "洞穴探險2"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+      "icon": "⛏️",
+      "category": "Roguelike",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 19,873 則推薦（recommendations，2026-11-22 快照），Metacritic 91；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 29, 2020 發售本篇／正式版；最早發售 2020-09-15。",
+      "sources": [
+        "https://store.steampowered.com/app/418530/",
+        "https://store.steampowered.com/api/appdetails?appids=418530&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=418530&l=tchinese",
+        "https://store.playstation.com/en-us/concept/10001266",
+        "https://www.xbox.com/en-US/games/store/spelunky-2/9PM85QK6C13H",
+        "https://www.nintendo.com/us/store/products/spelunky-2-switch/",
+        "https://blog.playstation.com/2020/09/15/spelunky-2-is-out-today-on-ps4/"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch。續作；與 2012 年 Spelunky HD 重製及 2008 年 Spelunky Classic 分開；PS4 版 2020-09-15 先推出，Steam 2020-09-29。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=418530&l=english",
+        "https://store.playstation.com/en-us/concept/10001266",
+        "https://www.xbox.com/en-US/games/store/spelunky-2/9PM85QK6C13H",
+        "https://www.nintendo.com/us/store/products/spelunky-2-switch/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Mossmouth 開發的平台 Roguelike 續作。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=418530&l=english",
+        "finding": "Steam 商店 API 回傳「Spelunky 2」（app 418530），平台 Windows，發售日 Sep 29, 2020，開發 Mossmouth、BlitWorks。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10001266",
+        "finding": "PlayStation Store 平台欄 PS4、PS5，發行 Mossmouth；原生 PS5 版 2025/3/6 加入。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/spelunky-2/9PM85QK6C13H",
+        "finding": "Xbox 商店支援 Xbox One、Xbox Series X|S、PC，有「Optimized for Xbox Series X|S」與 Smart Delivery 標章，2022/1/13。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/spelunky-2-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2021/8/26，發行 Mossmouth。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=418530&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 19873，metacritic.score 為 91（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Spelunky 2",
+        "spelunky 2",
+        "洞穴探險2"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Neon White",
+      "alias": [
+        "neon white"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+      "icon": "⚡",
+      "category": "高速動作FPS",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 17,467 則推薦（recommendations，2026-11-22 快照），Metacritic 89；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jun 16, 2022 發售本篇／正式版；最早發售 2022-06-16。",
+      "sources": [
+        "https://store.steampowered.com/app/1533420/",
+        "https://store.steampowered.com/api/appdetails?appids=1533420&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1533420&l=tchinese",
+        "https://www.nintendo.com/us/store/products/neon-white-switch/",
+        "https://store.playstation.com/en-us/concept/10006032",
+        "https://www.xbox.com/en-us/games/store/neon-white/9MTGVHF37DFK"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch。PlayStation 版 2022-12、Xbox 版 2024-07 較晚推出；沒有手機版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1533420&l=english",
+        "https://www.nintendo.com/us/store/products/neon-white-switch/",
+        "https://store.playstation.com/en-us/concept/10006032",
+        "https://www.xbox.com/en-us/games/store/neon-white/9MTGVHF37DFK"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Angel Matrix 開發、Annapurna Interactive 發行的卡牌速通 FPS。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1533420&l=english",
+        "finding": "Steam 商店 API 回傳「Neon White」（app 1533420），平台 Windows，發售日 Jun 16, 2022，開發 Angel Matrix。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/neon-white-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2022/6/16，發行 Annapurna Interactive。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10006032",
+        "finding": "PlayStation Store 平台 PS4 與 PS5，2022/12/13，發行 Annapurna Interactive。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/neon-white/9MTGVHF37DFK",
+        "finding": "Xbox 商店支援 Xbox One、Xbox Series X|S、PC，有最佳化與 Smart Delivery 標章，2024/7/11。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1533420&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 17467，metacritic.score 為 89（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Neon White",
+        "neon white"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "A Short Hike",
+      "alias": [
+        "a short hike"
+      ],
+      "platform": "PC/Mac/Linux/PS4/Xbox One/Switch",
+      "icon": "🏔️",
+      "category": "冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 19,561 則推薦（recommendations，2026-11-22 快照），Metacritic 82；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jul 30, 2019 發售本篇／正式版；最早發售 2019-07-30。",
+      "sources": [
+        "https://store.steampowered.com/app/1055540/",
+        "https://store.steampowered.com/api/appdetails?appids=1055540&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1055540&l=tchinese",
+        "https://www.nintendo.com/us/store/products/a-short-hike-switch/",
+        "https://www.playstation.com/en-us/games/a-short-hike/",
+        "https://www.xbox.com/en-us/games/store/a-short-hike/9nk78df207sd",
+        "https://store.steampowered.com/app/1055540/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS4、Xbox One、Switch。官網列出 Switch、PS4、Xbox One 與 PC 商店；沒有手機版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1055540&l=english",
+        "https://www.nintendo.com/us/store/products/a-short-hike-switch/",
+        "https://www.playstation.com/en-us/games/a-short-hike/",
+        "https://www.xbox.com/en-us/games/store/a-short-hike/9nk78df207sd"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "adamgryu 開發的小島健行探索遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1055540&l=english",
+        "finding": "Steam 商店 API 回傳「A Short Hike」（app 1055540），平台 Windows／macOS／Linux，發售日 Jul 30, 2019，開發 adamgryu。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/a-short-hike-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2020/8/18，發行 Whippoorwill。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/a-short-hike/",
+        "finding": "PlayStation 官方頁 PS4 版，Whippoorwill，2021/11/16；PS5 為向下相容。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/a-short-hike/9nk78df207sd",
+        "finding": "Xbox 商店，發行 Whippoorwill，2021/11/16；Xbox Series X|S 屬向下相容。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1055540&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 19561，metacritic.score 為 82（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "A Short Hike",
+        "a short hike"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Spiritfarer",
+      "alias": [
+        "spiritfarer",
+        "spiritfarer farewell edition",
+        "靈魂擺渡人"
+      ],
+      "platform": "PC/Mac/Linux/PS4/Xbox One/Switch/iOS/Android",
+      "icon": "⛵",
+      "category": "模擬經營",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 47,807 則推薦（recommendations，2026-11-22 快照），Metacritic 84；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 18, 2020 發售本篇／正式版；最早發售 2020-08-18。",
+      "sources": [
+        "https://store.steampowered.com/app/972660/",
+        "https://store.steampowered.com/api/appdetails?appids=972660&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=972660&l=tchinese",
+        "https://www.nintendo.com/us/store/products/spiritfarer-switch/",
+        "https://store.playstation.com/zh-hant-hk/concept/10000752",
+        "https://www.xbox.com/en-us/games/store/spiritfarer-farewell-edition/9ng5l58fd3x5",
+        "https://apps.apple.com/us/app/id1610577424",
+        "https://www.netflix.com/games/81554162"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS4、Xbox One、Switch、iOS、Android。現行 PC／主機商品為 Farewell Edition；手機版為 Netflix 會員專屬版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=972660&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=972660&l=tchinese",
+        "https://www.nintendo.com/us/store/products/spiritfarer-switch/",
+        "https://store.playstation.com/zh-hant-hk/concept/10000752",
+        "https://www.xbox.com/en-us/games/store/spiritfarer-farewell-edition/9ng5l58fd3x5",
+        "https://apps.apple.com/us/app/id1610577424",
+        "https://www.netflix.com/games/81554162"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Thunder Lotus Games 開發的靈魂擺渡經營冒險，現行版本為 Farewell Edition。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=972660&l=english",
+        "finding": "Steam 商店 API 回傳「Spiritfarer®: Farewell Edition」（app 972660），平台 Windows／macOS／Linux，發售日 Aug 18, 2020，開發 Thunder Lotus。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=972660&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「Spiritfarer®: Farewell 版」。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/spiritfarer-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2020/8/18，Thunder Lotus Games。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-hk/concept/10000752",
+        "finding": "PlayStation Store 香港頁「Spiritfarer：Farewell 版」只列 PS4，PS5 為向下相容。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/spiritfarer-farewell-edition/9ng5l58fd3x5",
+        "finding": "Xbox 商店「Spiritfarer: Farewell Edition」，Thunder Lotus，2020/8/18；Xbox Series X|S 屬向下相容。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/id1610577424",
+        "finding": "App Store「Spiritfarer: Netflix Edition」，販售者 Netflix，Netflix 會員專屬，支援 iPhone 與 iPad。"
+      },
+      {
+        "source": "https://www.netflix.com/games/81554162",
+        "finding": "Netflix 官方遊戲頁列出 App Store 與 Google Play（Android 8 以上）版本，未見下架公告。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=972660&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 47807，metacritic.score 為 84（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Spiritfarer",
+        "spiritfarer",
+        "spiritfarer farewell edition",
+        "靈魂擺渡人"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Unpacking",
+      "alias": [
+        "unpacking"
+      ],
+      "platform": "PC/Mac/Linux/PS5/PS4/Xbox One/Switch/iOS/Android",
+      "icon": "📦",
+      "category": "解謎",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 35,520 則推薦（recommendations，2026-11-22 快照），Metacritic 83；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Nov 1, 2021 發售本篇／正式版；最早發售 2021-11-02。",
+      "sources": [
+        "https://store.steampowered.com/app/1135690/",
+        "https://store.steampowered.com/api/appdetails?appids=1135690&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1135690&l=tchinese",
+        "https://www.nintendo.com/us/store/products/unpacking-switch/",
+        "https://store.playstation.com/en-us/concept/10004687",
+        "https://www.xbox.com/en-us/games/store/unpacking/9NH5HN11FG4M",
+        "https://apps.apple.com/us/app/unpacking/id6450058135",
+        "https://play.google.com/store/apps/details?id=com.humblebundle.unpacking"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS5、PS4、Xbox One、Switch、iOS、Android。Apple Arcade 的「Unpacking+」是另一個訂閱制商品，不併入；Xbox Series X|S 屬向下相容。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1135690&l=english",
+        "https://www.nintendo.com/us/store/products/unpacking-switch/",
+        "https://store.playstation.com/en-us/concept/10004687",
+        "https://www.xbox.com/en-us/games/store/unpacking/9NH5HN11FG4M",
+        "https://apps.apple.com/us/app/unpacking/id6450058135",
+        "https://play.google.com/store/apps/details?id=com.humblebundle.unpacking"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Witch Beam 開發的搬家拆箱擺放解謎。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1135690&l=english",
+        "finding": "Steam 商店 API 回傳「Unpacking」（app 1135690），平台 Windows／macOS／Linux，發售日 Nov 1, 2021，開發 Witch Beam。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/unpacking-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2021/11/2，開發 Witch Beam。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10004687",
+        "finding": "PlayStation Store（官網連結）平台 PS4 與 PS5，2022/5/10。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/unpacking/9NH5HN11FG4M",
+        "finding": "Xbox 商店，Humble Games／Witch Beam，2021/11/2；Xbox Series X|S 屬向下相容。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/unpacking/id6450058135",
+        "finding": "App Store（官網連結），付費 App，支援 iPhone 與 iPad。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.humblebundle.unpacking",
+        "finding": "Google Play（官網連結）頁面標題「Unpacking - Apps on Google Play」。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1135690&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 35520，metacritic.score 為 83（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Unpacking",
+        "unpacking"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Darkest Dungeon II",
+      "alias": [
+        "darkest dungeon ii",
+        "darkest dungeon 2",
+        "暗黑地牢2",
+        "黑暗地牢2"
+      ],
+      "platform": "PC/Mac/PS5/PS4/Xbox Series X|S/Xbox One/Switch/Switch 2",
+      "icon": "🕯️",
+      "category": "策略RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 24,622 則推薦（recommendations，2026-11-22 快照），Metacritic 81；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam May 8, 2023 發售本篇／正式版；最早發售 2023-05-08。",
+      "sources": [
+        "https://store.steampowered.com/app/1940340/",
+        "https://store.steampowered.com/api/appdetails?appids=1940340&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1940340&l=tchinese",
+        "https://store.playstation.com/en-us/product/UP2619-PPSA19590_00-0191103846959805",
+        "https://www.xbox.com/en-US/games/store/darkest-dungeon-ii/9n0q3tgwhg1f",
+        "https://www.nintendo.com/us/store/products/darkest-dungeon-ii-switch",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/Darkest-Dungeon-II-Nintendo-Switch-2-Edition-3226401.html",
+        "https://store.steampowered.com/app/1940340/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、PS5、PS4、Xbox Series X|S、Xbox One、Switch、Switch 2。《暗黑地牢》續作，改為驛馬車公路 Roguelike；Switch 2 Edition 2026-10-22 推出。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1940340&l=english",
+        "https://store.playstation.com/en-us/product/UP2619-PPSA19590_00-0191103846959805",
+        "https://www.xbox.com/en-US/games/store/darkest-dungeon-ii/9n0q3tgwhg1f",
+        "https://www.nintendo.com/us/store/products/darkest-dungeon-ii-switch",
+        "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/Darkest-Dungeon-II-Nintendo-Switch-2-Edition-3226401.html"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Red Hook Studios 開發的《暗黑地牢》續作，改為驛馬車公路 Roguelike。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1940340&l=english",
+        "finding": "Steam 商店 API 回傳「Darkest Dungeon® II」（app 1940340），平台 Windows／macOS，發售日 May 8, 2023，開發 Red Hook Studios。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/UP2619-PPSA19590_00-0191103846959805",
+        "finding": "PlayStation Store 美國頁「Darkest Dungeon II PS4 & PS5」平台 PS4／PS5，2024/7/15，發行 Red Hook Studios。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/darkest-dungeon-ii/9n0q3tgwhg1f",
+        "finding": "Xbox 商店支援 Xbox One、Xbox Series X|S 與 PC，2024/7/15，Red Hook Studios 開發發行。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/darkest-dungeon-ii-switch",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2024/7/15，Red Hook Studios；另售 Switch 2 版與升級包。"
+      },
+      {
+        "source": "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-2-Edition/Darkest-Dungeon-II-Nintendo-Switch-2-Edition-3226401.html",
+        "finding": "任天堂英國頁「Darkest Dungeon II – Nintendo Switch 2 Edition」，2026/10/22，支援 Joy-Con 2 滑鼠操作。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1940340&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 24622，metacritic.score 為 81（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Darkest Dungeon II",
+        "darkest dungeon ii",
+        "darkest dungeon 2",
+        "暗黑地牢2",
+        "黑暗地牢2"
+      ],
+      "result": "名稱與 4 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Pipistrello and the Cursed Yoyo",
+      "alias": [
+        "pipistrello and the cursed yoyo",
+        "pipistrello"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Switch/Switch 2",
+      "icon": "🦇",
+      "category": "動作冒險",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 2,078 則推薦（recommendations，2026-11-22 快照），Metacritic 87；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam May 28, 2025 發售本篇／正式版；最早發售 2025-05-28。",
+      "sources": [
+        "https://store.steampowered.com/app/2870350/",
+        "https://store.steampowered.com/api/appdetails?appids=2870350&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2870350&l=tchinese",
+        "https://store.playstation.com/en-us/product/UP2011-CUSA49517_00-PIPISTRELLO00000",
+        "https://www.xbox.com/en-us/games/store/pipistrello-and-the-cursed-yoyo/9n9lk61ws2ch",
+        "https://ec.nintendo.com/AU/en/titles/70010000083560",
+        "https://ec.nintendo.com/AU/en/titles/70010000131278",
+        "https://www.pm-studios.com/games/pipistrello-and-the-cursed-yoyo"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Switch、Switch 2。原創俯視角溜溜球動作冒險。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2870350&l=english",
+        "https://store.playstation.com/en-us/product/UP2011-CUSA49517_00-PIPISTRELLO00000",
+        "https://www.xbox.com/en-us/games/store/pipistrello-and-the-cursed-yoyo/9n9lk61ws2ch",
+        "https://ec.nintendo.com/AU/en/titles/70010000083560",
+        "https://ec.nintendo.com/AU/en/titles/70010000131278"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Pocket Trap 開發、PM Studios 發行的俯視角溜溜球動作冒險。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2870350&l=english",
+        "finding": "Steam 商店 API 回傳「Pipistrello and the Cursed Yoyo」（app 2870350），平台 Windows，發售日 May 28, 2025，開發 Pocket Trap。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/UP2011-CUSA49517_00-PIPISTRELLO00000",
+        "finding": "PlayStation Store 美國頁平台 PS4／PS5，2025/5/28，發行 PM Studios。"
+      },
+      {
+        "source": "https://www.xbox.com/en-us/games/store/pipistrello-and-the-cursed-yoyo/9n9lk61ws2ch",
+        "finding": "Xbox 商店只支援 Xbox Series X|S，2025/5/28，開發 Pocket Trap、發行 PM Studios。"
+      },
+      {
+        "source": "https://ec.nintendo.com/AU/en/titles/70010000083560",
+        "finding": "任天堂澳洲 eShop 列出 Nintendo Switch 版，發行 PM Studios。"
+      },
+      {
+        "source": "https://ec.nintendo.com/AU/en/titles/70010000131278",
+        "finding": "任天堂澳洲 eShop 另列「Pipistrello and the Cursed Yoyo, Nintendo Switch 2 Edition」，提升解析度、影格率與 HDR。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2870350&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 2078，metacritic.score 為 87（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Pipistrello and the Cursed Yoyo",
+        "pipistrello and the cursed yoyo",
+        "pipistrello"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Sword of the Sea",
+      "alias": [
+        "sword of the sea"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S/Switch 2",
+      "icon": "🌊",
+      "category": "冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 1,720 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 19, 2025 發售本篇／正式版；最早發售 2025-08-19。",
+      "sources": [
+        "https://store.steampowered.com/app/2453160/",
+        "https://store.steampowered.com/api/appdetails?appids=2453160&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2453160&l=tchinese",
+        "https://store.playstation.com/en-us/concept/10011227",
+        "https://www.xbox.com/en-US/games/store/sword-of-the-sea/9n65wlp4cscl",
+        "https://www.nintendo.com/us/store/products/sword-of-the-sea-switch-2/"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S、Switch 2。《ABZÛ》《The Pathless》團隊新作；Xbox 與 Switch 2 版 2026-10-29 推出。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2453160&l=english",
+        "https://store.playstation.com/en-us/concept/10011227",
+        "https://www.xbox.com/en-US/games/store/sword-of-the-sea/9n65wlp4cscl",
+        "https://www.nintendo.com/us/store/products/sword-of-the-sea-switch-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Giant Squid 開發的海上滑行冒險。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2453160&l=english",
+        "finding": "Steam 商店 API 回傳「Sword of the Sea」（app 2453160），平台 Windows，發售日 Aug 19, 2025，開發 Giant Squid。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10011227",
+        "finding": "PlayStation Store 只列 PS5（無 PS4），2025/8/19，發行 Giant Squid。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/sword-of-the-sea/9n65wlp4cscl",
+        "finding": "Xbox 商店只支援 Xbox Series X|S，2026/10/29，開發 Giant Squid、發行 Fictions。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/sword-of-the-sea-switch-2/",
+        "finding": "任天堂美國頁 Nintendo Switch 2 版，2026/10/29，發行 Fictions。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2453160&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 1720（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Sword of the Sea",
+        "sword of the sea"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Baby Steps",
+      "alias": [
+        "baby steps",
+        "一步一腳印"
+      ],
+      "platform": "PC/PS5",
+      "icon": "👶",
+      "category": "挑戰",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 2,423 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 23, 2025 發售本篇／正式版；最早發售 2025-09-23。",
+      "sources": [
+        "https://store.steampowered.com/app/1281040/",
+        "https://store.steampowered.com/api/appdetails?appids=1281040&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1281040&l=tchinese",
+        "https://store.playstation.com/zh-hant-tw/concept/10008588"
+      ],
+      "platformNote": "已確認 PC、PS5。《Ape Out》與《Getting Over It》作者的物理走路遊戲。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1281040&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1281040&l=tchinese",
+        "https://store.playstation.com/zh-hant-tw/concept/10008588"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Gabe Cuzzillo、Maxi Boch 與 Bennett Foddy 開發、Devolver Digital 發行的物理走路遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1281040&l=english",
+        "finding": "Steam 商店 API 回傳「Baby Steps」（app 1281040），平台 Windows，發售日 Sep 23, 2025，開發 Gabe Cuzzillo、Maxi Boch、Bennett Foddy。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1281040&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「一步一腳印」。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/concept/10008588",
+        "finding": "PlayStation Store 台灣頁「Baby Steps」平台 PS5，2025/9/23，發行 DEVOLVER DIGITAL。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1281040&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 2423（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Baby Steps",
+        "baby steps",
+        "一步一腳印"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "despelote",
+      "alias": [
+        "despelote"
+      ],
+      "platform": "PC/Mac/PS5/PS4/Xbox Series X|S/Switch",
+      "icon": "⚽",
+      "category": "冒險",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 1,067 則推薦（recommendations，2026-11-22 快照），Metacritic 89；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam May 1, 2025 發售本篇／正式版；最早發售 2025-05-01。",
+      "sources": [
+        "https://store.steampowered.com/app/2367820/",
+        "https://store.steampowered.com/api/appdetails?appids=2367820&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2367820&l=tchinese",
+        "https://store.playstation.com/zh-hant-tw/concept/10007987",
+        "https://www.xbox.com/en-US/games/store/despelote/9pcs3q4jscvv",
+        "https://despelote.game/presskit/",
+        "https://apps.apple.com/us/app/despelote/id6747992743"
+      ],
+      "platformNote": "已確認 PC、Mac、PS5、PS4、Xbox Series X|S、Switch。2001 年基多為背景的足球生活小品；Mac 版經 Mac App Store 與 Steam 販售，沒有 iOS 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2367820&l=english",
+        "https://store.playstation.com/zh-hant-tw/concept/10007987",
+        "https://www.xbox.com/en-US/games/store/despelote/9pcs3q4jscvv",
+        "https://despelote.game/presskit/",
+        "https://apps.apple.com/us/app/despelote/id6747992743"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Julián Cordero 與 Sebastian Valbuena 開發、Panic 發行的 2001 年基多足球生活小品。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2367820&l=english",
+        "finding": "Steam 商店 API 回傳「despelote」（app 2367820），平台 Windows／macOS，發售日 May 1, 2025，開發 Julián Cordero、Sebastian Valbuena。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/concept/10007987",
+        "finding": "PlayStation Store 台灣頁「despelote」平台 PS4／PS5，2025/5/1，發行 Panic。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/despelote/9pcs3q4jscvv",
+        "finding": "Xbox 商店只支援 Xbox Series X|S，2025/5/1，發行 Panic。"
+      },
+      {
+        "source": "https://despelote.game/presskit/",
+        "finding": "官方新聞資料：Nintendo Switch 版 2025-12-11 推出，其餘平台 2025-05-01；官網 Switch 連結指向任天堂美國商品頁。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/despelote/id6747992743",
+        "finding": "Mac App Store 由 Panic 販售的 despelote，僅支援 Mac。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2367820&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 1067，metacritic.score 為 89（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "despelote",
+        "despelote"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Lumines Arise",
+      "alias": [
+        "lumines arise"
+      ],
+      "platform": "PC/PS5",
+      "icon": "🎵",
+      "category": "益智",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 867 則推薦（recommendations，2026-11-22 快照），Metacritic 87；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Nov 11, 2025 發售本篇／正式版；最早發售 2025-11-11。",
+      "sources": [
+        "https://store.steampowered.com/app/2370000/",
+        "https://store.steampowered.com/api/appdetails?appids=2370000&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2370000&l=tchinese",
+        "https://store.playstation.com/zh-hant-tw/product/UP0751-PPSA27236_00-LUMINESARISE0001"
+      ],
+      "platformNote": "已確認 PC、PS5。《俄羅斯方塊效應》團隊的 Lumines 新作，不是 2018 年 Lumines Remastered；VR 是遊玩模式，不是另一平台。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2370000&l=english",
+        "https://store.playstation.com/zh-hant-tw/product/UP0751-PPSA27236_00-LUMINESARISE0001"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Enhance 與 Monstars 開發的 Lumines 系列新作，不是 Lumines Remastered。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2370000&l=english",
+        "finding": "Steam 商店 API 回傳「Lumines Arise」（app 2370000），平台 Windows，發售日 Nov 11, 2025，開發 Enhance、Monstars Inc.。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/product/UP0751-PPSA27236_00-LUMINESARISE0001",
+        "finding": "PlayStation Store 台灣頁「Lumines Arise」平台 PS5（可用 PS VR2），2025/11/11，發行 Fictions；官網只列 PS5／PS VR2 與 Steam。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2370000&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 867，metacritic.score 為 87（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Lumines Arise",
+        "lumines arise"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Rift of the NecroDancer",
+      "alias": [
+        "rift of the necrodancer"
+      ],
+      "platform": "PC/Switch",
+      "icon": "🎸",
+      "category": "音樂",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 6,165 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Feb 5, 2025 發售本篇／正式版；最早發售 2025-02-05。",
+      "sources": [
+        "https://store.steampowered.com/app/2073250/",
+        "https://store.steampowered.com/api/appdetails?appids=2073250&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2073250&l=tchinese",
+        "https://www.nintendo.com/us/store/products/rift-of-the-necrodancer-switch/",
+        "https://store.steampowered.com/app/2073250/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Switch。NecroDancer 宇宙的節奏遊戲外傳，與 2015 年 Crypt of the NecroDancer 及 Cadence of Hyrule 不同。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2073250&l=english",
+        "https://www.nintendo.com/us/store/products/rift-of-the-necrodancer-switch/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Brace Yourself Games 開發的 NecroDancer 節奏遊戲外傳，與 Crypt of the NecroDancer 不同。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2073250&l=english",
+        "finding": "Steam 商店 API 回傳「Rift of the NecroDancer」（app 2073250），平台 Windows，發售日 Feb 5, 2025，開發 Brace Yourself Games、Tic Toc Studios Inc.。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/rift-of-the-necrodancer-switch/",
+        "finding": "任天堂美國頁 Nintendo Switch 版，2025/3/27，Brace Yourself Games 開發發行；Switch 2 為相容遊玩。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2073250&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 6165（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Rift of the NecroDancer",
+        "rift of the necrodancer"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "蘇丹的遊戲",
+      "alias": [
+        "sultan's game"
+      ],
+      "platform": "PC/Mac/Linux",
+      "icon": "🃏",
+      "category": "卡牌RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 25,410 則推薦（recommendations，2026-11-22 快照），Metacritic 83；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Mar 30, 2025 發售本篇／正式版；最早發售 2025-03-30。",
+      "sources": [
+        "https://store.steampowered.com/app/3117820/",
+        "https://store.steampowered.com/api/appdetails?appids=3117820&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3117820&l=tchinese",
+        "https://store.steampowered.com/app/3117820/?l=tchinese"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux。卡牌敘事 RPG；另有 GameTree 發行的手機版，商店頁未提及原開發商，本輪無法確認為官方授權，不列入平台。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3117820&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3117820&l=tchinese"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Double Cross 開發、2P Games 發行的卡牌敘事 RPG。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3117820&l=english",
+        "finding": "Steam 商店 API 回傳「Sultan's Game」（app 3117820），平台 Windows／macOS／Linux，發售日 Mar 30, 2025，開發 Double Cross。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3117820&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「蘇丹的遊戲」。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3117820&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 25410，metacritic.score 為 83（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "蘇丹的遊戲",
+        "sultan's game"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  }
+]

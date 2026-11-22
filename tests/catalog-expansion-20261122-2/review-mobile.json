@@ -1,0 +1,319 @@
+[
+  {
+    "game": {
+      "name": "漫威：瞬戰超能",
+      "alias": [
+        "marvel snap"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🃏",
+      "category": "卡牌對戰",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "Steam API 未提供推薦數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "Steam Aug 22, 2023 發售本篇／正式版；最早發售 2022-10-18。",
+      "sources": [
+        "https://store.steampowered.com/app/1997040/",
+        "https://store.steampowered.com/api/appdetails?appids=1997040&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1997040&l=tchinese",
+        "https://apps.apple.com/tw/app/marvel-snap/id1592081003",
+        "https://play.google.com/store/apps/details?id=com.nvsgames.snap&hl=zh_TW&gl=TW",
+        "https://store.steampowered.com/app/1997040/MARVEL_SNAP/"
+      ],
+      "platformNote": "已確認 PC、iOS、Android。全球同一版本，手機與 Steam 進度互通；Apple Silicon Mac 執行 iPad App 不另列 Mac。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1997040&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1997040&l=tchinese",
+        "https://apps.apple.com/tw/app/marvel-snap/id1592081003",
+        "https://play.google.com/store/apps/details?id=com.nvsgames.snap&hl=zh_TW&gl=TW",
+        "https://store.steampowered.com/app/1997040/MARVEL_SNAP/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Second Dinner 開發的漫威卡牌對戰，全球同一版本。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1997040&l=english",
+        "finding": "Steam 商店 API 回傳「MARVEL SNAP」（app 1997040），平台 Windows，發售日 Aug 22, 2023，開發 Second Dinner Studios, Inc.。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1997040&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「漫威：瞬戰超能」。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/marvel-snap/id1592081003",
+        "finding": "App Store 台灣區「漫威：瞬戰超能」，販售者 Second Dinner Studios，免費含內購，近日仍有更新。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.nvsgames.snap&hl=zh_TW&gl=TW",
+        "finding": "Google Play 台灣區名稱「漫威：瞬戰超能」，開發者 Second Dinner；官網 marvelsnap.com 連結同一套件。"
+      },
+      {
+        "source": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/",
+        "finding": "Steam 商店頁 MARVEL SNAP，Second Dinner Studios，2022-10-18 搶先體驗、2023-08-22 正式版，僅 Windows。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/app/1997040/MARVEL_SNAP/",
+        "finding": "官方來源確認「漫威：瞬戰超能」已於 2022-10-18 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "漫威：瞬戰超能",
+        "marvel snap"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "聯盟戰棋",
+      "alias": [
+        "teamfight tactics",
+        "tft",
+        "雲頂之弈"
+      ],
+      "platform": "PC/Mac/iOS/Android",
+      "icon": "♟️",
+      "category": "策略",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2020-03-19 發售（官方來源）。",
+      "sources": [
+        "https://www.leagueoflegends.com/zh-tw/download/",
+        "https://apps.apple.com/tw/app/id1501301571",
+        "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=zh_TW&gl=TW",
+        "https://teamfighttactics.leagueoflegends.com/en-ph/news/announcements/play-teamfight-tactics-mobile-now",
+        "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-mobile-details/"
+      ],
+      "platformNote": "已確認 PC、Mac、iOS、Android。PC／Mac 版在英雄聯盟用戶端內，手機版為獨立 App，兩者共用 Riot 帳號；台灣 iOS 上架者為台灣大哥大；手機版全球 2020-03-19、台灣 2023-11-22 上線。",
+      "platformSources": [
+        "https://www.leagueoflegends.com/zh-tw/download/",
+        "https://apps.apple.com/tw/app/id1501301571",
+        "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=zh_TW&gl=TW",
+        "https://teamfighttactics.leagueoflegends.com/en-ph/news/announcements/play-teamfight-tactics-mobile-now"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Riot Games 的自走棋對戰，PC／Mac 在英雄聯盟用戶端內、手機為獨立 App。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.leagueoflegends.com/zh-tw/download/",
+        "finding": "英雄聯盟台灣官方下載頁提供 Windows 與 Mac 用戶端；聯盟戰棋 PC 版在此用戶端內遊玩。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1501301571",
+        "finding": "App Store 台灣區「TFT: 聯盟戰棋」，販售者台灣大哥大，客服與隱私連結指向 Riot Games，近日仍有更新。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.riotgames.league.teamfighttactics&hl=zh_TW&gl=TW",
+        "finding": "Google Play 台灣區「TFT：《聯盟戰棋》」，開發者 Riot Games。"
+      },
+      {
+        "source": "https://teamfighttactics.leagueoflegends.com/en-ph/news/announcements/play-teamfight-tactics-mobile-now",
+        "finding": "Riot 公告手機版於 2023-11-22 在台灣、香港、澳門與東南亞上線。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://teamfighttactics.leagueoflegends.com/en-us/news/game-updates/teamfight-tactics-mobile-details/",
+        "finding": "官方來源確認「聯盟戰棋」已於 2020-03-19 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "聯盟戰棋",
+        "teamfight tactics",
+        "tft",
+        "雲頂之弈"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "女神異聞錄：夜幕魅影",
+      "alias": [
+        "p5x",
+        "persona5 the phantom x",
+        "persona 5 the phantom x"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🎭",
+      "category": "RPG",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "官方來源未公布正式上市日期；查核日商店頁仍上架營運。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1613742212",
+        "https://play.google.com/store/apps/details?id=tw.com.iwplay.p5x"
+      ],
+      "platformNote": "已確認 iOS、Android。台港澳版本，與 SEGA 發行的國際版「Persona5: The Phantom X」（2025-06 上市，含 Steam）及中國版是不同商品，不合併；國際版在台灣 App Store 無法取得。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1613742212",
+        "https://play.google.com/store/apps/details?id=tw.com.iwplay.p5x"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "艾玩天地代理的台港澳版本；SEGA 發行的國際版與中國版是不同商品，不合併。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1613742212",
+        "finding": "App Store 台灣區「女神異聞錄：夜幕魅影」，販售者 IWPLAY WORLD，說明艾玩天地為台港澳代理，近期仍有更新。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=tw.com.iwplay.p5x",
+        "finding": "Google Play「女神異聞錄：夜幕魅影」，開發者 IWPLAY WORLD。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1613742212",
+        "finding": "官方商店頁確認「女神異聞錄：夜幕魅影」目前上架營運，作為收錄依據；官方未公布上市日期，也未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "女神異聞錄：夜幕魅影",
+        "p5x",
+        "persona5 the phantom x",
+        "persona 5 the phantom x"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "天命：群星",
+      "alias": [
+        "destiny rising"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🔫",
+      "category": "射擊RPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-08-28 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id6744052056",
+        "https://play.google.com/store/apps/details?id=com.netease.g108hmt&hl=zh_TW&gl=TW",
+        "https://www.playdestinyrising.com/tw/",
+        "https://www.neteasegames.com/news/20250828/37000_1256677.html"
+      ],
+      "platformNote": "已確認 iOS、Android。Destiny: Rising 的台灣代理版本；國際版（NetEase 直營上架）不在台灣 App Store 上架，不合併；官網的 PC 遊玩是模擬器，不列 PC。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id6744052056",
+        "https://play.google.com/store/apps/details?id=com.netease.g108hmt&hl=zh_TW&gl=TW",
+        "https://www.playdestinyrising.com/tw/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "NetEase 經 Bungie 授權開發、龍邑代理的台灣版本；國際版是另外的商店上架，不合併。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id6744052056",
+        "finding": "App Store 台灣區「天命：群星」，開發者 LongE，說明註明台灣遊戲代理龍邑股份有限公司、© NetEase。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.netease.g108hmt&hl=zh_TW&gl=TW",
+        "finding": "Google Play 台灣區「天命：群星」，開發者 LongE Play，為官網台灣下載連結指向的套件。"
+      },
+      {
+        "source": "https://www.playdestinyrising.com/tw/",
+        "finding": "官網台灣頁標示台灣遊戲代理龍邑股份有限公司、「現已上線」，並有 2026-11 維護公告。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.neteasegames.com/news/20250828/37000_1256677.html",
+        "finding": "官方來源確認「天命：群星」已於 2025-08-28 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "天命：群星",
+        "destiny rising"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Royal Kingdom",
+      "alias": [
+        "royal kingdom"
+      ],
+      "platform": "iOS/Android",
+      "icon": "👑",
+      "category": "三消益智",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "官方來源未公布正式上市日期；查核日商店頁仍上架營運。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1606549505",
+        "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=zh_TW&gl=TW"
+      ],
+      "platformNote": "已確認 iOS、Android。《Royal Match》同工作室的另一款三消遊戲；全球同一版本；官方來源未公布正式上市日期。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1606549505",
+        "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=zh_TW&gl=TW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Dream Games 開發的三消益智，與同工作室的 Royal Match 是不同作品。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1606549505",
+        "finding": "App Store 台灣區「Royal Kingdom」，開發者 Dream Games，免費含內購，近日仍有更新，益智免費榜第 12 名（查核當時）。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.dreamgames.royalkingdom&hl=zh_TW&gl=TW",
+        "finding": "Google Play 台灣區「Royal Kingdom」，開發者 Dream Games。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1606549505",
+        "finding": "官方商店頁確認「Royal Kingdom」目前上架營運，作為收錄依據；官方未公布上市日期，也未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Royal Kingdom",
+        "royal kingdom"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1091 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  }
+]

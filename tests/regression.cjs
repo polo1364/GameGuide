@@ -392,7 +392,7 @@ async function main() {
             }
         });
         await check('catalog expansion rejects drift and duplicate candidates before writing', async () => {
-            const dir = path.join(root, 'tests/catalog-expansion-20261122');
+            const dir = path.join(root, 'tests/catalog-expansion-20261122-2');
             const script = fs.readFileSync(path.join(dir, 'apply-expansion.cjs'), 'utf8');
             for (const [file, pattern, mutate] of [
                 [path.join(root, 'games.json'), /Catalog drift/, value => { value.games[0].icon = 'DRIFT_SENTINEL'; }],
@@ -400,14 +400,13 @@ async function main() {
                 [path.join(root, 'tests/platform-audit/pending.json'), /Pending drift/, value => { value[0].note = 'DRIFT_SENTINEL'; }],
                 [path.join(root, 'tests/catalog-expansion-20261019/pending-platforms.json'), /Previous pending drift/, value => { value[0].remainingDetails = 'DRIFT_SENTINEL'; }],
                 [path.join(root, 'tests/catalog-expansion-20261019-2/pending-platforms.json'), /Previous pending drift/, value => { value[0].remainingDetails = 'DRIFT_SENTINEL'; }],
+                [path.join(root, 'tests/catalog-expansion-20261122/pending-platforms.json'), /Previous pending drift/, value => { value[0].remainingDetails = 'DRIFT_SENTINEL'; }],
                 [path.join(dir, 'review-major.json'), /Name\/alias collision/, value => { value[0].game.name = '薩爾達傳說 王國之淚'; }],
                 [path.join(dir, 'review-indie.json'), /Product collision/, value => { value[0].game.platformSources.push('https://store.steampowered.com/app/730/'); }]
             ]) {
-                // Expansion 3 wrote the catalog that later status rechecks start from; replay its guards against that state.
-                const catalogAfterExpansion = path.join(root, 'tests/platform-audit/status-20261122/catalog-before.json');
                 const mockedFs = { ...fs,
                     readFileSync(input, ...args) {
-                        const raw = fs.readFileSync(path.resolve(input) === path.join(root, 'games.json') ? catalogAfterExpansion : input, ...args);
+                        const raw = fs.readFileSync(input, ...args);
                         if (path.resolve(input) !== file) return raw;
                         const value = JSON.parse(raw);
                         mutate(value);
@@ -550,7 +549,8 @@ async function main() {
         for (const round of [
             { title: 'historical expansion 1', dir: 'tests/catalog-expansion-20261019/', catalog: 'tests/catalog-expansion-20261019-2/catalog-before.json', legacy: 'tests/catalog-expansion-20261019-2/audit-838-before.json' },
             { title: 'historical expansion 2', dir: 'tests/catalog-expansion-20261019-2/', catalog: 'tests/catalog-expansion-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122/audit-838-before.json', pendingGames: true },
-            { title: 'expansion 3', dir: 'tests/catalog-expansion-20261122/', catalog: 'tests/platform-audit/status-20261122/catalog-before.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true }
+            { title: 'expansion 3', dir: 'tests/catalog-expansion-20261122/', catalog: 'tests/platform-audit/status-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-2/audit-838-before.json', pendingGames: true },
+            { title: 'current expansion 4', dir: 'tests/catalog-expansion-20261122-2/', catalog: 'games.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json'] }
         ]) await check(`${round.title} has evidence and preserves unrelated and pending records`, async () => {
             const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
             const dir = round.dir;
@@ -610,6 +610,8 @@ async function main() {
                 assert.equal(pendingGames.length, 7);
                 for (const game of pendingGames) assert.deepEqual(catalog.games.find(item => item.name === game.name), game);
                 assert.deepEqual(read('tests/catalog-expansion-20261019/pending-platforms.json'), read(dir + 'previous-expansion-pending-before.json'));
+                const prev = round.previousPending || [];
+                for (let i = 0; i < prev.length; i += 2) assert.deepEqual(read(prev[i]), read(dir + prev[i + 1]));
             }
         });
         await check('release-status rechecks change only their records and label them released', async () => {
@@ -617,7 +619,7 @@ async function main() {
             // Each recheck is checked against the catalog it produced (the next recheck's snapshot, or games.json for the latest).
             const rounds = [
                 { dir: 'tests/platform-audit/status-20261122/', after: 'tests/platform-audit/status-20261122-b/catalog-before.json', records: 2 },
-                { dir: 'tests/platform-audit/status-20261122-b/', after: 'games.json', records: 1, unchanged: 9 }
+                { dir: 'tests/platform-audit/status-20261122-b/', after: 'tests/catalog-expansion-20261122-2/catalog-before.json', records: 1, unchanged: 9 }
             ];
             const mutable = new Set(['releaseStatus', 'releaseNote', 'releaseDate', 'sources', 'platformNote', 'platformSources', 'platformReviewedAt', 'platformReviewStatus', 'platformVerifiedAt']);
             const allRecords = [];
@@ -666,7 +668,7 @@ async function main() {
             const { context, page } = await open();
             try {
                 await ready(page);
-                const audits = ['tests/catalog-expansion-20261019/audit.json', 'tests/catalog-expansion-20261019-2/audit.json', 'tests/catalog-expansion-20261122/audit.json'].map(file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8')));
+                const audits = ['tests/catalog-expansion-20261019/audit.json', 'tests/catalog-expansion-20261019-2/audit.json', 'tests/catalog-expansion-20261122/audit.json', 'tests/catalog-expansion-20261122-2/audit.json'].map(file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8')));
                 const audit = { records: audits.flatMap(item => item.records), merges: audits.flatMap(item => item.merges) };
                 for (const row of audit.records) {
                     for (const query of [row.game.name, ...row.game.alias]) {
