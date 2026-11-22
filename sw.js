@@ -1,11 +1,16 @@
 // GameMaster Service Worker
-const CACHE_VERSION = '33';
+const CACHE_VERSION = '34';
 const CACHE_NAME = `gamemaster-v${CACHE_VERSION}`;
 const STATIC_ASSETS = [
   './',
   './index.html',
   './games.json',
-  './manifest.json'
+  './manifest.json',
+  './icons/icon.svg',
+  './icons/icon-192.png',
+  './icons/icon-512.png',
+  './icons/icon-maskable-512.png',
+  './icons/apple-touch-icon.png'
 ];
 
 // 立即激活新版本

@@ -16,10 +16,13 @@ async function check(name, run) {
 async function main() {
     const server = http.createServer((req, res) => {
         const name = new URL(req.url, 'http://localhost').pathname.replace(/^\/guide\//, '/');
-        const files = { '/': 'index.html', '/index.html': 'index.html', '/games.json': 'games.json', '/sw.js': 'sw.js', '/manifest.json': 'manifest.json' };
+        const files = { '/': 'index.html', '/index.html': 'index.html', '/games.json': 'games.json', '/sw.js': 'sw.js', '/manifest.json': 'manifest.json',
+            '/icons/icon.svg': 'icons/icon.svg', '/icons/icon-192.png': 'icons/icon-192.png', '/icons/icon-512.png': 'icons/icon-512.png',
+            '/icons/icon-maskable-512.png': 'icons/icon-maskable-512.png', '/icons/apple-touch-icon.png': 'icons/apple-touch-icon.png' };
         const file = files[name];
         if (!file) { res.writeHead(404).end(); return; }
-        res.setHeader('Content-Type', file.endsWith('.html') ? 'text/html; charset=utf-8' : file.endsWith('.js') ? 'application/javascript' : 'application/json');
+        const types = { '.html': 'text/html; charset=utf-8', '.js': 'application/javascript', '.png': 'image/png', '.svg': 'image/svg+xml' };
+        res.setHeader('Content-Type', file === 'manifest.json' ? 'application/manifest+json' : types[path.extname(file)] || 'application/json');
         res.end(fs.readFileSync(path.join(root, file)));
     });
     await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
@@ -1479,6 +1482,55 @@ async function main() {
                 await page.reload(); await ready(page);
                 assert.equal(await page.evaluate(() => gameDatabase.length), JSON.parse(fs.readFileSync(path.join(root, 'games.json'), 'utf8')).games.length);
                 assert.equal(await page.evaluate(() => getSetting('theme')), 'light');
+            } finally { await context.close(); }
+        });
+        await check('PWA manifest, icons and service worker make the app installable', async () => {
+            const manifest = JSON.parse(fs.readFileSync(path.join(root, 'manifest.json'), 'utf8'));
+            assert.equal(manifest.start_url, './');
+            assert.equal(manifest.scope, './');
+            assert.equal(manifest.display, 'standalone');
+            const pngSize = file => { const data = fs.readFileSync(path.join(root, file)); assert.equal(data.toString('ascii', 1, 4), 'PNG', file); return `${data.readUInt32BE(16)}x${data.readUInt32BE(20)}`; };
+            for (const icon of manifest.icons.filter(icon => icon.type === 'image/png')) assert.equal(pngSize(icon.src), icon.sizes, icon.src);
+            assert.ok(manifest.icons.some(icon => icon.sizes === '192x192' && icon.purpose === 'any'));
+            assert.ok(manifest.icons.some(icon => icon.sizes === '512x512' && icon.purpose === 'any'));
+            assert.ok(manifest.icons.some(icon => icon.purpose === 'maskable'));
+            assert.equal(pngSize('icons/apple-touch-icon.png'), '180x180');
+            const sw = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');
+            for (const icon of [...manifest.icons.map(icon => icon.src), 'icons/apple-touch-icon.png']) assert.ok(sw.includes(`'./${icon}'`), `Service worker must precache ${icon}`);
+            const server = fs.readFileSync(path.join(root, 'server.cjs'), 'utf8');
+            for (const icon of [...manifest.icons.map(icon => icon.src), 'icons/apple-touch-icon.png']) assert.ok(server.includes(`'/${icon}': '${icon}'`), `server.cjs must serve ${icon}`);
+            const { context, page } = await open({ serviceWorkers: 'allow' });
+            try {
+                await ready(page);
+                await page.evaluate(() => navigator.serviceWorker.ready);
+                await page.reload(); await ready(page);
+                await page.waitForFunction(() => navigator.serviceWorker.controller !== null);
+                const cdp = await context.newCDPSession(page);
+                assert.deepEqual((await cdp.send('Page.getInstallabilityErrors')).installabilityErrors, []);
+                assert.deepEqual((await cdp.send('Page.getAppManifest')).errors, []);
+                assert.equal(await page.locator('link[rel="apple-touch-icon"]').getAttribute('href'), 'icons/apple-touch-icon.png');
+                assert.equal(await page.locator('#themeColorMeta').getAttribute('content'), '#1f4d3a');
+                await page.evaluate(() => toggleTheme());
+                assert.equal(await page.locator('#themeColorMeta').getAttribute('content'), '#11142a');
+                await page.evaluate(() => toggleTheme());
+                await context.setOffline(true);
+                assert.equal(await page.evaluate(async () => (await fetch('icons/icon-192.png')).status), 200);
+            } finally { await context.close(); }
+        });
+        await check('iOS Safari shows add-to-home-screen guidance instead of an install button', async () => {
+            const { context, page } = await open({ userAgent: 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1' });
+            try {
+                await ready(page);
+                await page.waitForSelector('#pwaInstallBanner', { state: 'visible', timeout: 8000 });
+                assert.match(await page.locator('#pwaInstallText').textContent(), /加入主畫面/);
+                assert.equal(await page.locator('#pwaInstallBtn').isVisible(), false);
+                await page.locator('.pwa-close-btn').click();
+                let dismissed = false;
+                for (let i = 0; i < 20 && !dismissed; i++) { dismissed = await page.evaluate(() => getSetting('pwa_dismissed', false)); if (!dismissed) await page.waitForTimeout(100); }
+                assert.equal(dismissed, true);
+                await page.reload(); await ready(page);
+                await page.waitForTimeout(3500);
+                assert.equal(await page.locator('#pwaInstallBanner').isVisible(), false);
             } finally { await context.close(); }
         });
         for (const width of [1440, 390, 320]) {

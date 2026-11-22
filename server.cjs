@@ -153,10 +153,13 @@ function createServer(collect = collectSources) {
             finally { active--; }
             return;
         }
-        const files = { '/': 'index.html', '/index.html': 'index.html', '/games.json': 'games.json', '/sw.js': 'sw.js', '/manifest.json': 'manifest.json' };
+        const files = { '/': 'index.html', '/index.html': 'index.html', '/games.json': 'games.json', '/sw.js': 'sw.js', '/manifest.json': 'manifest.json',
+            '/icons/icon.svg': 'icons/icon.svg', '/icons/icon-192.png': 'icons/icon-192.png', '/icons/icon-512.png': 'icons/icon-512.png',
+            '/icons/icon-maskable-512.png': 'icons/icon-maskable-512.png', '/icons/apple-touch-icon.png': 'icons/apple-touch-icon.png' };
         const file = files[url.pathname];
         if (!file || !['GET', 'HEAD'].includes(req.method)) { res.writeHead(404).end(); return; }
-        res.setHeader('Content-Type', file.endsWith('.html') ? 'text/html; charset=utf-8' : file.endsWith('.js') ? 'application/javascript' : 'application/json');
+        const types = { '.html': 'text/html; charset=utf-8', '.js': 'application/javascript', '.png': 'image/png', '.svg': 'image/svg+xml' };
+        res.setHeader('Content-Type', file === 'manifest.json' ? 'application/manifest+json' : types[path.extname(file)] || 'application/json');
         res.end(req.method === 'HEAD' ? undefined : fs.readFileSync(path.join(__dirname, file)));
     });
 }

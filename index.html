@@ -6,14 +6,18 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <meta name="version" content="4.21.0">
+    <meta name="version" content="4.22.0">
     <title>GameMaster 遊戲攻略助手 | AI 攻略生成器</title>
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#4a7c59">
+    <meta name="theme-color" content="#1f4d3a" id="themeColorMeta">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <meta name="apple-mobile-web-app-title" content="攻略大師">
-    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect fill='%234a7c59' width='100' height='100' rx='20'/><text x='50' y='65' font-size='50' text-anchor='middle' fill='white'>🎮</text></svg>">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="遊戲攻略助手">
+    <meta name="application-name" content="遊戲攻略助手">
+    <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+    <link rel="icon" href="icons/icon-192.png" type="image/png" sizes="192x192">
+    <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" sizes="180x180">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;600;700&family=Noto+Serif+TC:wght@400;700;900&family=Playfair+Display:ital,wght@0,700;0,900;1,900&display=swap" rel="stylesheet">
@@ -1449,14 +1453,14 @@
             position: fixed;
             bottom: 1rem;
             left: 50%;
-            background: linear-gradient(135deg, var(--hyrule-green), #3a6349);
-            color: white;
+            background: var(--mag-block, #18261f);
+            color: var(--mag-on-block, #f6f1e3);
             padding: 0.8rem 1.5rem;
             border-radius: 12px;
             align-items: center;
             gap: 1rem;
             box-shadow: 0 5px 25px rgba(0, 0, 0, 0.3);
-            z-index: 300;
+            z-index: 10000; /* above the floating bookmarks toggle (9999); the banner is dismissible */
             animation: slideUp 0.5s ease-out;
         }
 
@@ -1476,8 +1480,8 @@
         }
 
         .pwa-install-btn {
-            background: white;
-            color: var(--hyrule-green);
+            background: var(--mag-on-block, #f6f1e3);
+            color: var(--mag-block, #18261f);
             border: none;
             padding: 0.5rem 1rem;
             border-radius: 8px;
@@ -1489,7 +1493,7 @@
         .pwa-close-btn {
             background: none;
             border: none;
-            color: white;
+            color: inherit;
             cursor: pointer;
             opacity: 0.7;
             font-size: 1.2rem;
@@ -3208,11 +3212,11 @@
     <div class="toast" id="toast"></div>
 
     <!-- PWA Install Banner -->
-    <div class="pwa-install-banner" id="pwaInstallBanner" style="display: none;">
-        <span>📱</span>
-        <span class="pwa-install-text">安裝攻略大師 App，離線也能查看收藏！</span>
-        <button class="pwa-install-btn" onclick="installPWA()">安裝</button>
-        <button class="pwa-close-btn" onclick="dismissPWABanner()">✕</button>
+    <div class="pwa-install-banner" id="pwaInstallBanner" style="display: none;" role="dialog" aria-label="安裝 App">
+        <span aria-hidden="true">📱</span>
+        <span class="pwa-install-text" id="pwaInstallText">安裝遊戲攻略助手 App，離線也能開啟介面與查看收藏！</span>
+        <button class="pwa-install-btn" id="pwaInstallBtn" onclick="installPWA()">安裝</button>
+        <button class="pwa-close-btn" onclick="dismissPWABanner()" aria-label="關閉">✕</button>
     </div>
 
     <script>
@@ -3726,7 +3730,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.21.0';
+        const APP_VERSION = '4.22.0';
         
         // 由 Service Worker 在新快取安裝完成後清理舊版本。
         async function clearOldCaches() {
@@ -3921,7 +3925,7 @@
             deferredPrompt.prompt();
             deferredPrompt.userChoice.then((choiceResult) => {
                 if (choiceResult.outcome === 'accepted') {
-                    showToast('✅ 感謝安裝攻略大師！');
+                    showToast('✅ 感謝安裝遊戲攻略助手！');
                 }
                 deferredPrompt = null;
                 document.getElementById('pwaInstallBanner').style.display = 'none';
@@ -3939,6 +3943,24 @@
             document.getElementById('pwaInstallBanner').style.display = 'none';
             showToast('✅ App 安裝成功！');
         });
+
+        // iPhone / iPad Safari never fires beforeinstallprompt; explain "Add to Home Screen" instead.
+        function isIOSBrowser() {
+            return /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+        }
+        function isStandaloneApp() {
+            return window.matchMedia?.('(display-mode: standalone)').matches || navigator.standalone === true;
+        }
+        function showIOSInstallHint() {
+            if (!isIOSBrowser() || isStandaloneApp()) return;
+            getSetting('pwa_dismissed', false).then(dismissed => {
+                if (dismissed) return;
+                document.getElementById('pwaInstallText').textContent = '在 Safari 點「分享」，再選「加入主畫面」，即可安裝遊戲攻略助手 App。';
+                document.getElementById('pwaInstallBtn').style.display = 'none';
+                setTimeout(() => { document.getElementById('pwaInstallBanner').style.display = 'flex'; }, 3000);
+            });
+        }
+        window.addEventListener('load', showIOSInstallHint);
         
         // Theme functions
         // Uses data-mode (not the legacy data-theme) so old dark-theme rules stay inactive.
@@ -3947,6 +3969,8 @@
             const dark = currentTheme === 'dark';
             if (dark) document.documentElement.setAttribute('data-mode', 'dark');
             else document.documentElement.removeAttribute('data-mode');
+            // Keep the installed app's title bar in step with the page palette.
+            document.getElementById('themeColorMeta')?.setAttribute('content', dark ? '#11142a' : '#1f4d3a');
             const btn = document.getElementById('themeBtn');
             btn.textContent = dark ? '☀' : '☾';
             btn.title = dark ? '切換亮色模式' : '切換深色模式';
