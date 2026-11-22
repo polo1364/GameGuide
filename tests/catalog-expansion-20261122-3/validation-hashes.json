@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-22",
+  "summary": {
+    "before": 1133,
+    "added": 53,
+    "major": 38,
+    "indie": 15,
+    "switchNative": 48,
+    "switch2Native": 15,
+    "switch2Only": 4,
+    "earlyAccess": 0,
+    "total": 1186,
+    "duplicateRowsRemoved": 0,
+    "existingPreserved": 1133,
+    "pendingPreserved": 7,
+    "historicalPreserved": 838,
+    "newPlatformPending": 0,
+    "newNameOrAliasCollisions": 0,
+    "newProductCollisions": 0
+  },
+  "syntax": "PASS",
+  "appChanges": "version only (4.18.0 -> 4.19.0, cache 30 -> 31)",
+  "repeatApplyIdenticalFiles": 6,
+  "pendingByteIdentical": true,
+  "officialPlatformLinks": 210,
+  "evidenceEntries": 239,
+  "popularityEntries": 53,
+  "hashes": {
+    "games.json": "9bfe66d07a54cca734f2bd151a007414d75330004c8b50b0164bd60ffdc10113",
+    "tests/platform-audit/audit-838.json": "c6d835bc651b82162107ffb3b8547fd9e2f62adc59b62c48b0a82e97d3f2b43e",
+    "tests/catalog-expansion-20261122-3/audit.json": "006d2f66b81b43fac4cbaacf82708b381bc6de675e314c17794f76cc321b862b",
+    "tests/catalog-expansion-20261122-3/duplicate-check.json": "afcfe007bd1577e0b96252911f024b2cd8240d4e4a59fa4b41050edb88e705d9",
+    "tests/catalog-expansion-20261122-3/README.md": "ed63e0d9e020f219c159cf9bac410758ee87b8f827d5bcfacbfad3c2caabf0d4",
+    "tests/catalog-expansion-20261122-3/pending-platforms.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+  }
+}

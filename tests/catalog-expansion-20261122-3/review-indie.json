@@ -1,0 +1,1066 @@
+[
+  {
+    "game": {
+      "name": "Shovel Knight: Treasure Trove",
+      "alias": [
+        "shovel knight treasure trove",
+        "shovel knight"
+      ],
+      "platform": "PC/Mac/Linux/PS4/Xbox One/Switch",
+      "icon": "⛏️",
+      "category": "平台動作",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 14,281 則推薦（recommendations，2026-11-22 快照），Metacritic 85；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jun 26, 2014 發售本篇／正式版；最早發售 2014-06-26。",
+      "sources": [
+        "https://store.steampowered.com/app/250760/",
+        "https://store.steampowered.com/api/appdetails?appids=250760&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=250760&l=tchinese",
+        "https://www.nintendo.com/us/store/products/shovel-knight-treasure-trove-switch/",
+        "https://www.playstation.com/en-ca/games/shovel-knight--treasure-trove/",
+        "https://www.xbox.com/en-US/games/store/p/BPFVSMS2MN7L"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS4、Xbox One、Switch。全球最早發售日取 Steam 頁的 2014-06-26（原版 Shovel Knight 首發；Treasure Trove 為後來的完整合輯名稱）。Xbox 商店雖列 Xbox Series X|S 可玩，但無 Optimized 標示，視為向下相容，不列 Xbox Series X|S。PS4 版在 PS5 上為向下相容，不列 PS5。Switch 版僅相容 Switch 2，未見 Switch 2 Edition。Wii U、3DS、PS3、PS Vita 版不在允許平台標籤內，未列。無官方 iOS／Android 版（Shovel Knight Pocket Dungeon、Shovel Knight Dig 為不同作品）。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=250760&l=english",
+        "https://www.nintendo.com/us/store/products/shovel-knight-treasure-trove-switch/",
+        "https://www.playstation.com/en-ca/games/shovel-knight--treasure-trove/",
+        "https://www.xbox.com/en-US/games/store/p/BPFVSMS2MN7L"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Yacht Club Games 的鏟子騎士全內容合輯（本篇與三部擴充戰役）。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=250760&l=english",
+        "finding": "Steam 商店 API 回傳「Shovel Knight: Treasure Trove」（app 250760），平台 Windows／macOS／Linux，發售日 Jun 26, 2014，開發 Yacht Club Games。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/shovel-knight-treasure-trove-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Shovel Knight: Treasure Trove，平台 Nintendo Switch，發售日 2017-03-03，發行／開發 Yacht Club Games。"
+      },
+      {
+        "source": "https://www.playstation.com/en-ca/games/shovel-knight--treasure-trove/",
+        "finding": "PlayStation 加拿大官網遊戲頁：Shovel Knight: Treasure Trove，平台欄 PS4，發售日 21/4/2015，發行商 Yacht Club Games。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/BPFVSMS2MN7L",
+        "finding": "Xbox 美國商店頁：Shovel Knight: Treasure Trove，發行商 Yacht Club Games，發售日 2015-04-29，可玩平台 Xbox One／Xbox Series X|S／雲端，未標示 Optimized for Xbox Series X|S。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=250760&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 14281，metacritic.score 為 85（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Shovel Knight: Treasure Trove",
+        "shovel knight treasure trove",
+        "shovel knight"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Untitled Goose Game",
+      "alias": [
+        "untitled goose game"
+      ],
+      "platform": "PC/Mac/PS4/Xbox One/Switch",
+      "icon": "🪿",
+      "category": "潛行解謎",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 23,090 則推薦（recommendations，2026-11-22 快照），Metacritic 79；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 23, 2020 發售本篇／正式版；最早發售 2019-09-20。",
+      "sources": [
+        "https://store.steampowered.com/app/837470/",
+        "https://store.steampowered.com/api/appdetails?appids=837470&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=837470&l=tchinese",
+        "https://www.nintendo.com/us/store/products/untitled-goose-game-switch/",
+        "https://www.playstation.com/en-us/games/untitled-goose-game/",
+        "https://www.xbox.com/en-US/games/store/p/9MVTCTDTHH23"
+      ],
+      "platformNote": "已確認 PC、Mac、PS4、Xbox One、Switch。2019-09-20 為 PC（Epic／Mac）與 Switch 同日首發。PS4 版在 PS5 上為向下相容、Xbox One 版在 Series X|S 上為向下相容（FPS Boost），皆不列。Switch 版僅相容 Switch 2，無 Switch 2 Edition。無 iOS／Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=837470&l=english",
+        "https://www.nintendo.com/us/store/products/untitled-goose-game-switch/",
+        "https://www.playstation.com/en-us/games/untitled-goose-game/",
+        "https://www.xbox.com/en-US/games/store/p/9MVTCTDTHH23"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "House House 開發、Panic 發行的惡作劇鵝潛行解謎遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=837470&l=english",
+        "finding": "Steam 商店 API 回傳「Untitled Goose Game」（app 837470），平台 Windows／macOS，發售日 Sep 23, 2020，開發 House House。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/untitled-goose-game-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Untitled Goose Game，平台 Nintendo Switch，發售日 2019-09-20，發行 Panic、開發 House House；頁面另列 Switch 2 相容（Supported）。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/untitled-goose-game/",
+        "finding": "PlayStation 美國官網遊戲頁：Untitled Goose Game，平台 PS4（註明可在 PS5 遊玩但部分 PS4 功能可能缺少），發售日 2019-12-17，發行商 Panic。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9MVTCTDTHH23",
+        "finding": "Xbox 美國商店頁：Untitled Goose Game，發行商 Panic，發售日 2019-12-17，可玩 Xbox One／Xbox Series X|S／雲端；僅標 Xbox One X Enhanced，無 Optimized for Series X|S 或 Smart Delivery。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=837470&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 23090，metacritic.score 為 79（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Untitled Goose Game",
+        "untitled goose game"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Baba Is You",
+      "alias": [
+        "baba is you"
+      ],
+      "platform": "PC/Mac/Linux/Switch/iOS/Android",
+      "icon": "🐑",
+      "category": "益智",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 21,204 則推薦（recommendations，2026-11-22 快照），Metacritic 87；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Mar 13, 2019 發售本篇／正式版；最早發售 2019-03-13。",
+      "sources": [
+        "https://store.steampowered.com/app/736260/",
+        "https://store.steampowered.com/api/appdetails?appids=736260&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=736260&l=tchinese",
+        "https://www.nintendo.com/us/store/products/baba-is-you-switch/",
+        "https://apps.apple.com/tw/app/id1517281887",
+        "https://play.google.com/store/apps/developer?id=Hempuli"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、Switch、iOS、Android。PC 與 Switch 同日（2019-03-13）首發。手機版 2021-06 推出（App Store 1.0 記錄 2021/06/22）。未見 PlayStation／Xbox 版，未見 Switch 2 Edition。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=736260&l=english",
+        "https://www.nintendo.com/us/store/products/baba-is-you-switch/",
+        "https://apps.apple.com/tw/app/id1517281887",
+        "https://play.google.com/store/apps/developer?id=Hempuli"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Hempuli 開發的改寫規則文字方塊解謎遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=736260&l=english",
+        "finding": "Steam 商店 API 回傳「Baba Is You」（app 736260），平台 Windows／macOS／Linux，發售日 Mar 13, 2019，開發 Hempuli Oy。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/baba-is-you-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Baba Is You，平台 Nintendo Switch，發售日 2019-03-13，發行／開發 Hempuli。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1517281887",
+        "finding": "App Store 台灣區：Baba Is You，開發者 Hempuli（銷售商 Hempuli Oy），支援 iPhone／iPad，版本紀錄最早 1.0 為 2021/06/22。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/developer?id=Hempuli",
+        "finding": "Google Play 開發者頁 Hempuli：列出 Baba Is You（套件 org.hempuli.baba），付費 NT$195.75，評分 4.8。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=736260&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 21204，metacritic.score 為 87（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Baba Is You",
+        "baba is you"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "GRIS",
+      "alias": [
+        "gris"
+      ],
+      "platform": "PC/Mac/PS5/PS4/Xbox Series X|S/Xbox One/Switch/iOS",
+      "icon": "🎨",
+      "category": "平台冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 84,481 則推薦（recommendations，2026-11-22 快照），Metacritic 84；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Dec 13, 2018 發售本篇／正式版；最早發售 2018-12-13。",
+      "sources": [
+        "https://store.steampowered.com/app/683320/",
+        "https://store.steampowered.com/api/appdetails?appids=683320&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=683320&l=tchinese",
+        "https://www.nintendo.com/us/store/products/gris-switch/",
+        "https://www.playstation.com/en-us/games/gris/",
+        "https://www.xbox.com/en-US/games/store/p/9N6C6J7C3GTQ",
+        "https://apps.apple.com/tw/app/id1445379072"
+      ],
+      "platformNote": "已確認 PC、Mac、PS5、PS4、Xbox Series X|S、Xbox One、Switch、iOS。PC 與 Switch 同日（2018-12-13）首發；PS4 原版約 2019-11 推出，PS5／Xbox 版 2022-12-13。Switch 版未見 Switch 2 Edition。 Android 版未能讀到現存 Google Play 商品頁，官方網站也未列 Android，故不列。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=683320&l=english",
+        "https://www.nintendo.com/us/store/products/gris-switch/",
+        "https://www.playstation.com/en-us/games/gris/",
+        "https://www.xbox.com/en-US/games/store/p/9N6C6J7C3GTQ",
+        "https://apps.apple.com/tw/app/id1445379072"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Nomada Studio 開發、Devolver Digital 發行的水彩風平台冒險遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=683320&l=english",
+        "finding": "Steam 商店 API 回傳「GRIS」（app 683320），平台 Windows／macOS，發售日 Dec 13, 2018，開發 Nomada Studio。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/gris-switch/",
+        "finding": "任天堂美國 eShop 商品頁：GRIS，平台 Nintendo Switch，發售日 2018-12-13，發行 Devolver Digital、開發 Nomada Studio。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/gris/",
+        "finding": "PlayStation 美國官網：版本清單含「GRIS（PS4 only）」與「GRIS | PS4 & PS5」，平台欄 PS4, PS5，發行商 Devolver Digital。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/gris/",
+        "finding": "同頁有「PS5 Version」功能區（DualSense 震動／觸發），並寫明此商品可下載 PS4 數位版與 PS5 數位版；發售日欄 12/13/2022。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9N6C6J7C3GTQ",
+        "finding": "Xbox 美國商店頁：GRIS，發行商 Devolver Digital，發售日 2022-12-13，可玩 Xbox One／Xbox Series X|S／雲端。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9N6C6J7C3GTQ",
+        "finding": "同頁標示「Optimized for Xbox Series X|S」與 Smart Delivery，屬 Series 原生版。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1445379072",
+        "finding": "App Store 台灣區：GRIS，開發者 Devolver（銷售商 Devolver Digital, Inc.，© 2018 Nomada Studio），支援 iPhone／iPad，版本紀錄最早 1.0 為 2019/08/09。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=683320&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 84481，metacritic.score 為 84（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "GRIS",
+        "gris"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Night in the Woods",
+      "alias": [
+        "night in the woods"
+      ],
+      "platform": "PC/Mac/Linux/PS5/PS4/Xbox One/Switch/iOS",
+      "icon": "🐱",
+      "category": "敘事冒險",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 18,242 則推薦（recommendations，2026-11-22 快照），Metacritic 88；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Feb 21, 2017 發售本篇／正式版；最早發售 2017-02-21。",
+      "sources": [
+        "https://store.steampowered.com/app/481510/",
+        "https://store.steampowered.com/api/appdetails?appids=481510&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=481510&l=tchinese",
+        "https://www.playstation.com/en-us/games/night-in-the-woods/",
+        "https://www.xbox.com/en-US/games/store/p/C501VQFW8FQG",
+        "https://www.nintendo.com/us/store/products/night-in-the-woods-switch/",
+        "https://apps.apple.com/tw/app/id1251742577"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS5、PS4、Xbox One、Switch、iOS。2017-02-21 為 PC／PS4 同日首發（日期取 Steam 頁）。PS5 原生版 2022-12-13。Xbox One 版在 Series X|S 為向下相容，不列。Switch 版僅相容 Switch 2，無 Switch 2 Edition。iOS 版 2021-09 推出（日期未在官方頁讀到）；未見 Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=481510&l=english",
+        "https://www.playstation.com/en-us/games/night-in-the-woods/",
+        "https://www.xbox.com/en-US/games/store/p/C501VQFW8FQG",
+        "https://www.nintendo.com/us/store/products/night-in-the-woods-switch/",
+        "https://apps.apple.com/tw/app/id1251742577"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Infinite Fall 開發、Finji 發行的敘事冒險遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=481510&l=english",
+        "finding": "Steam 商店 API 回傳「Night in the Woods」（app 481510），平台 Windows／macOS／Linux，發售日 Feb 21, 2017，開發 Infinite Fall。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/night-in-the-woods/",
+        "finding": "PlayStation 美國官網：Night in the Woods，平台欄 PS4, PS5，發行商 Finji，單一 PS4/PS5 商品 US$19.99。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/night-in-the-woods/",
+        "finding": "同頁有「PS5 Version」功能區（DualSense 震動支援），發售日欄 12/13/2022（PS5 版上架日）。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/C501VQFW8FQG",
+        "finding": "Xbox 美國商店頁：Night in the Woods，發行 Finji、開發 Infinite Fall，發售日 2017-12-13，可玩 Xbox One／Series X|S／雲端，無 Optimized 標示。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/night-in-the-woods-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Night in the Woods，平台 Nintendo Switch，發售日 2018-02-01，發行 Finji、開發 Infinite Fall；另列 Switch 2 相容。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1251742577",
+        "finding": "App Store 台灣區：Night in the Woods，銷售商 Finji, LLC。頁面未顯示版本紀錄日期。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=481510&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 18242，metacritic.score 為 88（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Night in the Woods",
+        "night in the woods"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Oxenfree",
+      "alias": [
+        "oxenfree"
+      ],
+      "platform": "PC/Mac/Linux/PS4/Xbox One/Switch/iOS/Android",
+      "icon": "📻",
+      "category": "敘事冒險",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 9,509 則推薦（recommendations，2026-11-22 快照），Metacritic 80；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Jan 14, 2016 發售本篇／正式版；最早發售 2016-01-15。",
+      "sources": [
+        "https://store.steampowered.com/app/388880/",
+        "https://store.steampowered.com/api/appdetails?appids=388880&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=388880&l=tchinese",
+        "https://www.xbox.com/en-US/games/store/p/BSK1GN27RB8R",
+        "https://store.playstation.com/en-us/product/UP0962-CUSA04950_00-OXENBASEENUS0000/",
+        "https://www.nintendo.com/us/store/products/oxenfree-switch/",
+        "https://apps.apple.com/tw/app/id1613438096",
+        "https://help.netflix.com/en/node/126641"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS4、Xbox One、Switch、iOS、Android。2016-01-15 為 PC 與 Xbox One 同日首發。iOS／Android 列的是 Netflix 專屬版「OXENFREE: Netflix Edition」（需 Netflix 會員，2022-09 推出）；早期 Night School 自行發行的付費手機版未讀到現存官方頁，視為已下架不列。Xbox One 版在 Series X|S、PS4 版在 PS5 皆為向下相容，不列。Switch 版僅相容 Switch 2。續作 OXENFREE II: Lost Signals 為不同商品。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=388880&l=english",
+        "https://www.xbox.com/en-US/games/store/p/BSK1GN27RB8R",
+        "https://store.playstation.com/en-us/product/UP0962-CUSA04950_00-OXENBASEENUS0000/",
+        "https://www.nintendo.com/us/store/products/oxenfree-switch/",
+        "https://apps.apple.com/tw/app/id1613438096",
+        "https://help.netflix.com/en/node/126641"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Night School Studio 開發的超自然敘事冒險遊戲，與續作 Oxenfree II 不同。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=388880&l=english",
+        "finding": "Steam 商店 API 回傳「Oxenfree」（app 388880），平台 Windows／macOS／Linux，發售日 Jan 14, 2016，開發 Night School Studio。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/BSK1GN27RB8R",
+        "finding": "Xbox 美國商店頁：Oxenfree，發行商 Night School Studio，發售日 2016-01-15，可玩 Xbox One／Series X|S／雲端，無 Optimized 或 Smart Delivery。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/product/UP0962-CUSA04950_00-OXENBASEENUS0000/",
+        "finding": "PlayStation Store 美國商品頁：Oxenfree，平台 PS4，發售日 2016-05-31，發行商 Night School Studio LLC。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/oxenfree-switch/",
+        "finding": "任天堂美國 eShop 商品頁：OXENFREE，平台 Nintendo Switch，發售日 2017-10-06，發行 Night School；另列 Switch 2 相容。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1613438096",
+        "finding": "App Store 台灣區：《OXENFREE: Netflix Edition》，開發者 Netflix, Inc.，描述寫「Netflix 會員獨享。」，版本紀錄最早 2022/09/24。"
+      },
+      {
+        "source": "https://help.netflix.com/en/node/126641",
+        "finding": "Netflix 官方說明頁：OXENFREE 於 Android 手機／平板與 iPhone／iPad 隨 Netflix 會員提供，建議 Android 9 以上。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=388880&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 9509，metacritic.score 為 80（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Oxenfree",
+        "oxenfree"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "The Messenger",
+      "alias": [
+        "the messenger"
+      ],
+      "platform": "PC/PS5/PS4/Xbox One/Switch",
+      "icon": "🥷",
+      "category": "平台動作",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 10,822 則推薦（recommendations，2026-11-22 快照），Metacritic 83；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 30, 2018 發售本篇／正式版；最早發售 2018-08-30。",
+      "sources": [
+        "https://store.steampowered.com/app/764790/",
+        "https://store.steampowered.com/api/appdetails?appids=764790&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=764790&l=tchinese",
+        "https://www.nintendo.com/us/store/products/the-messenger-switch/",
+        "https://www.playstation.com/en-us/games/the-messenger/",
+        "https://www.xbox.com/en-US/games/store/p/9P5C81K094KW"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox One、Switch。PC 與 Switch 同日（2018-08-30）首發；PS4 原版 2019 年推出，PS5 原生版 2025-01-23。Xbox One 版在 Series X|S 為向下相容，不列。Switch 版僅相容 Switch 2，未見 Switch 2 Edition。無 iOS／Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=764790&l=english",
+        "https://www.nintendo.com/us/store/products/the-messenger-switch/",
+        "https://www.playstation.com/en-us/games/the-messenger/",
+        "https://www.xbox.com/en-US/games/store/p/9P5C81K094KW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Sabotage Studio 開發、Devolver Digital 發行的 8 位元與 16 位元切換忍者動作遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=764790&l=english",
+        "finding": "Steam 商店 API 回傳「The Messenger」（app 764790），平台 Windows，發售日 Aug 30, 2018，開發 Sabotage。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/the-messenger-switch/",
+        "finding": "任天堂美國 eShop 商品頁：The Messenger，平台 Nintendo Switch，發售日 2018-08-30，發行 Devolver Digital、開發 Sabotage Studio；另列 Switch 2 相容。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/the-messenger/",
+        "finding": "PlayStation 美國官網：The Messenger，平台欄 PS4, PS5，有 PS4 版與 PS4PS5 商品，發行商 Devolver Digital。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/the-messenger/",
+        "finding": "同頁寫明 PS4 版擁有者可免費取得 PS5 數位版（PS5 digital version at no extra cost），發售日欄 1/23/2025。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9P5C81K094KW",
+        "finding": "Xbox 美國商店頁：The Messenger，發行商 Devolver Digital，發售日 2020-06-25，可玩 Xbox One／Series X|S／雲端，無 Optimized 或 Smart Delivery。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=764790&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 10822，metacritic.score 為 83（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "The Messenger",
+        "the messenger"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "SteamWorld Dig 2",
+      "alias": [
+        "steamworld dig 2"
+      ],
+      "platform": "PC/Mac/Linux/PS4/Xbox One/Switch",
+      "icon": "⛏️",
+      "category": "平台動作",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 5,765 則推薦（recommendations，2026-11-22 快照），Metacritic 85；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 22, 2017 發售本篇／正式版；最早發售 2017-09-21。",
+      "sources": [
+        "https://store.steampowered.com/app/571310/",
+        "https://store.steampowered.com/api/appdetails?appids=571310&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=571310&l=tchinese",
+        "https://www.nintendo.com/us/store/products/steamworld-dig-2-switch/",
+        "https://www.playstation.com/en-us/games/steamworld-dig-2/",
+        "https://www.xbox.com/en-US/games/store/p/9P45LLRNDP1R"
+      ],
+      "platformNote": "已確認 PC、Mac、Linux、PS4、Xbox One、Switch。全球最早為北美 Switch 2017-09-21（PC 約 2017-09-22）。PS Vita 版不在允許標籤內；Stadia 已停服，皆不列。Xbox One 版在 Series X|S、PS4 版在 PS5 為向下相容，不列。Switch 版僅相容 Switch 2。無 iOS／Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=571310&l=english",
+        "https://www.nintendo.com/us/store/products/steamworld-dig-2-switch/",
+        "https://www.playstation.com/en-us/games/steamworld-dig-2/",
+        "https://www.xbox.com/en-US/games/store/p/9P45LLRNDP1R"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Image & Form 開發的蒸汽機器人挖掘探索遊戲第二作。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=571310&l=english",
+        "finding": "Steam 商店 API 回傳「SteamWorld Dig 2」（app 571310），平台 Windows／macOS／Linux，發售日 Sep 22, 2017，開發 Image & Form Games。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/steamworld-dig-2-switch/",
+        "finding": "任天堂美國 eShop 商品頁：SteamWorld Dig 2，平台 Nintendo Switch，發售日 2017-09-21，發行 Thunderful、開發 Image & Form International AB；另列 Switch 2 相容。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/steamworld-dig-2/",
+        "finding": "PlayStation 美國官網：平台欄 PS4，發售日 9/26/2017，發行商 Thunderful Publishing AB；僅有 PS5 系統更新提示，無 PS5 版。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9P45LLRNDP1R",
+        "finding": "Xbox 美國商店頁：SteamWorld Dig 2，發行商 Image & Form Games，發售日 2018-11-21，可玩 Xbox One／Series X|S／PC／掌機，無 Optimized for Series X|S 標示。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=571310&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 5765，metacritic.score 為 85（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "SteamWorld Dig 2",
+        "steamworld dig 2"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "SteamWorld Heist II",
+      "alias": [
+        "steamworld heist ii",
+        "steamworld heist 2"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+      "icon": "🏴‍☠️",
+      "category": "戰略",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 2,266 則推薦（recommendations，2026-11-22 快照），Metacritic 81；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 8, 2024 發售本篇／正式版；最早發售 2024-08-08。",
+      "sources": [
+        "https://store.steampowered.com/app/2396240/",
+        "https://store.steampowered.com/api/appdetails?appids=2396240&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2396240&l=tchinese",
+        "https://www.nintendo.com/us/store/products/steamworld-heist-ii-switch/",
+        "https://www.playstation.com/en-us/games/steamworld-heist-2/",
+        "https://www.xbox.com/en-US/games/store/p/9PKDRFTHFWMV"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch。全平台 2024-08-08 同日發售。Switch 版僅相容 Switch 2，無 Switch 2 Edition。無 iOS／Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2396240&l=english",
+        "https://www.nintendo.com/us/store/products/steamworld-heist-ii-switch/",
+        "https://www.playstation.com/en-us/games/steamworld-heist-2/",
+        "https://www.xbox.com/en-US/games/store/p/9PKDRFTHFWMV"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Thunderful 開發的回合制戰術射擊續作（2024）。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2396240&l=english",
+        "finding": "Steam 商店 API 回傳「SteamWorld Heist II」（app 2396240），平台 Windows，發售日 Aug 8, 2024，開發 Thunderful Development。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/steamworld-heist-ii-switch/",
+        "finding": "任天堂美國 eShop 商品頁：SteamWorld Heist II，平台 Nintendo Switch，發售日 2024-08-08，發行 Thunderful、開發 Thunderful Development AB；僅 Switch 2 相容說明，無 Switch 2 Edition。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/steamworld-heist-2/",
+        "finding": "PlayStation 美國官網：平台欄 PS4, PS5，發售日 8/8/2024，發行商 Thunderful Publishing AB。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/steamworld-heist-2/",
+        "finding": "同頁 PS5 版功能說明：支援 DualSense 震動。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9PKDRFTHFWMV",
+        "finding": "Xbox 美國商店頁：SteamWorld Heist II，發行 Thunderful Publishing，發售日 2024-08-08，可玩 Xbox One／Series X|S／PC／雲端／掌機。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9PKDRFTHFWMV",
+        "finding": "同頁有「Optimized for Xbox Series X|S」與 Smart Delivery 標示。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2396240&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 2266，metacritic.score 為 81（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "SteamWorld Heist II",
+        "steamworld heist ii",
+        "steamworld heist 2"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Cozy Grove",
+      "alias": [
+        "cozy grove"
+      ],
+      "platform": "PC/PS5/PS4/Xbox One/Switch/Switch 2",
+      "icon": "🏕️",
+      "category": "生活模擬",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 7,546 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Apr 7, 2021 發售本篇／正式版；最早發售 2021-04-08。",
+      "sources": [
+        "https://store.steampowered.com/app/1458100/",
+        "https://store.steampowered.com/api/appdetails?appids=1458100&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1458100&l=tchinese",
+        "https://www.nintendo.com/us/store/products/cozy-grove-switch/",
+        "https://www.nintendo.com/us/store/products/cozy-grove-nintendo-switch-2-edition-switch-2/",
+        "https://www.playstation.com/en-us/games/cozy-grove/",
+        "https://www.xbox.com/en-US/games/store/cozy-grove/9PJCC91CZ3WN"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox One、Switch、Switch 2。Xbox 頁未查到 Optimized for Series X|S 標示，Series 視為向下相容不列。Switch 2 Edition 於 2026-03-12 推出（Switch 版可用免費升級包）。續作 Cozy Grove: Camp Spirit（Netflix 手機版 2024、主機／PC 2026-07）為不同商品，勿混用。 最早曾於 2021 年在 Apple Arcade 推出，但該版已離開 Apple Arcade、讀不到現存官方頁，故不列 iOS；發售日採主機／PC 首發。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1458100&l=english",
+        "https://www.nintendo.com/us/store/products/cozy-grove-switch/",
+        "https://www.nintendo.com/us/store/products/cozy-grove-nintendo-switch-2-edition-switch-2/",
+        "https://www.playstation.com/en-us/games/cozy-grove/",
+        "https://www.xbox.com/en-US/games/store/cozy-grove/9PJCC91CZ3WN"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Spry Fox 開發的鬼魂島嶼生活模擬遊戲，與續作 Cozy Grove: Camp Spirit 不同。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1458100&l=english",
+        "finding": "Steam 商店 API 回傳「Cozy Grove」（app 1458100），平台 Windows，發售日 Apr 7, 2021，開發 Spry Fox。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/cozy-grove-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Cozy Grove，平台 Nintendo Switch，發售日 2021-04-08，發行 The Quantum Astrophysicists Guild、開發 Spry Fox；版本切換含 Nintendo Switch 2 與 Upgrade Pack。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/cozy-grove-nintendo-switch-2-edition-switch-2/",
+        "finding": "任天堂美國 eShop 商品頁：Cozy Grove – Nintendo Switch 2 Edition，平台 Nintendo Switch 2，發售日 2026-03-12，發行 The Quantum Astrophysicists Guild。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/cozy-grove/",
+        "finding": "PlayStation 美國官網：Cozy Grove，平台欄 PS4, PS5，版本 Cozy Grove 與 Cozy Grove + New Neighbears 皆標 PS4 與 PS5，發行商 The Quantum Astrophysicists Guild。"
+      },
+      {
+        "source": "https://www.playstation.com/en-us/games/cozy-grove/",
+        "finding": "同頁有「PS5 Version」功能區（DualSense 震動）與 PS5 語言清單，發售日欄 6/22/2023（PS5 版）。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/cozy-grove/9PJCC91CZ3WN",
+        "finding": "Xbox 美國商店頁：Cozy Grove，發行 The Quantum Astrophysicists Guild、開發 Spry Fox，發售日 2021-04-08，平台 Xbox One／Xbox Series X|S。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1458100&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 7546（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Cozy Grove",
+        "cozy grove"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Garden Story",
+      "alias": [
+        "garden story"
+      ],
+      "platform": "PC/Mac/Xbox One/Switch",
+      "icon": "🍇",
+      "category": "動作冒險",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 1,415 則推薦（recommendations，2026-11-22 快照），Metacritic 70；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Aug 11, 2021 發售本篇／正式版；最早發售 2021-08-11。",
+      "sources": [
+        "https://store.steampowered.com/app/1062140/",
+        "https://store.steampowered.com/api/appdetails?appids=1062140&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1062140&l=tchinese",
+        "https://www.nintendo.com/us/store/products/garden-story-switch/",
+        "https://www.xbox.com/en-US/games/store/p/9PP09MJRH2XD"
+      ],
+      "platformNote": "已確認 PC、Mac、Xbox One、Switch。PC（Steam／Epic、Mac）與 Switch 同日（2021-08-11）首發，Xbox 版 2022-07-12。部分媒體寫 Xbox Series X|S 版，但 Xbox 商店頁無 Optimized 標示，只列 Xbox One（Series 視為向下相容）。未找到 PlayStation 官方頁，未見 iOS／Android 版。Switch 版僅相容 Switch 2。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1062140&l=english",
+        "https://www.nintendo.com/us/store/products/garden-story-switch/",
+        "https://www.xbox.com/en-US/games/store/p/9PP09MJRH2XD"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Picogram 開發、Rose City Games 發行的葡萄主角田園冒險遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1062140&l=english",
+        "finding": "Steam 商店 API 回傳「Garden Story」（app 1062140），平台 Windows／macOS，發售日 Aug 11, 2021，開發 Picogram。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/garden-story-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Garden Story，平台 Nintendo Switch，發售日 2021-08-11，發行 Rose City Games、開發 Picogram；另列 Switch 2 相容。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9PP09MJRH2XD",
+        "finding": "Xbox 美國商店頁：Garden Story，發行 Rose City Games／Kowloon Nights、開發 Picogram，發售日 2022-07-12，可玩 Xbox One／Series X|S／PC／雲端／掌機，有 Xbox Play Anywhere，但無 Optimized for Series X|S 或 Smart Delivery 標示。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1062140&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 1415，metacritic.score 為 70（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Garden Story",
+        "garden story"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Wylde Flowers",
+      "alias": [
+        "wylde flowers"
+      ],
+      "platform": "PC/PS5/Xbox Series X|S/Switch/iOS",
+      "icon": "🌼",
+      "category": "生活模擬",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 2,357 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 20, 2022 發售本篇／正式版；最早發售 2022-02-18。",
+      "sources": [
+        "https://store.steampowered.com/app/1896700/",
+        "https://store.steampowered.com/api/appdetails?appids=1896700&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1896700&l=tchinese",
+        "https://apps.apple.com/tw/app/id1458605549",
+        "https://www.nintendo.com/us/store/products/wylde-flowers-switch/",
+        "https://store.playstation.com/en-us/concept/10013675",
+        "https://www.xbox.com/en-US/games/store/p/9PGQX40C87LH"
+      ],
+      "platformNote": "已確認 PC、PS5、Xbox Series X|S、Switch、iOS。iOS 為 Apple Arcade 專屬訂閱版。首發日 2022-02-18 為 Apple Arcade 上線日（媒體報導與開發商新聞稿「年初於 Apple Arcade 首發」一致），但 App Store 頁版本紀錄 1.0 顯示 2022/01/25，官方頁未直接寫 2022-02-18，日期請視需要人工確認。Switch／Steam 2022-09-20，PS5／Xbox Series 2025-12-09。無 PS4、Xbox One、Android 版。Switch 版未見 Switch 2 Edition。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1896700&l=english",
+        "https://apps.apple.com/tw/app/id1458605549",
+        "https://www.nintendo.com/us/store/products/wylde-flowers-switch/",
+        "https://store.playstation.com/en-us/concept/10013675",
+        "https://www.xbox.com/en-US/games/store/p/9PGQX40C87LH"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Studio Drydock 開發的女巫農場生活模擬遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1896700&l=english",
+        "finding": "Steam 商店 API 回傳「Wylde Flowers」（app 1896700），平台 Windows，發售日 Sep 20, 2022，開發 Studio Drydock Pty Ltd。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1458605549",
+        "finding": "App Store 台灣區：Wylde Flowers，銷售商 Studio Drydock Pty Ltd，屬 Apple Arcade（頁面寫「暢玩超過 200 款遊戲」「無廣告干擾，無 App 內購買」），版本紀錄最早 1.0 為 2022/01/25。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/wylde-flowers-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Wylde Flowers，平台 Nintendo Switch，發售日 2022-09-20，發行 Studio Drydock。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10013675",
+        "finding": "PlayStation Store 美國：Wylde Flowers，平台 PS5，發售日 2025-12-09，發行商 Studio Drydock Pty Ltd。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9PGQX40C87LH",
+        "finding": "Xbox 美國商店頁：Wylde Flowers，發行／開發 Studio Drydock，發售日 2025-12-09，可玩 PC／Xbox Series X|S／雲端／掌機，有「Optimized for Xbox Series X|S」標示，未列 Xbox One。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1896700&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 2357（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Wylde Flowers",
+        "wylde flowers"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Fae Farm",
+      "alias": [
+        "fae farm"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch",
+      "icon": "🧚",
+      "category": "生活模擬",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 2,758 則推薦（recommendations，2026-11-22 快照），Metacritic 75；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Sep 8, 2023 發售本篇／正式版；最早發售 2023-09-08。",
+      "sources": [
+        "https://store.steampowered.com/app/2230110/",
+        "https://store.steampowered.com/api/appdetails?appids=2230110&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2230110&l=tchinese",
+        "https://www.nintendo.com/us/store/products/fae-farm-switch/",
+        "https://store.playstation.com/en-us/concept/10010439",
+        "https://www.xbox.com/en-US/games/store/p/9N0QS2277QHF"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch。Switch／PC 2023-09-08 首發；PS4／PS5／Xbox 依新聞稿為 2024-10-22，但 Xbox 商店頁顯示 2024-11-19（兩者不一致，以 PS Store 2024-10-22 為主機版日期）。2025 年後由 Gambit Digital 營運，線上功能已於 2025-09 停止，單人仍可玩。無 Switch 2 Edition、無 iOS／Android 版。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2230110&l=english",
+        "https://www.nintendo.com/us/store/products/fae-farm-switch/",
+        "https://store.playstation.com/en-us/concept/10010439",
+        "https://www.xbox.com/en-US/games/store/p/9N0QS2277QHF"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Phoenix Labs 開發的奇幻農場生活模擬遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2230110&l=english",
+        "finding": "Steam 商店 API 回傳「Fae Farm」（app 2230110），平台 Windows，發售日 Sep 8, 2023，開發 Phoenix Labs。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/fae-farm-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Fae Farm，平台 Nintendo Switch，發售日 2023-09-08，發行 Gambit Digital、開發 Phoenix Labs；只有 Switch 數位版，Switch 2 僅為相容（Supported）。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10010439",
+        "finding": "PlayStation Store 美國：Fae Farm，平台 PS4 與 PS5，發售日 2024-10-22，發行商 Purple Is Royal Agency Inc.。"
+      },
+      {
+        "source": "https://store.playstation.com/en-us/concept/10010439",
+        "finding": "同頁平台列 PS5（與 PS4 並列），發售日 2024-10-22。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9N0QS2277QHF",
+        "finding": "Xbox 美國商店頁：Fae Farm，發行／開發 Phoenix Labs，發售日 2024-11-19，可玩 Xbox One／Series X|S／PC／雲端／掌機。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9N0QS2277QHF",
+        "finding": "同頁標示 Optimized for Xbox Series X|S 與 Smart Delivery。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2230110&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 2758，metacritic.score 為 75（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Fae Farm",
+        "fae farm"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Ooblets",
+      "alias": [
+        "ooblets"
+      ],
+      "platform": "PC/Xbox One/Switch",
+      "icon": "🌱",
+      "category": "生活模擬",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "Steam 商店 API 顯示累積 1,396 則推薦（recommendations，2026-11-22 快照），Metacritic 62；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 5, 2023 發售本篇／正式版；最早發售 2022-09-01。",
+      "sources": [
+        "https://store.steampowered.com/app/593150/",
+        "https://store.steampowered.com/api/appdetails?appids=593150&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=593150&l=tchinese",
+        "https://www.nintendo.com/us/store/products/ooblets-switch/",
+        "https://www.xbox.com/en-US/games/store/p/9NB4GBLPTD0S"
+      ],
+      "platformNote": "已確認 PC、Xbox One、Switch。搶先體驗版早於 2020-07 在 Epic 與 Xbox Game Preview 推出。Steam 版 2023-10 才上架。部分媒體寫有 Xbox Series X|S 版，但商店頁無 Optimized 標示，只列 Xbox One。未找到 PlayStation 官方頁，無 iOS／Android 版，Switch 版未見 Switch 2 Edition。 發售日採 1.0 正式版（2022-09-01，PC／Switch／Xbox 同日）。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=593150&l=english",
+        "https://www.nintendo.com/us/store/products/ooblets-switch/",
+        "https://www.xbox.com/en-US/games/store/p/9NB4GBLPTD0S"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Glumberland 開發的小生物收集與舞蹈對戰生活模擬遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=593150&l=english",
+        "finding": "Steam 商店 API 回傳「Ooblets」（app 593150），平台 Windows，發售日 Oct 5, 2023，開發 Glumberland。"
+      },
+      {
+        "source": "https://www.nintendo.com/us/store/products/ooblets-switch/",
+        "finding": "任天堂美國 eShop 商品頁：Ooblets，平台 Nintendo Switch，發售日 2022-09-01，發行 Glumberland、開發 Glumberland LLC。"
+      },
+      {
+        "source": "https://www.xbox.com/en-US/games/store/p/9NB4GBLPTD0S",
+        "finding": "Xbox 美國商店頁：Ooblets，發行／開發 Glumberland LLC，發售日 2022-09-01，可玩 Xbox One／Xbox Series X|S，無 Optimized for Series X|S 或 Smart Delivery 標示。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=593150&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 1396，metacritic.score 為 62（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Ooblets",
+        "ooblets"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "FAST FUSION",
+      "alias": [
+        "fast fusion"
+      ],
+      "platform": "Switch 2",
+      "icon": "🏎️",
+      "category": "競速",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "indie",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2025-06-05 發售（官方來源）。",
+      "sources": [
+        "https://www.nintendo.com/us/store/products/fast-fusion-switch-2/"
+      ],
+      "platformNote": "已確認 Switch 2。Switch 2 獨佔下載版。與前作 FAST RMX（Switch）為不同商品。",
+      "platformSources": [
+        "https://www.nintendo.com/us/store/products/fast-fusion-switch-2/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Shin'en Multimedia 開發的未來風高速競速遊戲（Switch 2 專用），FAST 系列新作。"
+    },
+    "evidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/fast-fusion-switch-2/",
+        "finding": "任天堂美國商店頁：Fast Fusion，平台 Nintendo Switch 2，發售日 2025-06-05，發行商 Shin'en Multimedia，開發商 Shin'en。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.nintendo.com/us/store/products/fast-fusion-switch-2/",
+        "finding": "官方來源確認「FAST FUSION」已於 2025-06-05 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "FAST FUSION",
+        "fast fusion"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1133 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  }
+]
