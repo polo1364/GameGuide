@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Thronefall",
+    "platform": "PC/Mac/PS5/Xbox Series X|S/Switch/iOS/Android",
+    "remainingReason": "Android 商店頁未能完整讀取",
+    "remainingDetails": "Google Play 頁面只讀到標題，未見供應商與上架日期；iOS 版已由 App Store 台灣區確認。",
+    "sources": [
+      "https://store.steampowered.com/api/appdetails?appids=2239150&l=english",
+      "https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/Thronefall-2669627.html",
+      "https://store.playstation.com/concept/10018202",
+      "https://www.xbox.com/en-US/games/store/thronefall/9nwwl1cbwfcg",
+      "https://apps.apple.com/tw/app/id6744029320",
+      "https://play.google.com/store/apps/details?id=com.doghowlgames.thronefall"
+    ]
+  }
+]

@@ -6,7 +6,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    <meta name="version" content="4.20.0">
+    <meta name="version" content="4.21.0">
     <title>GameMaster 遊戲攻略助手 | AI 攻略生成器</title>
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#4a7c59">
@@ -3516,6 +3516,7 @@
             'ios': 'iOS (iPhone/iPad)',
             'android': 'Android',
             'steam-deck': 'Steam Deck',
+            'web': '網頁（瀏覽器）',
             'retro': '經典主機'
         };
 
@@ -3725,7 +3726,7 @@
         };
 
         // App Version
-        const APP_VERSION = '4.20.0';
+        const APP_VERSION = '4.21.0';
         
         // 由 Service Worker 在新快取安裝完成後清理舊版本。
         async function clearOldCaches() {
@@ -4686,6 +4687,10 @@
             } else if (platforms.includes('mobile')) {
                 targetPlatform = 'mobile';
                 displayName = '📱 Mobile (iOS/Android)';
+            } else if (platforms.split('/').some(platform => platform.trim() === 'web')) {
+                // Browser games; listed after native platforms so "Web/PC" still detects PC.
+                targetPlatform = 'web';
+                displayName = '🌐 網頁（瀏覽器）';
             } else if (platforms.includes('new nintendo 3ds') || platforms.includes('new 3ds')) {
                 targetPlatform = '3ds';
                 displayName = '📱 New Nintendo 3DS';

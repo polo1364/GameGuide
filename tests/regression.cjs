@@ -395,7 +395,7 @@ async function main() {
             }
         });
         await check('catalog expansion rejects drift and duplicate candidates before writing', async () => {
-            const dir = path.join(root, 'tests/catalog-expansion-20261122-4');
+            const dir = path.join(root, 'tests/catalog-expansion-20261122-5');
             const script = fs.readFileSync(path.join(dir, 'apply-expansion.cjs'), 'utf8');
             for (const [file, pattern, mutate] of [
                 [path.join(root, 'games.json'), /Catalog drift/, value => { value.games[0].icon = 'DRIFT_SENTINEL'; }],
@@ -406,8 +406,9 @@ async function main() {
                 [path.join(root, 'tests/catalog-expansion-20261122/pending-platforms.json'), /Previous pending drift/, value => { value[0].remainingDetails = 'DRIFT_SENTINEL'; }],
                 [path.join(root, 'tests/catalog-expansion-20261122-2/pending-platforms.json'), /Previous pending drift/, value => { value.push({ name: 'DRIFT_SENTINEL' }); }],
                 [path.join(root, 'tests/catalog-expansion-20261122-3/pending-platforms.json'), /Previous pending drift/, value => { value.push({ name: 'DRIFT_SENTINEL' }); }],
-                [path.join(dir, 'review-major.json'), /Name\/alias collision/, value => { value[0].game.name = '薩爾達傳說 王國之淚'; }],
-                [path.join(dir, 'review-indie.json'), /Product collision/, value => { value[0].game.platformSources.push('https://store.steampowered.com/app/730/'); }]
+                [path.join(root, 'tests/catalog-expansion-20261122-4/pending-platforms.json'), /Previous pending drift/, value => { value.push({ name: 'DRIFT_SENTINEL' }); }],
+                [path.join(dir, 'review-fan.json'), /Name\/alias collision/, value => { value[0].game.name = '薩爾達傳說 王國之淚'; }],
+                [path.join(dir, 'review-fan.json'), /Product collision/, value => { value[0].game.platformSources.push('https://store.steampowered.com/app/730/'); }]
             ]) {
                 const mockedFs = { ...fs,
                     readFileSync(input, ...args) {
@@ -557,7 +558,8 @@ async function main() {
             { title: 'expansion 3', dir: 'tests/catalog-expansion-20261122/', catalog: 'tests/platform-audit/status-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-2/audit-838-before.json', pendingGames: true },
             { title: 'expansion 4', dir: 'tests/catalog-expansion-20261122-2/', catalog: 'tests/catalog-expansion-20261122-3/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-3/audit-838-before.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json'] },
             { title: 'expansion 5', dir: 'tests/catalog-expansion-20261122-3/', catalog: 'tests/platform-audit/evidence-20261122/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-4/audit-838-before.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json', 'tests/catalog-expansion-20261122-2/pending-platforms.json', 'expansion-4-pending-before.json'] },
-            { title: 'current expansion 6', dir: 'tests/catalog-expansion-20261122-4/', catalog: 'games.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json', 'tests/catalog-expansion-20261122-2/pending-platforms.json', 'expansion-4-pending-before.json', 'tests/catalog-expansion-20261122-3/pending-platforms.json', 'expansion-5-pending-before.json'] }
+            { title: 'expansion 6', dir: 'tests/catalog-expansion-20261122-4/', catalog: 'tests/catalog-expansion-20261122-5/catalog-before.json', legacy: 'tests/catalog-expansion-20261122-5/audit-838-before.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json', 'tests/catalog-expansion-20261122-2/pending-platforms.json', 'expansion-4-pending-before.json', 'tests/catalog-expansion-20261122-3/pending-platforms.json', 'expansion-5-pending-before.json'] },
+            { title: 'current expansion 7', dir: 'tests/catalog-expansion-20261122-5/', catalog: 'games.json', legacy: 'tests/platform-audit/audit-838.json', pendingGames: true, previousPending: ['tests/catalog-expansion-20261019-2/pending-platforms.json', 'expansion-2-pending-before.json', 'tests/catalog-expansion-20261122/pending-platforms.json', 'expansion-3-pending-before.json', 'tests/catalog-expansion-20261122-2/pending-platforms.json', 'expansion-4-pending-before.json', 'tests/catalog-expansion-20261122-3/pending-platforms.json', 'expansion-5-pending-before.json', 'tests/catalog-expansion-20261122-4/pending-platforms.json', 'expansion-6-pending-before.json'] }
         ]) await check(`${round.title} has evidence and preserves unrelated and pending records`, async () => {
             const read = file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8'));
             const dir = round.dir;
@@ -707,7 +709,7 @@ async function main() {
             const { context, page } = await open();
             try {
                 await ready(page);
-                const audits = ['tests/catalog-expansion-20261019/audit.json', 'tests/catalog-expansion-20261019-2/audit.json', 'tests/catalog-expansion-20261122/audit.json', 'tests/catalog-expansion-20261122-2/audit.json', 'tests/catalog-expansion-20261122-3/audit.json', 'tests/catalog-expansion-20261122-4/audit.json'].map(file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8')));
+                const audits = ['tests/catalog-expansion-20261019/audit.json', 'tests/catalog-expansion-20261019-2/audit.json', 'tests/catalog-expansion-20261122/audit.json', 'tests/catalog-expansion-20261122-2/audit.json', 'tests/catalog-expansion-20261122-3/audit.json', 'tests/catalog-expansion-20261122-4/audit.json', 'tests/catalog-expansion-20261122-5/audit.json'].map(file => JSON.parse(fs.readFileSync(path.join(root, file), 'utf8')));
                 const audit = { records: audits.flatMap(item => item.records), merges: audits.flatMap(item => item.merges) };
                 for (const row of audit.records) {
                     for (const query of [row.game.name, ...row.game.alias]) {
@@ -728,6 +730,14 @@ async function main() {
                 await page.locator('.autocomplete-item').first().click();
                 assert.equal(await page.locator('#gameName').inputValue(), mobile.name);
                 assert.equal(await page.evaluate(() => detectedPlatformRaw), mobile.platform);
+                // Browser-only fan games detect as Web; a native PC build still wins for Web/PC.
+                const fan = audits.at(-1).records.map(row => row.game);
+                for (const game of fan) {
+                    assert.match(game.identityNote, /非官方/);
+                    const detected = await page.evaluate(platform => { autoDetectPlatform(platform); return detectedPlatform; }, game.platform);
+                    assert.equal(detected, game.platform === 'Web' ? 'web' : 'pc', game.name);
+                }
+                assert.equal(await page.evaluate(() => platformNames.web), '網頁（瀏覽器）');
             } finally { await context.close(); }
         });
         await check('pending evidence and identity limits reach the guide context', async () => {
