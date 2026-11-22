@@ -1,0 +1,842 @@
+[
+  {
+    "game": {
+      "name": "Cytus II",
+      "alias": [
+        "cytus ii",
+        "cytus 2"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🎵",
+      "category": "音樂節奏",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2018-01-18 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1290687550",
+        "https://play.google.com/store/apps/details?id=com.rayark.cytus2&gl=TW",
+        "https://www.rayark.com/zh/games/"
+      ],
+      "platformNote": "已確認 iOS、Android。iOS 版 2018 年 1 月推出，Android 版 2018 年 3 月推出。Nintendo Switch 與 Switch 2 版已於 2026 年 5 月宣布、預定 2027 年發售（Flyhigh Works 發行），查核時尚未推出故不列入。Switch 上的「Cytus α」是前作的另一款商品。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1290687550",
+        "https://play.google.com/store/apps/details?id=com.rayark.cytus2&gl=TW",
+        "https://www.rayark.com/zh/games/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "台灣雷亞遊戲（Rayark）開發的音樂節奏遊戲（2018）；Switch 版尚未推出。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1290687550",
+        "finding": "App Store 台灣區上架「Cytus II」，賣家 Rayark International Limited，付費 App 並含 App 內購買。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.rayark.cytus2&gl=TW",
+        "finding": "Google Play 台灣區頁面標題為「Cytus II」。"
+      },
+      {
+        "source": "https://www.rayark.com/zh/games/",
+        "finding": "雷亞官網遊戲列表：Cytus II 平台 iOS、Android，音樂節奏遊戲，付費＋內購，首次推出 2018 年 1 月。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.rayark.com/zh/games/",
+        "finding": "官方來源確認「Cytus II」已於 2018-01-18 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Cytus II",
+        "cytus ii",
+        "cytus 2"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "DEEMO II",
+      "alias": [
+        "deemo ii",
+        "deemo 2"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🎹",
+      "category": "音樂節奏",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2022-01-13 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1531981487",
+        "https://play.google.com/store/apps/details?id=com.rayark.deemo2&gl=TW",
+        "https://www.rayark.com/zh/games/"
+      ],
+      "platformNote": "已確認 iOS、Android。僅有 iOS 與 Android 版，2022 年 1 月 13 日推出。無 Steam／PC 版與 Switch 版；Steam、Switch、PS4 上的「DEEMO -Reborn-」是前作重製版，屬不同商品。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1531981487",
+        "https://play.google.com/store/apps/details?id=com.rayark.deemo2&gl=TW",
+        "https://www.rayark.com/zh/games/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "台灣雷亞遊戲（Rayark）開發的 DEEMO 續作（2022），與前作 DEEMO -Reborn- 不同。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1531981487",
+        "finding": "App Store 台灣區上架「DEEMO II」，賣家 Rayark International Limited，免費、App 內購買，支援 iPhone、iPad（iOS／iPadOS 15.2 以上），未列 Mac。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.rayark.deemo2&gl=TW",
+        "finding": "Google Play 台灣區頁面標題為「DEEMO II」。"
+      },
+      {
+        "source": "https://www.rayark.com/zh/games/",
+        "finding": "雷亞官網遊戲列表：DEEMO II 平台 iOS、Android，節奏＋冒險，免費＋內購，首次推出 2022 年 1 月。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://www.rayark.com/zh/games/",
+        "finding": "官方來源確認「DEEMO II」已於 2022-01-13 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "DEEMO II",
+        "deemo ii",
+        "deemo 2"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Monster Hunter Now",
+      "alias": [
+        "monster hunter now",
+        "mh now"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🐉",
+      "category": "定位AR",
+      "catalogPriority": 3,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2023-09-14 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/monster-hunter-now/id6445906110",
+        "https://play.google.com/store/apps/details?id=com.nianticlabs.monsterhunter&gl=TW&hl=zh_TW",
+        "https://monsterhunternow.com/news/release-date"
+      ],
+      "platformNote": "已確認 iOS、Android。由 Niantic 與 CAPCOM 合作開發的定位類手機遊戲，官方公告 2023 年 9 月 14 日全球推出；Niantic 遊戲部門後由 Scopely 收購，商店供應商現為 Scopely Explore, Inc.。無 PC 或主機版本。Garena 代理的《魔物獵人：旅人》為不同遊戲。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/monster-hunter-now/id6445906110",
+        "https://play.google.com/store/apps/details?id=com.nianticlabs.monsterhunter&gl=TW&hl=zh_TW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Niantic 與 CAPCOM 合作的魔物獵人定位手機遊戲（2023），與主機系列作不同。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/monster-hunter-now/id6445906110",
+        "finding": "台灣區 App Store 上架「Monster Hunter Now」，供應商 Scopely Explore, Inc.，免費（含 App 內購買），標示僅適用於 iPhone、需 iOS 14.0 以上，最新版本 132.0。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.nianticlabs.monsterhunter&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「Monster Hunter Now」，開發者 Scopely Explore, Inc.，分類為遊戲。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://monsterhunternow.com/news/release-date",
+        "finding": "官方來源確認「Monster Hunter Now」已於 2023-09-14 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Monster Hunter Now",
+        "monster hunter now",
+        "mh now"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Mobile Legends: Bang Bang",
+      "alias": [
+        "mobile legends bang bang",
+        "mobile legends",
+        "mlbb"
+      ],
+      "platform": "iOS/Android",
+      "icon": "⚔️",
+      "category": "MOBA",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "官方來源未公布正式上市日期；查核日商店頁仍上架營運。",
+      "sources": [
+        "https://apps.apple.com/tw/app/mobile-legends-bang-bang/id1160056295",
+        "https://play.google.com/store/apps/details?id=com.mobile.legends&gl=TW&hl=zh_TW"
+      ],
+      "platformNote": "已確認 iOS、Android。台灣下載的是 MOONTON 國際版。美國另有 Skystone Games 發行的「Mobile Legends: Bang Bang.US」、越南另有「Mobile Legends: Bang Bang FT」，皆為區域獨立商品，不在此列。無 PC 或主機原生版本。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/mobile-legends-bang-bang/id1160056295",
+        "https://play.google.com/store/apps/details?id=com.mobile.legends&gl=TW&hl=zh_TW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Moonton 開發的手機 MOBA。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/mobile-legends-bang-bang/id1160056295",
+        "finding": "台灣區 App Store 上架「Mobile Legends: Bang Bang」，開發者 MOONTON，供應商 YOUNGJOY TECHNOLOGY LIMITED，台灣區上架資料日期 2016-11-09。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.mobile.legends&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「Mobile Legends: Bang Bang」，開發者 MOONTON。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/mobile-legends-bang-bang/id1160056295",
+        "finding": "官方商店頁確認「Mobile Legends: Bang Bang」目前上架營運，作為收錄依據；官方未公布上市日期，也未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Mobile Legends: Bang Bang",
+        "mobile legends bang bang",
+        "mobile legends",
+        "mlbb"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Sky 光·遇",
+      "alias": [
+        "sky children of the light",
+        "sky光遇"
+      ],
+      "platform": "PC/PS4/Switch/iOS/Android",
+      "icon": "🕯️",
+      "category": "社交冒險",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "Steam API 未提供推薦數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "Steam Apr 10, 2024 開始搶先體驗；最早發售 2019-07-18。",
+      "sources": [
+        "https://store.steampowered.com/app/2325290/",
+        "https://store.steampowered.com/api/appdetails?appids=2325290&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2325290&l=tchinese",
+        "https://apps.apple.com/tw/app/id1462117269",
+        "https://play.google.com/store/apps/details?id=com.tgc.sky.android&gl=TW&hl=zh_TW",
+        "https://ec.nintendo.com/apps/0100c52011460000/HK?lang=zh",
+        "https://store.playstation.com/zh-hant-tw/concept/10004206",
+        "https://thatgamecompany.com/sky-children-light-now/"
+      ],
+      "platformNote": "已確認 PC、PS4、Switch、iOS、Android。2019 年 7 月 18 日先於 iOS 全球推出，Android 版 2020 年 4 月推出，其後推出 Nintendo Switch、PS4 與 PC（Steam）版。PlayStation 版為 PS4 版本，在 PS5 上以向下相容遊玩，故不列 PS5；Switch 版可在 Switch 2 上相容遊玩，非 Switch 2 原生版本。中國大陸由網易代理的版本為另一區域版本，不在此列。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=2325290&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=2325290&l=tchinese",
+        "https://apps.apple.com/tw/app/id1462117269",
+        "https://play.google.com/store/apps/details?id=com.tgc.sky.android&gl=TW&hl=zh_TW",
+        "https://ec.nintendo.com/apps/0100c52011460000/HK?lang=zh",
+        "https://store.playstation.com/zh-hant-tw/concept/10004206"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "thatgamecompany 開發的社交冒險遊戲（2019），PC 版在 Steam 為搶先體驗。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2325290&l=english",
+        "finding": "Steam 商店 API 回傳「Sky: Children of the Light」（app 2325290），平台 Windows，發售日 Apr 10, 2024，類型含搶先體驗，開發 thatgamecompany。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=2325290&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「Sky 光·遇」。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1462117269",
+        "finding": "台灣區 App Store 上架「Sky光·遇」，開發者／供應商 thatgamecompany，支援 iPhone 與 iPad。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.tgc.sky.android&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「Sky光·遇」，開發者 thatgamecompany inc。"
+      },
+      {
+        "source": "https://ec.nintendo.com/apps/0100c52011460000/HK?lang=zh",
+        "finding": "任天堂香港 eShop 頁面「Sky光·遇」，平台 Nintendo Switch，廠商 thatgamecompany；頁面另標示可在 Nintendo Switch 2 上相容遊玩。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/concept/10004206",
+        "finding": "PlayStation Store 台灣頁面「Sky光·遇」，平台 PS4，發售日 2022/12/6，發行商 thatgamecompany, Inc.；註明可在 PS5 上遊玩但部分 PS4 功能可能無法使用。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://thatgamecompany.com/sky-children-light-now/",
+        "finding": "官方來源確認「Sky 光·遇」已於 2019-07-18 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Sky 光·遇",
+        "sky children of the light",
+        "sky光遇"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Dragon Ball Legends",
+      "alias": [
+        "dragon ball legends",
+        "db legends"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🐉",
+      "category": "格鬥",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2018-05-31 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1358222641",
+        "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&gl=TW&hl=zh_TW",
+        "https://itunes.apple.com/lookup?id=1358222641&country=tw"
+      ],
+      "platformNote": "已確認 iOS、Android。台灣下載的是萬代南夢宮全球版。僅有手機版本，無 PC 或主機版本。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1358222641",
+        "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&gl=TW&hl=zh_TW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "萬代南夢宮的七龍珠手機對戰遊戲（2018）。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1358222641",
+        "finding": "台灣區 App Store 上架「DRAGON BALL LEGENDS -七龍珠 激戰傳說-」，供應商 Bandai Namco Entertainment Inc.，台灣區上架日 2018-05-31。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.bandainamcoent.dblegends_ww&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「DRAGON BALL LEGENDS -七龍珠 激戰傳說-」，開發者 Bandai Namco Entertainment Inc.。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1358222641&country=tw",
+        "finding": "官方來源確認「Dragon Ball Legends」已於 2018-05-31 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Dragon Ball Legends",
+        "dragon ball legends",
+        "db legends"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "One Piece Bounty Rush",
+      "alias": [
+        "one piece bounty rush",
+        "bounty rush",
+        "opbr"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🏴‍☠️",
+      "category": "動作",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2018-03-29 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1343688545",
+        "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrww&gl=TW&hl=zh_TW",
+        "https://itunes.apple.com/lookup?id=1343688545&country=tw"
+      ],
+      "platformNote": "已確認 iOS、Android。台灣下載的是萬代南夢宮全球版。僅有手機版本，無 PC 或主機版本。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1343688545",
+        "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrww&gl=TW&hl=zh_TW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "萬代南夢宮的航海王 4 對 4 搶寶即時對戰手機遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1343688545",
+        "finding": "台灣區 App Store 上架「ONE PIECE Bounty Rush」，供應商 Bandai Namco Entertainment Inc.，台灣區上架資料日期 2018-03-29。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.bandainamcoent.opbrww&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「ONE PIECE Bounty Rush」，開發者 Bandai Namco Entertainment Inc.。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1343688545&country=tw",
+        "finding": "官方來源確認「One Piece Bounty Rush」已於 2018-03-29 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "One Piece Bounty Rush",
+        "one piece bounty rush",
+        "bounty rush",
+        "opbr"
+      ],
+      "result": "名稱與 3 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Stumble Guys",
+      "alias": [
+        "stumble guys"
+      ],
+      "platform": "PC/PS5/PS4/Xbox Series X|S/Xbox One/Switch/iOS/Android",
+      "icon": "🏃",
+      "category": "派對",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "Steam 商店 API 顯示累積 10,996 則推薦（recommendations，2026-11-22 快照）；作為收錄優先依據，非銷量或當日排行。本輪 Steam 評論 API 拒絕自動請求，未取得正評比例。",
+      "releaseNote": "Steam Oct 7, 2021 發售本篇／正式版；最早發售 null。",
+      "sources": [
+        "https://store.steampowered.com/app/1677740/",
+        "https://store.steampowered.com/api/appdetails?appids=1677740&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1677740&l=tchinese",
+        "https://apps.apple.com/tw/app/id1541153375",
+        "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&gl=TW&hl=zh_TW",
+        "https://store.playstation.com/zh-hant-tw/concept/10007588",
+        "https://www.xbox.com/zh-TW/games/store/stumble-guys/9n9l211hc9lq",
+        "https://ec.nintendo.com/AU/en/titles/70010000065444",
+        "https://www.scopely.com/en/news/stumble-guys-arrives-on-nintendo-switch"
+      ],
+      "platformNote": "已確認 PC、PS5、PS4、Xbox Series X|S、Xbox One、Switch、iOS、Android。最早於 Android 推出，之後推出 iOS 與 PC（Steam）版；主機版 Xbox 於 2024 年 1 月、PlayStation 於 2024 年、Nintendo Switch 於 2024 年 8 月 20 日推出。Switch 版可在 Switch 2 上相容遊玩，非 Switch 2 原生版本；Xbox 雲端遊戲不另列。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1677740&l=english",
+        "https://apps.apple.com/tw/app/id1541153375",
+        "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&gl=TW&hl=zh_TW",
+        "https://store.playstation.com/zh-hant-tw/concept/10007588",
+        "https://www.xbox.com/zh-TW/games/store/stumble-guys/9n9l211hc9lq",
+        "https://ec.nintendo.com/AU/en/titles/70010000065444",
+        "https://www.scopely.com/en/news/stumble-guys-arrives-on-nintendo-switch"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Scopely 發行的多人淘汰闖關派對遊戲。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1677740&l=english",
+        "finding": "Steam 商店 API 回傳「Stumble Guys」（app 1677740），平台 Windows，發售日 Oct 7, 2021，開發 Scopely。"
+      },
+      {
+        "source": "https://apps.apple.com/tw/app/id1541153375",
+        "finding": "台灣區 App Store 上架「Stumble Guys」，供應商 Scopely, Inc.，台灣區上架日 2021-02-12。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「Stumble Guys」，開發者 Scopely。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/concept/10007588",
+        "finding": "PlayStation Store 台灣頁面「Stumble Guys」，平台 PS5，版本區另列 PS4 版，發行商 Scopely, Inc.，頁面發售日 2024/4/9。"
+      },
+      {
+        "source": "https://store.playstation.com/zh-hant-tw/concept/10007588",
+        "finding": "同一 PlayStation Store 台灣頁面的版本區列出 PS4 版。"
+      },
+      {
+        "source": "https://www.xbox.com/zh-TW/games/store/stumble-guys/9n9l211hc9lq",
+        "finding": "Xbox 台灣商店頁面「Stumble Guys」，平台 Xbox Series X|S 與 Xbox One，發行商／開發商 Scopely, Inc.，發售日 2024/1/23。"
+      },
+      {
+        "source": "https://www.xbox.com/zh-TW/games/store/stumble-guys/9n9l211hc9lq",
+        "finding": "同一 Xbox 台灣商店頁面列出 Xbox One。"
+      },
+      {
+        "source": "https://ec.nintendo.com/AU/en/titles/70010000065444",
+        "finding": "任天堂澳洲 eShop 頁面「Stumble Guys」，平台 Nintendo Switch，發行商 Scopely；頁面另列 Switch 2 所需空間（相容遊玩）。"
+      },
+      {
+        "source": "https://www.scopely.com/en/news/stumble-guys-arrives-on-nintendo-switch",
+        "finding": "Scopely 官方新聞（2024-08-20）宣布 Stumble Guys 即日起登陸 Nintendo Switch。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1677740&l=english",
+        "finding": "Steam 商店 API 的 recommendations.total 為 10996（2026-11-22 讀取）。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Stumble Guys",
+        "stumble guys"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "血戰突擊",
+      "alias": [
+        "blood strike"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🔫",
+      "category": "FPS",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "Steam API 未提供推薦數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "Steam Mar 13, 2025 發售本篇／正式版；最早發售 2023-10-28。",
+      "sources": [
+        "https://store.steampowered.com/app/3199170/",
+        "https://store.steampowered.com/api/appdetails?appids=3199170&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3199170&l=tchinese",
+        "https://play.google.com/store/apps/details?id=com.netease.newspike&gl=TW&hl=zh_TW",
+        "https://apps.apple.com/us/app/id1637059453",
+        "https://itunes.apple.com/lookup?id=1637059453&country=sg"
+      ],
+      "platformNote": "已確認 PC、iOS、Android。iOS 版（Blood Strike x DJ SNAKE）在美國、新加坡等區 App Store 上架，但台灣區 App Store 未上架，故不列 iOS。2023 年 10 月 28 日於東南亞正式推出，2024 年 3 月全球推出；PC 版於 Steam 推出。查核日未見官方 PlayStation、Xbox 或 Switch 版本。「Blood Strike Max」為另一款獨立商品。 iOS 版在美國等區上架，台灣區 App Store 未上架。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=3199170&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=3199170&l=tchinese",
+        "https://play.google.com/store/apps/details?id=com.netease.newspike&gl=TW&hl=zh_TW",
+        "https://apps.apple.com/us/app/id1637059453"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "NetEase 開發的免費射擊遊戲（2023）。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3199170&l=english",
+        "finding": "Steam 商店 API 回傳「Blood Strike」（app 3199170），平台 Windows，發售日 Mar 13, 2025，開發 NetEase Games。"
+      },
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=3199170&l=tchinese",
+        "finding": "Steam 繁體中文商店名稱為「血戰突擊」。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.netease.newspike&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「Blood Strike x DJ SNAKE」，開發者 NetEase Games。"
+      },
+      {
+        "source": "https://apps.apple.com/us/app/id1637059453",
+        "finding": "App Store 美國區「Blood Strike x DJ SNAKE」，販售者 Hong Kong Netease Interactive Entertainment Limited，套件 com.netease.newspike（與 Google Play 版相同），上架日 2024-03-14（Apple lookup API，2026-11-22 讀取）。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1637059453&country=sg",
+        "finding": "官方來源確認「血戰突擊」已於 2023-10-28 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "血戰突擊",
+        "blood strike"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Farlight 84",
+      "alias": [
+        "farlight 84"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🚁",
+      "category": "大逃殺",
+      "catalogPriority": 1,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "Steam API 未提供推薦數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "Steam Sep 21, 2023 發售本篇／正式版；最早發售 2023-04-23。",
+      "sources": [
+        "https://store.steampowered.com/app/1928420/",
+        "https://store.steampowered.com/api/appdetails?appids=1928420&l=english",
+        "https://store.steampowered.com/api/appdetails?appids=1928420&l=tchinese",
+        "https://play.google.com/store/apps/details?id=com.miraclegames.farlight84&gl=TW&hl=zh_TW",
+        "https://apps.apple.com/hk/app/id1673713581",
+        "https://itunes.apple.com/lookup?id=1673713581&country=hk"
+      ],
+      "platformNote": "已確認 PC、iOS、Android。iOS 版在香港、日本、美國等區 App Store 上架（供應商 FARLIGHT PTE. LTD.），但台灣區 App Store 未上架，故不列 iOS。PC 版於 Steam 推出，2025 年 8 月全面改版重新推出。無主機版本。 iOS 版在香港等區上架，台灣區 App Store 未上架。",
+      "platformSources": [
+        "https://store.steampowered.com/api/appdetails?appids=1928420&l=english",
+        "https://play.google.com/store/apps/details?id=com.miraclegames.farlight84&gl=TW&hl=zh_TW",
+        "https://apps.apple.com/hk/app/id1673713581"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Farlight Games 開發的英雄大逃殺射擊遊戲（2023）。"
+    },
+    "evidence": [
+      {
+        "source": "https://store.steampowered.com/api/appdetails?appids=1928420&l=english",
+        "finding": "Steam 商店 API 回傳「Farlight 84」（app 1928420），平台 Windows，發售日 Sep 21, 2023，開發 Farlight Games。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.miraclegames.farlight84&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「Farlight 84」，開發者 FARLIGHT。"
+      },
+      {
+        "source": "https://apps.apple.com/hk/app/id1673713581",
+        "finding": "App Store 香港區「Farlight 84」，販售者 FARLIGHT PTE. LTD.，上架日 2023-04-23（Apple lookup API，2026-11-22 讀取）。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1673713581&country=hk",
+        "finding": "官方來源確認「Farlight 84」已於 2023-04-23 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Farlight 84",
+        "farlight 84"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "Night Crows",
+      "alias": [
+        "night crows"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🦅",
+      "category": "MMORPG",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2024-03-12 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id6459364511",
+        "https://play.google.com/store/apps/details?id=com.wemade.nightcrowsglobal&gl=TW&hl=zh_TW",
+        "https://www.nightcrows.com/en"
+      ],
+      "platformNote": "已確認 PC、iOS、Android。台灣可下載的是 Wemade 營運的全球版「NIGHT CROWS」（2024 年 3 月 12 日於全球 170 國推出，不含韓國與中國），未見另由台灣代理商發行的版本。PC 版透過官網啟動器下載。韓國版「나이트 크로우」（2023 年推出）為獨立的區域商品，不在此列；Steam 上的「NIGHT CROW」（Ge-Aivan）為無關的另一款遊戲。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id6459364511",
+        "https://play.google.com/store/apps/details?id=com.wemade.nightcrowsglobal&gl=TW&hl=zh_TW",
+        "https://www.nightcrows.com/en"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Wemade 營運的中世紀奇幻 MMORPG 全球版（2024），台灣可下載的即此版本。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id6459364511",
+        "finding": "台灣區 App Store 上架「NIGHT CROWS」，供應商 Wemade Co., Ltd.，台灣區上架日 2024-03-11（預先下載），最新版本 1.28.7。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.wemade.nightcrowsglobal&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「NIGHT CROWS」，開發者 Wemade Co., Ltd。"
+      },
+      {
+        "source": "https://www.nightcrows.com/en",
+        "finding": "NIGHT CROWS 全球版官網提供「Download PC Version」PC 用戶端下載，說明遊戲資料可跨平台共用；網站語言選項含繁體中文。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id6459364511",
+        "finding": "官方來源確認「Night Crows」已於 2024-03-12 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "Night Crows",
+        "night crows"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "雀魂麻將",
+      "alias": [
+        "mahjong soul",
+        "雀魂"
+      ],
+      "platform": "PC/iOS/Android",
+      "icon": "🀄",
+      "category": "桌遊",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2020-09-15 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1502673857",
+        "https://play.google.com/store/apps/details?id=com.soulgamechst.majsoul&gl=TW&hl=zh_TW",
+        "https://www.maj-soul.com/",
+        "https://itunes.apple.com/lookup?id=1502673857&country=tw"
+      ],
+      "platformNote": "已確認 PC、iOS、Android。台灣可下載的是 Soulcreator 營運的繁體中文版「雀魂麻將」。Yostar 發行的英文國際版「Mahjong Soul」與日文版「雀魂 -じゃんたま-」為不同營運版本，國際版未在台灣區 App Store 上架。PC 可透過 Steam 或網頁瀏覽器遊玩。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1502673857",
+        "https://play.google.com/store/apps/details?id=com.soulgamechst.majsoul&gl=TW&hl=zh_TW",
+        "https://www.maj-soul.com/"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Catfood Studio 開發的日本麻將遊戲；收錄台灣可下載的 Soulcreator 營運繁中版，與 Yostar 國際版為不同上架商品。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1502673857",
+        "finding": "台灣區 App Store 上架「雀魂麻將」，開發者 Catfood Studio，供應商 Soulcreator Network Technology Co., Limited，官網連結 maj-soul.com，台灣區上架日 2020-09-15。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.soulgamechst.majsoul&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「雀魂麻將」，開發者 SoulCreator。"
+      },
+      {
+        "source": "https://www.maj-soul.com/",
+        "finding": "雀魂麻將官網提供台灣區 App Store（id1502673857）、Google Play（com.soulgamechst.majsoul）、Steam（app 1329410）下載連結，以及網頁版入口 game.maj-soul.com 與 PC 用戶端下載。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://itunes.apple.com/lookup?id=1502673857&country=tw",
+        "finding": "官方來源確認「雀魂麻將」已於 2020-09-15 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "雀魂麻將",
+        "mahjong soul",
+        "雀魂"
+      ],
+      "result": "名稱與 2 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  },
+  {
+    "game": {
+      "name": "魔獸兵團",
+      "alias": [
+        "warcraft rumble"
+      ],
+      "platform": "iOS/Android",
+      "icon": "🪓",
+      "category": "策略",
+      "catalogPriority": 2,
+      "releaseStatus": "released",
+      "verifiedAt": "2026-11-22",
+      "catalogGroup": "mobile",
+      "popularityNote": "非 Steam 作品，無統一公開評論數；收錄依據為官方發行規模與編輯判斷（2026-11-22），非銷量、討論量或排行。",
+      "releaseNote": "2023-11-03 發售（官方來源）。",
+      "sources": [
+        "https://apps.apple.com/tw/app/id1600575058",
+        "https://play.google.com/store/apps/details?id=com.blizzard.arc&gl=TW&hl=zh_TW",
+        "https://news.blizzard.com/en-us/warcraftrumble/24009158/warcraft-rumble-goes-live-globally-november-3"
+      ],
+      "platformNote": "已確認 iOS、Android。2023 年 11 月 3 日於 iOS 與 Android 全球推出。暴雪已宣布停止開發新內容，後續更新僅限例行活動與錯誤修正，遊戲仍持續營運。PC 版自 2024 年 12 月起以 Battle.net 測試版（PC Beta）形式提供，非正式版，故不列 PC。",
+      "platformSources": [
+        "https://apps.apple.com/tw/app/id1600575058",
+        "https://play.google.com/store/apps/details?id=com.blizzard.arc&gl=TW&hl=zh_TW"
+      ],
+      "platformReviewedAt": "2026-11-22",
+      "platformReviewStatus": "verified",
+      "platformVerifiedAt": "2026-11-22",
+      "identityType": "specific-game",
+      "identityNote": "Blizzard 的魔獸世界觀即時策略手機遊戲（2023），已停止開發新內容但仍在營運。"
+    },
+    "evidence": [
+      {
+        "source": "https://apps.apple.com/tw/app/id1600575058",
+        "finding": "台灣區 App Store 上架「《魔獸兵團》」，供應商 Blizzard Entertainment, Inc.，最新版本 16.56.0（2026-09-17）。"
+      },
+      {
+        "source": "https://play.google.com/store/apps/details?id=com.blizzard.arc&gl=TW&hl=zh_TW",
+        "finding": "Google Play（台灣）頁面「《魔獸兵團》」，開發者 Blizzard Entertainment, Inc.。"
+      }
+    ],
+    "popularityEvidence": [
+      {
+        "source": "https://news.blizzard.com/en-us/warcraftrumble/24009158/warcraft-rumble-goes-live-globally-november-3",
+        "finding": "官方來源確認「魔獸兵團」已於 2023-11-03 發售，作為收錄依據；未取得可比較的人氣數字。"
+      }
+    ],
+    "duplicateCheck": {
+      "queries": [
+        "魔獸兵團",
+        "warcraft rumble"
+      ],
+      "result": "名稱與 1 個別名皆未與既有 1186 筆名稱、別名或系列泛稱重複；同作不同版本已在身分說明中區隔。"
+    }
+  }
+]
